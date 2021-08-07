@@ -1,4 +1,4 @@
-## Adverse Childhood Experiences Indicators for Electronic Health Records 
+##Indicators for indentifying Adverse Childhood Experiences (ACEs) in Electronic Health Records (EHRs)
 
 You can use the [editor on GitHub](https://github.com/shabeer-syed/ACEs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
