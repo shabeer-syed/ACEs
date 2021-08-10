@@ -229,8 +229,9 @@ Musculoskeletal disorders (GBD classification)
 
 
 ### Codes
-| code |     term      |  Cool |
+| code | term | Cool |
 |----------|:-------------:|------:|
+
 | 261 | [X]Assault | Assault NOS IV GP | Assault NOS IV GP |Assault NOS IV GP | Adverse family environment |  |  |  | read | 2
 | 10193 | CPA care planning | CPA | CPA |CPA | Adverse family environment |  |  |  | read | 3
 | 107259 | Initial CPA review | CPA | CPA |CPA | Adverse family environment |  |  |  | read | 3
