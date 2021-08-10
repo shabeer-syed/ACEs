@@ -12,6 +12,8 @@ We know NHS trusts, GPs, clinical teams as well as researchers are at the forefr
 
 We have develeoped indicators for identifying ACEs in at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 10-years post-birth. This repository lists all codes and measures retained from the final validation process and accompanied [systematic reviews](https://adc.bmj.com/content/106/1/44.info).
 
+![alt text](https://eus-www.sway-cdn.com/s/wlpDGGrCmpEupcLy/images/nTq1NnN2mKG-Xf?quality=960&allowAnimation=true "Logo intro")
+
 ## Definitions
 We made several adaptations to previously studied ACEs to allow for feasible ascertainment in electronic health records (EHRs). We defined ACE indicators (i.e. variables of grouped codes and measures) that reflected clinically meaningful vulnerability and risk groups of adversity used for targeted maternal-child care interventions in England (e.g. targeted care pathway of the Healthy Child Programme by Public Health England) and [intervention studies](https://www.who.int/teams/social-determinants-of-health/violence-prevention/global-status-report-on-violence-against-children-2020).
 
