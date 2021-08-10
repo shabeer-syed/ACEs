@@ -3,7 +3,7 @@
 
 This repository lists all codes and measures retained from our [systematic reviews](https://adc.bmj.com/content/106/1/44.info) and validation in primary and seconary care.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://upload.wikimedia.org/wikipedia/commons/3/3c/UCL_Great_Ormond_Street_Institute_of_Child_Health_logo.jpg "UCL ICH")
 
 ## Introduction
 
