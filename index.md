@@ -37,24 +37,25 @@ Multiple different rule-based algorithms must be applied to specific indicators 
 
 ### Code list data dictionary
 
-*  Code: `code as entered into respective system`
-*  Coding term: `Associated aoding description`
-*  Indicator 1: Most specific grouped indicator linking multiple codes or measures
+*  `Code`: code as entered into respective system
+*  `Coding term`: Associated aoding description
+*  `Indicator 1`: Most specific grouped indicator linking multiple codes or measures
 *  `Indicator 2`: Broader grouped indicator linking multiple codes or measures
-*  Domain: ACE domain grouping all indicators together (applicable for overall code list)
+*  `Domain`: ACE domain grouping all indicators together (applicable for overall code list)
 
-*  Severity: A subjective term representing  different conditions of a specific code 
-*  Scale: 1=codes refers to a measure or test result and needs re-coding according to algorithim
-*  Reference: 1=code is part of family violence reference standard, 2= code can be used as a broader measure of violence 
-*  Individual: 1= code applies to child only, 2=code applies to mother only, 3=code applies to mother or child (i.e. eiether)
-*  Coding system: 
+Rule-specific markers
+*  `Severity`: A subjective term representing  different conditions of a specific code 
+*  `Scale`: 1=codes refers to a measure or test result and needs re-coding according to algorithim
+*  `Reference`: 1=code is part of family violence reference standard, 2= code can be used as a broader measure of violence 
+*  `Individual`: 1= code applies to child only, 2=code applies to mother only, 3=code applies to mother or child (i.e. eiether)
+*  `Coding system`: 
     -  GP/primary care: Read, OXMIS, CPRD REFERRAL FHSASPEC
     -  HES-APC/secondary care, ONS: ICD-10, ICD-9 (applies to ONS < year 2000), HES-APC DISDEST OR ADMISORC
 
 
 ## Table example
 | Code | Coding  term  | Indicator 1 | Indicator 2 |  domain | severity | scale | reference | individual | coding system |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 912 | [D]Anorexia	Anorexia | Anorexia | Eating disorders | Maternal mental health problem | diagnostic |  |  | 2 | Read | 
 
 ## Code lists of ACEs by domain
