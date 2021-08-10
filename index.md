@@ -96,20 +96,19 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 If your require any further information about the development of the ACE indicator, please read the publication here, or feel free to contact us:
 
 * *Shabeer Syed, Researcher in Epidemiology (s.syed.16@ucl.ac.uk) 1,2 
-* Prof Ruth Gilbert, Professor of Clinical Epidemiology (r.gilbert@ucl.ac.uk) 1,3
-* Dr Leah Li,  Associate Professor in Medical Statistics and Epidemiology 1
-* Prof Gene Feder, Professor of Primary Care, Bristol Medical School, 4
-* Dr Janice Allister, Independent Medical Practice Professional/GP, 5
 * Dr Arturo Gonzalez-Izquierdo, Senior Research Associate, 1, 3
 * Dr Linda Wijlaars, Senior Research Associate, 1, 3
+* Dr Janice Allister, Independent Medical Practice Professional/GP, 5
+* Dr Leah Li,  Associate Professor in Medical Statistics and Epidemiology 1
+* Prof Gene Feder, Professor of Primary Care, Bristol Medical School, 4
+* Prof Ruth Gilbert, Professor of Clinical Epidemiology (r.gilbert@ucl.ac.uk) 1,3
 
-1. UCL Great Ormond Street Institute of Child Health, Population, Policy and Practice, Faculty of Population Health Sciences
-London WC1N 1EH
+*1. UCL Great Ormond Street Institute of Child Health, Population, Policy and Practice, Faculty of Population Health Sciences London WC1N 1EH*
 
-2. Oxford Institute of Clinical Psychology Training and Research, University of Oxford, Oxford, UK
+*2. Oxford Institute of Clinical Psychology Training and Research, University of Oxford, Oxford, UK*
 
-3. Institute of Health Informatics and Health Data Research UK, University College London
+*3. Institute of Health Informatics and Health Data Research UK, University College London*
 
-4. Bristol Medical School, Bristol Population Health Science Institute Centre for Academic Primary Care, University of Bristol
+*4. Bristol Medical School, Bristol Population Health Science Institute Centre for Academic Primary Care, University of Bristol*
 
-5. Independent General Practitioner
+*5. Independent General Practitioner*
