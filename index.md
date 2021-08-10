@@ -10,7 +10,7 @@ An estimated 1 in 4 families present to health care with recorded adverse childh
 Everyone recognises the  significant challenges of identifying and monitoring ACEs across individual services and nationally.
 We know NHS trusts, GPs, clinical teams as well as researchers are at the forefront of this challenge.
 
-We have develeoped indicators for identifying ACEs in at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 10-years post-birth. This repository lists all codes and measures retained from the final validation process and accompanied [systematic reviews](https://adc.bmj.com/content/106/1/44.info).
+We have develeoped indicators for identifying ACEs and at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 10-years post-birth. This repository lists all codes and measures retained from the final validation process and accompanied [systematic reviews](https://adc.bmj.com/content/106/1/44.info).
 
 
 ## Definitions
@@ -90,3 +90,20 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 ### [Maternal substance misuse (2112)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/MSM.txt)
 
 ### [Covariates: non-ACEs used to add information to risk prediction models (8808)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Health%20comorbidities.txt)
+
+## Contact information
+
+If your require any further information about the development of the ACE indicator, please read the publication here, or feel free to contact us:
+
+### Shabeer Syed, Researcher in Epidemiology (s.syed.16@ucl.ac.uk)
+UCL Great Ormond Street Institute of Child Health
+Population, Policy and Practice, Faculty of Population Health Sciences
+London WC1N 1EH
+Oxford Institute of Clinical Psychology Training and Research, University of Oxford, Oxford, UK
+
+### Study supervision by: 
+* Prof Ruth Gilbert (r.gilbert@ucl.ac.uk)
+* Dr Leah Li
+* Prof Gene Feder
+* Dr Janice Allister
+
