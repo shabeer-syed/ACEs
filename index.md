@@ -18,6 +18,8 @@ We defined ACE indicators as any experience within the family environment record
 
 We manually grouped indicators into broader ACE domains consistent with the original study by Kaiser Permanente and CDC.38 39  Due to the lack of recordings, we collapsed all types of child abuse and neglect into CM. We collapsed incarcerated household members and household challenges into Adverse family environments.  We created a separate indicator, "Social service involvement" (SSI), for social care related codes that did not contain descriptions of CM or mIPV. SSI was merged with CM in the final selection process owing to few recordings and high intercorrelations.
 
+Given the substantial under-recording of CM and mIPV,42 43 we also added the domain “high-risk presentations of CM” (HRP-CM). HRP-CM encompassed indicators from the National Institute for Health and Care Excellence (NICE) and Royal College of General Practitioners (RGCP) that should raise clinical suspicion for CM.44 45
+
 ACEs can be recorded in both mothers and children records and based on each specific child's time from birth. Children are therefore considered unexposed if no relevant maternal or child recording occur in the relevant period, regardless of previous exposure in children within the same family to mirror changes in stress levels as the family moves through different life stages.
 
 ```markdown
