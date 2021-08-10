@@ -36,23 +36,27 @@ Multiple different rule-based algorithms must be applied to specific indicators 
 
 
 Code lists are structred as follows:
-* Code
-* Coding  term
-* Indicator 1
-* Indicator 2
-* Indicator 3
-* Domain
+* ### Code
+code as entered into respective system
+* ### Coding  term
+Associated aoding description
+* ### Indicator 1
+Most specific grouped indicator linking multiple codes or measures
+* ### Indicator 2
+Broader grouped indicator linking multiple codes or measures
+* ### Domain
+ACE domain grouping indicators together
 
-* Severity
-* Scale
-* Reference
-* Individual
-* coding system	
+* ### Severity
+* ### Scale
+* ### Reference
+* ### Individual
+* ### Coding system	
 
+## Table example
 | Code | Coding  term  | Indicator 1 | Indicator 2 |  domain | severity | scale | reference | individual | coding system |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 912 | [D]Anorexia	Anorexia | Anorexia | Eating disorders | Maternal mental health problem | diagnostic | | | | 2 | Read |
-
+| 912 | [D]Anorexia	Anorexia | Anorexia | Eating disorders | Maternal mental health problem | diagnostic | | | 2 | Read |
 
 ## Code lists of ACEs by domain
 
