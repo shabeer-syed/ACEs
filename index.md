@@ -1,13 +1,13 @@
 
-### Indicators for indentifying Adverse Childhood Experiences (ACEs) in Electronic Health Records (EHRs)
+# Indicators for indentifying Adverse Childhood Experiences (ACEs) in Electronic Health Records (EHRs)
 
 This repository lists all codes and measures retained from our [systematic reviews](https://adc.bmj.com/content/106/1/44.info) and validation in primary and seconary care.
 
-### Introduction
+## Introduction
 
 We made several adaptations to previously studied ACEs to allow for feasible ascertainment in electronic health records (EHRs). We defined ACE indicators (i.e. variables of grouped codes and measures) that reflected clinically meaningful vulnerability and risk groups of adversity used for targeted maternal-child care interventions in England (e.g. targeted care pathway of the Healthy Child Programme by Public Health England) and [intervention studies](https://www.who.int/teams/social-determinants-of-health/violence-prevention/global-status-report-on-violence-against-children-2020).
 
-### Inclusion criteria
+## Inclusion criteria
 
 We defined ACE indicators as any experience within the family environment recorded in the child or the maternal record considered to be:
 
@@ -22,19 +22,19 @@ Given the substantial under-recording of CM and mIPV (e.g. see [1](https://www.c
 
 ACEs can be recorded in both mothers and children records and based on each specific child's time from birth. Children are therefore considered unexposed if no relevant maternal or child recording occur in the relevant period, regardless of previous exposure in children within the same family to mirror changes in stress levels as the family moves through different life stages.
 
-### Domains of ACEs
-## Child maltreatment (873)
-## Social service involvement (239)
-## Maternal intimate partner violence (292) 
-## High-risk presentation of CM (6413)
+## Domains of ACEs
+### Child maltreatment (873)
+### Social service involvement (239)
+### Maternal intimate partner violence (292) 
+### High-risk presentation of CM (6413)
 
-## Adverse family environment (1216)
-## Maternal mental health problems (3998)
-## Maternal substance misuse (2112)
+### Adverse family environment (1216)
+### Maternal mental health problems (3998)
+### Maternal substance misuse (2112)
 
-## Covariates: non-ACEs used to add information to risk prediction models
+### Covariates: non-ACEs used to add information to risk prediction models
 
-### Codes
+# Codes
 
 | Code | Coding term | Indicator 1 | Indicator 2 | Indicator 3 | ACE doamin | Severity | Scale | Reference standard | Coding system |  Individual |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
