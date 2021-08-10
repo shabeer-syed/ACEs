@@ -22,8 +22,21 @@ Given the substantial under-recording of CM and mIPV (e.g. see [1](https://www.c
 
 ACEs can be recorded in both mothers and children records and based on each specific child's time from birth. Children are therefore considered unexposed if no relevant maternal or child recording occur in the relevant period, regardless of previous exposure in children within the same family to mirror changes in stress levels as the family moves through different life stages.
 
+## ACE indicators - instructions 
+The code list for ACEs are provided below.
+Each ACE indicator represents a variable of combined codes or measures describing characteristics and health care presentations of mothers and children. Indicators are further grouped into six or seven overall ACE domains (Depending on sample size, social service involvements may need to be combined with CM, which creates 6 domains).
+
+For GP records, we define indicators by combining information recorded in Read codes, prescriptions, referral fields and validated self-report measures (continous variables needing re-coding) routinely administered by GPs or nurses (e.g. alcohol use).
+
+For hospital and death registration records, we define indicators by combining codes from the International Classification of Diseases 9th/10th edition (ICD-9/10), the Classification of Interventions and Procedures (OPCS-4) and HES-APC discharge/admission fields.
+
+Unless specified, indicators refers to information recorded in both child and maternal records.
+
+Multiple different rule-based algorithms must be applied to specific indicators (mainly HRP-CM) to prevent misclassification including age-restrictions, exclusions of accidental injuries, genetic predispositions (bone diseases), traumatic birth injuries or maternal-child transmissions during birth (see below).
+
 ## Code lists of ACEs by domain
-Right click on link to save as a ".txt" file (i.e. using save link option)
+
+Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 
 ### [Child maltreatment (873)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/cm.txt)
 ### [Social service involvement (239)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/SSI.txt)
