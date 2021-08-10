@@ -75,6 +75,8 @@ Rule-specific markers
 | 912 | [D]Anorexia	Anorexia | Anorexia | Eating disorders | Maternal mental health problem | diagnostic |  |  | 2 | Read | 
 
 ## Code lists by ACE domain
+Total number of included ACE codes: 7448 (ACEs) + 8808 (covariates)
+Total number of excluded/tested codes: 7671
 
 Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 
