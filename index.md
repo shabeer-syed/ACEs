@@ -1,5 +1,5 @@
 
-# Indicators for indentifying Adverse Childhood Experiences (ACEs) in Electronic Health Records (EHRs)
+# Indicators of Adverse Childhood Experiences (ACEs) in Electronic Health Records (EHRs)
 
 This repository lists all codes and measures retained from our [systematic reviews](https://adc.bmj.com/content/106/1/44.info) and validation in primary and seconary care.
 
