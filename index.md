@@ -229,3 +229,23 @@ Musculoskeletal disorders (GBD classification)
 
 
 ### Codes
+| code |     term      |  Cool |
+|----------|:-------------:|------:|
+| 261 | [X]Assault | Assault NOS IV GP | Assault NOS IV GP |Assault NOS IV GP | Adverse family environment |  |  |  | read | 2
+| 10193 | CPA care planning | CPA | CPA |CPA | Adverse family environment |  |  |  | read | 3
+| 107259 | Initial CPA review | CPA | CPA |CPA | Adverse family environment |  |  |  | read | 3
+| 103896 | Mental health CPA contingency plan available | CPA | CPA |CPA | Adverse family environment |  |  |  | read | 3
+| 98919 | Mental health CPA crisis plan available | CPA | CPA |CPA | Adverse family environment |  |  |  | read | 3
+| 106715 | Ongoing CPA review | CPA | CPA |CPA | Adverse family environment |  |  |  | read | 3
+| 9677 | CPA assessment | CPA | CPA |CPA | Adverse family environment |  |  |  | read | 3
+| 9390 | CPA key worker | CPA | CPA |CPA | Adverse family environment |  |  |  | read | 3
+| 107094 | Discharge CPA review | CPA | CPA |CPA | Adverse family environment |  |  |  | read | 3
+| 1650 | Stress at home | Family disruption NOS | Family disruption NOS |Family disruption NOS | Adverse family environment |  |  | 4 | read | 3
+| 1650 | Stress at home | Family disruption NOS | Family disruption NOS |Family disruption NOS | Adverse family environment |  |  |  | read | 1
+| 1602 | Family problems | Family disruption NOS | Family disruption NOS |Family disruption NOS | Adverse family environment |  |  |  | read | 3
+| 7840 | Unable to cope | Family disruption NOS | Family disruption NOS |Family disruption NOS | Adverse family environment |  |  |  | read | 2
+| 2326 | Family disruption NOS | Family disruption NOS | Family disruption NOS |Family disruption NOS | Adverse family environment |  |  | 2 | read | 3
+| 19487 | Family circumstance NOS | Family disruption NOS | Family disruption NOS |Family disruption NOS | Adverse family environment |  |  |  | read | 3
+| 4149 | Poor family relationship | Family disruption NOS | Family disruption NOS |Family disruption NOS | Adverse family environment |  |  |  | read | 3
+| 9455 | Unable to cope | Family disruption NOS | Family disruption NOS |Family disruption NOS | Adverse family environment |  |  | 2 | read | 2
+| 18560 | Disturbed childhood | Family disruption NOS | Family disruption NOS |Family disruption NOS | Adverse family environment |  |  |  | read | 1
