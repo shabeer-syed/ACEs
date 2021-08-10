@@ -95,7 +95,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 
 If your require any further information about the development of the ACE indicator, please read the publication here, or feel free to contact us:
 
-* *Shabeer Syed, Researcher in Epidemiology (s.syed.16@ucl.ac.uk) 1,2 
+* Shabeer Syed, Researcher in Epidemiology (s.syed.16@ucl.ac.uk) 1,2 
 * Dr Arturo Gonzalez-Izquierdo, Senior Research Associate, 1, 3
 * Dr Linda Wijlaars, Senior Research Associate, 1, 3
 * Dr Janice Allister, Independent Medical Practice Professional/GP, 5
