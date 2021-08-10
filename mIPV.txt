@@ -1,0 +1,297 @@
+code	term	Indicator	Indicator 2	Indicator 3	domain	severity	scale	reference standard	coding system	individual	
+50503	Assault by poisoning	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+48800	"[X]Assault by drugs, medicaments and biological substances"	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+40736	[X]Assault by unspecified chemical or noxious substance	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+58008	[X]Assault by gases and vapours	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+48069	Assault by poisoning by drugs or medicines	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+46506	[X]Assault by other specified chemicals+noxious substances	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+72511	"Assault by corrosive or caustic substance, except poisoning"	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+65289	Assault by caustic substance	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+65968	[X]Assault by corrosive substance	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+71032	[X]Assault by pesticide	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+71472	Assault by poisoning by other gases or vapours	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+95160	Assault by poisoning NOS	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+50493	Assault by corrosive substance NOS	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+61476	[X]Assault by gases and vapour occurrn at unspecified place	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence	Unspecified place			read	2	
+63862	[X]Assault unspecif chemicl/noxous subst occ unspecif place	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence	Unspecified place			read	2	
+65677	"[X]Assault by pesticides, occurrence on farm"	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+71727	[X]Assault unspecif chemical/noxous subst occ street/highway	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+97684	[X]Assault by gas+vapour occ school oth inst/pub admin area	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+99109	"[X]Assault by pesticides, occurrence at unspecified place"	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence	Unspecified place			read	2	
+100389	[X]Assault by pesticides occurrn in residential institution	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence	Residential institution			read	2	
+107626	[X]Assault by gas+vapour occurrn at industr/construct area	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+49299	[X]Assault by sharp object occurrence at trade/service area	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+48551	Suspected assault - allegation made	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+24187	Assault by unspecified means	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+25766	Assault by other specified means	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+21188	Assault by arson	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+29547	Assault by acid	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+50166	Assault by hot liquid	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+35173	"[X]Assault by steam, hot vapours and hot objects"	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+105193	[X]Assault drug medicam+biolog subs occ sch/ins/pub adm area	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+59053	Assault by homicidal burns NOS	Assault NOS (IV)	Assault NOS (IV)	Assault	Intimate partner violence				read	2	
+6227	[X]Stabbing	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+11813	Stabbed in fight	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+44600	Assault by cutting and stabbing instruments	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Residential institution			read	2	
+25072	Assault by cutting or stabbing NOS	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+25935	[X]Assault by sharp object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+23816	Homicidal stab of any part of body	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+24605	Cut in fight	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+60516	"[X]Assault by sharp object, occurrence at unspecified place"	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			read	2	
+42913	"[X]Assault by sharp object, occurrence on street / highway"	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+59376	[X]Assault by sharp object occurrn at other specified place	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Other specified places			read	2	
+71264	[X]Assault by sharp object occ at sch oth ins/pub adm area	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+60464	[X]Contact with knife sword/dagger occurrn on street/highwy	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+71426	[X]Assault by sharp object occurrn at sports/athletics area	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+103138	[X]Assault by sharp object occurrn in resident institution	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Residential institution			read	2	
+X990	Assault by sharp object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			ICD-10	2	
+X999	Assault by sharp object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			ICD-10	2	
+24224	Homicidal cut of any part of body	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+9941	Assault by other means	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+26175	[V]Victim of torture	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+17300	[V]Victim of crime and terrorism	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+20671	"[X]Assault by bodily force, occurrence on street / highway"	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+31817	[X]Personality change after torture	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+24565	[X]Struck by thrown projected or falling object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+106967	Victim of human trafficking	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+68993	"[X]Assault by blunt object, occurrence at unspecified place"	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			read	2	
+41298	[X]Personlty chang aft expos life-threat sit/victim/terrorsm	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+96649	[X]Assault oth+unsp firearm discharge occ unspecified place	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			read	2	
+73148	[X]Drowning + submersion while in bath-tub occurrn at home	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			read	2	
+60116	[X]Assault by unspecif chemical/noxious substance occ home	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home		1	read	2	
+98708	"[X]Handgun discharge, occurrence at unspecified place"	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			read	2	
+59906	[X]Drowning+submersn follow fall into bath-tub occ at home	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			read	2	
+99723	[X]Drowning+submersn while in swimming-pool occurrn at home	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			read	2	
+54260	[X]Assault by blunt object occurrn in resident institution	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Residential institution			read	2	
+112244	[X]Disch from other/unspecif firearms occ in resid instit'n	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Residential institution			read	2	
+105543	"[X]Assault by gases and vapours, occurrence at home"	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			read	2	
+109859	[X]Assault by steam hot vapours+hot objects occurrn at home	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home		1	read	2	
+Y040	Assault by bodily force	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			ICD-10	2	
+Y099	Assault by unspecified means	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			ICD-10	2	
+Y049	Assault by bodily force	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			ICD-10	2	
+Y009	Assault by blunt object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			ICD-10	2	
+Y080	Assault by other specified means	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			ICD-10	2	
+Y089	Assault by other specified means	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			ICD-10	2	
+X910	"Assault by hanging, strangulation and suffocation"	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			ICD-10	2	
+X919	"Assault by hanging, strangulation and suffocation"	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			ICD-10	2	
+X920	Assault by drowning and submersion	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			ICD-10	2	
+X929	Assault by drowning and submersion	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			ICD-10	2	
+X930	Assault by handgun discharge	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			ICD-10	2	
+X939	Assault by handgun discharge	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			ICD-10	2	
+X940	"Assault by rifle, shotgun and larger firearm discharge"	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			ICD-10	2	
+X949	"Assault by rifle, shotgun and larger firearm discharge"	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			ICD-10	2	
+X950	Assault by other and unspecified firearm discharge	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			ICD-10	2	
+X959	Assault by other and unspecified firearm discharge	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			ICD-10	2	
+X960	Assault by explosive material	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			ICD-10	2	
+X969	Assault by explosive material	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			ICD-10	2	
+X970	"Assault by smoke, fire and flames"	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			ICD-10	2	
+X979	"Assault by smoke, fire and flames"	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			ICD-10	2	
+Y000	Assault by blunt object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			ICD-10	2	
+Y010	Assault by pushing from high place	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			ICD-10	2	
+Y019	Assault by pushing from high place	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			ICD-10	2	
+Y020	Assault by pushing or placing victim before moving object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			ICD-10	2	
+Y029	Assault by pushing or placing victim before moving object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			ICD-10	2	
+Y084	Assault by other specified means	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Street and highway			ICD-10	2	
+Y088	Assault by other specified means	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Other specified places			ICD-10	2	
+Y090	Assault by unspecified means	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Home			ICD-10	2	
+Y094	Assault by unspecified means	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Street and highway			ICD-10	2	
+Y098	Assault by unspecified means	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Other specified places			ICD-10	2	
+Y871	Sequelae of assault	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				ICD-10	2	
+14693	Homicide and injury purposely inflicted by other persons	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+24254	Homicide or assault by unarmed fight or brawl	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+16091	Homicide or assault by rape	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+46016	Homicide or assault NOS	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence			1	read	2	
+31691	[X]Murder	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+16918	Murder attempt NOS	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+28420	[X]Homicide	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+38049	Murder successful NOS	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+38755	"Homicide or assault by fight, brawl or rape NOS"	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+53084	Late effects of homicide or assault	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+53458	Homicidal puncture of any part of body	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+66514	Homicide	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+56797	Assassination attempt NOS	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+91601	Assassination successful NOS	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				read	2	
+X991	Assault by sharp object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Residential institution			ICD-10	2	
+X998	Assault by sharp object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Other specified places			ICD-10	2	
+X99	Assault by sharp object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence				ICD-10	2	
+X992	Assault by sharp object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	"School, other institution and public administrative area"			ICD-10	2	
+X993	Assault by sharp object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Sports and athletics area			ICD-10	2	
+X994	Assault by sharp object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Street and highway			ICD-10	2	
+X995	Assault by sharp object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Trade and service area			ICD-10	2	
+X996	Assault by sharp object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Industrial and construction area			ICD-10	2	
+X997	Assault by sharp object	Assault NOS (IV)	Assault NOS (IV)	Parental domestic violence	Intimate partner violence	Farm			ICD-10	2	
+1368	[V]Routine circumcision	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+19925	Ritual circumcision	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+54314	[V]Routine or ritual circumcision	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+94691	Female genital mutilation	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+7434	[V]Ritual circumcision	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+4985	Ritual clitoridectomy	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+108224	History of female genital mutilation	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+108224	History of female genital mutilation	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence				read	2	
+47035	Clitoridectomy NEC	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+109768	Discussion about female genital mutilation	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+98128	Deinfibulation of vulva	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+108850	Female genital mutilation type II - WHO classification	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+109978	At risk of female genital mutilation	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+110013	H/O: female genital mutilation type 3	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+110408	Discussion about female genital mutilation with carer	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+110498	Discussion about illegality of female genital mutilation	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+111367	History of female genital mutilation	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence				read	2	
+109715	Female genital mutilation type I - WHO classification	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+110502	H/O: FGM between 1 and under 5 years of age	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+110503	H/O: FGM between 5 and under 10 years of age	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+110501	H/O: female genital mutilation under 1 year of age	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+110504	H/O: FGM between 10 and under 15 years of age	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+108868	Female genital mutilation type III - WHO classification	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+110499	Discussion about health implications of FGM	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+110500	Country in which patient underwent female genital mutilation	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+110506	H/O: female genital mutilation at 18 years of age or over	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+110507	Female genital mutilation type IV - WHO classification	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+110505	H/O: FGM between 15 and under 18 years of age	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+Z917	Personal history of female genital mutilation	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence				ICD-10	2	
+Z917	Personal history of female genital mutilation	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	ICD-10	2	
+p_P072	Deinfibulation of vulva	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	OPCS-4	2	
+p_R272	Deinfibulation of vulva to facilitate delivery	FGM (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	OPCS-4	2	
+464	Domestic problems	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	3	
+106303	Adult safeguarding concern	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	1	
+11572	History of domestic violence	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+11246	At risk violence in the home	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+12684	Victim of domestic violence	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+8170	History of abuse	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+108157	Police domestic incident report received	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+19017	Significant event reported	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	3	
+93502	History of domestic abuse	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+11965	Family member on protection register	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+103571	Subject of multi-agency risk assessment conference	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+3483	Violent spouse	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+21259	Violence between parents	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	3	
+97175	Family member subject of child protection plan	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+107316	Victim of domestic abuse	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+3321	Battered wife	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+32863	Significant event reviewed	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+30634	Alleged perpetrator of domestic violence	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+107307	Domestic abuse victim in household	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+26418	Advice about domestic violence	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+38935	Multi-professional risk assessment done	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+31601	Maltreatment syndromes	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+99861	Under multi-agency care	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+30737	Family member removed from protection register	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+51033	Significant event resolved	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+48546	Victim of emotional abuse	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+97277	Family member no longer subject of child protection plan	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+30298	Domestic abuse counselling	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+15810	Adult maltreatment syndrome NOS	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+93646	Family member on child protection register	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+22873	Battered wife - history	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+102759	Referral to safeguarding adults team	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+82472	Advice about domestic abuse	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+5575	Adult maltreatment syndrome	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+53123	Significant	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+105018	Child no longer safeguarding concern	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+111519	Multi-agency case management review	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+105329	History of being victim of domestic violence	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+107470	Routine enquiry about domestic abuse	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+110392	Notifctn received of alleged domestic violence in household	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+36393	Abuse counselling	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+110916	At risk of domestic violence	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+111048	Mother victim of domestic violence	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	3	
+37981	Verbal abuse counselling	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+98455	Subject of multi-agency public protection arrangements	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+35230	Physical abuse counselling	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+27889	"Battered woman, unspecified"	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+42454	Battered husband - history	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+23508	Battered husband	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+102895	Domestic abuse not discussed	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+48844	"[X]Assault by unspecified means, occurrence at home"	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence	Home		1	read	2	
+110925	Family member no longer on child protection register	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+37113	"[X]Neglect and abandonment, by spouse or partner"	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+28484	"[X]Other maltreatment syndromes, by spouse or partner"	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+106776	Adult no longer safeguarding concern	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	3	
+109976	Safeguarding adults protection plan completed	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+52916	"[X]Assault by blunt object, occurrence at home"	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence	Home		1	read	2	
+110073	Routine enquiry about domestic abuse not made	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+33823	"[X]Assault by other specified means, occurrence at home"	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence	Home		1	read	2	
+50149	Crime against spouse	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+60980	Multi-professional risk assessment default	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+107819	Routine enquiry about domestic abuse declined	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+102501	Referral to domestic violence advocate	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+39837	[X]Other maltreatment syndromes	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+111174	HOdomesticphysicalabuse	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+59088	[X]Hit struck kick twist bitten/scratch anoth pers occ home	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence	Home		1	read	2	
+111174	History of domestic physical abuse	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+111500	Victimofpsychologicalabuse	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+109194	DASH (Dom Abuse Stalking Harassment HBV) 2009 Risk Checklist	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+111290	At risk of psychological abuse	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+111500	Victim of psychological abuse	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+110365	Referral to multi-agency risk assessment conference	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+111446	HOdomesticemotionalabuse	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+70764	"[X]Other maltreatment syndromes, by acquaintance or friend"	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+111446	History of domestic emotional abuse	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+104936	"[X]Maltreatment, by spouse or partner"	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+60248	[X]Assault by hanging strangulatn+suffocatn occurrn at home	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence	Home		1	read	2	
+93052	[X]Hanging strangulat+suffocat undet intent occurrn at home	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence	Home		1	read	2	
+57258	"[X]Other maltreatment syndromes, by other specified persons"	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+110111	Generic Risk Indicators (Nat Risk Frwk Assess Child Yng Ppl)	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+106540	[X]Other specified drowning and submersion occurrn at home	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence	Home		2	read	2	
+Y079	By unspecified person	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	ICD-10	2	
+T743	Psychological abuse	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	ICD-10	2	
+Y060	By spouse or partner	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	ICD-10	2	
+Y070	By spouse or partner	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	ICD-10	2	
+T74	Maltreatment syndromes	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	ICD-10	2	
+T740	Neglect or abandonment	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	ICD-10	2	
+T748	Other maltreatment syndromes	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	ICD-10	2	
+T749	"Maltreatment syndrome, unspecified"	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	ICD-10	2	
+Y072	By acquaintance or friend	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	ICD-10	2	
+Y078	By other specified persons	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	ICD-10	2	
+25033	Child/parent violence	Parental domestic violence NOS	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			2	read	2	
+8605	History of physical abuse	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+12537	Victim of physical abuse	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+20956	"[X]Assault by bodily force, occurrence at home"	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence	Home			read	2	
+49570	"Manslaughter, nonaccidental, NOS"	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence				read	2	
+41570	"[X]Assault by sharp object, occurrence at home"	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence	Home			read	2	
+16226	Risk of non-accidental injury	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence				read	2	
+39640	"Battered person unspecified, syndrome"	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+43307	"Battered man, unspecified"	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence				read	2	
+59512	[X]Struck by thrown projectd/falling object occurrn at home	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence	Home			read	2	
+96493	[X]Assault by rifl shotgun+larger firearm disch occ at home	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence	Home			read	2	
+99124	"[X]Assault by handgun discharge, occurrence at home"	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence	Home			read	2	
+53386	"[X]Handgun discharge, occurrence at home"	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence	Home			read	2	
+66326	[X]Assault by oth+unspecif firearm discharge occurrn home	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence	Home			read	2	
+101537	[X]Assault by push/plac victm befor movng obj occurrn home	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence	Home			read	2	
+104695	[X]Maltreatment	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	read	2	
+109315	"[X]Other maltreatment syndromes, by unspecified person"	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence				read	2	
+110598	"[X]Maltreatment, by acquaintance or friend"	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence				read	2	
+Z045	Examination and observation following other inflicted injury	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence				ICD-10	2	
+T741	Physical abuse	Physical abuse (IV)	Parental domestic violence NOS	Parental domestic violence	Intimate partner violence			1	ICD-10	2	
+49606	[X]Sexual assault by bodil forc occ sch oth ins/pub adm area	Sexual abuse (IV)	Sexual abuse (IV)	Assault	Intimate partner violence				read	2	
+103885	[X]Sexual assault by bodily force occurrn indust/constr area	Sexual abuse (IV)	Sexual abuse (IV)	Assault	Intimate partner violence				read	2	
+98971	[X]Sexual assault by bodily force occurrn trade/servce area	Sexual abuse (IV)	Sexual abuse (IV)	Assault	Intimate partner violence				read	2	
+7387	History of sexual abuse	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+3879	Sexual abuse	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+3750	Sexual assault	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+7816	[X]Rape	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+22840	Victim of sexual abuse	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+12264	[V]Observation following alleged rape	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+36338	[X]Sexual assault by bodily force	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+35408	At risk of sexual abuse	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+24008	[V]Problem relatd/alleg sex abuse cld by person prim sup grp	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+28782	Sexual abuse counselling	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+24072	[V]Probs rel alleg sex abuse child by pers out prim sup grp	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+24895	[X]Attempted rape	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+43137	"Homicide and assault by fight, brawl and rape"	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+47066	[V]Family history of sexual abuse to sibling	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+48811	[X]Sexual assault by bodily force occurrn unspecified place	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			read	2	
+24575	"[X]Sexual assault by bodily force, occurrence at home"	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence	Home			read	2	
+61907	Exam. for alleged rape	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+53152	[V]Observation following alleged rape or seduction	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+109692	At risk of sexual exploitation	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+54319	[X]Sexual assault by bodily force occurrn oth specif place	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence	Other specified places			read	2	
+24322	[X]Sexual assault by bodily force occurrn on street/highway	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+109213	Victim of sexual harassment	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+111275	HOdomesticsexualabuse	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence			1	read	2	
+60515	Child prostitute	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+73101	[X]Sexual assault by bodily force occurrn resident instit'n	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence	Residential institution			read	2	
+111912	[X]Sexual assault by bodily force occurrn sport/athlet area	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				read	2	
+Y059	Sexual assault by bodily force	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence	Unspecified place			ICD-10	2	
+T742	Sexual abuse	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence				ICD-10	2	
+Y050	Sexual assault by bodily force	Sexual abuse (IV)	Sexual abuse (IV)	Parental domestic violence	Intimate partner violence	Home			ICD-10	2	
