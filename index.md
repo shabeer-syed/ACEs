@@ -2,12 +2,23 @@
 # Indicators of Adverse Childhood Experiences (ACEs) in Electronic Health Records (EHRs)
 
 
-![alt text](https://github.com/shabeer-syed/ACEs/raw/main/intro%20logo.png "UCL ICH")
+
 
 ## Introduction
+An estimated 1 in 4 families present to health care with recorded adverse childhood experiences (ACEs), with substantially higher risks of health outcomes, repeated
+hospital admissions and care costs.
+
+Everyone recognises the very significant challenges of identifying and monitoring of ACEs across individual services and nationally. We know GPs, clinical teams as well as
+researchers are at the forefront of this challenge.
+
+We have therefore develeoped relevant indicators for identifying ACEs in at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 10-years post-birth.
+
+## Indicators
 This repository lists all codes and measures retained from our [systematic reviews](https://adc.bmj.com/content/106/1/44.info) and validation in primary and seconary care.
 
 We made several adaptations to previously studied ACEs to allow for feasible ascertainment in electronic health records (EHRs). We defined ACE indicators (i.e. variables of grouped codes and measures) that reflected clinically meaningful vulnerability and risk groups of adversity used for targeted maternal-child care interventions in England (e.g. targeted care pathway of the Healthy Child Programme by Public Health England) and [intervention studies](https://www.who.int/teams/social-determinants-of-health/violence-prevention/global-status-report-on-violence-against-children-2020).
+
+![alt text](https://github.com/shabeer-syed/ACEs/raw/main/intro%20logo.png "UCL ICH")
 
 ## Inclusion criteria
 
