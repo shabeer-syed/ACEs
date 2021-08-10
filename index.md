@@ -230,9 +230,9 @@ Musculoskeletal disorders (GBD classification)
 domain				
 
 ### Codes
-| Code | Coding term | Indicator 1 | Indicator 2 | Indicator 3 | ACE doamin | Severity | Scale | Reference standard | Coding system |  Individual |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 
+| Code | Coding term | Indicator 1 | Indicator 2 | Indicator 3 | ACE doamin | Severity | Scale | Reference standard | Coding system |  Individual |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | 261 | [X]Assault | Assault NOS IV GP | Assault NOS IV GP |Assault NOS IV GP | Adverse family environment |  |  |  | read | 2
 | 10193 | CPA care planning | CPA | CPA |CPA | Adverse family environment |  |  |  | read | 3
 | 107259 | Initial CPA review | CPA | CPA |CPA | Adverse family environment |  |  |  | read | 3
