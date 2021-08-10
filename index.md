@@ -223,7 +223,7 @@ Musculoskeletal disorders (GBD classification)
 
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
+| 261 |  [X]Assault | Assault NOS IV GP |
 
 
 
