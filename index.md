@@ -34,6 +34,31 @@ Unless specified, indicators refers to information recorded in both child and ma
 
 Multiple different rule-based algorithms must be applied to specific indicators (mainly HRP-CM) to prevent misclassification including age-restrictions, exclusions of accidental injuries, genetic predispositions (bone diseases), traumatic birth injuries or maternal-child transmissions during birth (see below).
 
+
+Code lists are structred as follows:
+* Code
+* Coding  term
+* Indicator 1
+* Indicator 2
+* Indicator 3
+* Domain
+
+* Severity
+* Scale
+* Reference
+* Individual
+* coding system	
+
+| Code | Coding  term  | Indicator 1 | Indicator 2| Indicator 3 |  domain | severity | scale | reference | individual | coding system 
+
+| ------------- |:-------------:| -----:|
+| 912      | [D]Anorexia	Anorexia | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+								 standard	
+		Anorexia	Eating disorders	Mental health problem					2
+2135	Anorexia nervosa	Anorexia	Anorexia	Eating disorders	Mental health problem				read	2
+
 ## Code lists of ACEs by domain
 
 Right click on link to save as a ".txt" file (i.e. using option "save link as" )
