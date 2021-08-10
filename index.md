@@ -49,9 +49,9 @@ Code lists are structred as follows:
 * Individual
 * coding system	
 
-| Code | Coding  term  | Indicator 1 | Indicator 2| Indicator 3 |  domain | severity | scale | reference | individual | coding system 
+| Code | Coding  term  | Indicator 1 | Indicator 2| Indicator 3 |  domain | severity | scale | reference | individual | coding system |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-| ------------- |:-------------:| -----:|
 | 912      | [D]Anorexia	Anorexia | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
