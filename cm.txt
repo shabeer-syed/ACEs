@@ -1,0 +1,879 @@
+code	term	Indicator	Indicator 2	Indicator 3	domain	severity	scale	reference standard	coding system	individual
+261	[X]Assault	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+48551	Suspected assault - allegation made	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+6227	[X]Stabbing	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+7380	[X]Attacked	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+11813	Stabbed in fight	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+24187	Assault by unspecified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+5466	[X] Assault by fight	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+8185	[X]Hit struck kicked twistd bitten/scratchd by anoth person	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+9941	Assault by other means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+16091	Homicide or assault by rape	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment			1	read	1
+27638	[X]Assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+44600	Assault by cutting and stabbing instruments	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+27551	Assault by means NOS	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+25072	Assault by cutting or stabbing NOS	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+25935	[X]Assault by sharp object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+28127	[X]Assault by unspecified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+20530	Assault by other means NOS	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+20956	"[X]Assault by bodily force, occurrence at home"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			read	1
+23816	Homicidal stab of any part of body	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment			1	read	1
+24605	Cut in fight	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+24652	Assault by striking by blunt object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+20671	"[X]Assault by bodily force, occurrence on street / highway"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+33750	"[X]Assault by bodily force, occurrence at unspecified place"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+25766	Assault by other specified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+25267	Assault by strangulation	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+44292	[X]Assault by unspecified means occurrn at unspecif place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+21188	Assault by arson	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+27847	Assault by shotgun	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+25608	[X]Assault by blunt object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+43197	[X]Hit strck kick twst bit/scr prs sch oth inst/pub adm area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+51354	[X]Assault by handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+48286	Assault by striking by blunt or thrown object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+28916	[X]Intentionally shot with handgun	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+24644	[X]Strangled	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+60516	"[X]Assault by sharp object, occurrence at unspecified place"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+49354	[X]Assault by other specified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+34710	Deliberate shooting NOS	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+36705	"[X]Assault - gun, handgun"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+27974	[X]Assault by bodily force occurrn at other specified place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+28298	[X]Assault by bodily force occurrn sch oth ins/pub adm area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+31939	[X]Intentionally shot with shotgun	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+24565	[X]Struck by thrown projected or falling object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+41570	"[X]Assault by sharp object, occurrence at home"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			read	1
+68993	"[X]Assault by blunt object, occurrence at unspecified place"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+44610	[X]Striking against or struck by other objects	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+20444	Assault by striking by thrown object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+28336	Assault by striking by blunt or thrown object NOS	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+57006	Assault by hanging and strangulation	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+50503	Assault by poisoning	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+61580	[X]Sequelae of assault	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+60864	"[X]Assault by rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+56326	[X]Assault by bodily force occurrn in residential institut'n	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			read	1
+52440	Assault by firearms and explosives	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+42913	"[X]Assault by sharp object, occurrence on street / highway"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+48800	"[X]Assault by drugs, medicaments and biological substances"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+56218	[X]Assault by bodily force occurrence at trade/service area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+26883	"[X]Assault - gun, larger gun"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+55572	[X]Smothered / suffocated	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+62824	[X]Hit strck kick twist bit/scr anoth pers oth unspecif plce	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+61068	[X]Rifle shotgun and larger firearm discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+29547	Assault by acid	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+40736	[X]Assault by unspecified chemical or noxious substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+69598	[X]Strikng against/struck by othrr object occ unspecif place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+66023	[X]Handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+58008	[X]Assault by gases and vapours	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+32033	[X]Assault by other and unspecified firearm discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+59376	[X]Assault by sharp object occurrn at other specified place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+48069	Assault by poisoning by drugs or medicines	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+34017	"[X]Assault by blunt object, occurrence on street / highway"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+65211	Assault by bomb in car	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+66700	Assault by petrol bomb	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+46506	[X]Assault by other specified chemicals+noxious substances	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+52873	[X]Assault by other specif means occurrn unspecified place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+65989	Assault by fire	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+48607	Assault by other firearms	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+43870	[X]Assault by unspecified means occurrn on street / highway	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+56940	[X]Hit strck kick twist bit/scr anoth pers oth specif place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+25308	[X]Discharge from other and unspecified firearms	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+57086	Assault by handgun	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+71311	"[X]Assault by hanging, strangulation and suffocation"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+35791	"[X]Crushed, pushed or stepped on by crowd or human stampede"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+48805	[X]Hit struck kick twist bit/scratch anoth pers resid instit	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			read	1
+94336	[X]Struck by thrwn projectd/fallng obj occ unspecif place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+53135	[X]Assault by othr specif means occurrn on street / highway	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+54388	Assault by antipersonnel bomb	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+31028	[X]Hit strck kick twist bit/scrtch anoth pers sprt/athl area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+59088	[X]Hit struck kick twist bitten/scratch anoth pers occ home	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			read	1
+60884	[X]Assault by crashing of motor vehicle	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+50438	[X]Assault by blunt object occ at sch oth ins/pub adm area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+41303	Assault by letter bomb	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+71264	[X]Assault by sharp object occ at sch oth ins/pub adm area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+42123	Assault by suffocation	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+72511	"Assault by corrosive or caustic substance, except poisoning"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+64149	Assault by pushing from high place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+50166	Assault by hot liquid	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+22711	[X]Assault by oth specif means occ sch oth ins/pub adm area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+25065	[X]Assault by blunt object occurrn at other specified place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+33894	[X]Assault by unspecified means occ sch oth ins/pub adm area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+58748	Assault by bomb NOS	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+49299	[X]Assault by sharp object occurrence at trade/service area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+65289	Assault by caustic substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+64152	"[X]Assault by bodily force, occurrence at sport/athlet area"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+64198	[X]Assault by unspecified means occurrn other specif place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+60464	[X]Contact with knife sword/dagger occurrn on street/highwy	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+51749	[X]Assault by pushing / placing victim before moving object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+38665	[X]Disch from oth/unspecif firearm occ at unspecified place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+60606	[X]Rifle shotgun+largr firearm disch occ at unspecif place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+66737	Assault by handgun NOS	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+62109	[X]Oth fall sme levl coll/push anoth per occ oth spec place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+92315	[X]Assault by oth specif means occurrn resident institution	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			read	1
+96649	[X]Assault oth+unsp firearm discharge occ unspecified place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+50153	Assault by drowning	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+54928	"[X]Assault by smoke, fire and flames"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+35173	"[X]Assault by steam, hot vapours and hot objects"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+55285	Assault by hanging	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+60248	[X]Assault by hanging strangulatn+suffocatn occurrn at home	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			read	1
+93052	[X]Hanging strangulat+suffocat undet intent occurrn at home	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			read	1
+65968	[X]Assault by corrosive substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+71032	[X]Assault by pesticide	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+71472	Assault by poisoning by other gases or vapours	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+95160	Assault by poisoning NOS	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+103153	[X]Hit strck kick twist bittn/scrtch anoth pers street/h'way	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+109535	[X]Hit struck kick twist bitten/scratch anoth pers occ farm	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+72958	[X]Assault by other specif means occurrn other specif place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+47062	Assault by bomb in house	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+55279	Assault by military firearms	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+63383	Assault by pistol	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+71426	[X]Assault by sharp object occurrn at sports/athletics area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+50493	Assault by corrosive substance NOS	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+61476	[X]Assault by gases and vapour occurrn at unspecified place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+63862	[X]Assault unspecif chemicl/noxous subst occ unspecif place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+105193	[X]Assault drug medicam+biolog subs occ sch/ins/pub adm area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+53154	[X]Struck by thrwn projectd/fallng obj occ oth specif place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+58820	[X]Asslt by push/plac victm befr mov obj occ oth specif plce	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+59512	[X]Struck by thrown projectd/falling object occurrn at home	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			read	1
+66473	[X]Assault by push fr high plce occ sch oth ins/pub adm area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+72819	[X]Strikng against/strck by othr objct occ on street/highway	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+104195	[X]Assault by explosive material occurrn other specif place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+67376	[X]Assault by explosive material	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+68823	Assault by explosive NOS	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+103138	[X]Assault by sharp object occurrn in resident institution	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			read	1
+61495	[X]Assault by hanging strangl+suffoc occurrn street/highway	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+68244	[X]Assault hanging strangul+suffoc occ sch/ins/pub adm area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+101823	[X]Assault by hanging strangul+suffoc occ trade/servce area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+65677	"[X]Assault by pesticides, occurrence on farm"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+71727	[X]Assault unspecif chemical/noxous subst occ street/highway	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+97684	[X]Assault by gas+vapour occ school oth inst/pub admin area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+99109	"[X]Assault by pesticides, occurrence at unspecified place"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+100389	[X]Assault by pesticides occurrn in residential institution	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			read	1
+107626	[X]Assault by gas+vapour occurrn at industr/construct area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+61672	[X]Crush push/step by crowd/human stampede oth specif place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+63418	[X]Strik agnst/bump into by anoth pers occ on street/highway	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+63579	[X]Assault by explosive material occurrn indust/constr area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+66071	[X]Struck by thrown projectd/falling object occurrn on farm	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+73938	"[X]Assault by bodily force, occurrence on farm"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+96663	[X]Strikng against/struck by other object occ in resid inst	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			read	1
+97983	[X]Assault by push from high place occurrn oth specif place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+99091	[X]Crush push/step on by crowd/humn stampede occ resid inst	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			read	1
+99448	[X]Assault by oth specif means occurrn sports/athletic area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+101536	[X]Assault by pushing from high place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+109428	[X]Oth fall sme levl coll/push anth pers occ trad/serv area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+112348	[X]Hit strck kick twist bit/scr anoth pers indust/cnstr area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+112618	[X]Oth fall lvl col/push anoth per occ sch/inst/pub adm area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+54260	[X]Assault by blunt object occurrn in resident institution	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			read	1
+56280	[X]Assault by blunt object occurrn at sports/athletics area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+92504	[X]Assault by blunt object occurrence at trade/service area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+62522	[X]Assault by unspecified means occurrn resident institut'n	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			read	1
+108068	"[X]Assault by unspecified means, occurrence on farm"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+66800	[X]Assault by handgun discharge occurrenc oth specif place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+93173	[X]Assault by handgun discharge occurrenc at unspecif place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+98708	"[X]Handgun discharge, occurrence at unspecified place"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			read	1
+102071	[X]Assault oth+unsp firearm discharge occ oth specif place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+112244	[X]Disch from other/unspecif firearms occ in resid instit'n	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			read	1
+111332	[X]Assault by drowning and submersion	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+58965	[X]Assault oth+unsp firearm discharge occ on street/highway	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+60558	Assault by revolver	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+99882	[X]Rifle shotgun+largr firarm disch occ at sport/athlet area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+102153	[X]Rifle shotgun+largr firarm disch occ at trade/servce area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+103191	"[X]Handgun discharge, occurrence on street and highway"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+103806	[X]Assault by handgun discharge occurrenc on street/highway	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+105618	[X]Disch from oth/unspecif firearm occ at trade/servce area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+112213	[X]Assault by handgun discharge occurrn trade/service area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+112384	[X]Assault oth+uns firarm discharge occ sch/ins/pub adm area	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+50655	[X]Assault by crash of motor vehicle occ on street/highway	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				read	1
+Y040	Assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+Y099	Assault by unspecified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+Y049	Assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+R456	Physical violence	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y009	Assault by blunt object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+Y080	Assault by other specified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+Y089	Assault by other specified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+X990	Assault by sharp object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+X991	Assault by sharp object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+X998	Assault by sharp object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X999	Assault by sharp object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+X910	"Assault by hanging, strangulation and suffocation"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+X911	"Assault by hanging, strangulation and suffocation"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+X918	"Assault by hanging, strangulation and suffocation"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X919	"Assault by hanging, strangulation and suffocation"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+X850	"Assault by drugs, medicaments and biological substances"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+X851	"Assault by drugs, medicaments and biological substances"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+X858	"Assault by drugs, medicaments and biological substances"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X859	"Assault by drugs, medicaments and biological substances"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+X860	Assault by corrosive substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+X861	Assault by corrosive substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+X868	Assault by corrosive substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X869	Assault by corrosive substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+X870	Assault by pesticides	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+X871	Assault by pesticides	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+X878	Assault by pesticides	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X879	Assault by pesticides	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+X880	Assault by gases and vapours	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+X881	Assault by gases and vapours	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+X888	Assault by gases and vapours	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X889	Assault by gases and vapours	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+X890	Assault by other specified chemicals and noxious substances	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+X891	Assault by other specified chemicals and noxious substances	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+X898	Assault by other specified chemicals and noxious substances	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X899	Assault by other specified chemicals and noxious substances	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+X900	Assault by unspecified chemical or noxious substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+X901	Assault by unspecified chemical or noxious substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+X908	Assault by unspecified chemical or noxious substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X909	Assault by unspecified chemical or noxious substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+X980	"Assault by steam, hot vapours and hot objects"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+X981	"Assault by steam, hot vapours and hot objects"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+X988	"Assault by steam, hot vapours and hot objects"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X989	"Assault by steam, hot vapours and hot objects"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+Y090	Assault by unspecified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+Y871	Sequelae of assault	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X920	Assault by drowning and submersion	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+X921	Assault by drowning and submersion	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+X928	Assault by drowning and submersion	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X929	Assault by drowning and submersion	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+X960	Assault by explosive material	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+X961	Assault by explosive material	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+X968	Assault by explosive material	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X969	Assault by explosive material	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+X970	"Assault by smoke, fire and flames"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+X971	"Assault by smoke, fire and flames"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+X978	"Assault by smoke, fire and flames"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X979	"Assault by smoke, fire and flames"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+Y010	Assault by pushing from high place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+Y011	Assault by pushing from high place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+Y018	Assault by pushing from high place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+Y019	Assault by pushing from high place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+Y020	Assault by pushing or placing victim before moving object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+Y021	Assault by pushing or placing victim before moving object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+Y028	Assault by pushing or placing victim before moving object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+Y029	Assault by pushing or placing victim before moving object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+Y04	Assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y041	Assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+Y048	Assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+Y000	Assault by blunt object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+Y001	Assault by blunt object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+Y008	Assault by blunt object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+Y08	Assault by other specified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y081	Assault by other specified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+Y088	Assault by other specified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+Y09	Assault by unspecified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y091	Assault by unspecified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+Y098	Assault by unspecified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X930	Assault by handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+X931	Assault by handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+X938	Assault by handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X939	Assault by handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+X940	"Assault by rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+X941	"Assault by rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+X948	"Assault by rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X949	"Assault by rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+X950	Assault by other and unspecified firearm discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			ICD-10	1
+X951	Assault by other and unspecified firearm discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+X958	Assault by other and unspecified firearm discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X959	Assault by other and unspecified firearm discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+X959	Assault by other and unspecified firearm discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Unspecified place			ICD-10	1
+Y051	Sexual assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Residential institution			ICD-10	1
+Y058	Sexual assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Other specified places			ICD-10	1
+X92	Assault by drowning and submersion	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X924	Assault by drowning and submersion	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X925	Assault by drowning and submersion	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X926	Assault by drowning and submersion	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X927	Assault by drowning and submersion	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X96	Assault by explosive material	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X963	Assault by explosive material	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X964	Assault by explosive material	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X965	Assault by explosive material	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X966	Assault by explosive material	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X967	Assault by explosive material	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X97	"Assault by smoke, fire and flames"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X972	"Assault by smoke, fire and flames"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X973	"Assault by smoke, fire and flames"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X974	"Assault by smoke, fire and flames"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X975	"Assault by smoke, fire and flames"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X976	"Assault by smoke, fire and flames"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X977	"Assault by smoke, fire and flames"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W32	Handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W320	Handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W322	Handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W324	Handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W327	Handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W33	"Rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W330	"Rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W332	"Rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W333	"Rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W334	"Rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W335	"Rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W336	"Rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W337	"Rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W338	"Rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W339	"Rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W34	Discharge from other and unspecified firearms	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W345	Discharge from other and unspecified firearms	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W347	Discharge from other and unspecified firearms	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W348	Discharge from other and unspecified firearms	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+W349	Discharge from other and unspecified firearms	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X93	Assault by handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X932	Assault by handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X933	Assault by handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X934	Assault by handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X935	Assault by handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X936	Assault by handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X937	Assault by handgun discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X94	"Assault by rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X942	"Assault by rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X943	"Assault by rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X944	"Assault by rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X945	"Assault by rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X946	"Assault by rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X947	"Assault by rifle, shotgun and larger firearm discharge"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X95	Assault by other and unspecified firearm discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X952	Assault by other and unspecified firearm discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X953	Assault by other and unspecified firearm discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X955	Assault by other and unspecified firearm discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X956	Assault by other and unspecified firearm discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X957	Assault by other and unspecified firearm discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y03	Assault by crashing of motor vehicle	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y030	Assault by crashing of motor vehicle	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y031	Assault by crashing of motor vehicle	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y032	Assault by crashing of motor vehicle	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y033	Assault by crashing of motor vehicle	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y034	Assault by crashing of motor vehicle	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y035	Assault by crashing of motor vehicle	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y036	Assault by crashing of motor vehicle	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y037	Assault by crashing of motor vehicle	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y038	Assault by crashing of motor vehicle	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y039	Assault by crashing of motor vehicle	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X85	"Assault by drugs, medicaments and biological substances"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X852	"Assault by drugs, medicaments and biological substances"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+X853	"Assault by drugs, medicaments and biological substances"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+X854	"Assault by drugs, medicaments and biological substances"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Street and highway			ICD-10	1
+X855	"Assault by drugs, medicaments and biological substances"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Trade and service area			ICD-10	1
+X856	"Assault by drugs, medicaments and biological substances"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Industrial and construction area			ICD-10	1
+X857	"Assault by drugs, medicaments and biological substances"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Farm			ICD-10	1
+X86	Assault by corrosive substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X862	Assault by corrosive substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+X863	Assault by corrosive substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+X864	Assault by corrosive substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Street and highway			ICD-10	1
+X865	Assault by corrosive substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Trade and service area			ICD-10	1
+X866	Assault by corrosive substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Industrial and construction area			ICD-10	1
+X867	Assault by corrosive substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Farm			ICD-10	1
+X87	Assault by pesticides	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X872	Assault by pesticides	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+X873	Assault by pesticides	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+X874	Assault by pesticides	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Street and highway			ICD-10	1
+X875	Assault by pesticides	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Trade and service area			ICD-10	1
+X876	Assault by pesticides	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Industrial and construction area			ICD-10	1
+X877	Assault by pesticides	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Farm			ICD-10	1
+X88	Assault by gases and vapours	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X882	Assault by gases and vapours	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+X883	Assault by gases and vapours	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+X884	Assault by gases and vapours	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Street and highway			ICD-10	1
+X885	Assault by gases and vapours	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Trade and service area			ICD-10	1
+X886	Assault by gases and vapours	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Industrial and construction area			ICD-10	1
+X887	Assault by gases and vapours	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Farm			ICD-10	1
+X89	Assault by other specified chemicals and noxious substances	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X892	Assault by other specified chemicals and noxious substances	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+X893	Assault by other specified chemicals and noxious substances	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+X894	Assault by other specified chemicals and noxious substances	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Street and highway			ICD-10	1
+X895	Assault by other specified chemicals and noxious substances	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Trade and service area			ICD-10	1
+X896	Assault by other specified chemicals and noxious substances	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Industrial and construction area			ICD-10	1
+X897	Assault by other specified chemicals and noxious substances	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Farm			ICD-10	1
+X90	Assault by unspecified chemical or noxious substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X902	Assault by unspecified chemical or noxious substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+X903	Assault by unspecified chemical or noxious substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+X904	Assault by unspecified chemical or noxious substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Street and highway			ICD-10	1
+X905	Assault by unspecified chemical or noxious substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Trade and service area			ICD-10	1
+X906	Assault by unspecified chemical or noxious substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Industrial and construction area			ICD-10	1
+X907	Assault by unspecified chemical or noxious substance	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Farm			ICD-10	1
+X91	"Assault by hanging, strangulation and suffocation"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X912	"Assault by hanging, strangulation and suffocation"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+X913	"Assault by hanging, strangulation and suffocation"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+X914	"Assault by hanging, strangulation and suffocation"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Street and highway			ICD-10	1
+X915	"Assault by hanging, strangulation and suffocation"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Trade and service area			ICD-10	1
+X916	"Assault by hanging, strangulation and suffocation"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Industrial and construction area			ICD-10	1
+X917	"Assault by hanging, strangulation and suffocation"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Farm			ICD-10	1
+X922	Assault by drowning and submersion	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+X923	Assault by drowning and submersion	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+X954	Assault by other and unspecified firearm discharge	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Street and highway			ICD-10	1
+X962	Assault by explosive material	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+X98	"Assault by steam, hot vapours and hot objects"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X982	"Assault by steam, hot vapours and hot objects"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+X983	"Assault by steam, hot vapours and hot objects"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+X984	"Assault by steam, hot vapours and hot objects"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Street and highway			ICD-10	1
+X985	"Assault by steam, hot vapours and hot objects"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Trade and service area			ICD-10	1
+X986	"Assault by steam, hot vapours and hot objects"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Industrial and construction area			ICD-10	1
+X987	"Assault by steam, hot vapours and hot objects"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Farm			ICD-10	1
+X99	Assault by sharp object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+X992	Assault by sharp object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+X993	Assault by sharp object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+X994	Assault by sharp object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Street and highway			ICD-10	1
+X995	Assault by sharp object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Trade and service area			ICD-10	1
+X996	Assault by sharp object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Industrial and construction area			ICD-10	1
+X997	Assault by sharp object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Farm			ICD-10	1
+Y00	Assault by blunt object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y002	Assault by blunt object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+Y003	Assault by blunt object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+Y004	Assault by blunt object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Street and highway			ICD-10	1
+Y005	Assault by blunt object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Trade and service area			ICD-10	1
+Y006	Assault by blunt object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Industrial and construction area			ICD-10	1
+Y007	Assault by blunt object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Farm			ICD-10	1
+Y01	Assault by pushing from high place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y012	Assault by pushing from high place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+Y013	Assault by pushing from high place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+Y014	Assault by pushing from high place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Street and highway			ICD-10	1
+Y015	Assault by pushing from high place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Trade and service area			ICD-10	1
+Y016	Assault by pushing from high place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Industrial and construction area			ICD-10	1
+Y017	Assault by pushing from high place	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Farm			ICD-10	1
+Y02	Assault by pushing or placing victim before moving object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment				ICD-10	1
+Y022	Assault by pushing or placing victim before moving object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+Y023	Assault by pushing or placing victim before moving object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+Y024	Assault by pushing or placing victim before moving object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Street and highway			ICD-10	1
+Y025	Assault by pushing or placing victim before moving object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Trade and service area			ICD-10	1
+Y026	Assault by pushing or placing victim before moving object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Industrial and construction area			ICD-10	1
+Y027	Assault by pushing or placing victim before moving object	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Farm			ICD-10	1
+Y042	Assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+Y043	Assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+Y044	Assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Street and highway			ICD-10	1
+Y045	Assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Trade and service area			ICD-10	1
+Y046	Assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Industrial and construction area			ICD-10	1
+Y047	Assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Farm			ICD-10	1
+Y052	Sexual assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+Y053	Sexual assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+Y054	Sexual assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Street and highway			ICD-10	1
+Y055	Sexual assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Trade and service area			ICD-10	1
+Y056	Sexual assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Industrial and construction area			ICD-10	1
+Y057	Sexual assault by bodily force	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Farm			ICD-10	1
+Y082	Assault by other specified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+Y083	Assault by other specified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+Y085	Assault by other specified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Trade and service area			ICD-10	1
+Y086	Assault by other specified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Industrial and construction area			ICD-10	1
+Y087	Assault by other specified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Farm			ICD-10	1
+Y092	Assault by unspecified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	"School, other institution and public administrative area"			ICD-10	1
+Y093	Assault by unspecified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Sports and athletics area			ICD-10	1
+Y095	Assault by unspecified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Trade and service area			ICD-10	1
+Y096	Assault by unspecified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Industrial and construction area			ICD-10	1
+Y097	Assault by unspecified means	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Farm			ICD-10	1
+96493	[X]Assault by rifl shotgun+larger firearm disch occ at home	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home		1	read	1
+99124	"[X]Assault by handgun discharge, occurrence at home"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home		1	read	1
+53386	"[X]Handgun discharge, occurrence at home"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			read	1
+66326	[X]Assault by oth+unspecif firearm discharge occurrn home	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home		1	read	1
+105543	"[X]Assault by gases and vapours, occurrence at home"	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			read	1
+109859	[X]Assault by steam hot vapours+hot objects occurrn at home	Assault NOS (CM)	Assault NOS (CM)	Assault	Child maltreatment	Home			read	1
+6628	Child at risk	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	3
+11572	History of domestic violence	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+8905	Clinical conference	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	1
+3043	Child on 'at risk' register	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	3
+12684	Victim of domestic violence	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+32823	Vulnerable child	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	1
+19017	Significant event reported	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	3
+7278	Child at risk-case conference	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	3
+24595	Vulnerable child in family	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	3
+93502	History of domestic abuse	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+104309	Review case conference	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+107316	Victim of domestic abuse	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+32863	Significant event reviewed	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	1
+23777	Child abuse NEC	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+51033	Significant event resolved	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	1
+101674	Common assessment framework for children and young people	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	1
+15810	Adult maltreatment syndrome NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	1
+32969	Child on 'at risk' regist NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	3
+53123	Significant	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	1
+101657	Conference report	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+105018	Child no longer safeguarding concern	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	1
+25273	Child at risk case conf NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	3
+105233	Initial case conference	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+105329	History of being victim of domestic violence	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+23700	Abandoned child	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+110916	At risk of domestic violence	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	1
+111048	Mother victim of domestic violence	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	3
+46560	[X]Munchausen's by proxy	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+101862	Common Assessment Framework child yng people form completed	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	1
+101404	Child at risk conf attend <1hr	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	3
+107954	CAF for children and young people process completed	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	1
+8174	NA52-Magistrate's care order	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+33009	A/N care: H/O child abuse	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	3
+49622	Child affected by Munchausen's by proxy	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+28484	"[X]Other maltreatment syndromes, by spouse or partner"	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+61921	NA52 - care order NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+73014	NA52 - fee paid	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+101407	Child at risk conf attend >1hr	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	3
+104936	"[X]Maltreatment, by spouse or partner"	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+104126	NA52 care order completed	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	read	1
+110111	Generic Risk Indicators (Nat Risk Frwk Assess Child Yng Ppl)	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	read	1
+Z638	Other specified problems related to primary support group	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	ICD-10	1
+Y079	By unspecified person	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	ICD-10	1
+Y349	"Unspecified event, undetermined intent"	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			2	ICD-10	1
+T74	Maltreatment syndromes	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	ICD-10	1
+T749	"Maltreatment syndrome, unspecified"	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	ICD-10	1
+Y07	Other maltreatment	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	ICD-10	1
+Y070	By spouse or partner	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	ICD-10	1
+Y071	By parent	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	ICD-10	1
+Y072	By acquaintance or friend	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	ICD-10	1
+Y073	By official authorities	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	ICD-10	1
+Y078	By other specified persons	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	ICD-10	1
+Z62819	Personalhistoryofunspecifiedabuseinchildhood	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	ICD-10	1
+Z918	"Personal history of other specified risk-factors, not elsewhere classified"	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	ICD-10	1
+T748	Other maltreatment syndromes	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment NOS	Child maltreatment			1	ICD-10	1
+7215	Child on protection register	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+2806	Multidisciplinary case conference	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	1
+9529	Child protection procedure	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+7325	Child removed from protection register	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	1
+9530	Child protection procedure	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+94516	Child protection plan	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+85093	Child is cause for concern	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	3
+95907	Subject to child protection plan	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+84157	On child protection register	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	1
+64183	Child protection plan	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+105271	Child is cause for safeguarding concern	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+11965	Family member on protection register	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	1
+24892	Child protection investigation	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+103571	Subject of multi-agency risk assessment conference	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	1
+96043	No longer subject to child protection plan	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	1
+24893	Removed - child abuse register	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	1
+93504	Family is cause for concern	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	3
+106303	Adult safeguarding concern	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	3
+97175	Family member subject of child protection plan	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+106551	Has child subject of child protection plan	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+11956	Police request to attend	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	1
+38935	Multi-professional risk assessment done	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	1
+104272	Child protection observation	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	1
+99861	Under multi-agency care	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	1
+30737	Family member removed from protection register	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	3
+102319	Referral to safeguarding children team	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+46194	Security/protective services	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	1
+97277	Family member no longer subject of child protection plan	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+42936	Surveillance for child protection	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+14812	Place of safety court order	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	1
+93646	Family member on child protection register	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	3
+108296	Child protection core group meeting	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+102759	Referral to safeguarding adults team	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+104786	Child protection category emotional	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+108994	Unborn child is cause for safeguarding concern	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	3
+104301	Unborn child subject to child protection plan	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+103927	Child no longer cause for concern	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	3
+111519	Multi-agency case management review	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	1
+108341	Child protection medical examination	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+33172	Other protective service NOS	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	1
+103799	Safeguarding children young peple toolkit for gen prac 2009	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	3
+98455	Subject of multi-agency public protection arrangements	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	1
+105005	Child protection category physical	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+58659	Other protective services	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	1
+104904	Child protection category	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+38494	Court of protect cert NOS	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	1
+111168	Child protection conference report submitted	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	1
+110925	Family member no longer on child protection register	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	1
+20720	Protective services	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	1
+109976	Safeguarding adults protection plan completed	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	3
+52527	Protective supervisors NOS	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	1
+68948	Supervisors-protective service	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	1
+62870	Immediate protection of child	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	3
+60980	Multi-professional risk assessment default	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	1
+100176	Intra-agency protection plan	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	1
+105174	Family no longer cause for concern	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment				read	3
+56699	Patient protection monitoring	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	1
+110365	Referral to multi-agency risk assessment conference	Child protection/safeguarding	Child protection/safeguarding	Child maltreatment NOS	Child maltreatment			1	read	1
+26686	Neonatal Abstinence Syndrome	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+30652	O/E - signs of drug withdrawal	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+23945	Fetal alcohol syndrome	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+30311	Neonat withdrawal symptom from mat use of drug of addiction	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+8870	Maternal drug abuse	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+26685	Fetus/neonate affected by other maternal opiates in lab/del	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+22992	Alcoholic offspring	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+53387	H/O: neonatal abstinence syndrome	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+66019	Suspect fetal damage from maternal alcohol	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+64430	Fetus/neonate affected-plac./breast transfer addictive drug	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+66699	Fetus and newborn affected by maternal use of alcohol	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+97916	Fetal alcohol syndrome	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+56697	Fetus and newborn afect by mat use of nutritional chem subs	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	3
+100578	Fetus with drug damage with antenatal problem	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+92087	Drugdependenceinpregnancychildbirth	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+P043	Fetus and newborn affected by maternal use of alcohol	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				ICD-10	1
+Q860	Fetal alcohol syndrome (dysmorphic)	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	ICD-10	1
+O355	Maternal care for (suspected) damage to fetus by drugs	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				ICD-10	3
+P044	Fetus and newborn affected by maternal use of drugs of addiction	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	ICD-10	3
+P961	Neonatal withdrawal symptoms from maternal use of drugs of addiction	NAS/FASD	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	ICD-10	3
+8106	[V] Bullying of child	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment			1	read	2
+10074	History of emotional abuse	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment			1	read	1
+52024	At risk of emotional/psychological abuse	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment				read	1
+48546	Victim of emotional abuse	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment			1	read	1
+93410	Victim of bullying when not in school	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment				read	1
+40785	Emotional abuse of child	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment			1	read	3
+27405	Emotional maltreatment of child	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment			1	read	3
+16643	Emotional deprivation of child	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment			1	read	3
+37981	Verbal abuse counselling	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment			1	read	1
+50083	H/O: psychological trauma	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment				read	1
+41027	At risk of discriminatory abuse	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment				read	1
+58614	Racial abuse counselling	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment				read	1
+61002	Alleged perpetrator of emotional abuse	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment				read	2
+55533	[V]Inappropriat parental press+oth abn qualities/upbringing	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment				read	1
+60155	[V]FH of mental abuse to sibling by family member	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment				read	1
+65893	[V]Family history of mental abuse to sibling	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment				read	1
+111290	At risk of psychological abuse	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment				read	1
+111500	Victim of psychological abuse	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment			1	read	1
+111290	At risk of psychological abuse	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment				read	1
+111500	Victim of psychological abuse	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment			1	read	1
+69792	[V]Sexual discrimination	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment			1	read	1
+111446	HO domestic emotional abuse	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment			1	read	1
+40161	[V]Hostility towards and scapegoating of child	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment			1	read	3
+111446	History of domestic emotional abuse	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment				read	1
+111256	[X]Inapprop parental pressure & oth abnorm quals upbringing	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment				read	1
+T743	Psychological abuse	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment			1	ICD-10	1
+Z605	Target of perceived adverse discrimination and persecution	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment			1	ICD-10	1
+Z623	Hostility towards and scapegoating of child	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment			1	ICD-10	3
+Z626	Inappropriate parental pressure and other abnormal qualities of upbringing	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment				ICD-10	1
+Z62811	Personalhistoryofpsychologicalabuseinchildhood	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Emotional/psychological abuse	Child maltreatment			1	ICD-10	1
+48536	Abandoned baby care	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+50085	Malnutrition in child maltreatment syndrome	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+31434	[X]Neglect and abandonment	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+32757	At risk of neglect by others	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+32578	[V]No able carer in household	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+104377	Child protection category neglect	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+8031	Neglect affecting child NEC	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+9749	[V]Child neglect	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+3192	Exhaustion due to exposure	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+105305	Discussion about hygiene	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+27306	Deprived childhood	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+25192	Neglect or abandonment	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+28520	[V]Emotional neglect of child	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+16456	Assault by criminal neglect	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+106936	DNA child and adolescent mental health service appointment	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+43397	Found wandering the streets	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+52044	A/N care: poor A/N attender	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	3
+45265	[V]Insufficient social insurance and welfare support	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+37113	"[X]Neglect and abandonment, by spouse or partner"	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+44086	[V]Other problems related to neglect in upbringing	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+107302	Suspected victim of child neglect	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	3
+43796	[V]Personal history of nutritional deficiency	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+25059	Child deserted by parents	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+32228	"[X]Neglect and abandonment, by parent"	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+23517	Unwanted child	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+42391	Child deserted by mother	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+39982	Parental withholding from school	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+57265	Multiple deprivation of child	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+60452	Deserted by father	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+51623	Effects of thirst	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+48649	Hallucinogen poisoning	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+35148	[V]Loss of love relationship in childhood	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+69709	Deserted by mother	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+44384	Abandonment of helpless person NOS	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+61271	Unable to obtain food	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+16497	Suffocation by bedclothes	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+55970	Child deprivation syndrome	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+48278	"Effect of deprivation, unspecified"	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+108042	Did not attend CAMHS return appointment	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+92992	[X]Starvation	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+60393	Accident due to abandonment of newborn	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+65818	Nutritional deprivation of child	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+108691	Did not attend CAMHS choice appointment	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+23684	[V]Schooling unavailable and unattainable	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+29968	"[X]Neglect and abandonment, by acquaintance or friend"	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+51900	Nutritional maltreatment of child	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+62205	Number of changes of school	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+71233	Deserted by parents	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+108550	Did not attend CAMHS partnership appointment	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+55405	[V]Lack of learning and play experience	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+62314	"Injury ?accidental, poisoning by other spec drug/medicament"	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+95029	Accident due to neglect of elderly person	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+106997	[D]Insufficient intake of food and water due to self neglect	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+109633	Delay in care due to missed communication	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+57472	[X]Accident poison/exposure to psychotropic drug at home	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+58577	Accident due to abandonment of helpless person	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+62377	Exposure to weather conditions resulting from abandonment	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+100358	Abandonment of child with intent to injure or kill	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+100656	Unwanted child	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+60597	"[X]Neglect and abandonment, by other specified persons"	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+63765	Accident due to neglect of helpless person	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+71360	"[X]Lack of food, occurrence at home"	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+100066	"[X]Lack of food, occurrence on street and highway"	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+101308	[X]Other problems related to neglect in upbringing	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+107927	"[X]Lack of water, occurrence in residential institution"	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+108983	"[X]Neglect and abandonment, by unspecified person"	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	1
+111795	"[X]Lack of food, occurrence in residential institution"	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				read	1
+87884	Abandonment of infant with intent to injure or kill	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	read	3
+F942	Disinhibited attachment disorder of childhood	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				ICD-10	1
+T740	Neglect or abandonment	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	ICD-10	1
+X549	Lack of water	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment	Unspecified place			ICD-10	1
+Y06	Neglect and abandonment	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	ICD-10	1
+Y060	By spouse or partner	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	ICD-10	1
+Y061	By parent	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	ICD-10	1
+Y062	By acquaintance or friend	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	ICD-10	1
+Y068	By other specified persons	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	ICD-10	1
+Y069	By unspecified person	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	ICD-10	1
+Z586	Inadequate drinking-water supply	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				ICD-10	1
+Z597	Insufficient social insurance and welfare support	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				ICD-10	1
+Z620	Inadequate parental supervision and control	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	ICD-10	3
+Z624	Emotional neglect of child	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	ICD-10	3
+Z625	Other problems related to neglect in upbringing	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	ICD-10	1
+Z62812	Personalhistoryofneglectinchildhood	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment			1	ICD-10	1
+3481	Anoxicbraindamage	Neglect incl. emotional/psychological abuse	"Neglect (incl. emotional,  physical, NAS, FASD)"	Neglect	Child maltreatment				ICD-9	1
+1368	[V]Routine circumcision	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	4
+19925	Ritual circumcision	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	4
+54314	[V]Routine or ritual circumcision	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	4
+94691	Female genital mutilation	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+7434	[V]Ritual circumcision	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	4
+4985	Ritual clitoridectomy	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+108224	History of female genital mutilation	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+47035	Clitoridectomy NEC	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+109768	Discussion about female genital mutilation	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+98128	Deinfibulation of vulva	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+108850	Female genital mutilation type II - WHO classification	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+109978	At risk of female genital mutilation	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+110013	H/O: female genital mutilation type 3	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+110408	Discussion about female genital mutilation with carer	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+110498	Discussion about illegality of female genital mutilation	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+111367	History of female genital mutilation	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+109715	Female genital mutilation type I - WHO classification	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+110502	H/O: FGM between 1 and under 5 years of age	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+110503	H/O: FGM between 5 and under 10 years of age	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+110501	H/O: female genital mutilation under 1 year of age	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+110504	H/O: FGM between 10 and under 15 years of age	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+108868	Female genital mutilation type III - WHO classification	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+110499	Discussion about health implications of FGM	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+110500	Country in which patient underwent female genital mutilation	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+110506	H/O: female genital mutilation at 18 years of age or over	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+110507	Female genital mutilation type IV - WHO classification	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+110505	H/O: FGM between 15 and under 18 years of age	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+Z917	Personal history of female genital mutilation	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	ICD-10	1
+14693	Homicide and injury purposely inflicted by other persons	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+11246	At risk violence in the home	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+8170	History of abuse	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+8376	[X]NAI - Non accidental injury	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+2886	Non-accidental injury to child	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+24254	Homicide or assault by unarmed fight or brawl	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+4060	Suspected child abuse	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	3
+9602	[V]Child abuse	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+8215	[D]Physical violence	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+8605	History of physical abuse	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+12537	Victim of physical abuse	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+19959	Child maltreatment syndrome NOS	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+9655	NAI - non-accidental injury to child	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+2412	Child maltreatment syndrome	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+31601	Maltreatment syndromes	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+26008	At risk of physical abuse	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+26175	[V]Victim of torture	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+40032	Child abuse in family	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+30588	Physical abuse of child	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+22625	[V]Problems related to alleged physical abuse of child	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	3
+25033	Child/parent violence	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+5575	Adult maltreatment syndrome	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+14966	Battered baby or child syndrome NOS	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+31994	Child battering and other maltreatment	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+46016	Homicide or assault NOS	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+36393	Abuse counselling	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+31691	[X]Murder	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+26147	Alleged perpetrator of physical abuse	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	2
+31817	[X]Personality change after torture	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+16918	Murder attempt NOS	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+35230	Physical abuse counselling	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+49570	"Manslaughter, nonaccidental, NOS"	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+48464	Physical injury to child	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+27889	"Battered woman, unspecified"	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+28420	[X]Homicide	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+48844	"[X]Assault by unspecified means, occurrence at home"	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment	Home			read	1
+107432	Suspected non-accidental injury to child	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	3
+36244	[V]FH physical abuse to sibling by family member	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+38049	Murder successful NOS	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+38755	"Homicide or assault by fight, brawl or rape NOS"	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+38319	Battered baby syndrome NOS	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+24654	Child battering or other maltreatment by parent	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+106967	Victim of human trafficking	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+24224	Homicidal cut of any part of body	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+53398	[V]Family history of physical abuse to sibling	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+53084	Late effects of homicide or assault	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+16226	Risk of non-accidental injury	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+39640	"Battered person unspecified, syndrome"	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+41298	[X]Personlty chang aft expos life-threat sit/victim/terrorsm	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+52916	"[X]Assault by blunt object, occurrence at home"	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment	Home		1	read	1
+98128	Deinfibulation of vulva	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+33823	"[X]Assault by other specified means, occurrence at home"	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment	Home			read	1
+41338	[V]Family history of sibling abuse NOS	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+60988	[V]Family history of sibling abuse by family member NOS	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+39837	[X]Other maltreatment syndromes	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+43768	"[X]Other maltreatment syndromes, by parent"	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+42388	Battered child syndrome NOS	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+59053	Assault by homicidal burns NOS	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+53458	Homicidal puncture of any part of body	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+111174	HO domestic physical abuse	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+24653	Child battering or other maltreatment by other spec person	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+108055	Non-accidental traumatic head injury to child	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+50113	Battered baby suspect - FH	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	3
+63822	Child battering or other maltreatment by person NOS	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+109194	DASH (Dom Abuse Stalking Harassment HBV) 2009 Risk Checklist	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+43307	"Battered man, unspecified"	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+58830	[V]Child battering	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+72629	[X]Personal history of other physical trauma	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+66514	Homicide	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment	Home		1	read	1
+70764	"[X]Other maltreatment syndromes, by acquaintance or friend"	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+108114	"[X]Maltreatment, by parent"	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+67173	Child abuse investigation	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	3
+56797	Assassination attempt NOS	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+57258	"[X]Other maltreatment syndromes, by other specified persons"	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+60116	[X]Assault by unspecif chemical/noxious substance occ home	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment	Home		1	read	1
+71587	FH: Non-accid. inj. to child	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+91601	Assassination successful NOS	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+60523	FH: Child battering	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				read	1
+71743	"[X]Other maltreatment syndromes, by official authorities"	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+101537	[X]Assault by push/plac victm befor movng obj occurrn home	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment	Home		1	read	1
+104695	[X]Maltreatment	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+109315	"[X]Other maltreatment syndromes, by unspecified person"	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+110598	"[X]Maltreatment, by acquaintance or friend"	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	read	1
+Z616	Problems related to alleged physical abuse of child	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				ICD-10	1
+Z045	Examination and observation following other inflicted injury	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment				ICD-10	1
+p_P072	Deinfibulation of vulva	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	OPCS-4	1
+p_R272	Deinfibulation of vulva to facilitate delivery	Physical or sexual abuse	Physical abuse	Physical or sexual abuse	Child maltreatment			1	OPCS-4	1
+T741	Physical abuse	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	ICD-10	1
+7387	History of sexual abuse	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+3879	Sexual abuse	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+3750	Sexual assault	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+7816	[X]Rape	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+22840	Victim of sexual abuse	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+12264	[V]Observation following alleged rape	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+22888	On sex offenders register	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	2
+36338	[X]Sexual assault by bodily force	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+35408	At risk of sexual abuse	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+24008	[V]Problem relatd/alleg sex abuse cld by person prim sup grp	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+28782	Sexual abuse counselling	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+52617	Alleged perpetrator of sexual abuse	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	2
+24072	[V]Probs rel alleg sex abuse child by pers out prim sup grp	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+24895	[X]Attempted rape	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+108967	Seen in sexual assault referral centre	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+24085	[V]FH of sexual abuse to sibling by family member	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+43137	"Homicide and assault by fight, brawl and rape"	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+107403	Suspected sexual abuse of child	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	3
+31980	Prostitutes	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+47066	[V]Family history of sexual abuse to sibling	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+48811	[X]Sexual assault by bodily force occurrn unspecified place	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+24575	"[X]Sexual assault by bodily force, occurrence at home"	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment	Home		1	read	1
+61907	Exam. for alleged rape	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+105070	Child protection category sexual	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+53152	[V]Observation following alleged rape or seduction	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+50385	Female prostitute	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+109058	Victim of child sexual exploitation	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+49619	Prostitute NOS	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+109692	At risk of sexual exploitation	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+103634	Sex worker	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+54319	[X]Sexual assault by bodily force occurrn oth specif place	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+24322	[X]Sexual assault by bodily force occurrn on street/highway	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+105452	Vaginal penetration	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+104415	Former sex worker	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+52377	[V]Prostitute health examination	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+56974	Male prostitute	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+109213	Victim of sexual harassment	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+111275	HO domestic sexual abuse	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+60515	Child prostitute	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+49606	[X]Sexual assault by bodil forc occ sch oth ins/pub adm area	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	read	1
+73101	[X]Sexual assault by bodily force occurrn resident instit'n	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment	Residential institution		1	read	1
+103885	[X]Sexual assault by bodily force occurrn indust/constr area	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+98971	[X]Sexual assault by bodily force occurrn trade/servce area	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+111912	[X]Sexual assault by bodily force occurrn sport/athlet area	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+112026	[X]Other specifd predominantly sexually transmitted diseases	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				read	1
+Y059	Sexual assault by bodily force	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment	Unspecified place			ICD-10	1
+Y05	Sexual assault by bodily force	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				ICD-10	1
+Y050	Sexual assault by bodily force	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment	Home			ICD-10	1
+T742	Sexual abuse	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	ICD-10	1
+Y051	Sexual assault by bodily force	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment	Residential institution			ICD-10	1
+Y058	Sexual assault by bodily force	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment	Other specified places			ICD-10	1
+Z044	Examination and observation following alleged rape and seduction	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment				ICD-10	1
+Z62810	Personal history of physical and sexual abuse in childhood	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	ICD-10	1
+Z62813	Personal history of forced labor or sexual exploitation in childhood	Physical or sexual abuse	Sexual abuse (CM)	Physical or sexual abuse	Child maltreatment			1	ICD-10	1
