@@ -5,8 +5,9 @@ This repository list all codes and measures retained from the intial validation.
 
 ### Introduction
 
-We made several adaptations to previously studied ACEs to allow for feasible ascertainment in electronic health records (EHRs). We defined ACE indicators (i.e. variables of grouped codes and measures) that reflected clinically meaningful vulnerability and risk groups of adversity used for targeted maternal-child care interventions in England (e.g. targeted care pathway of the Healthy Child Programme by Public Health England) and intervention studies.33-35 36 
-Inclusion criteria
+We made several adaptations to previously studied ACEs to allow for feasible ascertainment in electronic health records (EHRs). We defined ACE indicators (i.e. variables of grouped codes and measures) that reflected clinically meaningful vulnerability and risk groups of adversity used for targeted maternal-child care interventions in England (e.g. targeted care pathway of the Healthy Child Programme by Public Health England) and intervention studies.33-35 36
+
+### Inclusion criteria
 
 We defined ACE indicators as any experience within the family environment recorded in the child or the maternal record considered to be:
 
