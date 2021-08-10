@@ -53,9 +53,10 @@ Multiple different rule-based algorithms must be applied to specific indicators 
 
 
 ## Table example
-| Code | Coding  term  | Indicator 1 | Indicator 2 |  domain | severity | scale | reference | individual | coding system |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 912 | [D]Anorexia	Anorexia | Anorexia | Eating disorders | Maternal mental health problem | diagnostic | | | 2 | Read |
+| Code | Coding  term  | Indicator 1 | Indicator 2 |  domain | severity | scale | reference | individual | coding system | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| 912 | [D]Anorexia	Anorexia | Anorexia | Eating disorders | Maternal mental health problem | diagnostic |  |  | 2 | Read | 
+
 ## Code lists of ACEs by domain
 
 Right click on link to save as a ".txt" file (i.e. using option "save link as" )
