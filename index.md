@@ -37,9 +37,9 @@ Multiple different rule-based algorithms must be applied to specific indicators 
 
 ### Code list data dictionary
 
-*  Code: code as entered into respective system
-*  Coding  term: Associated aoding description
-*  Indicator 1: Most specific grouped indicator linking multiple codes or measures
+*  Code: `code as entered into respective system`
+*  Coding  `term: Associated aoding description`
+*  Indicator 1: `Most specific grouped indicator linking multiple codes or measures`
 *  Indicator 2: Broader grouped indicator linking multiple codes or measures
 *  Domain: ACE domain grouping all indicators together (applicable for overall code list)
 
@@ -53,8 +53,10 @@ Multiple different rule-based algorithms must be applied to specific indicators 
 
 
 ## Table example
-| Code | Coding  term  | Indicator 1 | Indicator 2 |  domain | severity | scale | reference | individual | coding system | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| Code | Coding  term  | Indicator 1 | Indicator 2 |  domain | severity | scale | reference | individual | coding system
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
 | 912 | [D]Anorexia	Anorexia | Anorexia | Eating disorders | Maternal mental health problem | diagnostic |  |  | 2 | Read | 
 
 ## Code lists of ACEs by domain
