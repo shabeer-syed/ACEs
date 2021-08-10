@@ -23,7 +23,7 @@ Given the substantial under-recording of CM and mIPV (e.g. see [1](https://www.c
 ACEs can be recorded in both mothers and children records and based on each specific child's time from birth. Children are therefore considered unexposed if no relevant maternal or child recording occur in the relevant period, regardless of previous exposure in children within the same family to mirror changes in stress levels as the family moves through different life stages.
 
 ## Code lists of ACEs by domain
-Right click on each  link to save as ".txt" file (via save link)
+Right click on link to save as a ".txt" file (i.e. using save link option)
 
 ### [Child maltreatment (873)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/cm.txt)
 ### [Social service involvement (239)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/SSI.txt)
