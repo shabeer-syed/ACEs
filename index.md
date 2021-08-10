@@ -52,23 +52,23 @@ Multiple different rule-based algorithms must be applied to specific indicators 
 
 ### Code list data dictionary
 
-*  `Code`: code as entered into respective system
-*  `Coding term`: Associated aoding description
-*  `Indicator 1`: Most specific grouped indicator linking multiple codes or measures
-*  `Indicator 2`: Broader grouped indicator linking multiple codes or measures
-*  `Domain`: ACE domain grouping all indicators together (applicable for overall code list)
+*  `Code`: Original cleaned code as entered into respective system (removed punctuations, adds prefixes: "d_" to prodcodes and "e_" to OPSC-4)
+*  `Coding term`: Associated coding description as per original coding list
+*  `Indicator 1`: Most specific ACE indicator combining multiple codes or measures
+*  `Indicator 2`: Broader ACE indicator combining multiple codes or measures
+*  `Domain`: ACE domain grouping all indicators together (applicable for the overall code list)
 
-Rule-specific markers
-*  `Severity`: A subjective term representing  different conditions of a specific code 
-*  `Scale`: 1=codes refers to a measure or test result and needs re-coding according to algorithim
-*  `Reference`: 1=code is part of family violence reference standard, 2= code can be used as a broader measure of violence 
-*  `Individual`: 1= code applies to child only, 2=code applies to mother only, 3=code applies to mother or child (i.e. eiether)
+Rule-specific tabs
+*  `Severity`: Labels different conditions or severity levels (e.g. mild, moderate, severe etc)
+*  `Scale`: 1=codes refers to a measure or test results which needs re-coding according to specified algorithm
+*  `Reference`: 1=code is part of family violence reference standard, 2=code can be used as a broader measure of family violence 
+*  `Individual`: 1=code applies to child only, 2=code applies to mother only, 3=code applies to mother or child (i.e. either)
 *  `Coding system`: 
-    -  GP/primary care: Read, OXMIS, CPRD REFERRAL FHSASPEC
-    -  HES-APC/secondary care, ONS: ICD-10, ICD-9 (applies to ONS < year 2000), HES-APC DISDEST OR ADMISORC
+    -  GP/primary care: Read, OXMIS, Prodcode (prescriptions or items), CPRD REFERRAL FHSASPEC (field specific), CPRD REFERRAL NHSSPEC (field specific)
+    -  HES-APC/secondary care/ONS: ICD-10, OPCS-4, ICD-9 (applies to ONS < year 2000), HES-APC DISDEST OR ADMISORC (field specific)
 
 
-## Table example
+## Example
 
 | Code | Coding  term  | Indicator 1 | Indicator 2 |  domain | severity | scale | reference | individual | coding system |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
