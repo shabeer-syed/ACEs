@@ -1,11 +1,11 @@
 
 # Indicators of Adverse Childhood Experiences (ACEs) in Electronic Health Records (EHRs)
 
-This repository lists all codes and measures retained from our [systematic reviews](https://adc.bmj.com/content/106/1/44.info) and validation in primary and seconary care.
 
 ![alt text](https://github.com/shabeer-syed/ACEs/raw/main/intro%20logo.png "UCL ICH")
 
 ## Introduction
+This repository lists all codes and measures retained from our [systematic reviews](https://adc.bmj.com/content/106/1/44.info) and validation in primary and seconary care.
 
 We made several adaptations to previously studied ACEs to allow for feasible ascertainment in electronic health records (EHRs). We defined ACE indicators (i.e. variables of grouped codes and measures) that reflected clinically meaningful vulnerability and risk groups of adversity used for targeted maternal-child care interventions in England (e.g. targeted care pathway of the Healthy Child Programme by Public Health England) and [intervention studies](https://www.who.int/teams/social-determinants-of-health/violence-prevention/global-status-report-on-violence-against-children-2020).
 
