@@ -221,6 +221,14 @@ Diabetes urogenital blood and endocrine diseases (GBD classification)
 Musculoskeletal disorders (GBD classification)
 ```
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+
+
 ### Codes
 code	term	Indicator	Indicator 2	Indicator 3	domain	severity	scale	reference standard	coding system	individual	Algorithm
 261	[X]Assault	Assault NOS IV GP	Assault NOS IV GP	Assault NOS IV GP	Adverse family environment				read	2	
