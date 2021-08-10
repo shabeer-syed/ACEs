@@ -221,7 +221,7 @@ Diabetes urogenital blood and endocrine diseases (GBD classification)
 Musculoskeletal disorders (GBD classification)
 ```
 
-| Tables   |      Are      |  Cool |
+| Tables | Are | Cool |
 |----------|:-------------:|------:|
 | 261 |  [X]Assault | Assault NOS IV GP |
 
