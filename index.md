@@ -1,8 +1,7 @@
-##Indicators for indentifying Adverse Childhood Experiences (ACEs) in Electronic Health Records (EHRs)
 
-You can use the [editor on GitHub](https://github.com/shabeer-syed/ACEs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Indicators for indentifying Adverse Childhood Experiences (ACEs) in Electronic Health Records (EHRs)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository list all codes and measures retained from the intial validation. 
 
 ### Markdown
 
