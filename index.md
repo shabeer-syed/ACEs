@@ -7,8 +7,8 @@
 ## Introduction
 An estimated 1 in 4 families present to health care with recorded adverse childhood experiences (ACEs). Children with ACEs face substantially higher risks of poorer health outcomes, with repeated hospital admissions and care costs.
 
-Everyone recognises the very significant challenges of identifying and monitoring of ACEs across individual services and nationally.
-We know GPs, clinical teams as well as researchers are at the forefront of this challenge.
+Everyone recognises the  significant challenges of identifying and monitoring ACEs across individual services and nationally.
+We know NHS trusts, GPs, clinical teams as well as researchers are at the forefront of this challenge.
 
 We have develeoped indicators for identifying ACEs in at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 10-years post-birth. This repository lists all codes and measures retained from the final validation process and from our [systematic reviews](https://adc.bmj.com/content/106/1/44.info).
 
