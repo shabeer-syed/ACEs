@@ -222,7 +222,7 @@ Musculoskeletal disorders (GBD classification)
 ```
 
 | Tables | Are | Cool |
-|----------|:-------------:|------:|
+|----------|----------|----------|
 | 261 |  [X]Assault | Assault NOS IV GP |
 
 
