@@ -95,15 +95,16 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 
 If your require any further information about the development of the ACE indicator, please read the publication here, or feel free to contact us:
 
-### Shabeer Syed, Researcher in Epidemiology (s.syed.16@ucl.ac.uk)
+* Shabeer Syed,* Researcher in Epidemiology (s.syed.16@ucl.ac.uk)
+
+### Study supervision by: 
+* Prof Ruth Gilbert, Professor of Clinical Epidemiology (r.gilbert@ucl.ac.uk)
+* Dr Leah Li,  Associate Professor in Medical Statistics and Epidemiology
+* Prof Gene Feder, Professor of Primary Care, Bristol Medical School (PHS)
+* Dr Janice Allister, Independent Medical Practice Professional/GP
+
 UCL Great Ormond Street Institute of Child Health
 Population, Policy and Practice, Faculty of Population Health Sciences
 London WC1N 1EH
-Oxford Institute of Clinical Psychology Training and Research, University of Oxford, Oxford, UK
-
-### Study supervision by: 
-* Prof Ruth Gilbert (r.gilbert@ucl.ac.uk)
-* Dr Leah Li
-* Prof Gene Feder
-* Dr Janice Allister
+*Oxford Institute of Clinical Psychology Training and Research, University of Oxford, Oxford, UK
 
