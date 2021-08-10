@@ -34,6 +34,8 @@ Given the substantial under-recording of CM and mIPV (e.g. see [1](https://www.c
 
 ACEs can be recorded in both mothers and children records and based on each specific child's time from birth. Children are therefore considered unexposed if no relevant maternal or child recording occur in the relevant period, regardless of previous exposure in children within the same family to mirror changes in stress levels as the family moves through different life stages.
 
+![alt text] (https://github.com/shabeer-syed/ACEs/blob/main/domains.png?raw=true "Domains")
+
 ## ACE indicators - instructions 
 The code list for ACEs are provided below.
 Each ACE indicator represents a variable of combined codes or measures describing characteristics and health care presentations of mothers and children. Indicators are further grouped into six or seven overall ACE domains (Depending on sample size, social service involvements may need to be combined with CM, which creates 6 domains).
