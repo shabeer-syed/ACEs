@@ -49,15 +49,10 @@ Code lists are structred as follows:
 * Individual
 * coding system	
 
-| Code | Coding  term  | Indicator 1 | Indicator 2| Indicator 3 |  domain | severity | scale | reference | individual | coding system |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Code | Coding  term  | Indicator 1 | Indicator 2 |  domain | severity | scale | reference | individual | coding system |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 912 | [D]Anorexia	Anorexia | Anorexia | Eating disorders | Maternal mental health problem | diagnostic | | | | 2 | Read |
 
-| 912      | [D]Anorexia	Anorexia | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-								 standard	
-		Anorexia	Eating disorders	Mental health problem					2
-2135	Anorexia nervosa	Anorexia	Anorexia	Eating disorders	Mental health problem				read	2
 
 ## Code lists of ACEs by domain
 
