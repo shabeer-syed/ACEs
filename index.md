@@ -22,14 +22,16 @@ Given the substantial under-recording of CM and mIPV (e.g. see [1](https://www.c
 
 ACEs can be recorded in both mothers and children records and based on each specific child's time from birth. Children are therefore considered unexposed if no relevant maternal or child recording occur in the relevant period, regardless of previous exposure in children within the same family to mirror changes in stress levels as the family moves through different life stages.
 
-## Domains of ACEs
-### Child maltreatment (873)
-### Social service involvement (239)
-### Maternal intimate partner violence (292) 
-### High-risk presentation of CM (6413)
+## Code lists of ACEs by domain
+Right click on link to save as a ".txt" file.
 
-### [Adverse family environment (1216)](https://raw.githubusercontent.com/shabeer-syed/ACEs/7b47fef84b217a87f0f81c5d22d1a547809908bc/AFE.txt)
-### Maternal mental health problems (3998)
-### Maternal substance misuse (2112)
+### [Child maltreatment (873)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/cm.txt)
+### [Social service involvement (239)] (https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/SSI.txt)
+### [Maternal intimate partner violence (292)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/mIPV.txt)
+### [High-risk presentation of CM (6413)] (https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/HRP-CM.txt)
 
-### Covariates: non-ACEs used to add information to risk prediction models
+### [Adverse family environment (1216)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/AFE.txt)
+### [Maternal mental health problems (3998)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/mMHPs.txt)
+### [Maternal substance misuse (2112)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/MSM.txt)
+
+### [Covariates: non-ACEs used to add information to risk prediction models]
