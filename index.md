@@ -134,6 +134,9 @@ For further information about research on ACEs and their uses, please visit:
 
 * [University College London reports](https://www.instituteofhealthequity.org/resources-reports/the-impact-of-adverse-experiences-in-the-home-on-children-and-young-people)
 
+* [The BMJ](https://www.bmj.com/content/371/bmj.m3048)
+
+
 ### Policy implications related to ACEs:
 
 Public Health England:
