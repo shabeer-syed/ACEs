@@ -14,7 +14,7 @@ We have develeoped indicators for identifying ACEs and at-risk families using ro
 
 
 ## Definitions
-We made several adaptations to previously studied ACEs to allow for feasible ascertainment in electronic health records (EHRs). We defined indicators as variables of grouped codes and measures. We aimed develop ACE indicators that reflected clinically meaningful risk groups of adversity to identify families that may be eligible for targeted maternal-child care interventions in England (e.g. targeted care pathway of the Healthy Child Programme by Public Health England). See also WHO for [intervention studies](https://www.who.int/teams/social-determinants-of-health/violence-prevention/global-status-report-on-violence-against-children-2020).
+We made several adaptations to previously studied ACEs to allow for feasible ascertainment in electronic health records (EHRs). We defined indicators as variables of grouped codes and measures. We aimed to develop ACE indicators that reflected clinically meaningful risk groups of adversity to identify families that may be eligible for targeted maternal-child care interventions in England (e.g. targeted care pathway of the Healthy Child Programme by Public Health England). See also WHO for [intervention studies](https://www.who.int/teams/social-determinants-of-health/violence-prevention/global-status-report-on-violence-against-children-2020).
 
 ## Inclusion criteria
 
@@ -65,7 +65,7 @@ Rule-specific tabs
 *  `Individual`: 1=code applies to child only, 2=code applies to mother only, 3=code applies to mother or child (i.e. either)
 *  `Coding systems`: 
     -  GP/primary care: Read, OXMIS, Prodcode (prescriptions or items), CPRD REFERRAL FHSASPEC (field specific), CPRD REFERRAL NHSSPEC (field specific)
-    
+
     -  HES-APC/secondary care/ONS: ICD-10, OPCS-4, ICD-9 (applies to ONS < year 2000), HES-APC DISDEST OR ADMISORC (field specific)
 
 
