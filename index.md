@@ -124,9 +124,9 @@ If your require any further information about the development of the ACE indicat
 
 ### More information about ACEs 
 
-For further information about research on ACEs and their uses, see:
+For further information about research on ACEs and their uses, please visit:
 
-CDC(https://www.cdc.gov/violenceprevention/aces/index.html)
+[CDC](https://www.cdc.gov/violenceprevention/aces/index.html)
 
 
 
