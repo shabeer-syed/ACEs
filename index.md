@@ -14,13 +14,13 @@ We have develeoped indicators for identifying ACEs and at-risk families using ro
 
 
 ## Definitions
-We made several adaptations to previously studied ACEs to allow for feasible ascertainment in electronic health records (EHRs). We defined ACE indicators (i.e. variables of grouped codes and measures) that reflected clinically meaningful vulnerability and risk groups of adversity used for targeted maternal-child care interventions in England (e.g. targeted care pathway of the Healthy Child Programme by Public Health England) and [intervention studies](https://www.who.int/teams/social-determinants-of-health/violence-prevention/global-status-report-on-violence-against-children-2020).
+We made several adaptations to previously studied ACEs to allow for feasible ascertainment in electronic health records (EHRs). We defined indicators as variables of grouped codes and measures. We aimed develop ACE indicators that reflected clinically meaningful risk groups of adversity to identify families that may be elgible for targeted maternal-child care interventions in England (e.g. targeted care pathway of the Healthy Child Programme by Public Health England). See aslo WHO for [intervention studies](https://www.who.int/teams/social-determinants-of-health/violence-prevention/global-status-report-on-violence-against-children-2020).
 
 ## Inclusion criteria
 
 We defined ACE indicators as any experience within the family environment recorded in the child or the maternal record considered to be:
 
-> * Frightening, violence or neglectful [(see WHO violence definition)](https://www.who.int/violence_injury_prevention/violence/world_report/en/summary_en.pdf), or traumatic with potential for immediate or longer-term harm to a child's biopsychosocial development (intentionally or unintentionally) [(see UK goverment definition)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/942454/Working_together_to_safeguard_children_inter_agency_guidance.pdf), as caused by;
+> * Frightening, violent or neglectful [(see WHO violence definition)](https://www.who.int/violence_injury_prevention/violence/world_report/en/summary_en.pdf), or traumatic with potential for immediate or longer-term harm to a child's biopsychosocial development (intentionally or unintentionally) [(see UK goverment definition)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/942454/Working_together_to_safeguard_children_inter_agency_guidance.pdf), as caused by;
 
 > * A single significant event or through repeated exposure;
 
@@ -93,7 +93,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 
 ## Contact information
 
-If your require any further information about the development of the ACE indicator, please read the publication here, or feel free to contact us:
+If your require any further information about the development of the ACE indicators, please read the publication here (insert link) or feel free to contact us:
 
 * Shabeer Syed, Researcher in Epidemiology (s.syed.16@ucl.ac.uk) 1,2 
 * Dr Arturo Gonzalez-Izquierdo, Senior Research Associate, 1, 3
