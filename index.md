@@ -2,7 +2,7 @@
 # Indicators of Adverse Childhood Experiences (ACEs) in Electronic Health Records (EHRs)
 
 
-![alt text](https://github.com/shabeer-syed/ACEs/raw/main/intro%20logo.png "UCL ICH")
+![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Logo%20intro%20disclaimer.png "UCL ICH")
 
 ## Introduction
 An estimated 1 in 4 families present to health care with recorded adverse childhood experiences (ACEs). Children with ACEs face substantially higher risks of poorer health outcomes, with repeated hospital admissions and care costs.
