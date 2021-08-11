@@ -122,7 +122,7 @@ If your require any further information about the development of the ACE indicat
 
 *5. General Practitioner, NHS*
 
-### More information about ACEs 
+## More information about ACEs 
 
 For further information about research on ACEs and their uses, please visit:
 
@@ -148,9 +148,6 @@ JAMA research collections:
 * [Child maltreatment](https://jamanetwork.com/collections/5555/child-abuse)
 * [Intimate partner violence](https://jamanetwork.com/collections/5711/intimate-partner-violence)
 
-### UK related practice implications of ACEs
-* [Wales study on routine screening of ACEs at GP pratices](https://www.wales.nhs.uk/sitesplus/documents/888/Asking%20about%20ACEs%20in%20General%20Practice.pdf)
-
 ### UK Policy implications related to ACEs:
 
 Public Health England:
@@ -164,3 +161,5 @@ HM Goverment:
 * [Working together to safeguard children: statutory framework](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)
 
 * [Public Health Wales](https://phw.nhs.wales/topics/adverse-childhood-experiences/)
+
+* [Wales study on routine screening of ACEs at GP pratices](https://www.wales.nhs.uk/sitesplus/documents/888/Asking%20about%20ACEs%20in%20General%20Practice.pdf)
