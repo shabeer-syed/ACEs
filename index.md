@@ -5,7 +5,7 @@
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Logo%20intro%20disclaimer.png "UCL ICH")
 
 ## Introduction
-Adverse Childhood Experiences (ACEs) are traumatic events in childhood, like abuse and neglect, that can increase risk for future problems. A significant proportion of families present to health care with recorded ACEs. Children with ACEs face substantially higher risks of poorer health outcomes, with repeated hospital admissions and care costs.
+A significant proportion of families present to health care with recorded Adverse Childhood Experiences (ACEs). Children with ACEs face substantially higher risks of poorer health outcomes, with repeated hospital admissions and care costs.
 
 Everyone recognises the  significant challenges of identifying and monitoring ACEs across individual services and nationally.
 We know NHS trusts, GPs, clinical teams as well as researchers are at the forefront of this challenge.
