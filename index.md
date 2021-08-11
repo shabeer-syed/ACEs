@@ -5,7 +5,7 @@
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Logo%20intro%20disclaimer.png "UCL ICH")
 
 ## Introduction
-An estimated 1 in 4 families present to health care with recorded adverse childhood experiences (ACEs). Children with ACEs face substantially higher risks of poorer health outcomes, with repeated hospital admissions and care costs.
+A significant proportion of families present to health care with recorded adverse childhood experiences (ACEs). Children with ACEs face substantially higher risks of poorer health outcomes, with repeated hospital admissions and care costs.
 
 Everyone recognises the  significant challenges of identifying and monitoring ACEs across individual services and nationally.
 We know NHS trusts, GPs, clinical teams as well as researchers are at the forefront of this challenge.
@@ -52,17 +52,17 @@ Multiple different rule-based algorithms must be applied to specific indicators 
 
 ### Code list data dictionary
 
-*  `Code`: Original cleaned code as entered into respective system (removed punctuations, adds prefixes: "d_" to prodcodes and "e_" to OPSC-4). Prefixes prevents de-duplciation as systems may use the same code for different descriptions.
-*  `Coding term`: Associated coding description as per original coding list
+*  `Code`: Original code as entered into respective system (removed punctuations, adds prefixes: "d_" to prodcodes and "e_" to OPSC-4). Prefixes prevents de-duplciation as systems may use the same code for different descriptions.
+*  `Coding term`: Original code description
 *  `Indicator 1`: Most specific ACE indicator combining multiple codes or measures
 *  `Indicator 2`: Broader ACE indicator combining multiple codes or measures
 *  `Domain`: ACE domain grouping all indicators together (applicable for the overall code list)
 
 Rule-specific tabs
-*  `Severity`: Labels different conditions or severity levels (e.g. mild, moderate, severe etc)
-*  `Scale`: 1=codes refers to a measure or test results which needs re-coding according to specified algorithm
+*  `Severity`: Where applicable, this variable indicates the severity classification of the code description. e.g. For alcohol misuse, "mild", "moderate", "severe".
+*  `Scale`: 1= Indicates that the code and severity classifications are dependent on extra clinical information (e.g. frequency of alcohol consumption). By default, this is set to "Mild" for alcohol. See rule-based algorithms.
 *  `Reference`: 1=code is part of family violence reference standard, 2=code can be used as a broader measure of family violence 
-*  `Individual`: 1=code applies to child only, 2=code applies to mother only, 3=code applies to mother or child (i.e. either)
+*  `Individual`: 1=code applies to child only, 2=code applies to mother only, 3=code applies to mother or child (i.e. either),4= code only applicable to female children
 *  `Coding systems`: 
     -  GP/primary care: Read, OXMIS, Prodcode (prescriptions or items), CPRD REFERRAL FHSASPEC (field specific), CPRD REFERRAL NHSSPEC (field specific)
 
@@ -121,3 +121,11 @@ If your require any further information about the development of the ACE indicat
 *4. Bristol Medical School, Bristol Population Health Science Institute Centre for Academic Primary Care, University of Bristol*
 
 *5. General Practitioner, NHS*
+
+### More information about ACEs 
+
+For further information about research on ACEs and their uses, see:
+
+
+
+
