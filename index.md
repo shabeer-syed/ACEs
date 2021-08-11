@@ -141,6 +141,9 @@ JAMA research collections:
 * [Child maltreatment](https://jamanetwork.com/collections/5555/child-abuse)
 * [Intimate partner violence](https://jamanetwork.com/collections/5711/intimate-partner-violence)
 
+### UK related pratice implications of ACEs
+* [Wales study on routine screening of ACEs at GP pratices](https://www.wales.nhs.uk/sitesplus/documents/888/Asking%20about%20ACEs%20in%20General%20Practice.pdf)
+
 ### UK Policy implications related to ACEs:
 
 Public Health England:
