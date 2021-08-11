@@ -98,7 +98,7 @@ If your require any further information about the development of the ACE indicat
 * Shabeer Syed, Researcher in Epidemiology (s.syed.16@ucl.ac.uk) 1,2 
 * Dr Arturo Gonzalez-Izquierdo, Senior Research Associate, 1, 3
 * Dr Linda Wijlaars, Senior Research Associate, 1, 3
-* Dr Janice Allister, Independent Medical Practice Professional/GP, 5
+* Dr Janice Allister, General Practitioner, 5
 * Dr Leah Li,  Associate Professor in Medical Statistics and Epidemiology 1
 * Prof Gene Feder, Professor of Primary Care, Bristol Medical School, 4
 * Prof Ruth Gilbert, Professor of Clinical Epidemiology (r.gilbert@ucl.ac.uk) 1,3
