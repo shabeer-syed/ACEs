@@ -132,9 +132,11 @@ For further information about research on ACEs and their uses, please visit:
 
 ### Policy implications related to ACEs:
 
-Public Health England
+Public Health England:
+
 [Vulnerability in childhood: a public health informed approach](https://www.gov.uk/government/publications/vulnerability-in-childhood-a-public-health-informed-approach)
 [Promoting children and young people’s emotional health and wellbeing](https://www.gov.uk/government/publications/promoting-children-and-young-peoples-emotional-health-and-wellbeing)
 
-HM Goverment
+HM Goverment:
+
 Working together to safeguard children: statutory framework(https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)
