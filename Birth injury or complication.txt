@@ -1,0 +1,238 @@
+code	coding term	Indicator 1	Indicator 2	Exclusion_domain	severity	scale	system
+15461	Cephalhaematoma due to birth trauma	Birth injury	Birth injury	Birth injury			read
+3139	Birth plexus inj - Erb-Duchenne	Birth injury	Birth injury	Birth injury			read
+15494	Birth trauma	Birth injury	Birth injury	Birth injury			read
+26067	Facial nerve palsy due to birth trauma	Birth injury	Birth injury	Birth injury			read
+40124	Fracture of clavicle due to birth trauma	Birth injury	Birth injury	Birth injury			read
+31885	H/O: birth trauma	Birth injury	Birth injury	Birth injury	History		read
+5629	Birth injury NOS	Birth injury	Birth injury	Birth injury			read
+18969	Brachial plexus palsy due to birth trauma	Birth injury	Birth injury	Birth injury			read
+43595	"Birth trauma, asphyxia and hypoxia"	Birth injury	Birth injury	Birth injury			read
+16958	H/O: birth injury	Birth injury	Birth injury	Birth injury	History		read
+38330	Brain injury due to birth trauma NOS	Birth injury	Birth injury	Birth injury			read
+28512	Caput succedaneum due to birth trauma	Birth injury	Birth injury	Birth injury			read
+23447	"Cerebral haemorrhage unspecified, due to birth trauma"	Birth injury	Birth injury	Birth injury			read
+40375	Subcutaneous fat necrosis due to birth injury	Birth injury	Birth injury	Birth injury			read
+42944	Torticollis due to birth injury	Birth injury	Birth injury	Birth injury			read
+55879	"Birth trauma, asphyxia or hypoxia NOS"	Birth injury	Birth injury	Birth injury			read
+45575	Fracture of humerus due to birth trauma	Birth injury	Birth injury	Birth injury			read
+22096	Scalp injuries due to birth trauma	Birth injury	Birth injury	Birth injury			read
+46344	Birth injury to face	Birth injury	Birth injury	Birth injury			read
+34694	Subdural and cerebral haemorrhage due to birth trauma	Birth injury	Birth injury	Birth injury			read
+34503	Other dislocation or subluxation due to birth trauma	Birth injury	Birth injury	Birth injury			read
+45847	Fracture of radius or ulna due to birth trauma	Birth injury	Birth injury	Birth injury			read
+62354	Fracture of tibia or fibula due to birth trauma	Birth injury	Birth injury	Birth injury			read
+37246	Birth plexus injury - Klumpke-Dejerine	Birth injury	Birth injury	Birth injury			read
+39321	Fracture of nose due to birth trauma	Birth injury	Birth injury	Birth injury			read
+45417	Sternomastoid injury due to birth injury	Birth injury	Birth injury	Birth injury			read
+49363	"Subdural haemorrhage unspecified, due to birth trauma"	Birth injury	Birth injury	Birth injury			read
+66818	"Other specified birth trauma, asphyxia or hypoxia"	Birth injury	Birth injury	Birth injury			read
+38164	Cerebral injury due to birth trauma	Birth injury	Birth injury	Birth injury			read
+45942	Dis of the skin and subcut tis comp preg childbrth puerp	Birth injury	Birth injury	Birth injury			read
+42755	Spinal/epidural anesth-induced headache dur labour/delivery	Birth injury	Birth injury	Birth injury			read
+45859	Birth fracture of radius	Birth injury	Birth injury	Birth injury			read
+46446	Local subdural haematoma due to birth trauma	Birth injury	Birth injury	Birth injury			read
+66527	Other specified birth trauma NOS	Birth injury	Birth injury	Birth injury			read
+54567	Fracture of skull due to birth trauma	Birth injury	Birth injury	Birth injury			read
+12001	Other birth fracture	Birth injury	Birth injury	Birth injury			read
+57771	Intraventricular haemorrhage due to birth injury	Birth injury	Birth injury	Birth injury			read
+56403	Birth injury to phrenic nerve	Birth injury	Birth injury	Birth injury			read
+50553	Fracture of femur due to birth trauma	Birth injury	Birth injury	Birth injury			read
+67184	Subdural or cerebral haemorrhage due to birth trauma NOS	Birth injury	Birth injury	Birth injury			read
+71531	Other specified skeleton injury due to birth trauma	Birth injury	Birth injury	Birth injury			read
+61682	Cerebral oedema due to birth injury	Birth injury	Birth injury	Birth injury			read
+35174	Eye damage due to birth trauma	Birth injury	Birth injury	Birth injury			read
+31857	Spine or spinal cord injury due to birth trauma	Birth injury	Birth injury	Birth injury			read
+48731	Cerebral haemorrhage due to birth injury	Birth injury	Birth injury	Birth injury			read
+71911	Brachial plexus palsy due to birth trauma NOS	Birth injury	Birth injury	Birth injury			read
+36208	Birth plexus injury - whole plexus	Birth injury	Birth injury	Birth injury			read
+40328	"Brachial palsy unspecified, due to birth trauma"	Birth injury	Birth injury	Birth injury			read
+58978	Other specified birth trauma	Birth injury	Birth injury	Birth injury			read
+101355	Subconjunctival haemorrhage due to birth trauma	Birth injury	Birth injury	Birth injury			read
+49220	Fracture due to birth trauma NEC	Birth injury	Birth injury	Birth injury			read
+54326	"Scalp bruising, due to birth trauma"	Birth injury	Birth injury	Birth injury			read
+70312	Tentorial tear due to birth trauma	Birth injury	Birth injury	Birth injury			read
+72349	Other skeleton injury due to birth trauma	Birth injury	Birth injury	Birth injury			read
+23890	Peripheral nerve injury due to birth trauma	Birth injury	Birth injury	Birth injury			read
+68935	Bruising of scalp due to birth injury	Birth injury	Birth injury	Birth injury			read
+93915	Birth fracture of ulna	Birth injury	Birth injury	Birth injury			read
+47690	Other fractures due to birth trauma	Birth injury	Birth injury	Birth injury			read
+57669	Scalpel wound due to birth trauma	Birth injury	Birth injury	Birth injury			read
+63806	Subdural or cerebral haemorrhage due to birth trauma OS	Birth injury	Birth injury	Birth injury			read
+103227	Other cranial or peripheral nerve palsy due to birth trauma	Birth injury	Birth injury	Birth injury			read
+65447	Scalp abrasions due to birth trauma	Birth injury	Birth injury	Birth injury			read
+67467	Other specified scalp injury due to birth trauma	Birth injury	Birth injury	Birth injury			read
+102266	"Scalp injury due to birth trauma, NOS"	Birth injury	Birth injury	Birth injury			read
+55146	Spleen rupture due to birth trauma	Birth injury	Birth injury	Birth injury			read
+63360	Subarachnoid haemorrhage due to birth injury	Birth injury	Birth injury	Birth injury			read
+65034	[X]Other birth injuries to scalp	Birth injury	Birth injury	Birth injury			read
+72399	Cranial nerve injury due to birth trauma	Birth injury	Birth injury	Birth injury			read
+92241	Laryngeal injury due to birth trauma	Birth injury	Birth injury	Birth injury			read
+101243	Spine dislocation due to birth trauma	Birth injury	Birth injury	Birth injury			read
+104636	Massive epicranial subaponeurotic haemorrhage-birth trauma	Birth injury	Birth injury	Birth injury			read
+106712	[X]Other specified birth injuries	Birth injury	Birth injury	Birth injury			read
+108601	Liver subcapsular haematoma due to birth trauma	Birth injury	Birth injury	Birth injury			read
+67265	Testicular haematoma due to birth trauma	Birth injury	Birth injury	Birth injury			read
+71125	Other specified brachial plexus palsy due to birth trauma	Birth injury	Birth injury	Birth injury			read
+94732	Cranial or peripheral nerve palsy due to birth trauma NOS	Birth injury	Birth injury	Birth injury			read
+99704	Traumatic glaucoma due to birth trauma	Birth injury	Birth injury	Birth injury			read
+99893	Trunk injury NEC due to birth trauma	Birth injury	Birth injury	Birth injury			read
+100378	Spine or spinal cord injury due to birth trauma NOS	Birth injury	Birth injury	Birth injury			read
+101601	Post-birth injury panhypopituitarism	Birth injury	Birth injury	Birth injury			read
+104183	Spine fracture due to birth trauma	Birth injury	Birth injury	Birth injury			read
+110910	[X]Other specified brain damage due to birth injury	Birth injury	Birth injury	Birth injury			read
+112248	[X]Oth intracranial laceratns+haemorrhages due/birth injury	Birth injury	Birth injury	Birth injury			read
+O294	Spinal and epidural anaesthesia-induced headache during pregnancy	Birth injury	Birth injury	Birth injury			ICD-10
+O640	Obstructed labour due to incomplete rotation of fetal head	Birth injury	Birth injury	Birth injury			ICD-10
+O745	Spinal and epidural anaesthesia-induced headache during labour and delivery	Birth injury	Birth injury	Birth injury			ICD-10
+P10	Intracranial laceration and haemorrhage due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P101	Cerebral haemorrhage due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P102	Intraventricular haemorrhage due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P103	Subarachnoid haemorrhage due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P104	Tentorial tear due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P108	Other intracranial lacerations and haemorrhages due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P109	Unspecified intracranial laceration and haemorrhage due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P11	Other birth injuries to central nervous system	Birth injury	Birth injury	Birth injury			ICD-10
+P110	Cerebral oedema due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P111	Other specified brain damage due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P112	Unspecified brain damage due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P113	Birth injury to facial nerve	Birth injury	Birth injury	Birth injury			ICD-10
+P114	Birth injury to other cranial nerves	Birth injury	Birth injury	Birth injury			ICD-10
+P115	Birth injury to spine and spinal cord	Birth injury	Birth injury	Birth injury			ICD-10
+P12	Birth injury to scalp	Birth injury	Birth injury	Birth injury			ICD-10
+P120	Cephalhaematoma due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P121	Chignon due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P122	Epicranial subaponeurotic haemorrhage due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P123	Bruising of scalp due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P128	Other birth injuries to scalp	Birth injury	Birth injury	Birth injury			ICD-10
+P129	"Birth injury to scalp, unspecified"	Birth injury	Birth injury	Birth injury			ICD-10
+P13	Birth injury to skeleton	Birth injury	Birth injury	Birth injury			ICD-10
+P130	Fracture of skull due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P131	Other birth injuries to skull	Birth injury	Birth injury	Birth injury			ICD-10
+P132	Birth injury to femur	Birth injury	Birth injury	Birth injury			ICD-10
+P133	Birth injury to other long bones	Birth injury	Birth injury	Birth injury			ICD-10
+P134	Fracture of clavicle due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P138	Birth injuries to other parts of skeleton	Birth injury	Birth injury	Birth injury			ICD-10
+P139	"Birth injury to skeleton, unspecified"	Birth injury	Birth injury	Birth injury			ICD-10
+P140	Erb paralysis due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P141	Klumpke paralysis due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P142	Phrenic nerve paralysis due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P143	Other brachial plexus birth injuries	Birth injury	Birth injury	Birth injury			ICD-10
+P15	Other birth injuries	Birth injury	Birth injury	Birth injury			ICD-10
+P151	Birth injury to spleen	Birth injury	Birth injury	Birth injury			ICD-10
+P152	Sternomastoid injury due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P153	Birth injury to eye	Birth injury	Birth injury	Birth injury			ICD-10
+P154	Birth injury to face	Birth injury	Birth injury	Birth injury			ICD-10
+P156	Subcutaneous fat necrosis due to birth injury	Birth injury	Birth injury	Birth injury			ICD-10
+P158	Other specified birth injuries	Birth injury	Birth injury	Birth injury			ICD-10
+P159	"Birth injury, unspecified"	Birth injury	Birth injury	Birth injury			ICD-10
+P100	Subdural haemorrhage due to birth injury	Subdural haemorrhage	Subdural haemorrhage	Birth injury			ICD-10
+19599	First degree perineal tear during delivery	Birth complication	Birth complication	Birth complication			read
+8021	Birth asphyxia	Birth complication	Birth complication	Birth complication			read
+15461	Cephalhaematoma due to birth trauma	Birth complication	Birth complication	Birth complication			read
+3139	Birth plexus inj - Erb-Duchenne	Birth complication	Birth complication	Birth complication			read
+15494	Birth trauma	Birth complication	Birth complication	Birth complication			read
+47657	Student health exam.	Birth complication	Birth complication	Birth complication			read
+5629	Birth injury NOS	Birth complication	Birth complication	Birth complication			read
+18969	Brachial plexus palsy due to birth trauma	Birth complication	Birth complication	Birth complication			read
+19603	"First degree perineal tear during delivery, unspecified"	Birth complication	Birth complication	Birth complication			read
+19608	First degree perineal tear during delivery NOS	Birth complication	Birth complication	Birth complication			read
+32590	Delivery problem	Birth complication	Birth complication	Birth complication			read
+36037	[X]Vaginitis following delivery	Birth complication	Birth complication	Birth complication			read
+39576	Fourth degree perineal tear during delivery	Birth complication	Birth complication	Birth complication			read
+40868	Birth brain damage NOS	Birth complication	Birth complication	Birth complication			read
+43595	"Birth trauma, asphyxia and hypoxia"	Birth complication	Birth complication	Birth complication			read
+16958	H/O: birth injury	Birth complication	Birth complication	Birth complication	History		read
+38330	Brain injury due to birth trauma NOS	Birth complication	Birth complication	Birth complication			read
+28512	Caput succedaneum due to birth trauma	Birth complication	Birth complication	Birth complication			read
+23447	"Cerebral haemorrhage unspecified, due to birth trauma"	Birth complication	Birth complication	Birth complication			read
+40375	Subcutaneous fat necrosis due to birth injury	Birth complication	Birth complication	Birth complication			read
+32838	Fetus with central nervous system malformation - delivered	Birth complication	Birth complication	Birth complication			read
+40744	Abnormal delivery	Birth complication	Birth complication	Birth complication			read
+16320	Antepartum haemorrhage NOS - delivered	Birth complication	Birth complication	Birth complication			read
+38043	Cerebral haematoma in fetus or newborn	Birth complication	Birth complication	Birth complication			read
+31254	First degree perineal tear during delivery - delivered	Birth complication	Birth complication	Birth complication			read
+42944	Torticollis due to birth injury	Birth complication	Birth complication	Birth complication			read
+55879	"Birth trauma, asphyxia or hypoxia NOS"	Birth complication	Birth complication	Birth complication			read
+49179	Birth dislocation of the shoulder	Birth complication	Birth complication	Birth complication			read
+34399	[X]Cervicitis following delivery	Birth complication	Birth complication	Birth complication			read
+43918	Fourchette tear during delivery	Birth complication	Birth complication	Birth complication			read
+32286	Cystocele - baby delivered	Birth complication	Birth complication	Birth complication			read
+46344	Birth injury to face	Birth complication	Birth complication	Birth complication			read
+54703	Late effect of musculoskeletal/connective tissue injuries	Birth complication	Birth complication	Birth complication			read
+16017	Genitourinary tract infection in pregnancy - delivered	Birth complication	Birth complication	Birth complication			read
+37246	Birth plexus injury - Klumpke-Dejerine	Birth complication	Birth complication	Birth complication			read
+45417	Sternomastoid injury due to birth injury	Birth complication	Birth complication	Birth complication			read
+38164	Cerebral injury due to birth trauma	Birth complication	Birth complication	Birth complication			read
+72022	"Fourth degree perineal tear during delivery, unspecified"	Birth complication	Birth complication	Birth complication			read
+57771	Intraventricular haemorrhage due to birth injury	Birth complication	Birth complication	Birth complication			read
+52151	[X]Labour+delivery complicat/oth evidence of fetal distress	Birth complication	Birth complication	Birth complication			read
+56403	Birth injury to phrenic nerve	Birth complication	Birth complication	Birth complication			read
+31327	Bicornuate uterus - baby delivered	Birth complication	Birth complication	Birth complication			read
+57652	Fourth degree perineal tear during delivery NOS	Birth complication	Birth complication	Birth complication			read
+24006	Galactorrhoea in pregnancy and the puerperium - delivered	Birth complication	Birth complication	Birth complication			read
+63277	Acute renal failure following labour and delivery	Birth complication	Birth complication	Birth complication			read
+109185	"Birth to 25 educatn, health and care plan-based care started"	Birth complication	Birth complication	Birth complication			read
+61682	Cerebral oedema due to birth injury	Birth complication	Birth complication	Birth complication			read
+72021	Fourth degree perineal tear during delivery - delivered	Birth complication	Birth complication	Birth complication			read
+23791	Failed or difficult intubation during labour and delivery	Birth complication	Birth complication	Birth complication			read
+48731	Cerebral haemorrhage due to birth injury	Birth complication	Birth complication	Birth complication			read
+71911	Brachial plexus palsy due to birth trauma NOS	Birth complication	Birth complication	Birth complication			read
+36208	Birth plexus injury - whole plexus	Birth complication	Birth complication	Birth complication			read
+40328	"Brachial palsy unspecified, due to birth trauma"	Birth complication	Birth complication	Birth complication			read
+63773	Haemorrhoids in pregnancy and the puerperium - delivered	Birth complication	Birth complication	Birth complication			read
+66219	[X]Other infection of genital tract following delivery	Birth complication	Birth complication	Birth complication			read
+57131	Breast engorgement in pregnancy/puerperium/lactation - deliv	Birth complication	Birth complication	Birth complication			read
+68518	"Disorders due to slow fetal growth, low and high birthweight"	Birth complication	Birth complication	Birth complication			read
+50924	First degree perineal tear during delivery with p/n problem	Birth complication	Birth complication	Birth complication			read
+52987	Fetus with chromosomal abnormality - delivered	Birth complication	Birth complication	Birth complication			read
+57419	Liver disorder in pregnancy - delivered	Birth complication	Birth complication	Birth complication			read
+70310	"Disorders slow fetal growth, low and high birthweight NOS"	Birth complication	Birth complication	Birth complication			read
+58031	"Superficial injury of shoulder and upper arm NOS, infected"	Birth complication	Birth complication	Birth complication			read
+50009	Cracked nipple in pregnancy/puerperium/lactation - delivered	Birth complication	Birth complication	Birth complication			read
+50876	Asp pneumonitis due to anaesthesia during labour and deliv	Birth complication	Birth complication	Birth complication			read
+60924	No progress with delivery	Birth complication	Birth complication	Birth complication			read
+64649	Maternal rubella during pregnancy - baby delivered	Birth complication	Birth complication	Birth complication			read
+68935	Bruising of scalp due to birth injury	Birth complication	Birth complication	Birth complication			read
+69500	Antepartum haemorrhage with trauma - delivered	Birth complication	Birth complication	Birth complication			read
+85226	[X]Other failed induction of labour	Birth complication	Birth complication	Birth complication			read
+89564	Brandt-Andrews expression of placenta	Birth complication	Birth complication	Birth complication			read
+93915	Birth fracture of ulna	Birth complication	Birth complication	Birth complication			read
+98603	"Birth injury to central nervous system, unspecified"	Birth complication	Birth complication	Birth complication			read
+103319	[X]Complications of labour and delivery	Birth complication	Birth complication	Birth complication			read
+39573	Umbilical cord not around baby's neck at delivery	Birth complication	Birth complication	Birth complication			read
+66834	Obstructed labour due to fetal malposition - delivered	Birth complication	Birth complication	Birth complication			read
+73420	Fetus with damage NOS - delivered	Birth complication	Birth complication	Birth complication			read
+85204	Antepartum haemorrhage with uterine leiomyoma - delivered	Birth complication	Birth complication	Birth complication			read
+106761	Medical condition NOS in puerperium - baby delivered	Birth complication	Birth complication	Birth complication			read
+65059	[X]Haemorrhagic+haematolog disorders of fetus and newborn	Birth complication	Birth complication	Birth complication			read
+73432	Medical condition NOS during pregnancy - baby delivered	Birth complication	Birth complication	Birth complication			read
+98003	Contraction of uterus during labour	Birth complication	Birth complication	Birth complication			read
+60277	Fetus with other damage NEC - delivered	Birth complication	Birth complication	Birth complication			read
+61597	Fourth degree perineal tear during delivery with p/n problem	Birth complication	Birth complication	Birth complication			read
+63360	Subarachnoid haemorrhage due to birth injury	Birth complication	Birth complication	Birth complication			read
+65034	[X]Other birth injuries to scalp	Birth complication	Birth complication	Birth complication			read
+67410	[X]Other genitourinary tract infections following delivery	Birth complication	Birth complication	Birth complication			read
+69365	Obstructed labour NOS - delivered	Birth complication	Birth complication	Birth complication			read
+70149	Glycosuria during pregnancy - delivered	Birth complication	Birth complication	Birth complication			read
+72351	Birth trauma due to amniocentesis	Birth complication	Birth complication	Birth complication			read
+72399	Cranial nerve injury due to birth trauma	Birth complication	Birth complication	Birth complication			read
+103283	Mental disorder in the puerperium - baby delivered	Birth complication	Birth complication	Birth complication			read
+106712	[X]Other specified birth injuries	Birth complication	Birth complication	Birth complication			read
+112156	Destruction of fetus	Birth complication	Birth complication	Birth complication			read
+68147	Congenital cardiovasc dis in puerp - baby previously deliv	Birth complication	Birth complication	Birth complication			read
+69703	Congenital cardiovasc dis in pregnancy - baby delivered	Birth complication	Birth complication	Birth complication			read
+73433	Fetus with drug damage - delivered	Birth complication	Birth complication	Birth complication			read
+73626	Fetus with hereditary disease - delivered	Birth complication	Birth complication	Birth complication			read
+90885	[X]Labour+delivery complicated by other cord entanglement	Birth complication	Birth complication	Birth complication			read
+94611	"Disorders slow fetal growth, low and high birthweight OS"	Birth complication	Birth complication	Birth complication			read
+94732	Cranial or peripheral nerve palsy due to birth trauma NOS	Birth complication	Birth complication	Birth complication			read
+101601	Post-birth injury panhypopituitarism	Birth complication	Birth complication	Birth complication			read
+106481	Antepartum haemorrhage with coagulation defect - delivered	Birth complication	Birth complication	Birth complication			read
+106492	Maternal distress - delivered	Birth complication	Birth complication	Birth complication			read
+110907	Congenital abnormality of uterus - baby delivered	Birth complication	Birth complication	Birth complication			read
+110910	[X]Other specified brain damage due to birth injury	Birth complication	Birth complication	Birth complication			read
+111263	Disproportion - major pelvic abnormality with antenatal prob	Birth complication	Birth complication	Birth complication			read
+111542	Feto-placental problems NOS - delivered	Birth complication	Birth complication	Birth complication			read
+112523	Birth paralysis of phrenic nerve	Birth complication	Birth complication	Birth complication			read
+58187	[X]Obstructed labour due to other abnormalities of fetus	Birth complication	Birth complication	Birth complication			read

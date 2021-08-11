@@ -1,0 +1,15 @@
+code	coding term	Indicator 1	Indicator 2	exclusion_domain	severity	scale	system
+35625	"Perinatal hepatitis causing jaundice, unspecified"	Mother-to-child transmission during birth	hepatitis	Mother-to-child transmission			read
+41959	Maternal gonorrhoea in pregnancy - baby not yet delivered	Mother-to-child transmission during birth	Gonorrhoea	Mother-to-child transmission			read
+112124	"Maternal gonorrhoea, unspec whether in pregnancy/puerperium"	Mother-to-child transmission during birth	Gonorrhoea	Mother-to-child transmission			read
+112125	Maternal gonorrhoea during pregnancy - baby delivered	Mother-to-child transmission during birth	Gonorrhoea	Mother-to-child transmission			read
+112126	Maternal gonorrhoea in puerperium - baby delivered	Mother-to-child transmission during birth	Gonorrhoea	Mother-to-child transmission			read
+112127	Maternal gonorrhoea in puerperium- baby previously delivered	Mother-to-child transmission during birth	Gonorrhoea	Mother-to-child transmission			read
+O982	"Gonorrhoea complicating pregnancy, childbirth and the puerperium"	Mother-to-child transmission during birth	Gonorrhoea	Mother-to-child transmission			ICD-10
+54761	Maternal syphilis in pregnancy/childbirth/puerperium	Mother-to-child transmission during birth	Syphilis	Mother-to-child transmission			read
+53986	Syphilis or venereal disease NOS	Mother-to-child transmission during birth	Syphilis	Mother-to-child transmission			read
+66537	Maternal syphilis during pregnancy - baby delivered	Mother-to-child transmission during birth	Syphilis	Mother-to-child transmission			read
+96437	"Maternal syphilis, unspec whether in pregnancy or puerperium"	Mother-to-child transmission during birth	Syphilis	Mother-to-child transmission			read
+110296	Maternal syphilis in puerperium - baby delivered	Mother-to-child transmission during birth	Syphilis	Mother-to-child transmission			read
+112122	Maternal syphilis during pregnancy - baby not yet delivered	Mother-to-child transmission during birth	Syphilis	Mother-to-child transmission			read
+112123	Maternal syphilis in puerperium - baby previously delivered	Mother-to-child transmission during birth	Syphilis	Mother-to-child transmission			read
