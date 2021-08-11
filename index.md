@@ -130,13 +130,16 @@ For further information about research on ACEs and their uses, please visit:
 
 [British Psychological Society](https://www.bps.org.uk/sites/www.bps.org.uk/files/Policy/Policy%20-%20Files/Briefing%20Paper%20-%20Adverse%20Childhood%20Experiences.pdf)
 
+[World Health Organization - Prevention of Violence](https://www.who.int/teams/social-determinants-of-health/violence-prevention)
+
 ### Policy implications related to ACEs:
 
 Public Health England:
 
 [Vulnerability in childhood: a public health informed approach](https://www.gov.uk/government/publications/vulnerability-in-childhood-a-public-health-informed-approach)
-[Promoting children and young people’s emotional health and wellbeing](https://www.gov.uk/government/publications/promoting-children-and-young-peoples-emotional-health-and-wellbeing)
+
+Promoting children and young people’s emotional health and wellbeing](https://www.gov.uk/government/publications/promoting-children-and-young-peoples-emotional-health-and-wellbeing)
 
 HM Goverment:
 
-Working together to safeguard children: statutory framework(https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)
+[Working together to safeguard children: statutory framework](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)
