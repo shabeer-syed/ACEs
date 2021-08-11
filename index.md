@@ -137,6 +137,7 @@ For further information about research on ACEs and their uses, please visit:
 * [The BMJ](https://www.bmj.com/content/371/bmj.m3048)
 
 The Lancet research collections:
+* [Violence](https://www.thelancet.com/series/violence)
 * [Child maltreatment](https://www.thelancet.com/series/child-maltreatment)
 * [Violence against women and girls](https://www.thelancet.com/series/violence-against-women-and-girls)
 * [Family planning](https://www.thelancet.com/series/family-planning)
