@@ -136,7 +136,10 @@ For further information about research on ACEs and their uses, please visit:
 
 * [The BMJ](https://www.bmj.com/content/371/bmj.m3048)
 
-* [JAMA research collection - Violence](https://jamanetwork.com/collections/5957/violence)
+JAMA research collections:
+* [Violence](https://jamanetwork.com/collections/5957/violence)
+* [Child maltreatment](https://jamanetwork.com/collections/5555/child-abuse)
+* [Intimate partner violence](https://jamanetwork.com/collections/5711/intimate-partner-violence)
 
 ### UK Policy implications related to ACEs:
 
