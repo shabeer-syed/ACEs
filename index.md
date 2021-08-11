@@ -52,7 +52,7 @@ Multiple different rule-based algorithms must be applied to specific indicators 
 
 ### Code list data dictionary
 
-*  `Code`: Original code as entered into respective system (removed punctuations, adds prefixes: "d_" to prodcodes and "e_" to OPSC-4). Prefixes prevents de-duplciation as systems may use the same code for different descriptions.
+*  `Code`: Original code as entered into respective system (removed punctuations, adds prefixes: "d_" to prodcodes and "e_" to OPSC-4). Prefixes prevents de-duplciation as different systems may use the same code for different descriptions.
 *  `Coding term`: Original code description
 *  `Indicator 1`: Most specific ACE indicator combining multiple codes or measures
 *  `Indicator 2`: Broader ACE indicator combining multiple codes or measures
