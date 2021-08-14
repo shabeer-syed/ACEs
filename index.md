@@ -165,6 +165,3 @@ HM Goverment:
 
 * [Working together to safeguard children: statutory framework](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)
 
-
-<div class="flourish-embed flourish-chart" data-src="story/767666"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
