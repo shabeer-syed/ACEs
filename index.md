@@ -55,7 +55,6 @@ Multiple different rule-based algorithms must be applied to specific indicators 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7015151"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # [See all indicators](https://shabeer-syed.github.io/ACEs/Indicators)
-![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/click%20on%20me.png "Click")
 
 ### Code list data dictionary
 
