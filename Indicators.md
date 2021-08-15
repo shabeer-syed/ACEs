@@ -1,3 +1,3 @@
-layout: page
-title: "Indicators"
-permalink: https://shabeer-syed.github.io/ACEs/Indicators
+# Overview of selected ACE indicators
+
+<div class="flourish-embed flourish-table" data-src="visualisation/7009582"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
