@@ -55,7 +55,7 @@ Multiple different rule-based algorithms must be applied to specific indicators 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7015151"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # [See all indicators & selection results](https://shabeer-syed.github.io/ACEs/Indicators) 
-See table overview for median rankings of excluded and included ACE indicators from the variable selection models.
+Click on header to see table overview of median rankings of selected and excluded ACE indicators during the variable selection process.
 
 ### Search codes by indicator and domain
 <div class="flourish-embed flourish-table" data-src="visualisation/7016334"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
