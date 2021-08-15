@@ -37,10 +37,6 @@ ACEs can be recorded in both mothers' and children's records and based on each s
 # ACEs overview
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/domains%20overview.png "Domains")
 
-## ACE indicators - selection results
-
-<div class="flourish-embed flourish-table" data-src="visualisation/7009582"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 ## ACE indicators - instructions 
 The code list for ACEs are provided below.
 Each ACE indicator represents a variable of combined codes or measures describing characteristics and health care presentations of mothers and children. Indicators are further grouped into six or seven overall ACE domains (depending on sample size, social service involvements can be combined with CM to create 6 domains).
