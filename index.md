@@ -60,6 +60,8 @@ Click on header to see table overview of median rankings of selected and exclude
 ### Search codes by indicator and domain
 <div class="flourish-embed flourish-table" data-src="visualisation/7016334"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+*Search results only shown for included indicators*
+
 ### Code list data dictionary
 
 *  `Code`: Original code as entered into respective system (removed punctuations, adds prefixes: "d_" to prodcodes and "e_" to OPSC-4). Prefixes prevents de-duplciation as different systems may use the same code for different descriptions.
