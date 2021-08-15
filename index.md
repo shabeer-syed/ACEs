@@ -50,6 +50,8 @@ Unless specified, indicators refers to information recorded in both child and ma
 Multiple different rule-based algorithms must be applied to specific indicators (mainly HRP-CM) to prevent misclassification including age-restrictions, exclusions of accidental injuries, genetic predispositions (bone diseases), traumatic birth injuries or maternal-child transmissions during birth (see below).
 
 # Indicator rankings
+*The figure shows included and excluded indicators median ranking from different variable selection models of family violence (highest value ranked 1st, lowest ranked 178th place)* 
+
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7015151"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Code list data dictionary
