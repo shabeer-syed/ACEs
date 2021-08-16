@@ -1,7 +1,7 @@
 
 # Indicators of Adverse Childhood Experiences (ACEs) in Electronic Health Records (EHRs)
 
-
+<span style="color:blue">some *blue* text</span>.
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Logo%20intro%20disclaimer.png "UCL ICH")
 
 ## Introduction
@@ -60,7 +60,7 @@ Click on the header to see a table overview of median rankings of selected and e
 ### Search codes by indicator and domain
 <div class="flourish-embed flourish-table" data-src="visualisation/7016334"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-*Search results only return codes for finally selected indicators*
+*Search results only returned for final indicators*
 
 ### Code list data dictionary
 
