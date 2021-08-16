@@ -60,7 +60,7 @@ Click on the header to see a table overview of median rankings of selected and e
 ### Search codes by indicator and domain
 <div class="flourish-embed flourish-table" data-src="visualisation/7016334"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-*Search results only shown for included indicators*
+*Search results only return codes for finally selected indicators*
 
 ### Code list data dictionary
 
