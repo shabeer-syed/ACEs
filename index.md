@@ -113,10 +113,12 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 * ### [Mother-to-child-transmissions (15)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Mother-to-child%20transmission.txt)
 
 
-### Implementation
+### Implementation of indicators
 For R or Python the simplest way to implement the code list:
-1. Merge each code list or the complete with your data file of selected patients
-2. Apply rule-specific algorithims using [control flow methods](https://adv-r.hadley.nz/control-flow.html):
+1. Merge each code list or the complete with your data file of selected patients a
+2. Use provided extra variable to subsetting to subset/filter `e.g. %>% filter(Domain=="mMHPs" & scale=="1" & data1 > cut_off)`
+
+3. Use combination  [control flow methods](https://adv-r.hadley.nz/control-flow.html) for indicators requiring cross-matching against exclusions lists (e.g. Accidents") and rule based algorithim (age critera): 
 
 ![alt text](https://cdn-coiao.nitrocdn.com/CYHudqJZsSxQpAPzLkHFOkuzFKDpEHGF/assets/static/optimized/wp-content/uploads/2021/03/a670ca8abe87057f7f4867446a2db9f4.r-case_when-multiple-cases-syntax.png "script example")
 
