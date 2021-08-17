@@ -113,7 +113,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 * ### [Mother-to-child-transmissions (15)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Mother-to-child%20transmission.txt)
 
 
-### Implementation of indicators
+## Implementation of indicators
 Using the complete set of ACEs in linked maternal child data requires some knolwedge of data management in R, Python or Stata. Whilst most indicators can simply be obtained by merging the codelist to your dataset, other requires more work. 
 
 For R or Python the simplest way to implement the code list:
