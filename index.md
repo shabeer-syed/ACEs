@@ -117,8 +117,11 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 Using the complete set of ACEs in linked maternal child data requires some knolwedge of data management in R, Python or Stata. Whilst most indicators can simply be obtained by merging the codelist to your dataset, other requires more work. 
 
 For R or Python the simplest way to implement the code list:
-1. Merge each code list or the complete with your data file of selected patients a
-2. Use provided extra variable to subsetting to subset/filter `e.g. %>% filter(Domain=="mMHPs" & scale=="1" & data1 > cut_off)`
+1. Merge each code list sepratley or the complete with your data file containting the target population 
+
+![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/merge%20codelist.png)
+
+2. Use provided extra variable to subsetting to subset/filter `e.g. %>% filter(Domain=="mMHPs" & scale=="1" & data1 > cut_off`
 
 3. Use combination  [control flow methods](https://adv-r.hadley.nz/control-flow.html) for indicators requiring cross-matching against exclusions lists (e.g. Accidents") and rule based algorithim (age critera): 
 
