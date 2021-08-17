@@ -114,6 +114,8 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 
 
 ### Implementation of indicators
+Using the complete set of ACEs in linked maternal child data requires some knolwedge of data management in R, Python or Stata. Whilst most indicators can simply be obtained by merging the codelist to your dataset, other requires more work. 
+
 For R or Python the simplest way to implement the code list:
 1. Merge each code list or the complete with your data file of selected patients a
 2. Use provided extra variable to subsetting to subset/filter `e.g. %>% filter(Domain=="mMHPs" & scale=="1" & data1 > cut_off)`
