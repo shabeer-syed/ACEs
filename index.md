@@ -116,15 +116,15 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 ## Implementation of indicators
 Using the complete set of ACEs in linked maternal child data requires some knolwedge of data management using R, Python, Stata or similiar software. Whilst most indicators are ready for use after a smiple merge with your dataset, other indicators requires implementing rule-based algorithms. 
 
-### Some suggested steps
-1. Merge each domain specific code list or the complete code list of ACEs with your data file of your target population:
+### Brief outline of suggested implementation
+1. Merge each domain specific code list or the complete code list of ACEs with your data file containing the target population:
 
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/merge%20codelist.png)
 
-2. To convert continuous measures and apply appropriate cut-off scores (e.g. alcohol units per week), you can subset/filter your measures against the additional variables provided by the codelist.
+2. Convert continuous measures and apply appropriate cut-off scores (e.g. alcohol units per week) by "filtering" relevant data against the additional cut-off variable provided (i.e. data > cut_off)
 
-e.g. In R or Python with dplyr: 
- `e.g. mmhps_alcohol <- merged_data %>% filter(Domain=="mMHPs" & `Indicator 1`=="Alcohol misuse" & scale=="1" & data1 > cut_off`
+e.g. In R or Python with dplyr; one liner:
+ `e.g. mmhps_alcohol <- merged_data %>% filter(Domain=="mMHPs" & Indicator 1=="Alcohol misuse" & scale=="1" & data1 > cut_off)`
 
 3. For faster implementation more advanced [control flow methods](https://adv-r.hadley.nz/control-flow.html) are required. This might beneficial when using indicators that depends on combining multiple rule based algorithims (age critera, accident exclusions etc)
 
