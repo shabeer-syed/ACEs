@@ -123,7 +123,7 @@ Using the complete set of ACEs in linked maternal child data requires some knolw
 
 2. Convert continuous measures and apply appropriate cut-off scores (e.g. alcohol units per week) by "filtering" relevant data against the additional cut-off variable provided (i.e. data > cut_off)
 
-e.g. In R or Python with dplyr; one liner:
+e.g. Example one liner in R or Python with dplyr:
  `e.g. mmhps_alcohol <- merged_data %>% filter(Domain=="mMHPs" & Indicator 1=="Alcohol misuse" & scale=="1" & data1 > cut_off)`
 
 3. For faster implementation and to apply multiple rule based algorithims (age critera, accident exclusions etc), more advanced [control flow methods](https://adv-r.hadley.nz/control-flow.html) are required. Control flow (if then assumptions) are widley covered elsehwere.
