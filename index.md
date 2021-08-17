@@ -117,30 +117,18 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 Using the complete set of ACEs in linked maternal child data requires some knolwedge of data management using R, Python, Stata or similiar software. Whilst most indicators are ready for use after a smiple merge with your dataset, other indicators requires implementing rule-based algorithms. 
 
 ### Brief outline of suggested implementation
-- 1. Merge each domain specific code list or the complete code list of ACEs with your data file containing the target population:
+1. Merge each domain specific code list or the complete code list of ACEs with your data file containing the target population:
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/merge%20codelist.png)
 
-- 2. Convert continuous measures and apply appropriate cut-off scores *(e.g. alcohol units per week)* by "filtering" relevant data against the additional cut-off variable provided (i.e. data > cut_off)
+2. Convert continuous measures and apply appropriate cut-off scores *(e.g. alcohol units per week)* by "filtering" relevant data against the additional cut-off variable provided (i.e. data > cut_off)
 
 e.g. Example "one liner" in R or Python with dplyr:
 
  `e.g. mmhps_alcohol <- merged_data %>% filter(Domain=="mMHPs" & Indicator 1=="Alcohol misuse" & scale=="1" & data1 > cut_off)`
 
-- 3. To apply multiple rule-based algorithims (age critera, accident exclusions etc) and for faster implementation, more advanced [control flow methods](https://adv-r.hadley.nz/control-flow.html) are required. Control flow (data dependent "if then assumptions") are widley covered elsehwere ([1](https://adv-r.hadley.nz/control-flow.html) [2](https://advanced-r-solutions.rbind.io/control-flow.html)).
+3. To apply multiple rule-based algorithims (age critera, accident exclusions etc) and for faster implementation, more advanced [control flow methods](https://adv-r.hadley.nz/control-flow.html) are required. Control flow (data dependent "if then assumptions") are widley covered elsehwere ([1](https://adv-r.hadley.nz/control-flow.html) [2](https://advanced-r-solutions.rbind.io/control-flow.html)).
 
 ![alt text](https://cdn-coiao.nitrocdn.com/CYHudqJZsSxQpAPzLkHFOkuzFKDpEHGF/assets/static/optimized/wp-content/uploads/2021/03/a670ca8abe87057f7f4867446a2db9f4.r-case_when-multiple-cases-syntax.png "script example")
-
-Example in R using fastmatch and tidyr package:
-
-``Create a vector for "conditions" 
- vector_with_condition <-  codes %>% filter(scale=="1") %>% distinct(code,cut_off)
- needs_manipulating <- merged_data %>% filter(code %fin% vector_with_condition$code) %>%
- case_when(data1 >= vector_with_condition$cut_off ~ 'keep'
-          ,vector_with_condition$cut_off >= 80 ~ 'B''
-          ,TRUE ~ 'F'
-          )``
-
-
 
 ## Contact information
 
