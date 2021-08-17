@@ -113,9 +113,18 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 * ### [Mother-to-child-transmissions (15)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Mother-to-child%20transmission.txt)
 
 
-### Iplementation
-``   Alogorithims can be implemented as follows: 
-which contained the values c(94,90,88,75,66,65,45).``
+### Implementation
+For R or Python the simplest way to use rule-specific algorithims for the ACEs code list are: 
+`` Create a vector for "conditions" 
+ vector_with_conditions <-  c(94,90,88,75,66,65,45)
+ 
+ case_when(test_score_vector >= 90 ~ 'A'
+          ,test_score_vector >= 80 ~ 'B'
+          ,test_score_vector >= 70 ~ 'C'
+          ,test_score_vector >= 60 ~ 'D'
+          ,TRUE ~ 'F'
+          )
+ ``
 
 ## Contact information
 
