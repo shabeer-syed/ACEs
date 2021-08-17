@@ -114,14 +114,15 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 
 
 ### Implementation
-For R or Python the simplest way to use rule-specific algorithims for the ACEs code list are: 
+For R or Python the simplest way to implement the code list:
+1. Merge each code list with your data file
+2. Apply rule-specific algorithims: 
+e.g. 
 ``Create a vector for "conditions" 
- vector_with_conditions <-  c(94,90,88,75,66,65,45) ``
- 
- case_when(test_score_vector >= 90 ~ 'A'
-          ,test_score_vector >= 80 ~ 'B'
-          ,test_score_vector >= 70 ~ 'C'
-          ,test_score_vector >= 60 ~ 'D'
+ vector_with_condition <-  codes %>% filter(scale=="1") %>% distinct(code,cut_off)
+ needs_manipulating <- merged_data %>% filter(code %fin% vector_with_condition$code) %>%
+ case_when(data1 >= vector_with_condition$cut_off ~ 'keep'
+          ,vector_with_condition$cut_off >= 80 ~ 'B''
           ,TRUE ~ 'F'
           )``
 
