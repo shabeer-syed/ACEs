@@ -126,7 +126,7 @@ Using the complete set of ACEs in linked maternal child data requires some knolw
 e.g. In R or Python with dplyr; one liner:
  `e.g. mmhps_alcohol <- merged_data %>% filter(Domain=="mMHPs" & Indicator 1=="Alcohol misuse" & scale=="1" & data1 > cut_off)`
 
-3. For faster implementation more advanced [control flow methods](https://adv-r.hadley.nz/control-flow.html) are required. This might beneficial when using indicators that depends on combining multiple rule based algorithims (age critera, accident exclusions etc)
+3. For faster implementation and to apply multiple rule based algorithims (age critera, accident exclusions etc), more advanced [control flow methods](https://adv-r.hadley.nz/control-flow.html) are required. Control flow (if then assumptions) are widley covered elsehwere.
 
 ![alt text](https://cdn-coiao.nitrocdn.com/CYHudqJZsSxQpAPzLkHFOkuzFKDpEHGF/assets/static/optimized/wp-content/uploads/2021/03/a670ca8abe87057f7f4867446a2db9f4.r-case_when-multiple-cases-syntax.png "script example")
 
