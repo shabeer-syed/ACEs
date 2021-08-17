@@ -11,7 +11,7 @@ Adverse childhood experiences (ACEs) are linked to considerable health problems 
 Everyone recognises the  significant challenges of identifying and monitoring ACEs across individual services and nationally.
 We know NHS trusts, GPs, clinical teams as well as researchers are at the forefront of this challenge.
 
-We have develeoped indicators for identifying ACEs and at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 10-years post-birth. This repository lists all codes and measures retained from the final validation process and accompanied [systematic reviews](https://adc.bmj.com/content/archdischild/106/1/44.full.pdf).
+We have developed indicators for identifying ACEs and at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 10-years post-birth. This repository lists all codes and measures retained from the final validation process and accompanied [systematic reviews](https://adc.bmj.com/content/archdischild/106/1/44.full.pdf).
 
 
 ## Definitions
@@ -21,7 +21,7 @@ We made several adaptations to previously studied ACEs to allow for feasible asc
 
 We defined ACE indicators as any experience within the family environment recorded in the child or the maternal record considered to be:
 
-> * Frightening, violent, traumatic or neglectful [(see WHO violence definition)](https://www.who.int/violence_injury_prevention/violence/world_report/en/summary_en.pdf),  with potential for immediate or longer-term harm to a child's biopsychosocial development (intentionally or unintentionally) [(see UK goverment definition)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/942454/Working_together_to_safeguard_children_inter_agency_guidance.pdf), as caused by;
+> * Frightening, violent, traumatic or neglectful [(see WHO violence definition)](https://www.who.int/violence_injury_prevention/violence/world_report/en/summary_en.pdf),  with potential for immediate or longer-term harm to a child's biopsychosocial development (intentionally or unintentionally) [(see UK government definition)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/942454/Working_together_to_safeguard_children_inter_agency_guidance.pdf), as caused by;
 
 > * A single significant event or through repeated exposure;
 
@@ -42,7 +42,7 @@ ACEs can be recorded in both mothers' and children's records and based on each s
 The code list for ACEs are provided below.
 Each ACE indicator represents a variable of combined codes or measures describing characteristics and health care presentations of mothers and children. Indicators are further grouped into six or seven overall ACE domains (depending on sample size, social service involvements can be combined with CM to create 6 domains).
 
-For GP records, we define indicators by combining information recorded in Read codes, prescriptions, referral fields and validated self-report measures (continous variables needing re-coding) routinely administered by GPs or nurses (e.g. alcohol use).
+For GP records, we define indicators by combining information recorded in Read codes, prescriptions, referral fields and validated self-report measures (continuous variables needing re-coding) routinely administered by GPs or nurses (e.g. alcohol use).
 
 For hospital and death registration records, we define indicators by combining codes from the International Classification of Diseases 9th/10th edition (ICD-9/10), the Classification of Interventions and Procedures (OPCS-4) and HES-APC discharge/admission fields.
 
@@ -67,7 +67,7 @@ Click on the header to see a table overview of median rankings of selected and e
 
 ### Code list data dictionary
 
-*  `Code`: Original code as entered into respective system (removed punctuations, adds prefixes: "d_" to prodcodes and "e_" to OPSC-4). Prefixes prevents de-duplciation as different systems may use the same code for different descriptions.
+*  `Code`: Original code as entered into respective system (removed punctuations, adds prefixes: "d_" to prodcodes and "e_" to OPSC-4). Prefixes prevents de-duplication as different systems may use the same code for different descriptions.
 *  `Coding term`: Original code description
 *  `Indicator 1`: Most specific ACE indicator combining multiple codes or measures
 *  `Indicator 2`: Broader ACE indicator combining multiple codes or measures
@@ -116,7 +116,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 
 
 ## Implementation of indicators
-Using the complete set of ACEs in linked maternal child data requires some knolwedge of data management using R, Python, Stata or similiar software. Whilst most indicators are ready for use after smiply merging them with your dataset, other indicators requires implementing rule-based algorithms. 
+Implementing the complete set of ACEs in linked maternal child data requires some knowledge of data management using R, Python, Stata or similar software. Whilst most indicators are ready for use after merging them with your dataset, other indicators requires implementing rule-based algorithms. 
 
 ### Brief outline of suggested implementation
 //1. Merge each domain specific code list or the complete code list of ACEs with your data file containing the target population:
@@ -191,10 +191,9 @@ Public Health England/Wales:
 
 * [Public Health Wales](https://phw.nhs.wales/topics/adverse-childhood-experiences/)
 
-* [Public Health Wales study on routine screening of ACEs at GP pratices](https://www.wales.nhs.uk/sitesplus/documents/888/Asking%20about%20ACEs%20in%20General%20Practice.pdf)
+* [Public Health Wales study on routine screening of ACEs at GP practices](https://www.wales.nhs.uk/sitesplus/documents/888/Asking%20about%20ACEs%20in%20General%20Practice.pdf)
 
 
-HM Goverment:
+HM Government:
 
 * [Working together to safeguard children: statutory framework](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)
-
