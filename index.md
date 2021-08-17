@@ -115,16 +115,17 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 
 ### Implementation
 For R or Python the simplest way to use rule-specific algorithims for the ACEs code list are: 
-`` Create a vector for "conditions" 
- vector_with_conditions <-  c(94,90,88,75,66,65,45)
+``Create a vector for "conditions" 
+ vector_with_conditions <-  c(94,90,88,75,66,65,45) ``
  
  case_when(test_score_vector >= 90 ~ 'A'
           ,test_score_vector >= 80 ~ 'B'
           ,test_score_vector >= 70 ~ 'C'
           ,test_score_vector >= 60 ~ 'D'
           ,TRUE ~ 'F'
-          )
- ``
+          )``
+
+![alt text](https://cdn-coiao.nitrocdn.com/CYHudqJZsSxQpAPzLkHFOkuzFKDpEHGF/assets/static/optimized/wp-content/uploads/2021/03/a670ca8abe87057f7f4867446a2db9f4.r-case_when-multiple-cases-syntax.png "script example")
 
 ## Contact information
 
