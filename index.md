@@ -118,15 +118,12 @@ Using the complete set of ACEs in linked maternal child data requires some knolw
 
 ### Brief outline of suggested implementation
 1. Merge each domain specific code list or the complete code list of ACEs with your data file containing the target population:
-
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/merge%20codelist.png)
-
 2. Convert continuous measures and apply appropriate cut-off scores (e.g. alcohol units per week) by "filtering" relevant data against the additional cut-off variable provided (i.e. data > cut_off)
 
 e.g. Example "one liner" in R or Python with dplyr:
  `e.g. mmhps_alcohol <- merged_data %>% filter(Domain=="mMHPs" & Indicator 1=="Alcohol misuse" & scale=="1" & data1 > cut_off)`
-
-3. For faster implementation and to apply multiple rule based algorithims (age critera, accident exclusions etc), more advanced [control flow methods](https://adv-r.hadley.nz/control-flow.html) are required. Control flow (if then assumptions) are widley covered elsehwere.
+3. To apply multiple rule-based algorithims (age critera, accident exclusions etc) and for faster implementation, more advanced [control flow methods](https://adv-r.hadley.nz/control-flow.html) are required. Control flow ("if then assumptions") are widley covered elsehwere.
 
 ![alt text](https://cdn-coiao.nitrocdn.com/CYHudqJZsSxQpAPzLkHFOkuzFKDpEHGF/assets/static/optimized/wp-content/uploads/2021/03/a670ca8abe87057f7f4867446a2db9f4.r-case_when-multiple-cases-syntax.png "script example")
 
