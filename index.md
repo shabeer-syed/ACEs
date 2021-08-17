@@ -6,7 +6,7 @@
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Logo%20intro%20disclaimer.png "UCL ICH")
 
 ## Introduction
-Adverse childhood experiences (ACEs) are linked to considerable morbidity in adulthood, and pose a substantial burden on health and social care systems.
+Adverse childhood experiences (ACEs) are linked to considerable health problems in adulthood, and can pose a substantial burden on health and social care systems.
 
 Everyone recognises the  significant challenges of identifying and monitoring ACEs across individual services and nationally.
 We know NHS trusts, GPs, clinical teams as well as researchers are at the forefront of this challenge.
