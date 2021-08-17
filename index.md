@@ -115,9 +115,13 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 
 ### Implementation
 For R or Python the simplest way to implement the code list:
-1. Merge each code list with your data file
-2. Apply rule-specific algorithims: 
-e.g. 
+1. Merge each code list or the complete with your data file of selected patients
+2. Apply rule-specific algorithims using [control flow methods](https://adv-r.hadley.nz/control-flow.html):
+
+![alt text](https://cdn-coiao.nitrocdn.com/CYHudqJZsSxQpAPzLkHFOkuzFKDpEHGF/assets/static/optimized/wp-content/uploads/2021/03/a670ca8abe87057f7f4867446a2db9f4.r-case_when-multiple-cases-syntax.png "script example")
+
+Example in R using fastmatch and tidyr package:
+
 ``Create a vector for "conditions" 
  vector_with_condition <-  codes %>% filter(scale=="1") %>% distinct(code,cut_off)
  needs_manipulating <- merged_data %>% filter(code %fin% vector_with_condition$code) %>%
@@ -126,7 +130,7 @@ e.g.
           ,TRUE ~ 'F'
           )``
 
-![alt text](https://cdn-coiao.nitrocdn.com/CYHudqJZsSxQpAPzLkHFOkuzFKDpEHGF/assets/static/optimized/wp-content/uploads/2021/03/a670ca8abe87057f7f4867446a2db9f4.r-case_when-multiple-cases-syntax.png "script example")
+
 
 ## Contact information
 
