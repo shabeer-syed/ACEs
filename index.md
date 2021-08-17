@@ -63,6 +63,8 @@ Click on the header to see a table overview of median rankings of selected and e
 
 *Search results only returned for final indicators. Codes are duplicated across  rows when multiple SNOMED CT codes apply to a single medcode, prodcode or ICD code.*
 
+## [Code list browser](https://shabeer-syed.github.io/ACEs/codelist)
+
 ### Code list data dictionary
 
 *  `Code`: Original code as entered into respective system (removed punctuations, adds prefixes: "d_" to prodcodes and "e_" to OPSC-4). Prefixes prevents de-duplciation as different systems may use the same code for different descriptions.
