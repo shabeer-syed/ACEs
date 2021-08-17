@@ -114,7 +114,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 
 
 ## Implementation of indicators
-Using the complete set of ACEs in linked maternal child data requires some knolwedge of data management in R, Python, Stata or similiar software. Whilst most indicators are ready to use after merging the codelist with your dataset, other indicators requires rule-based selection. 
+Using the complete set of ACEs in linked maternal child data requires some knolwedge of data management using R, Python, Stata or similiar software. Whilst most indicators are ready to use after merging the codelist with your dataset, other indicators requires rule-based selection. 
 
 ### Steps
 1. Merge each domain specific code list or the complete ACEs code list with your data file of the target population:
