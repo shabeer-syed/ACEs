@@ -135,13 +135,13 @@ e.g. Example "one liner" in R or Python with dplyr:
 
 If your require any further information about the development of the ACE indicators, please read the publication here (insert link) or feel free to contact us:
 
-* Shabeer Syed, Researcher in Epidemiology (s.syed.16@ucl.ac.uk) 1,2 
+* Shabeer Syed, Researcher in Epidemiology (s.syed.16@ucl.ac.uk), 1,2 
 * Dr Arturo Gonzalez-Izquierdo, Senior Research Associate, 1, 3
 * Dr Linda Wijlaars, Senior Research Associate, 1, 3
 * Dr Janice Allister, General Practitioner, 5
-* Dr Leah Li,  Associate Professor in Medical Statistics and Epidemiology 1
+* Dr Leah Li,  Associate Professor in Medical Statistics and Epidemiology, 1
 * Prof Gene Feder, Professor of Primary Care, 4
-* Prof Ruth Gilbert, Professor of Clinical Epidemiology (r.gilbert@ucl.ac.uk) 1,3
+* Prof Ruth Gilbert, Professor of Clinical Epidemiology (r.gilbert@ucl.ac.uk), 1,3
 
 *1. UCL Great Ormond Street Institute of Child Health, Population, Policy and Practice, Faculty of Population Health Sciences London WC1N 1EH*
 
