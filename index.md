@@ -121,7 +121,7 @@ Using the complete set of ACEs in linked maternal child data requires some knolw
 
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/merge%20codelist.png)
 
-2. To convert contnious measures and apply appropriate cut-off scores (e.g. alcohol units per week), you can subset/filter your measures against the additional variables provided by the codelist.
+2. To convert continuous measures and apply appropriate cut-off scores (e.g. alcohol units per week), you can subset/filter your measures against the additional variables provided by the codelist.
 
 e.g. In R or Python with dplyr: 
  `e.g. mmhps_alcohol <- merged_data %>% filter(Domain=="mMHPs" & `Indicator 1`=="Alcohol misuse" & scale=="1" & data1 > cut_off`
