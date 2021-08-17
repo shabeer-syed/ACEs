@@ -61,7 +61,7 @@ Click on the header to see a table overview of median rankings of selected and e
 ### Search codes by indicator and domain
 <div class="flourish-embed flourish-table" data-src="visualisation/7016334"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-*Search results only returned for final indicators. Codes are duplicated across multiple rows when multiple SNOMED CT codes apply to a single medcode, prodcode or ICD code.*
+*Search results only returned for final indicators. Codes are duplicated across  rows when multiple SNOMED CT codes apply to a single medcode, prodcode or ICD code.*
 
 ### Code list data dictionary
 
