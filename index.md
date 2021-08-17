@@ -112,6 +112,11 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 * ### [Birth injuries or traumatic complications (238)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Birth%20injury%20or%20complication.txt)
 * ### [Mother-to-child-transmissions (15)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Mother-to-child%20transmission.txt)
 
+
+### Iplementation
+``   Alogorithims can be implemented as follows: 
+which contained the values c(94,90,88,75,66,65,45).``
+
 ## Contact information
 
 
