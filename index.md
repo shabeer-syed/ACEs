@@ -63,7 +63,7 @@ Click on the header to see a table overview of median rankings of selected and e
 
 *Search results only returned for final indicators. Codes are duplicated across  rows when multiple SNOMED CT codes apply to a single medcode, prodcode or ICD code.*
 
-# [See Code list browser](https://shabeer-syed.github.io/ACEs/codelist)
+# [See code list browser](https://shabeer-syed.github.io/ACEs/codelist)
 
 ### Code list data dictionary
 
