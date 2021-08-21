@@ -116,10 +116,10 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 
 
 ## Suggested implementation of indicators
-Implementing the complete set of ACEs in linked maternal child data requires some knowledge of data management using R, Python, Stata or similar software. Whilst most indicators are ready for use after merging them with your dataset, other indicators requires implementing rule-based algorithms. 
+Implementing all indicators of ACEs in linked maternal child data requires some knowledge of combining different data sources using R, Python, Stata or similar software. Whilst most indicators are ready for use in your dataset (e.g. via merging), some indicators require rule-based algorithms listed below. 
 
 ### Brief outline
-//1. Merge each domain specific code list or the complete code list of ACEs with your data file containing the target population:
+//1. Merge each specific code list or the complete ACEs code list with your data file containing the target population (e.g. correct age and years):
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/merge%20codelist.png)
 
 //2. Convert continuous measures and apply appropriate cut-off scores *(e.g. alcohol units per week)* by "filtering" relevant data against the additional cut-off variable provided (i.e. data > cut_off)
