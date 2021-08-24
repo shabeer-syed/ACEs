@@ -31,7 +31,7 @@ An indicator combines codes or measures of similar health care presentations.
 
 Below is a list of manually selected indicators containing potential recordings of ACEs from GP practices and hospital admissions of child (aged 0-10 years) or maternal (12-50 years) presentations. This set of indicators are classed as “tentative” as they showed inconsistent risk associations with a pre-defined ACE reference marker (e.g. child maltreatment, intimate partner violence) across different machine and manual statistical prediction models (n=472,000 patients).
 
-![alt text](https://github.com/shabeer-syed/ACEs/blob/main/work%20flow%20survey.png "workflow survey phase")
+![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/work%20flow%20survey.png "workflow survey phase")
 
 We would like you to rate each indicator on a scale, 0-10, for its relevance and appropriateness to indicate an ACE.
 Please use the below criteria and rating guidance (see next page) along with your professional judgement to rate indicator’s on their individual basis regardless of context (e.g. dynamic and protective factors), considering the average families you’ve seen clinically ignoring any cost/time implications.
