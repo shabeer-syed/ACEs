@@ -11,7 +11,7 @@ We have therefore invited you to complete a survey to help us decide on relevant
 ### Why are adverse childhood experiences important to measure using routine data?
 Numerous clinical and UK public health policies (1,2,3,4,5) prioritise early identification of ACEs to effectively offer high-risk families support in national and local improvement program (e.g. family nurse partnership). Indicators in electronic health records (EHRs) allow for automated early clinical warning systems and longitudinal population-based classification of high-risk populations for targeted interventions at a relatively low cost. The ability to link mother's and children's records provides an opportunity to measure ACEs intergenerationally and during vital periods of prevention with regular follow-ups across care systems.
 
-## The survey
+### Expert panel ratings?
 Having read the guidance notes, this survey will take 20-60 mins to complete. The survey will ask you to rate different routinely recorded indicators of potential ACEs to help us in the selection process of deriving a final set of relevant indicators. Your "ratings" will only be available to the main researcher and their supervisors (see below). If you agree to participate, we may invite you via email to a second round of ratings. Where relevant, the second round will help resolve disagreements from the first round by providing you additional information (i.e. overall ratings from 1st round) to guide your decisions. Your input will be acknowledged in any publication.
 
 ### Contact information
@@ -23,7 +23,7 @@ Supervised by Prof Ruth Gilbert (r.gilbert@ucl.ac.uk), Dr Leah Li, Prof Gene Fed
 
 NIHR Children and Families Policy Research Unit, UCL Great Ormond Street Institute of Child Health, Population, Policy and Practice, Faculty of Population Health Sciences, London WC1N 1EH
 
-### Instructions
+## Panel rating - Instructions
 An indicator combines codes or measures of similar health care presentations.
 
 Below is a list of manually selected indicators containing potential recordings of ACEs from GP practices and hospital admissions of child (aged 0-10 years) or maternal (12-50 years) presentations. This set of indicators are classed as “tentative” as they showed inconsistent risk associations with a pre-defined ACE reference marker (e.g. child maltreatment, intimate partner violence) across different machine and manual statistical prediction models (n=472,000 patients).
@@ -93,4 +93,5 @@ Beyond the guidance above and the coding terms, there is no information presente
 
 All indicators contain a minimum of 100 recordings per 100,000 mother-child pairs.
 
-<div <iframe width="640px" height= "480" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=m8iadaQqc0mwSOaQO0aotjpeSk1Rr3JHsgW1HlK72oBUNVMyRlJTOEFTMUNCRkhDRUROWkg3T0E5MC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></div>
+### Rating form
+![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/form%20closed.PNG "closed")
