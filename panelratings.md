@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Panel ratings: Indicators of Adverse Childhood Experiences (ACEs) for routine primary and secondary electronic health records
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
 
@@ -32,3 +33,8 @@ Please use the below criteria and rating guidance (see next page) along with you
 
 
 
+=======
+layout: page
+title: "Panel ratings"
+permalink: https://acesinehrs.com/panelratings
+>>>>>>> 6292e111826efbdbb2e9215f3d53fd8bdcef016b
