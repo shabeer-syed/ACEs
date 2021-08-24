@@ -1,8 +1,6 @@
+![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/main%20ACES.png "intro header")
 # Panel ratings: Indicators of Adverse Childhood Experiences (ACEs) for routine primary and secondary electronic health records
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
-![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/main%20ACES.png "intro header")
-
-## Introduction
 An estimated 1 in 4 families present to health care with recorded adverse childhood experiences (ACEs), and substantially higher risks of poorer health outcomes, repeated hospital admissions and care costs.
 
 Everyone recognises the very significant challenges of identifying and monitoring of ACEs across individual services and nationally. We know GPs, clinical teams as well as researchers are at the forefront of this challenge.
