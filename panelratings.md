@@ -48,11 +48,11 @@ Indicators should be linked to events within the immediate family in children ag
 
 Includes harm caused by single significant events or harm caused by multiple less severe events. Highly relevant indicators are associated with considerable harm across different child development areas, including but not limited to:
 
-`- Biological: prolonged stress responses (HPA axis, SHRP), negatively impacting physiological development and increasing risk for longer-term health problems.`
+- Biological: prolonged stress responses (HPA axis, SHRP), negatively impacting physiological development and increasing risk for longer-term health problems.
 
-`- Psychological: disruptions to child attachment and risk for developing a disorganised attachment, creating negative core beliefs or schemas of threat and a heightened sense of vulnerability.`
+- Psychological: disruptions to child attachment and risk for developing a disorganised attachment, creating negative core beliefs or schemas of threat and a heightened sense of vulnerability.
 
-`- Social/behavioural: Learned coping responses that become maladaptive (self-perpetuating, hindering further learning) such as social avoidance, emotion dysregulation, mistrust, overdependency, etc.`
+- Social/behavioural: Learned coping responses that become maladaptive (self-perpetuating, hindering further learning) such as social avoidance, emotion dysregulation, mistrust, overdependency, etc.
 
 3. Clinical relevance
 Indicators should be clinically relevant and represent family needs that are amenable to early healthcare intervention, such as the national healthy child programme. This excludes broader social adversity indicators such as deprivation, where national measures already exists (e.g. IMD).
