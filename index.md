@@ -116,7 +116,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 
 
 ## Suggested implementation of indicators
-Whilst most indicators are ready for use in your dataset (e.g. via merging a code list), some indicators requires you to apply rule-based algorithms as listed below. 
+Whilst most indicators are ready for use in your dataset (e.g. via merging a code list), some indicators requires rule-based algorithms as listed below. 
 
 ### Brief outline
 //1. Merge each specific code list or the complete ACEs code list with your data file containing the target population (e.g. correct ages for children/mothers):
