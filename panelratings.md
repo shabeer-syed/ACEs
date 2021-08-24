@@ -13,7 +13,9 @@ We have therefore invited you to complete a survey to help us decide on relevant
 Numerous clinical and UK public health policies (1,2,3,4,5) prioritise early identification of ACEs to effectively offer high-risk families support in national and local improvement program (e.g. family nurse partnership). Indicators in electronic health records (EHRs) allow for automated early clinical warning systems and longitudinal population-based classification of high-risk populations for targeted interventions at a relatively low cost. The ability to link mother's and children's records provides an opportunity to measure ACEs intergenerationally and during vital periods of prevention with regular follow-ups across care systems.
 
 ### Expert panel ratings?
-Having read the guidance notes, this survey will take 20-60 mins to complete. The survey will ask you to rate different routinely recorded indicators of potential ACEs to help us in the selection process of deriving a final set of relevant indicators. Your "ratings" will only be available to the main researcher and their supervisors (see below). If you agree to participate, we may invite you via email to a second round of ratings. Where relevant, the second round will help resolve disagreements from the first round by providing you additional information (i.e. overall ratings from 1st round) to guide your decisions. Your input will be acknowledged in any publication.
+Having read the guidance notes, this survey will take 20-60 mins to complete. The survey will ask you to rate different routinely recorded indicators of potential ACEs to help us in the selection process of deriving a final set of relevant indicators. Your "ratings" will only be available to the main researcher and their supervisors (see below).
+
+If you agree to participate, we may invite you via email to a second round of ratings. Where relevant, the second round will help resolve disagreements from the first round by providing you additional information (i.e. overall ratings from 1st round) to guide your decisions. Your input will be acknowledged in any publication.
 
 ### Contact information
 If your require any further information about the study, please feel free to contact us:
@@ -38,10 +40,12 @@ Please use the below criteria and rating guidance (see next page) along with you
 We define ACEs as stress indicators of frightening or traumatic experiences that happen to a child due to compromised safety within the family (intentionally or unintentionally), with potential for immediate or longer-term biopsychosocial child harm (“toxic stress”) regardless of actual child outcomes.
 
 ## Selection Criteria
-1. Family and age criteria
+1. Family and age criteria:
+
 Indicators should be linked to events within the immediate family in children aged 0-10 years or mothers aged (12-50 years). This minimises misclassification of recordings related to events outside the immediate family (e.g. problems in teenage peer relationships etc).
 
-2. Biopsychosocial harm
+2. Biopsychosocial harm:
+
 Includes harm caused by single significant events or harm caused by multiple less severe events. Highly relevant indicators are associated with considerable harm across different child development areas, including but not limited to:
 •	Biological: prolonged stress responses (HPA axis, SHRP), negatively impacting physiological development and increasing risk for longer-term health problems.
 •	Psychological: disruptions to child attachment and risk for developing a disorganised attachment, creating negative core beliefs or schemas of threat and a heightened sense of vulnerability.
@@ -50,12 +54,16 @@ Includes harm caused by single significant events or harm caused by multiple les
 3. Clinical relevance
 Indicators should be clinically relevant and represent family needs that are amenable to early healthcare intervention, such as the national healthy child programme. This excludes broader social adversity indicators such as deprivation, where national measures already exists (e.g. IMD).
 
-Rating index
+### Rating index
 Overall rating & meaning
-•	8-10: The indicator is clearly an appropriate and consistently relevant measure for identifying ACEs
-•	6-7: The indicator is an appropriate measure but with some minor inconsistences for identifying relevant ACEs
-•	4-5: The indicator is an uncertain or equivocal measure for identifying ACEs
-•	1-3: The indicator is not appropriate and is of low relevance for identifying ACEs
+
+- 8-10: The indicator is clearly an appropriate and consistently relevant measure for identifying ACEs
+
+- 6-7: The indicator is an appropriate measure but with some minor inconsistences for identifying relevant ACEs
+
+- 4-5: The indicator is an uncertain or equivocal measure for identifying ACEs
+
+- 1-3: The indicator is not appropriate and is of low relevance for identifying ACEs
 
 ## Individual rating descriptions and examples
 ### 9-10: Definitively relevant
