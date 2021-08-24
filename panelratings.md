@@ -30,6 +30,18 @@ Below is a list of manually selected indicators containing potential recordings 
 We would like you to rate each indicator on a scale, 0-10, for its relevance and appropriateness to indicate an ACE.
 Please use the below criteria and rating guidance (see next page) along with your professional judgement to rate indicator’s on their individual basis regardless of context (e.g. dynamic and protective factors), considering the average families you’ve seen clinically ignoring any cost/time implications.
 
+### Overall definition
+We define ACEs as stress indicators of frightening or traumatic experiences that happen to a child due to compromised safety within the family (intentionally or unintentionally), with potential for immediate or longer-term biopsychosocial child harm (“toxic stress”) regardless of actual child outcomes.
 
+## Selection Criteria
+1. Family and age criteria
+Indicators should be linked to events within the immediate family in children aged 0-10 years or mothers aged (12-50 years). This minimises misclassification of recordings related to events outside the immediate family (e.g. problems in teenage peer relationships etc).
+2. Biopsychosocial harm
+Includes harm caused by single significant events or harm caused by multiple less severe events. Highly relevant indicators are associated with considerable harm across different child development areas, including but not limited to:
+•	Biological: prolonged stress responses (HPA axis, SHRP), negatively impacting physiological development and increasing risk for longer-term health problems.
+•	Psychological: disruptions to child attachment and risk for developing a disorganised attachment, creating negative core beliefs or schemas of threat and a heightened sense of vulnerability.
+•	Social/behavioural: Learned coping responses that become maladaptive (self-perpetuating, hindering further learning) such as social avoidance, emotion dysregulation, mistrust, overdependency, etc.
+3. Clinical relevance
+Indicators should be clinically relevant and represent family needs that are amenable to early healthcare intervention, such as the national healthy child programme. This excludes broader social adversity indicators such as deprivation, where national measures already exists (e.g. IMD).
 
 
