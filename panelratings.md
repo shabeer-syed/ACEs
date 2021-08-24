@@ -71,8 +71,10 @@ Overall rating & meaning
 ## Individual rating descriptions and examples
 ### 9-10: Definitively relevant
 Represent events with explicit immediate actions to secure the child’s or mother’s safety. See Child maltreatment. Psychological abuse. Physical abuse. Sexual abuse. Neglect. Intimate partner violence, child protection procedures, case conferences, out-of-home placements.
-Example intervention needs: out-of-home child placements, maternal emergency housing, police.
-Recorded examples in data: Social services case conference, Child protection category neglect, Child on protection register, Victim of domestic violence, Female genital mutilation, Neonatal withdrawal symptoms from maternal use of drugs or addiction
+
+``Example intervention needs: out-of-home child placements, maternal emergency housing, police.``
+
+``Recorded examples in data: Social services case conference, Child protection category neglect, Child on protection register, Victim of domestic violence, Female genital mutilation, Neonatal withdrawal symptoms from maternal use of drugs or addiction``
 
 ### 8: Highly relevant
 Events represent families with cause to suspect that a child is or have experienced significant adversity, with longer-term harm if no comprehensive intervention is provided. 
