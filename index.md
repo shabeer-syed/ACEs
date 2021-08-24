@@ -122,7 +122,7 @@ Whilst most indicators are ready for use in your dataset (e.g. via merging a cod
 //1. Merge each specific code list or the complete ACEs code list with your data file containing the target population (e.g. correct ages for children/mothers):
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/merge%20codelist.png)
 
-//2. Convert continuous measures and apply appropriate cut-off scores *(e.g. alcohol units per week)* by "filtering" relevant data against the additional cut-off variable provided (i.e. data > cut_off)
+//2. Convert continuous measures to binary indicators by applying/"filtering" using the additional "cut-off" variable provided (i.e. data > cut_off)
 
 e.g. Example "one liner" in R or Python with dplyr:
 
