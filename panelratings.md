@@ -72,44 +72,44 @@ Overall rating & meaning
 ### 9-10: Definitively relevant
 Represent events with explicit immediate actions to secure the child’s or mother’s safety. See Child maltreatment. Psychological abuse. Physical abuse. Sexual abuse. Neglect. Intimate partner violence, child protection procedures, case conferences, out-of-home placements.
 
-Example intervention needs: **out-of-home child placements, maternal emergency housing, police.**
+Example intervention needs: *out-of-home child placements, maternal emergency housing, police.*
 
-Recorded examples in data: **Social services case conference, Child protection category neglect, Child on protection register, Victim of domestic violence, Female genital mutilation, Neonatal withdrawal symptoms from maternal use of drugs or addiction**
+Recorded examples in data: *Social services case conference, Child protection category neglect, Child on protection register, Victim of domestic violence, Female genital mutilation, Neonatal withdrawal symptoms from maternal use of drugs or addiction*
 
 ### 8: Highly relevant
 Events represent families with cause to suspect that a child is or have experienced significant adversity, with longer-term harm if no comprehensive intervention is provided.
 
-Example intervention needs: **Entry point Level 3 "Universal Partnership Plus" in healthy child programme,6,7 CPA, maternal psychiatric admission, mental health and social care with longer-term MDT input etc.**
+Example intervention needs: *Entry point Level 3 "Universal Partnership Plus" in healthy child programme,6,7 CPA, maternal psychiatric admission, mental health and social care with longer-term MDT input etc.*
 
-Recorded examples in data: **Drug addiction maintenance therapy - methadone, Alcohol misuse - enhanced service completed, Admission to substance misuse detoxification centre, History of domestic violence, History of sexual abuse, Personal history of other physical trauma**
+Recorded examples in data: *Drug addiction maintenance therapy - methadone, Alcohol misuse - enhanced service completed, Admission to substance misuse detoxification centre, History of domestic violence, History of sexual abuse, Personal history of other physical trauma*
 
 ### 6-7: Probably relevant
 Events often represent an at-risk family with a reasonable chance of ongoing or future significant child harm.
 
-Example intervention needs: **Parenting programmes and individual maternal and/or child treatment**
+Example intervention needs: *Parenting programmes and individual maternal and/or child treatment*
 
-Recorded examples in data: **[X]Assault, [X]Obsessive - compulsive disorder, Unspecified nonorganic psychosis, Poisoning: 4-Aminophenol derivatives, Housing unsatisfactory, Other stressful life events affecting family and child, Observation for other suspected diseases and conditions, Suicide risk, Borderline personality disorder, Personal history of other mental and behavioural disorders**
+Recorded examples in data: *[X]Assault, [X]Obsessive - compulsive disorder, Unspecified nonorganic psychosis, Poisoning: 4-Aminophenol derivatives, Housing unsatisfactory, Other stressful life events affecting family and child, Observation for other suspected diseases and conditions, Suicide risk, Borderline personality disorder, Personal history of other mental and behavioural disorders*
 
 ### 5: Moderately relevant
 Events represent family stress and minor adversity with a higher likelihood of escalating into further problems if no support is provided.
 
-Example intervention needs: **Entry point Level 2 "Universal Partnership" in the healthy child programme,6,7 record in notes/discuss MDT, health visitor home visits for monitoring and psychoeducation, adult or child referral to primary care mental health team.**
+Example intervention needs: *Entry point Level 2 "Universal Partnership" in the healthy child programme,6,7 record in notes/discuss MDT, health visitor home visits for monitoring and psychoeducation, adult or child referral to primary care mental health team.*
 
-Recorded examples in data: **Supervision of very young primigravida, [V]Other unwanted pregnancy, A/N care: social risk, Family support, Domestic stress, Examination and observation following other accident, Panic disorder [episodic paroxysmal anxiety], Generalised anxiety disorder, Problem situation**
+Recorded examples in data: *Supervision of very young primigravida, [V]Other unwanted pregnancy, A/N care: social risk, Family support, Domestic stress, Examination and observation following other accident, Panic disorder [episodic paroxysmal anxiety], Generalised anxiety disorder, Problem situation*
 
 ### 3-4: Minor relevance
 Events represents lower level family concerns likely to be monitored by a GP or nurse only. 
 
-Example intervention needs: **Potential review or follow-up appt. unlikely further action is required**
+Example intervention needs: *Potential review or follow-up appt. unlikely further action is required**
 
-Recorded examples in data: **Head injury, Scalds, Chlordiazepoxide 5mg capsules, Head injury, Fracture of tibia, Poisoning: 4-Aminophenol derivatives, Burn of second degree of shoulder and upper limb, except wrist and hand, Crush injury, finger(s), Fracture of clavicle**
+Recorded examples in data: *Head injury, Scalds, Chlordiazepoxide 5mg capsules, Head injury, Fracture of tibia, Poisoning: 4-Aminophenol derivatives, Burn of second degree of shoulder and upper limb, except wrist and hand, Crush injury, finger(s), Fracture of clavicle*
 
 ### 1-2: Not at all
 Events are common in the general child population and in families seen in primary care. On their own, these presentations represent very low risk or no concerns for child harm. Can be seen in most well-functioning families. 
 
-Example intervention needs: **None. No monitoring required.**
+Example intervention needs: *None. No monitoring required.*
 
-Recorded examples in data: **Maternal diabetes, urogenital blood and endocrine diseases, cardiovascular and circulatory diseases, 111 contact disposition, Dental diseases and conditions NOS, Anal fissure unspecified, Contraception usage**
+Recorded examples in data: *Maternal diabetes, urogenital blood and endocrine diseases, cardiovascular and circulatory diseases, 111 contact disposition, Dental diseases and conditions NOS, Anal fissure unspecified, Contraception usage*
 
 ## Indicators to rate
 Please rate each below indicator for its relevance and appropriateness of identifying ACEs on a scale between 0 (not all) and 10 (definitively relevant) using the above guidance notes and your professional knowledge. Try to not think too long about your decisions. The survey should take 20-60 minutes to complete.
