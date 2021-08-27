@@ -199,7 +199,7 @@ HM Government:
 * [Working together to safeguard children: statutory framework](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)
 
 # Acknowledgements
-This webpage accompanies a study that uses data provided by patients and collected by the NHS as part of their care and support #DataSavesLives. We are extremely grateful to the generosity of the patients and their families, along with the participating GP practices and NHS staff, for their ongoing contribution to mental health and family violence research.
+This webpage accompanies a study that uses data provided by patients and collected by the NHS as part of their care and support [#DataSavesLives](https://twitter.com/hashtag/DataSavesLives?src=hashtag_click). We are extremely grateful to the generosity of the patients and their families, along with the participating GP practices and NHS staff, for their ongoing contribution to mental health and family violence research.
 
 This study was approved by the MHRA (UK) Independent Scientific Advisory Committee [ISAC protocol. 19_162R], under Section 251 (NHS Social Care Act 2006). This study was carried out as part of the CALIBER© resource. [CALIBER, led by the UCL Institute of Health Informatics](https://academic.oup.com/jamia/article/26/12/1545/5536916), is a research resource providing validated electronic health record phenotyping algorithms and tools for national structured data sources.
 
