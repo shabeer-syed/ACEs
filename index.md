@@ -197,3 +197,14 @@ Public Health England/Wales:
 HM Government:
 
 * [Working together to safeguard children: statutory framework](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)
+
+# Acknowledgements
+This webpage accompanies a study that uses data provided by patients and collected by the NHS as part of their care and support #DataSavesLives. We are extremely grateful to the generosity of the patients and their families, along with the participating GP practices and NHS staff, for their ongoing contribution to mental health and family violence research.
+
+This study was approved by the MHRA (UK) Independent Scientific Advisory Committee [ISAC protocol. 19_162R], under Section 251 (NHS Social Care Act 2006). This study was carried out as part of the CALIBER© resource. [CALIBER, led by the UCL Institute of Health Informatics](https://academic.oup.com/jamia/article/26/12/1545/5536916), is a research resource providing validated electronic health record phenotyping algorithms and tools for national structured data sources.
+
+This study is based on data from the CPRD obtained under licence from the UK Medicines and Healthcare products Regulatory Agency. The interpretation and conclusions contained in this study are those of the author/s alone HES, and ONS are under copyright © (2020), re-used with the permission of The Health & Social Care Information Centre. All rights reserved.
+
+The research was supported in part by the NIHR Great Ormond Street Hospital Biomedical Research Centre.
+
+This study is based on independent research commissioned from the NIHR Children and Families Policy Research Unit and funded by the National Institute for Health Research Policy Research Programme. The views expressed are those of the author(s) and not necessarily those of the NHS, the National Institute for Health Research, the Department of Health and Social Care or its arm's length bodies, and other Government Departments.
