@@ -122,3 +122,5 @@ All indicators contain a minimum of 100 recordings per 100,000 mother-child pair
 
 ### Rating form
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/form%20closed.PNG "closed")
+
+[Form is closed. An illustrative example can be found here](https://forms.office.com/Pages/ResponsePage.aspx?id=m8iadaQqc0mwSOaQO0aotjpeSk1Rr3JHsgW1HlK72oBURU9QTENLS0ZSOVBHM0pWNDBYQThBMU9FNS4u)
