@@ -1,48 +1,18 @@
----
-permalink:/home/
----
----
----
-
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
-    <nav>
-      <ul>
-        {% for item in site.data.menu %}
-        <li><a class="{% if page.url == item.link %}active{% endif %}" href="{{item.link}}">{{item.title}}</a></li>
-        {% endfor %}
-      </ul>
-    </nav>
-
-    {{content}}
-
-    <style>
-      nav ul {
-        display: flex;
-        list-style: none;
-      }
-      nav ul li {
-        margin-right: 10px;
-      }
-      nav ul li a {
-        text-decoration: none;
-        color: green;
-      }
-      nav ul li a:hover {
-        text-decoration: underline;
-      }
-      .active {
-        text-decoration: underline;
-      }
-    </style>
-  </body>
-</html>
+<!-- HEADER -->
+<div id="header_wrap" class="outer">
+    <header class="inner">
+      <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
+      <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      {% if site.show_downloads %}
+        <section id="downloads">
+          <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
+          <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
+        </section>
+      {% endif %}
+      {% include nav.html %}
+    </header>
+</div>
 
 # Indicators of Adverse Childhood Experiences (ACEs) in Electronic Health Records (EHRs)
 
