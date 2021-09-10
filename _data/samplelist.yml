@@ -1,0 +1,11 @@
+podcast_list_title: Favorite Podcasts
+podcasts:
+
+- title: This Week in Tech
+  url: https://twit.tv/shows/this-week-in-tech
+
+- title: Radio Lab
+  url: http://www.radiolab.org/
+
+- title: Night Vale
+  url: http://www.welcometonightvale.com/
