@@ -1,3 +1,48 @@
+---
+permalink:/home/
+---
+---
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        {% for item in site.data.menu %}
+        <li><a class="{% if page.url == item.link %}active{% endif %}" href="{{item.link}}">{{item.title}}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+    {{content}}
+
+    <style>
+      nav ul {
+        display: flex;
+        list-style: none;
+      }
+      nav ul li {
+        margin-right: 10px;
+      }
+      nav ul li a {
+        text-decoration: none;
+        color: green;
+      }
+      nav ul li a:hover {
+        text-decoration: underline;
+      }
+      .active {
+        text-decoration: underline;
+      }
+    </style>
+  </body>
+</html>
 
 # Indicators of Adverse Childhood Experiences (ACEs) in Electronic Health Records (EHRs)
 
