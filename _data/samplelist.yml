@@ -1,5 +1,5 @@
-podcast_list_title: Favorite Podcasts
-podcasts:
+podcast_list_title: Overview
+items:
 
 - title: This Week in Tech
   url: https://twit.tv/shows/this-week-in-tech
