@@ -1,19 +1,3 @@
-<!-- HEADER -->
-<div id="header_wrap" class="outer">
-    <header class="inner">
-      <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
-      <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      {% if site.show_downloads %}
-        <section id="downloads">
-          <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-          <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-        </section>
-      {% endif %}
-      {% include nav.html %}
-    </header>
-</div>
-
 # Indicators of Adverse Childhood Experiences (ACEs) in Electronic Health Records (EHRs)
 
 <span style="color:red">This site is under development and accompanies the manuscript *"Development and validation of indicators for Adverse Childhood Experiences (ACEs) in English primary and secondary care records: a population-based birth cohort study"* submitted for journal peer-review. The content should not be used until the final article has been published. The information is not intended for clinical use.</span>
