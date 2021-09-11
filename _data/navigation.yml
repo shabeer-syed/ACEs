@@ -1,11 +1,8 @@
-Menu_list: Overview
-items:
+- title: Panel ratings and definitions
+  url: /panelratings
 
 - title: Indicator selections
-  url: https://acesinehrs.com/Indicators
+  url: /Indicators
 
 - title: Code list browser ACE indicators
-  url: https://acesinehrs.com/codelist
-
-- title: Panel ratings and definitions
-  url: https://acesinehrs.com/panelratings
+  url: /codelist
