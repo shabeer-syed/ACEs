@@ -15,11 +15,6 @@ Unless specified, indicators refers to information recorded in both child and ma
 
 Multiple different rule-based algorithms must be applied to specific indicators (mainly HRP-CM) to prevent misclassification including age-restrictions, exclusions of accidental injuries, genetic predispositions (bone diseases), traumatic birth injuries or maternal-child transmissions during birth (see below).
 
-### Search codes by indicator and domain
-<div class="flourish-embed flourish-table" data-src="visualisation/7016334"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-*Search results only returned for final indicators. Codes are duplicated across  rows when multiple SNOMED CT codes apply to a single medcode, prodcode or ICD code.*
-
 # [See code list browser](https://shabeer-syed.github.io/ACEs/codelist)
 
 ### Code list data dictionary
