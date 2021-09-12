@@ -1,6 +1,6 @@
 ## Indicators for identifying Adverse Childhood Experiences in Electronic Health Records (EHRs)
 
-[![](http://i.stack.imgur.com/vwxyz.png)](http://i.stack.imgur.com/vwxyz.png)
+[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators)
 
 
 
