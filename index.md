@@ -3,8 +3,6 @@ title: Indicators for identifying Adverse Childhood Experiences in Electronic He
 ---
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Introduction%20aces.png)](https://shabeer-syed.github.io/ACEs/about) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/implement%20indicators.png)](https://shabeer-syed.github.io/ACEs/implement)
-
-
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
 
 <span style="color:red">This site is under development and accompanies the manuscript *"Development and validation of indicators for Adverse Childhood Experiences (ACEs) in English primary and secondary care records: a population-based birth cohort study"* submitted for journal peer-review. The content should not be used until the final article has been published. The information is not intended for clinical use.</span>
