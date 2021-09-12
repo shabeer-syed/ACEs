@@ -9,6 +9,9 @@ Adverse childhood experiences (ACEs) are potentially traumatic or violent events
 
 ACEs are preventable. However, many ACEs are very difficult to identify in childhood. Most studies rely on self-reports of adults many years after the event happened, when its more difficult to prevent the negative effects of ACEs.
 
+## How can routine patient data help?
+Numerous clinical and UK public health policies (1,2,3,4,5) prioritise early identification of ACEs to effectively offer high-risk families support in national and local improvement program (e.g. family nurse partnership). Indicators in electronic health records (EHRs) allow for automated early clinical warning systems and longitudinal population-based classification of high-risk populations for targeted interventions at a relatively low cost. The ability to link mother’s and children’s records provides an opportunity to measure ACEs intergenerationally and during vital periods of prevention with regular follow-ups across care systems.
+
 Everyone recognises the  significant challenges of identifying and monitoring ACEs across individual services and nationally.
 We know NHS trusts, GPs, clinical teams as well as researchers are at the forefront of this challenge.
 
