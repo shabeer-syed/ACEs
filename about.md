@@ -1,8 +1,7 @@
 ---
-title: ACEs in EHRs
+title: ACEs introduction and overview
 ---
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
-# ACEs overview
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/domains%20overview.png "Domains")
 
 ## Definitions
