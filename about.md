@@ -2,7 +2,7 @@
 title: ACEs introduction and overview
 ---
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
-Each ACE indicator represents a variable of grouped codes or measures (self-report recording) for a potential ACE. Indicators are further grouped into six or seven overall ACE domains. 
+Each ACE indicator represents a variable of grouped codes or measures for a potential recorded ACE in mothers or children. Indicators are further grouped into six or seven overall ACE domains. 
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/domains%20overview.png "Domains")
 ## Definitions and inclusions
 
