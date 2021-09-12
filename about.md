@@ -5,7 +5,6 @@ title: ACEs in EHRs
 
 We have developed indicators for identifying ACEs and at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 10-years post-birth. This repository lists all codes and measures retained from the final validation process and accompanied [systematic reviews](https://adc.bmj.com/content/archdischild/106/1/44.full.pdf).
 
-
 ## Definitions
 We made several adaptations to previously studied ACEs to allow for feasible ascertainment in electronic health records (EHRs). We defined indicators as variables of grouped codes and measures. We aimed to develop ACE indicators that reflected clinically meaningful risk groups of adversity to identify families that may be eligible for targeted maternal-child care interventions in England (e.g. targeted care pathway of the Healthy Child Programme by Public Health England). See also WHO for [intervention studies](https://www.who.int/teams/social-determinants-of-health/violence-prevention/global-status-report-on-violence-against-children-2020).
 
@@ -41,7 +40,6 @@ ACEs can be recorded in both mothers' and children's records and based on each s
 Click on the header to see a table overview of median rankings of selected and excluded ACE indicators from the selection process.
 
 ## Contact information
-
 
 If your require any further information about the development of the ACE indicators, please read the publication here (insert link) or feel free to contact us:
 
