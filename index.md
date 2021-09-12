@@ -14,4 +14,4 @@ We have developed indicators for identifying ACEs and at-risk families using rou
 
 <span style="color:red">This site is under development and accompanies the manuscript *"Development and validation of indicators for Adverse Childhood Experiences (ACEs) in English primary and secondary care records: a population-based birth cohort study"* submitted for journal peer-review. The content should not be used until the final article has been published. The information is not intended for clinical use.</span>
 
-![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Logo%20intro%20disclaimer.png "UCL ICH")
+![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Logo%20intro%20disclaimer.png)](https://www.ucl.ac.uk/children-policy-research/research)
