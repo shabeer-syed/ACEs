@@ -9,7 +9,7 @@
 
 Indicators           |  Code lists
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Indicators.png)  |  ![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Logo%20intro%20disclaimer.png)
+![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Indicators.png)[https://shabeer-syed.github.io/ACEs/Indicators] |  ![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Logo%20intro%20disclaimer.png)
 
 ## Introduction
 Adverse childhood experiences (ACEs) are linked to considerable health problems in adulthood, and can pose a substantial burden on health and social care systems.
