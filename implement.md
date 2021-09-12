@@ -3,7 +3,7 @@ title: Implemetation and code lists
 ---
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
 
-Each ACE indicator represents a variable of grouped codes or measures (self-report recording) for a potential ACE. Indicators are further grouped into six or seven overall ACE domains (depending on sample size, social service involvements can be combined with CM to create 6 domains). Code lists are provided below.
+Code lists are provided below.
 
 For GP records, we define indicators by combining information recorded in Read codes, prescriptions, referral fields and validated self-report measures (continuous variables needing re-coding) routinely administered by GPs or nurses (e.g. alcohol use).
 
