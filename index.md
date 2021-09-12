@@ -1,7 +1,5 @@
 ## Indicators for identifying Adverse Childhood Experiences in Electronic Health Records (EHRs)
 
-[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators)
-
 <span style="color:red">This site is under development and accompanies the manuscript *"Development and validation of indicators for Adverse Childhood Experiences (ACEs) in English primary and secondary care records: a population-based birth cohort study"* submitted for journal peer-review. The content should not be used until the final article has been published. The information is not intended for clinical use.</span>
 
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Logo%20intro%20disclaimer.png "UCL ICH")[https://shabeer-syed.github.io/ACEs/Indicators]
@@ -9,7 +7,7 @@
 
 Indicators           |  Code lists
 :-------------------------:|:-------------------------:
-![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Indicators.png)][https://shabeer-syed.github.io/ACEs/Indicators] |  ![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Logo%20intro%20disclaimer.png)
+[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators) |  ![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Logo%20intro%20disclaimer.png)
 
 ## Introduction
 Adverse childhood experiences (ACEs) are linked to considerable health problems in adulthood, and can pose a substantial burden on health and social care systems.
