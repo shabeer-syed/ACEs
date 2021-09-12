@@ -9,8 +9,6 @@ title: Indicators for identifying Adverse Childhood Experiences in Electronic He
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Logo%20intro%20disclaimer.png "UCL ICH")
 
 
-
-
 ## Introduction
 Adverse childhood experiences (ACEs) are linked to considerable health problems in adulthood, and can pose a substantial burden on health and social care systems.
 
