@@ -1,6 +1,8 @@
 ---
 title: ACEs introduction and overview
 ---
+### [Go back](https://shabeer-syed.github.io/ACEs/)
+![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/domains%20overview.png "Domains")
 ## Definitions and inclusions
 
 We defined ACE indicators as any experience within the family environment recorded in the child or the maternal record considered to be:
@@ -13,8 +15,6 @@ We defined ACE indicators as any experience within the family environment record
 
 > * Amenable to health or social care intervention at a family level (i.e. excluding wider factors such as socioeconomic status, community violence, school bullying etc).
 
-### [Go back](https://shabeer-syed.github.io/ACEs/)
-![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/domains%20overview.png "Domains")
 
 We made several adaptations to previously studied ACEs to allow for feasible ascertainment in electronic health records (EHRs). We defined indicators as variables of grouped codes and measures. We aimed to develop ACE indicators that reflected clinically meaningful risk groups of adversity to identify families that may be eligible for targeted maternal-child care interventions in England (e.g. targeted care pathway of the Healthy Child Programme by Public Health England). See also WHO for [intervention studies](https://www.who.int/teams/social-determinants-of-health/violence-prevention/global-status-report-on-violence-against-children-2020).
 
