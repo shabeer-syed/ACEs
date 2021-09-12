@@ -1,4 +1,6 @@
+---
 title: Indicators for identifying Adverse Childhood Experiences in Electronic Health Records (EHRs)
+---
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
 
