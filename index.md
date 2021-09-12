@@ -7,6 +7,13 @@
 
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Logo%20intro%20disclaimer.png "UCL ICH")
 
+[![alt text][image]][hyperlink]
+
+[hyperlink]: https://meta.stackoverflow.com/users/44330/jason-s
+[image]:
+https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07
+(tooltip)
+
 Indicators           |  Code lists
 :-------------------------:|:-------------------------:
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Indicators.png)[https://shabeer-syed.github.io/ACEs/Indicators] |  ![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Logo%20intro%20disclaimer.png)
