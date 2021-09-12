@@ -5,7 +5,7 @@ title: Adverse Childhood Experiences in Electronic Health Records (EHRs)
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
 
 ## Welcome
-We have developed indicators for identifying ACEs in routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth. This website and the accompanied [systematic review](https://adc.bmj.com/content/archdischild/106/1/44.full.pdf) provides more information on definitions, codes and measures used to develop indicators for ACEs.  Please use the menu above to find out more.
+We have developed indicators for identifying ACEs in routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth. This website provides more information on definitions, codes and measures used to develop indicators for ACEs.  Please use the menu above to find out more. See also published [systematic review](https://adc.bmj.com/content/archdischild/106/1/44.full.pdf)
 
 <span style="color:red">This site is under development and accompanies the manuscript *"Development and validation of indicators for Adverse Childhood Experiences (ACEs) in English primary and secondary care records: a population-based birth cohort study"* submitted for journal peer-review. The content should not be used until the final article has been published. The information is not intended for clinical use.</span>
 
