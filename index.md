@@ -10,11 +10,12 @@ Adverse childhood experiences (ACEs) are potentially traumatic or violent events
 ACEs are preventable. However, many ACEs are very difficult to identify in childhood. Most studies rely on self-reports of adults many years after the event happened, when its more difficult to prevent the negative effects of ACEs.
 
 ## How can routinely collected patient data help?
-Numerous clinical and UK public health policies (1,2,3,4,5) prioritise early identification of ACEs to effectively offer high-risk families support in national and local improvement program (e.g. family nurse partnership). Indicators in electronic health records (EHRs) allow for automated early clinical warning systems and longitudinal population-based classification of high-risk populations for targeted interventions at a relatively low cost. The ability to link mother’s and children’s records provides an opportunity to measure ACEs intergenerationally and during vital periods of prevention with regular follow-ups across care systems.
-
 Everyone recognises the  significant challenges of identifying and monitoring ACEs across individual services and nationally.
 We know NHS trusts, GPs, clinical teams as well as researchers are at the forefront of this challenge.
 
+Indicators in electronic health records (EHRs) allow for automated early clinical warning systems and longitudinal population-based classification of high-risk populations for targeted interventions at a relatively low cost. The ability to link mother’s and children’s records provides an opportunity to measure ACEs intergenerationally and during vital periods of prevention with regular follow-ups across care systems.
+
+## What are ACE indicators?
 We have developed indicators for identifying ACEs and at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 10-years post-birth. This repository lists all codes and measures retained from the final validation process and accompanied [systematic reviews](https://adc.bmj.com/content/archdischild/106/1/44.full.pdf).
 
 <span style="color:red">This site is under development and accompanies the manuscript *"Development and validation of indicators for Adverse Childhood Experiences (ACEs) in English primary and secondary care records: a population-based birth cohort study"* submitted for journal peer-review. The content should not be used until the final article has been published. The information is not intended for clinical use.</span>
