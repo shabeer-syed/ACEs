@@ -15,14 +15,6 @@ Unless specified, indicators refers to information recorded in both child and ma
 
 Multiple different rule-based algorithms must be applied to specific indicators (mainly HRP-CM) to prevent misclassification including age-restrictions, exclusions of accidental injuries, genetic predispositions (bone diseases), traumatic birth injuries or maternal-child transmissions during birth (see below).
 
-# Indicator rankings
-*The figure shows included and excluded indicators of ACEs and their median ranking from different variable selection models predicting family violence (highest value ranked 1st, lowest ranked 178th place)* 
-
-<div class="flourish-embed flourish-scatter" data-src="visualisation/7015151"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-# [See all indicators & selection results](https://shabeer-syed.github.io/ACEs/Indicators) 
-Click on the header to see a table overview of median rankings of selected and excluded ACE indicators from the selection process.
-
 ### Search codes by indicator and domain
 <div class="flourish-embed flourish-table" data-src="visualisation/7016334"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
