@@ -1,8 +1,6 @@
 ---
 title: ACEs introduction and overview
 ---
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7242701"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/domains%20overview.png "Domains")
 
@@ -27,6 +25,8 @@ Given the substantial under-recording of CM and mIPV (e.g. see [1](https://www.c
 
 ACEs can be recorded in both mothers' and children's records and based on each specific child's time from birth. Children are therefore considered unexposed if no relevant maternal or child recording occur in the relevant period, regardless of previous exposure in children within the same family to mirror changes in stress levels as the family moves through different life stages.
 
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7242701"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Indicator rankings
 *The figure shows included and excluded indicators of ACEs and their median ranking from different variable selection models predicting family violence (highest value ranked 1st, lowest ranked 178th place)* 
