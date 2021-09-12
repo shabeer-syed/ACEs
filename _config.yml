@@ -1,15 +1,5 @@
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
-
-docs_list_title: ACME Documentation
-docs:
-
-- title: Introduction
-  url: introduction.html
-
-- title: Configuration
-  url: configuration.html
-
-- title: Deployment
-  url: deployment.html
+baseurl: /ACEs
+url: https://shabeer-syed.github.io/ACEs/
