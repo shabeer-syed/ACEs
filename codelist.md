@@ -1,5 +1,5 @@
 ---
-layout:
+layout: home
 title:  Code list browser ACE indicators
 permalink: /codelist
 ---
