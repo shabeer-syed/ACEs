@@ -1,6 +1,8 @@
 ---
 title: Indicators for identifying Adverse Childhood Experiences in Electronic Health Records (EHRs)
 ---
+[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Introduction%20aces.png)](https://shabeer-syed.github.io/ACEs/about) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/implement%20indicators.png)](https://shabeer-syed.github.io/ACEs/implement)
+[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
 
 ## Introduction
 Adverse childhood experiences (ACEs) are linked to considerable health problems in adulthood, and can pose a substantial burden on health and social care systems.
@@ -9,11 +11,6 @@ Everyone recognises the  significant challenges of identifying and monitoring AC
 We know NHS trusts, GPs, clinical teams as well as researchers are at the forefront of this challenge.
 
 We have developed indicators for identifying ACEs and at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 10-years post-birth. This repository lists all codes and measures retained from the final validation process and accompanied [systematic reviews](https://adc.bmj.com/content/archdischild/106/1/44.full.pdf).
-
-
-[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Introduction%20aces.png)](https://shabeer-syed.github.io/ACEs/about) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/implement%20indicators.png)](https://shabeer-syed.github.io/ACEs/implement)
-[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
-
 
 <span style="color:red">This site is under development and accompanies the manuscript *"Development and validation of indicators for Adverse Childhood Experiences (ACEs) in English primary and secondary care records: a population-based birth cohort study"* submitted for journal peer-review. The content should not be used until the final article has been published. The information is not intended for clinical use.</span>
 
