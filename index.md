@@ -1,8 +1,3 @@
----
-layout: home
-title: Indicators of Adverse Childhood Experiences (ACEs) in Electronic Health Records (EHRs)
----
-
 <h2>Overview</h2>
 <ul>
 {% for item in site.data.samplelist.items %}
