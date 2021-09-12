@@ -12,7 +12,11 @@ ACEs are preventable. However, many ACEs are very difficult to identify in child
 Everyone recognises the  significant challenges of identifying and monitoring ACEs across individual services and nationally.
 We know NHS trusts, GPs, clinical teams as well as researchers are at the forefront of this challenge.
 
-Indicators in electronic health records (EHRs) allow for automated early clinical warning systems and longitudinal population-based classification of high-risk populations for targeted interventions at a relatively low cost. The ability to link mother’s and children’s records provides an opportunity to measure ACEs intergenerationally and during vital periods of prevention with regular follow-ups across care systems.
+Electronic health records (EHRs) are routinely collected data from hospitals, GPs and other health systems. Data is often recorded as events happens and part of routine care, which means we can indentify needs shortly after a health care presentation.
+
+Data is available at relatively low cost to patients and researchers. The ability to link mother’s and children’s records provides an opportunity to measure ACEs intergenerationally and during vital periods of prevention with regular follow-ups across care systems.
+
+![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/overall%20logo%20flow.png "workflow")
 
 ## What are ACE indicators?
 We have developed indicators for identifying ACEs and at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 10-years post-birth. This repository lists all codes and measures retained from the final validation process and accompanied [systematic reviews](https://adc.bmj.com/content/archdischild/106/1/44.full.pdf).
