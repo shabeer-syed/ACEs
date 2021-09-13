@@ -12,4 +12,3 @@ We have developed indicators for identifying ACEs in routinely collected health 
 <span style="color:red">This site is under development and accompanies the manuscript *"Development and validation of indicators for Adverse Childhood Experiences (ACEs) in English primary and secondary care records: a population-based birth cohort study"* submitted for journal peer-review. The content should not be used until the final article has been published. The information is not intended for clinical use.</span>
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
-<img src="https://raw.githubusercontent.com/shabeer-syed/ACEs/main/footer.png" alt="drawing" width="2000"/>
