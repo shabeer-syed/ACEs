@@ -124,3 +124,5 @@ All indicators contain a minimum of 100 recordings per 100,000 mother-child pair
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/form%20closed.PNG "closed")
 
 [Form is closed. An illustrative example can be found here](https://forms.office.com/Pages/ResponsePage.aspx?id=m8iadaQqc0mwSOaQO0aotjpeSk1Rr3JHsgW1HlK72oBURU9QTENLS0ZSOVBHM0pWNDBYQThBMU9FNS4u)
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
