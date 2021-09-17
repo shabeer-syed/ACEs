@@ -46,7 +46,7 @@ Rule-specific tabs
 Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 
 * ### [Child maltreatment (873)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/cm.txt)
-* ### [Social service involvement (239)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/SSI.txt)
+* ### [Social service involvement/Child maltreatment (239)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/SSI.txt)
 * ### [Maternal intimate partner violence (292)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/mIPV.txt)
 * ### [High-risk presentation of CM (643)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/HRP-CM.txt)
 
