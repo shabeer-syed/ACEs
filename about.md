@@ -55,7 +55,11 @@ ACEs can be recorded in both mothers' and children's records and based on each s
 # [See all indicators & selection results](https://shabeer-syed.github.io/ACEs/Indicators) 
 Click on the header to see a table overview of median rankings of selected and excluded ACE indicators from the selection process.
 
-## How indicators for ACEs in EHRs help patients and services? 
+# Conceptual model of ACEs and family violence as function of cumulative adversity
+
+[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/formulation.png)]
+
+The figure is an illustrative example of an integration of the socio-ecological system theory and biopsychosocial cumulative stress model1-9  that informed the selection and validation of ACEs in this study. It does not represent an exhaustive list of factors or mechanisms of ACEs or outcomes. In summary, the figure shows family violence (CM/mIPV) as outcomes from a cumulation of underlying adversity in the context of co-occurring intergenerational risk factors and limited resources across two levels (society/family).4 5 People cope with stress and perception of threat using different preventative strategies (e.g. avoidance, escape, fight) in an attempt to minimise negative consequences (e.g. see theories on emotional processing, selective attention and overestimation of threat).1 6  Whilst strategies are perceived as logical in the moment, over time, they can leave families in a cycle that perpetuates stress (e.g. avoidance prevents learning from experience). As underlying stress increases and without mediation, caregivers have fewer resources to cope and regulate responses (e.g. reduced response inhibition/executive functioning),17 increasing the risk of more immediate coping responses to escape or re-gaining control (e.g. shouting, violence, neglect etc). Coping responses may vary as a function of the level of need to escape distress and harm, ranging from immediate escape (e.g. violence, substance misuse, abandonment/neglect), to stronger forms of avoidance (e.g. avoiding going out which reduce social support systems in the longer-term).18  The model, therefore, considers families as resilient and constantly striving to cope using different strategies and resources at hand (e.g. protective factors).  We consider ACEs recorded at the family level (middle segment) as amenable to service level intervention and relevant to electronic health records (see eTable 1 for all criteria).
 
 ## Contact information
 
