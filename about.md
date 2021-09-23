@@ -62,9 +62,9 @@ The above figure is an illustrative example of an integration of the socio-ecolo
 
 It does not represent an exhaustive list of factors or mechanisms of ACEs or outcomes.
 
-In summary, the figure shows family violence (CM/mIPV) as outcomes from a cumulation of underlying adversity in the context of co-occurring intergenerational risk factors and limited resources across two levels (society/family).
+In summary, the figure shows family violence (CM/mIPV) as outcomes from a cumulation of underlying adversity in the context of co-occurring intergenerational risk factors, ([5](https://pubmed.ncbi.nlm.nih.gov/33689982/)) and limited resources across two levels (society/family).
 
-People cope with stress and perception of threat using different preventative strategies (e.g. avoidance, escape, fight) in an attempt to minimise negative consequences (e.g. see theories on emotional processing, selective attention and overestimation of threat).
+People cope with stress and perception of threat using different preventative strategies (e.g. avoidance, escape, fight) in an attempt to minimise negative consequences (e.g. see [theories on emotional processing](https://psycnet.apa.org/record/1986-15090-001), [selective attention and overestimation of threat](https://pubmed.ncbi.nlm.nih.gov/10402694/)).
 
 Whilst strategies are perceived as logical in the moment, over time, they can leave families in a cycle that perpetuates stress (e.g. avoidance prevents learning from experience). As underlying stress increases and without mediation, caregivers have fewer resources to cope and regulate responses (e.g. reduced response inhibition/executive functioning),17 increasing the risk of more immediate coping responses to escape or re-gaining control (e.g. shouting, violence, neglect etc).
 
