@@ -58,7 +58,7 @@ Click on the header to see a table overview of median rankings of selected and e
 # Conceptual model of ACEs and family violence as function of cumulative adversity
 ![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/formulation%20lower%20res%201.png)
 
-The above figure is an illustrative example of an integration of the socio-ecological system theory ([1](https://psycnet.apa.org/record/1992-98662-005),[2](https://pubmed.ncbi.nlm.nih.gov/7386966/)), and biopsychosocial cumulative stress model ([3](https://pubmed.ncbi.nlm.nih.gov/22201156/),[4](https://psycnet.apa.org/record/1989-26231-001)) that informed the validation of ACEs in this study.
+The above figure is an illustrative example of an integration of the socio-ecological system theory ([1](https://psycnet.apa.org/record/1992-98662-005),[2](https://pubmed.ncbi.nlm.nih.gov/7386966/)), and the biopsychosocial cumulative stress model ([3](https://pubmed.ncbi.nlm.nih.gov/22201156/),[4](https://psycnet.apa.org/record/1989-26231-001)) that informed the selection of relevant ACEs in this study.
 
 It does not represent an exhaustive list of factors or mechanisms of ACEs or outcomes.
 
@@ -70,7 +70,7 @@ Whilst strategies are perceived as logical in the moment, over time, they can le
 
 Coping responses may vary as a function of the level of need to escape distress and harm, ranging from immediate escape (e.g. violence, substance misuse, abandonment/neglect), to stronger forms of avoidance (e.g. avoiding going out which reduce social support systems in the longer-term) ([7](https://link.springer.com/article/10.1023/B:JOBA.0000007455.08539.94)) 
 
-The model, therefore, considers families as resilient and constantly striving to cope using different strategies and resources at hand (e.g. protective factors).  We consider ACEs recorded at the family level (middle segment) as amenable to service level intervention and relevant to electronic health records (see above for all criteria).
+The model, therefore, considers families as resilient and constantly striving to cope using different strategies and resources at hand (e.g. protective factors). We consider ACEs recorded at the family level (middle segment) as amenable to service level intervention and relevant to electronic health records (see above for all criteria).
 
 ## Contact information
 
