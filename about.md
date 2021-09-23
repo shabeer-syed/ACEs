@@ -131,7 +131,7 @@ This study is based on data from the CPRD obtained under licence from the UK Med
 
 The research was supported in part by the NIHR Great Ormond Street Hospital Biomedical Research Centre.
 
-This study is based on independent research commissioned from the NIHR Children and Families Policy Research Unit and funded by the National Institute for Health Research Policy Research Programme. The views expressed are those of the author(s) and not necessarily those of the NHS, the National Institute for Health Research, the Department of Health and Social Care or its arm's length bodies, and other Government Departments.
+This research benefits from and contributes to the [NIHR Children and Families Policy Research Unit](https://www.ucl.ac.uk/children-policy-research/), but was not commissioned by the National Institute for Health Research (NIHR) Policy Research Programme. The views expressed are those of the author(s) and not necessarily those of the NHS, the National Institute for Health Research, the Department of Health and Social Care or its arm's length bodies, and other Government Departments.
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/logo%20affil.png)](https://www.ucl.ac.uk/children-policy-research/research)
 
