@@ -56,7 +56,7 @@ ACEs can be recorded in both mothers' and children's records and based on each s
 Click on the header to see a table overview of median rankings of selected and excluded ACE indicators from the selection process.
 
 # Conceptual model of ACEs and family violence as function of cumulative adversity
-![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/formulation.png)
+![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/formulation%20lower%20res%201.png)
 
 The above figure is an illustrative example of an integration of the socio-ecological system theory ([1](https://psycnet.apa.org/record/1992-98662-005),[2](https://pubmed.ncbi.nlm.nih.gov/7386966/)), and biopsychosocial cumulative stress model ([3](https://pubmed.ncbi.nlm.nih.gov/22201156/),[4](https://psycnet.apa.org/record/1989-26231-001)) that informed the validation of ACEs in this study.
 
