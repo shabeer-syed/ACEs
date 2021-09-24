@@ -13,7 +13,7 @@ ACEs are preventable. However, many ACEs are very difficult to identify in child
 Everyone recognises the  significant challenges of identifying and monitoring ACEs across individual services and nationally.
 We know NHS trusts, GPs, clinical teams as well as researchers are at the forefront of this challenge.
 
-Electronic health records (EHRs) are routinely collected data from hospitals, GPs and other health systems. Data is often recorded as events happens and part of routine care, which means we can indentify needs shortly after a health care presentation. Data is available at relatively low cost to patients and researchers. 
+Electronic health records (EHRs) are routinely collected data from hospitals, GPs and other health systems. Data is often recorded as events happens and part of routine care, and available shortly after  after a health care presentation. Data is available at relatively low cost to researchers and burden to patients. 
 
 In the UK, mothers and children's data can be linked across services. The ability to link mother’s and children’s records provides an opportunity to measure ACEs before pregnancy, throughout childhood and even intergenerationally.
 
