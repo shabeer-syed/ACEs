@@ -19,7 +19,7 @@ In the UK, mothers and children's data can be linked across services. The abilit
 
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/overall%20logo%20flow.png "workflow")
 
-## All data is non-identifiable and secure. Find out more about linked EHRs and how they can benefit us all.
+## Find out more about linked EHRs and how they can benefit us all.
 <iframe width="600" height="400" src="https://mediacentral.ucl.ac.uk//Player?autostart=n&fullscreen=y&width=0&height=0&videoId=CFGDc8DB&quality=hi&captions=y&chapterId=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What are ACE indicators?
