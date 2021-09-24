@@ -13,13 +13,14 @@ ACEs are preventable. However, many ACEs are very difficult to identify in child
 Everyone recognises the  significant challenges of identifying and monitoring ACEs across individual services and nationally.
 We know NHS trusts, GPs, clinical teams as well as researchers are at the forefront of this challenge.
 
-Electronic health records (EHRs) are routinely collected data from hospitals, GPs and other health systems. Data is often recorded as events happens and part of routine care, and available shortly after  after a health care presentation. Data is available at relatively low cost to researchers and burden to patients. 
+Electronic health records (EHRs) are routinely collected data from hospitals, GPs and other health systems. Data is often recorded as events happens and part of routine care. The data is available shorlty  after a health care presentation with little burden to patients. All data is made non-identifiable and stored securely (watch the video below to find out more). 
 
 In the UK, mothers and children's data can be linked across services. The ability to link mother’s and children’s records provides an opportunity to measure ACEs before pregnancy, throughout childhood and even intergenerationally.
-<iframe width="600" height="400" src="https://mediacentral.ucl.ac.uk//Player?autostart=n&fullscreen=y&width=0&height=0&videoId=CFGDc8DB&quality=hi&captions=y&chapterId=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/overall%20logo%20flow.png "workflow")
+
+#Find out more about linked EHRs and how they can benefit us all.
+<iframe width="600" height="400" src="https://mediacentral.ucl.ac.uk//Player?autostart=n&fullscreen=y&width=0&height=0&videoId=CFGDc8DB&quality=hi&captions=y&chapterId=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What are ACE indicators?
 We have developed indicators for identifying ACEs and at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth. This page provides more information on definitions and brief methods used to develop the indicators. 
