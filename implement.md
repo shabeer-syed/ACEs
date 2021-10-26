@@ -17,7 +17,9 @@ Multiple different rule-based algorithms must be applied to specific indicators 
 
 *  `Code`: Original code as entered into respective system (removed punctuations, adds prefixes: "d_" to prodcodes and "e_" to OPSC-4). Prefixes prevents de-duplication as different systems may use the same code for different descriptions.
 *  `Coding term`: Original code description
-*  `Indicator 1`: Most specific ACE indicator combining multiple codes or measures
+*  `Indicator code`: Indicator code name
+*   `Indicator specific`: Most specific indicator
+*  `Indicator 1`: Main rACE indicator combining multiple codes or measures as used in  validation paper
 *  `Indicator 2`: Broader ACE indicator combining multiple codes or measures
 *  `Domain`: ACE domain grouping all indicators together (applicable for the overall code list)
 
