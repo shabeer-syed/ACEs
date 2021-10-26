@@ -57,8 +57,8 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
  | `Coding term` | Original code description |
  | `Indicator code` | Indicator code name | 
  | `Indicator specific` | Most specific indicator |
- | `Indicator 1` | Main ACE indicator combining multiple codes or measures as used in  validation paper | 
- | `Indicator 2` | Broader ACE indicator combining multiple codes or measures |
+ | **Indicator 1** | Main ACE indicator combining multiple codes or measures as used in  validation paper | 
+ | **Indicator 2** | Broader ACE indicator combining multiple codes or measures |
  | `Domain` | ACE domain grouping all indicators together (applicable for the overall code list) | 
  | `Severity` | Where applicable, this variable indicates the severity classification of the code description. *e.g. For alcohol misuse, "mild", "moderate", "severe".* |
  | `Scale` | 1= Indicates that the code and severity classifications are dependent on extra clinical information (e.g. frequency of alcohol consumption). By default, this is set to "Mild" for alcohol. See rule-based algorithms. |
