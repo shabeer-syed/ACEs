@@ -10,6 +10,8 @@ Adverse childhood experiences (ACEs) are potentially traumatic or [violent](http
 ACEs are preventable. However, many ACEs are very difficult to identify in childhood. Most studies rely on self-reports of adults many years after the event happened, when its more difficult to prevent the negative effects of ACEs.
 
 ## How can routinely collected non-identifiable patient data help?
+-----------------------------------------------------------------
+
 Everyone recognises the  significant challenges of identifying and monitoring ACEs across individual services and nationally.
 We know NHS trusts, GPs, clinical teams as well as researchers are at the forefront of this challenge.
 
@@ -21,9 +23,13 @@ In the UK, mothers and children's data can be linked across services. The abilit
 
 
 ## Find out more about linked EHRs and how they can benefit us all.
+---------------------------------------------------------------------
+
 <iframe width="600" height="380" src="https://mediacentral.ucl.ac.uk//Player?autostart=n&fullscreen=y&width=0&height=0&videoId=CFGDc8DB&quality=hi&captions=y&chapterId=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What are ACE indicators?
+--------------------------------------------
+
 We have developed indicators for identifying ACEs and at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth. This page provides more information on definitions and brief methods used to develop the indicators. 
 
 Each ACE indicator represents a variable of grouped codes or measures for a potential recorded ACE in mothers or children. Indicators are further grouped into six or seven overall ACE domains.
@@ -31,6 +37,7 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/7242701"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Definitions and inclusions
+-------------------------------------------------------
 
 We defined ACE indicators as any experience within the family environment recorded in the child or the maternal record considered to be:
 
@@ -52,6 +59,8 @@ Given the substantial under-recording of CM and mIPV (e.g. see [1](https://www.c
 ACEs can be recorded in both mothers' and children's records. ACEs are considered based on each specific child's time from birth. Children are therefore considered unexposed if no relevant recording occur in the study period, regardless of previous exposure in children within the same family. This approach mirrors changes in stress levels as the family moves through different life stages.
 
 # Indicator rankings
+--------------------------------------------
+
 *The figure shows included and excluded indicators of ACEs and their median ranking from different variable selection models predicting family violence (highest value ranked 1st, lowest ranked 178th place)* 
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7015151"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -60,6 +69,8 @@ ACEs can be recorded in both mothers' and children's records. ACEs are considere
 Click on the header to see a table overview of median rankings of selected and excluded ACE indicators from the selection process.
 
 # Conceptual model of ACEs and family violence as function of cumulative adversity
+--------------------------------------------------------------------------------
+
 ![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/formulation%20lower%20res%201.png)
 
 The above figure is an illustrative example of an integration of the socio-ecological system theory ([1](https://psycnet.apa.org/record/1992-98662-005),[2](https://pubmed.ncbi.nlm.nih.gov/7386966/)), and the biopsychosocial cumulative stress model ([3](https://pubmed.ncbi.nlm.nih.gov/22201156/),[4](https://psycnet.apa.org/record/1989-26231-001)) that informed the selection of relevant ACEs in this study.
@@ -77,6 +88,7 @@ Coping responses may vary as a function of the level of need to escape distress 
 The model, therefore, considers families as resilient and constantly striving to cope using different strategies and resources at hand (e.g. protective factors). We consider ACEs recorded at the family level (middle segment) as amenable to service level intervention and relevant to electronic health records (see above for all criteria).
 
 ## Contact information
+--------------------------------------------
 
 If your require any further information about the development of the ACE indicators, please read the publication here (insert link) or feel free to contact us:
 
@@ -99,6 +111,7 @@ If your require any further information about the development of the ACE indicat
 *5. General Practitioner, NHS*
 
 ## More information about ACEs 
+--------------------------------------------
 
 For further information about research on ACEs and their uses, please visit:
 
@@ -142,6 +155,8 @@ HM Government:
 * [Working together to safeguard children: statutory framework](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)
 
 # Acknowledgements
+--------------------------------------------
+
 This webpage accompanies a study that uses data provided by patients and collected by the NHS as part of their care and support [#DataSavesLives](https://twitter.com/hashtag/DataSavesLives?src=hashtag_click). We are extremely grateful to the generosity of the patients and their families, along with the participating GP practices and NHS staff, for their ongoing contribution to mental health and family violence research.
 
 This study was approved by the MHRA (UK) Independent Scientific Advisory Committee (now called ) [ISAC protocol. 19_162R ], under Section 251 (NHS Social Care Act 2006). This study was carried out as part of the CALIBER© resource. [CALIBER, led by the UCL Institute of Health Informatics](https://academic.oup.com/jamia/article/26/12/1545/5536916), is a research resource providing validated electronic health record phenotyping algorithms and tools for national structured data sources.
