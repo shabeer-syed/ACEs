@@ -1,4 +1,3 @@
-
 ---
 title: Definitions and frameworks
 ---
