@@ -50,29 +50,19 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 * ### [Mother-to-child-transmissions (15)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Mother-to-child%20transmission.txt)
 
 ## Code list data dictionary
+--------------------------------------------
 
  | Command | Description | 
  | --- | --- | 
  | `Code` | Original code as entered into respective system (removed punctuations, adds prefixes: *"d_"* to prodcodes and *"e_"* to OPSC-4). Prefixes prevents de-duplication as different systems may use the same code for different descriptions. | 
- | `git diff` | Show file differences that **haven't been** staged |
- | `git status` | List all *new or modified* files | 
- | `git diff` | Show file differences that **haven't been** staged |
- | `git status` | List all *new or modified* files | 
- | `git diff` | Show file differences that **haven't been** staged |
- | `git status` | List all *new or modified* files | 
- | `git diff` | Show file differences that **haven't been** staged |
+ | `Coding term` | Original code description |
+ | `Indicator code` | Indicator code name | 
+ | `Indicator specific` | Most specific indicator |
+ | `Indicator 1` | Main ACE indicator combining multiple codes or measures as used in  validation paper | 
+ | `Indicator 2` | Broader ACE indicator combining multiple codes or measures |
+ | `Domain` | ACE domain grouping all indicators together (applicable for the overall code list) | 
 
 
-## Code list data dictionary
---------------------------------------------
-
-*  `Code`: 
-*  `Coding term`: Original code description
-*  `Indicator code`: Indicator code name
-*   `Indicator specific`: Most specific indicator
-*  `Indicator 1`: Main rACE indicator combining multiple codes or measures as used in  validation paper
-*  `Indicator 2`: Broader ACE indicator combining multiple codes or measures
-*  `Domain`: ACE domain grouping all indicators together (applicable for the overall code list)
 
 Rule-specific tabs
 *  `Severity`: Where applicable, this variable indicates the severity classification of the code description. e.g. For alcohol misuse, "mild", "moderate", "severe".
