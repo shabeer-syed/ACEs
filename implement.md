@@ -80,7 +80,7 @@ Whilst most indicators are ready for use in your dataset (e.g. via merging a cod
 ### Brief outline
 //1. Merge each specific code list or the complete ACEs code list with your data file containing the target population (e.g. correct ages for children/mothers):
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/merge%20codelist.png)
-* ## [Download introductory tutorial here](https://github.com/shabeer-syed/ACEs/raw/main/ACEs%20implementation%20tutorial.pdf)
+
 //2. Convert continuous measures to binary indicators by applying/"filtering" using the additional "cut-off" variable provided (i.e. data > cut_off)
 
 e.g. Example "one liner" in R or Python with dplyr:
@@ -91,6 +91,7 @@ e.g. Example "one liner" in R or Python with dplyr:
 
 ![alt text](https://cdn-coiao.nitrocdn.com/CYHudqJZsSxQpAPzLkHFOkuzFKDpEHGF/assets/static/optimized/rev-46bfc56/wp-content/uploads/2021/03/r-case_when-multiple-cases-syntax.png)
 
+* ## [Download introductory tutorial here](https://github.com/shabeer-syed/ACEs/raw/main/ACEs%20implementation%20tutorial.pdf)
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
 
