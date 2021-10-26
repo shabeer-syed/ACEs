@@ -3,7 +3,7 @@ title: Implemetation and code lists
 ---
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
 
-## Code lists and measures
+## Code lists and measures of ACEs
 
 For GP records, we define indicators by combining information recorded in Read codes, prescriptions, referral fields and validated self-report measures (continuous variables needing re-coding) routinely administered by GPs or nurses (e.g. alcohol use).
 
@@ -13,7 +13,7 @@ Unless specified, indicators refers to information recorded in both child and ma
 
 Multiple different rule-based algorithms must be applied to specific indicators (mainly HRP-CM) to prevent misclassification including age-restrictions, exclusions of accidental injuries, genetic predispositions (bone diseases), traumatic birth injuries or maternal-child transmissions during birth (see below).
 
-## Download code lists of ACEs
+## Download code lists
 Right click on link to save as a ".txt" file (i.e. using option "save link as")
 
 *Total number of included ACE codes: 8802 (ACEs) + 8808 (covariates)*
