@@ -52,7 +52,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 ## Code list data dictionary
 --------------------------------------------
 
- | Command | Description | 
+ | Variable | Description | 
  | --- | --- | 
  | `Code` | Original code as entered into respective system (removed punctuations, adds prefixes: *"d_"* to prodcodes and *"e_"* to OPSC-4). Prefixes prevents de-duplication as different systems may use the same code for different descriptions. | 
  | `Coding term` | Original code description |
