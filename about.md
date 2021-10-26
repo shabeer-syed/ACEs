@@ -9,6 +9,7 @@ Adverse childhood experiences (ACEs) are potentially traumatic or [violent](http
 
 ACEs are preventable. However, many ACEs are very difficult to identify in childhood. Most studies rely on self-reports of adults many years after the event happened, when its more difficult to prevent the negative effects of ACEs.
 
+
 ## How can routinely collected non-identifiable patient data help?
 -----------------------------------------------------------------
 
@@ -33,6 +34,8 @@ In the UK, mothers and children's data can be linked across services. The abilit
 We have developed indicators for identifying ACEs and at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth. This page provides more information on definitions and brief methods used to develop the indicators. 
 
 Each ACE indicator represents a variable of grouped codes or measures for a potential recorded ACE in mothers or children. Indicators are further grouped into six or seven overall ACE domains.
+
+[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/visuals.png)](https://shabeer-syed.github.io/ACEs/visuals)
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/7242701"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
