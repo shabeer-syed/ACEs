@@ -1,5 +1,6 @@
-# ACEs graphical stories
---------------------------------------------
+---
+title: ACEs graphical storiesw
+---
 
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
 
