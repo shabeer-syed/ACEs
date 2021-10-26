@@ -1,7 +1,13 @@
 ---
 title: Implemetation and code lists
+layout: page
+
 ---
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
+
+
+Biomarkers
+{% assign biomarker_phenotypes = site.phenotypes | where: "type", "Biomarker" %} | Phenotype | Data Sources | |-----------|--------------|{% for phenotype in biomarker_phenotypes %} | [{{ phenotype.name }}]({{ phenotype.url }}) | {{ phenotype.data_sources | join: ", "}} |{% endfor %}
 
 ## Code lists and measures of ACEs
 
@@ -19,7 +25,6 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 *Total number of included ACE codes: 8802 (ACEs) + 8808 (covariates)*
 
 *Total number of excluded/tested codes: 7671*
-
 
 ### All ACE indicators:
 
