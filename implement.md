@@ -13,33 +13,6 @@ Unless specified, indicators refers to information recorded in both child and ma
 
 Multiple different rule-based algorithms must be applied to specific indicators (mainly HRP-CM) to prevent misclassification including age-restrictions, exclusions of accidental injuries, genetic predispositions (bone diseases), traumatic birth injuries or maternal-child transmissions during birth (see below).
 
-### Code list data dictionary
-
-*  `Code`: Original code as entered into respective system (removed punctuations, adds prefixes: "d_" to prodcodes and "e_" to OPSC-4). Prefixes prevents de-duplication as different systems may use the same code for different descriptions.
-*  `Coding term`: Original code description
-*  `Indicator code`: Indicator code name
-*   `Indicator specific`: Most specific indicator
-*  `Indicator 1`: Main rACE indicator combining multiple codes or measures as used in  validation paper
-*  `Indicator 2`: Broader ACE indicator combining multiple codes or measures
-*  `Domain`: ACE domain grouping all indicators together (applicable for the overall code list)
-
-Rule-specific tabs
-*  `Severity`: Where applicable, this variable indicates the severity classification of the code description. e.g. For alcohol misuse, "mild", "moderate", "severe".
-*  `Scale`: 1= Indicates that the code and severity classifications are dependent on extra clinical information (e.g. frequency of alcohol consumption). By default, this is set to "Mild" for alcohol. See rule-based algorithms.
-*  `Reference`: 1=code is part of family violence reference standard, 2=code can be used as a broader measure of family violence 
-*  `Individual`: 1=code applies to child only, 2=code applies to mother only, 3=code applies to mother or child (i.e. either),4= code only applicable to female children
-*  `Coding systems`: 
-    -  GP/primary care: Read, OXMIS, Prodcode (prescriptions or items), CPRD REFERRAL FHSASPEC (field specific), CPRD REFERRAL NHSSPEC (field specific)
-
-    -  HES-APC/secondary care/ONS: ICD-10, OPCS-4, ICD-9 (applies to ONS < year 2000), HES-APC DISDEST OR ADMISORC (field specific)
-
-
-## Example
-
-| Code | Coding  term  | Indicator 1 | Indicator 2 |  domain | severity | scale | reference | individual | coding system |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 912 | [D]Anorexia	Anorexia | Anorexia | Eating disorders | Maternal mental health problem | diagnostic |  |  | 2 | Read | 
-
 ## Download code lists of ACEs
 Right click on link to save as a ".txt" file (i.e. using option "save link as")
 
@@ -72,6 +45,33 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 * ### [Osteoporosis - Bone disease (406)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Osteoporosis%20Bone%20disease.txt)
 * ### [Birth injuries or traumatic complications (238)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Birth%20injury%20or%20complication.txt)
 * ### [Mother-to-child-transmissions (15)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Mother-to-child%20transmission.txt)
+
+### Code list data dictionary
+
+*  `Code`: Original code as entered into respective system (removed punctuations, adds prefixes: "d_" to prodcodes and "e_" to OPSC-4). Prefixes prevents de-duplication as different systems may use the same code for different descriptions.
+*  `Coding term`: Original code description
+*  `Indicator code`: Indicator code name
+*   `Indicator specific`: Most specific indicator
+*  `Indicator 1`: Main rACE indicator combining multiple codes or measures as used in  validation paper
+*  `Indicator 2`: Broader ACE indicator combining multiple codes or measures
+*  `Domain`: ACE domain grouping all indicators together (applicable for the overall code list)
+
+Rule-specific tabs
+*  `Severity`: Where applicable, this variable indicates the severity classification of the code description. e.g. For alcohol misuse, "mild", "moderate", "severe".
+*  `Scale`: 1= Indicates that the code and severity classifications are dependent on extra clinical information (e.g. frequency of alcohol consumption). By default, this is set to "Mild" for alcohol. See rule-based algorithms.
+*  `Reference`: 1=code is part of family violence reference standard, 2=code can be used as a broader measure of family violence 
+*  `Individual`: 1=code applies to child only, 2=code applies to mother only, 3=code applies to mother or child (i.e. either),4= code only applicable to female children
+*  `Coding systems`: 
+    -  GP/primary care: Read, OXMIS, Prodcode (prescriptions or items), CPRD REFERRAL FHSASPEC (field specific), CPRD REFERRAL NHSSPEC (field specific)
+
+    -  HES-APC/secondary care/ONS: ICD-10, OPCS-4, ICD-9 (applies to ONS < year 2000), HES-APC DISDEST OR ADMISORC (field specific)
+
+
+## Example
+
+| Code | Coding  term  | Indicator 1 | Indicator 2 |  domain | severity | scale | reference | individual | coding system |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 912 | [D]Anorexia	Anorexia | Anorexia | Eating disorders | Maternal mental health problem | diagnostic |  |  | 2 | Read | 
 
 ## Suggested implementation of indicators
 Whilst most indicators are ready for use in your dataset (e.g. via merging a code list), some indicators requires rule-based algorithms as listed below. 
