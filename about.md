@@ -35,8 +35,6 @@ We have developed indicators for identifying ACEs and at-risk families using rou
 
 Each ACE indicator represents a variable of grouped codes or measures for a potential recorded ACE in mothers or children. Indicators are further grouped into six or seven overall ACE domains.
 
-[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/visuals.png)](https://shabeer-syed.github.io/ACEs/visuals)
-
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/7242701"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Definitions and inclusions
