@@ -39,11 +39,13 @@ Rule-specific tabs
 | 912 | [D]Anorexia	Anorexia | Anorexia | Eating disorders | Maternal mental health problem | diagnostic |  |  | 2 | Read | 
 
 ## Download code lists of ACEs
-*Total number of included ACE codes: 7448 (ACEs) + 8808 (covariates)*
+Right click on link to save as a ".txt" file (i.e. using option "save link as")
+
+*Total number of included ACE codes: 8802 (ACEs) + 8808 (covariates)*
 
 *Total number of excluded/tested codes: 7671*
 
-Right click on link to save as a ".txt" file (i.e. using option "save link as" )
+
 ## All ACE indicators:
 
 * ### [All ACEs (8802)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/ALL_ACEs.txt)
@@ -51,15 +53,15 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 
 ## By ACE domain:
 
-* ### [Child maltreatment (873)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/CM_ACEs.txt)
+* ### [Child maltreatment (1290)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/CM_ACEs.txt)
 
-* ### [Maternal intimate partner violence (292)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mIPV_ACEs.txt)
+* ### [Maternal intimate partner violence (450 + 503 for assault algorithm)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mIPV_ACEs.txt)
 
-* ### [High-risk presentation of CM (643)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/HRP_CM_ACEs.txt)
+* ### [High-risk presentation of CM (802)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/HRP_CM_ACEs.txt)
 
-* ### [Adverse family environment (1216)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/AFE_ACEs.txt)
-* ### [Maternal mental health problems (3998)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mMHPs_ACEs.txt)
-* ### [Maternal substance misuse (2112)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/MSM_ACEs.txt)
+* ### [Adverse family environment (701)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/AFE_ACEs.txt)
+* ### [Maternal mental health problems (3966)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mMHPs_ACEs.txt)
+* ### [Maternal substance misuse (1090)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/MSM_ACEs.txt)
 
 ### [Covariates: non-ACEs used to add information to risk prediction models (8808)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Health%20comorbidities.txt)
 
