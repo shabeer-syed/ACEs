@@ -50,10 +50,10 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 * ### [Mother-to-child-transmissions (15)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Mother-to-child%20transmission.txt)
 
 ## Code list data dictionary
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+ | Command | Description |
+ | --- | --- |
+ | `git status` | List all *new or modified* files |
+ | `git diff` | Show file differences that **haven't been** staged |
 
 
 ## Code list data dictionary
