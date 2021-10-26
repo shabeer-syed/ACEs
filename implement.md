@@ -38,12 +38,18 @@ Rule-specific tabs
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 912 | [D]Anorexia	Anorexia | Anorexia | Eating disorders | Maternal mental health problem | diagnostic |  |  | 2 | Read | 
 
-## Code lists by ACE domain
+## Download code lists of ACEs
 *Total number of included ACE codes: 7448 (ACEs) + 8808 (covariates)*
 
 *Total number of excluded/tested codes: 7671*
 
 Right click on link to save as a ".txt" file (i.e. using option "save link as" )
+## All ACE indicators:
+
+* ### [All ACEs (8802)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/ALL_ACEs.txt)
+* ### [All ACEs + crossmapped SNOMED CT and ICD-11 (9563)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/All_ACEs_with_crossmaped_snomedCT_icd11_non_validated.txt)
+
+## By ACE domain:
 
 * ### [Child maltreatment (873)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/cm.txt)
 * ### [Social service involvement/Child maltreatment (239)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/SSI.txt)
