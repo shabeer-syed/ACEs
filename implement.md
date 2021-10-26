@@ -16,6 +16,8 @@ Unless specified, indicators refers to information recorded in both child and ma
 Multiple different rule-based algorithms must be applied to specific indicators (mainly HRP-CM) to prevent misclassification including age-restrictions, exclusions of accidental injuries, genetic predispositions (bone diseases), traumatic birth injuries or maternal-child transmissions during birth (see below).
 
 ## Download code lists
+--------------------------------------------
+
 Right click on link to save as a ".txt" file (i.e. using option "save link as")
 
 *Total number of included ACE codes: 8802 (ACEs) + 8808 (covariates)*
@@ -51,6 +53,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 | Phenotype | Data Sources | |-----------|--------------|vbgrgf | blabla | blasbla |
 
 ## Code list data dictionary
+--------------------------------------------
 
 *  `Code`: Original code as entered into respective system (removed punctuations, adds prefixes: "d_" to prodcodes and "e_" to OPSC-4). Prefixes prevents de-duplication as different systems may use the same code for different descriptions.
 *  `Coding term`: Original code description
@@ -78,6 +81,8 @@ Rule-specific tabs
 | 912 | [D]Anorexia	Anorexia | Anorexia | Eating disorders | Maternal mental health problem | diagnostic |  |  | 2 | Read | 
 
 ## Suggested implementation of indicators
+--------------------------------------------
+
 Whilst most indicators are ready for use in your dataset (e.g. via merging a code list), some indicators requires rule-based algorithms as listed below. 
 
 ### Brief outline
