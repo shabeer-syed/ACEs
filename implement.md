@@ -1,13 +1,8 @@
 ---
 title: Implemetation and code lists
-layout: page
-
 ---
+
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
-
-
-Biomarkers
-{% assign biomarker_phenotypes = site.phenotypes | where: "type", "Biomarker" %} | Phenotype | Data Sources | |-----------|--------------|{% for phenotype in biomarker_phenotypes %} | [{{ phenotype.name }}]({{ phenotype.url }}) | {{ phenotype.data_sources | join: ", "}} |{% endfor %}
 
 ## Code lists and measures of ACEs
 
