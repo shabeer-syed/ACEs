@@ -53,7 +53,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 
  | Command | Description | 
  | --- | --- | 
- | `git status` | List all *new or modified* files | 
+ | `Code` | Original code as entered into respective system (removed punctuations, adds prefixes: *"d_"* to prodcodes and *"e_"* to OPSC-4). Prefixes prevents de-duplication as different systems may use the same code for different descriptions. | 
  | `git diff` | Show file differences that **haven't been** staged |
  | `git status` | List all *new or modified* files | 
  | `git diff` | Show file differences that **haven't been** staged |
@@ -66,7 +66,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 ## Code list data dictionary
 --------------------------------------------
 
-*  `Code`: Original code as entered into respective system (removed punctuations, adds prefixes: "d_" to prodcodes and "e_" to OPSC-4). Prefixes prevents de-duplication as different systems may use the same code for different descriptions.
+*  `Code`: 
 *  `Coding term`: Original code description
 *  `Indicator code`: Indicator code name
 *   `Indicator specific`: Most specific indicator
