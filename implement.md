@@ -21,12 +21,12 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 *Total number of excluded/tested codes: 7671*
 
 
-## All ACE indicators:
+### All ACE indicators:
 
 * ### [All ACEs (8802)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/ALL_ACEs.txt)
 * ### [All ACEs + crossmapped SNOMED CT and ICD-11 (9563)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/All_ACEs_with_crossmaped_snomedCT_icd11_non_validated.txt)
 
-## By ACE domain:
+### By ACE domain:
 
 * ### [Child maltreatment (1290)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/CM_ACEs.txt)
 
