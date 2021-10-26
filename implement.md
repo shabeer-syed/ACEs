@@ -51,14 +51,15 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as" )
 
 ## By ACE domain:
 
-* ### [Child maltreatment (873)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/cm.txt)
-* ### [Social service involvement/Child maltreatment (239)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/SSI.txt)
-* ### [Maternal intimate partner violence (292)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/mIPV.txt)
-* ### [High-risk presentation of CM (643)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/HRP-CM.txt)
+* ### [Child maltreatment (873)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/CM_ACEs.txt)
 
-* ### [Adverse family environment (1216)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/AFE.txt)
-* ### [Maternal mental health problems (3998)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/mMHPs.txt)
-* ### [Maternal substance misuse (2112)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/MSM.txt)
+* ### [Maternal intimate partner violence (292)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mIPV_ACEs.txt)
+
+* ### [High-risk presentation of CM (643)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/HRP_CM_ACEs.txt)
+
+* ### [Adverse family environment (1216)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/AFE_ACEs.txt)
+* ### [Maternal mental health problems (3998)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mMHPs_ACEs.txt)
+* ### [Maternal substance misuse (2112)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/MSM_ACEs.txt)
 
 ### [Covariates: non-ACEs used to add information to risk prediction models (8808)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Health%20comorbidities.txt)
 
