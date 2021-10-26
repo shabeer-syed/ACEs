@@ -1,3 +1,30 @@
+
+---
+title: Definitions and frameworks
+---
+
+# Conceptual model of ACEs and family violence as function of cumulative adversity
+---------------------------------
+
+![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/formulation%20lower%20res%201.png)
+
+The above figure is an illustrative example of an integration of the socio-ecological system theory ([1](https://psycnet.apa.org/record/1992-98662-005),[2](https://pubmed.ncbi.nlm.nih.gov/7386966/)), and the biopsychosocial cumulative stress model ([3](https://pubmed.ncbi.nlm.nih.gov/22201156/),[4](https://psycnet.apa.org/record/1989-26231-001)) that informed the selection of relevant ACEs in this study.
+
+It does not represent an exhaustive list of factors or mechanisms of ACEs or outcomes.
+
+In summary, the figure shows family violence (CM/mIPV) as outcomes from a cumulation of underlying adversity in the context of co-occurring intergenerational risk factors, ([5](https://pubmed.ncbi.nlm.nih.gov/33689982/)) and limited resources across two levels (society/family).
+
+People cope with stress and perception of threat using different preventative strategies (e.g. avoidance, escape, fight) in an attempt to minimise negative consequences (e.g. see [theories on emotional processing](https://psycnet.apa.org/record/1986-15090-001), [selective attention and overestimation of threat](https://pubmed.ncbi.nlm.nih.gov/10402694/)).
+
+Whilst strategies are perceived as logical in the moment, over time, they can leave families in a cycle that perpetuates stress (e.g. avoidance prevents learning from experience). As underlying stress increases and without mediation, caregivers have fewer resources to cope and regulate responses (e.g. reduced response inhibition/executive functioning) ([6](https://pubmed.ncbi.nlm.nih.gov/12212647/)) increasing the risk of more immediate coping responses to escape or re-gaining control (e.g. shouting, violence, neglect etc).
+
+Coping responses may vary as a function of the level of need to escape distress and harm, ranging from immediate escape (e.g. violence, substance misuse, abandonment/neglect), to stronger forms of avoidance (e.g. avoiding going out which reduce social support systems in the longer-term) ([7](https://link.springer.com/article/10.1023/B:JOBA.0000007455.08539.94)) 
+
+The model, therefore, considers families as resilient and constantly striving to cope using different strategies and resources at hand (e.g. protective factors). We consider ACEs recorded at the family level (middle segment) as amenable to service level intervention and relevant to electronic health records (see above for all criteria).
+
+## Definitions of the final ACE domains and the reference standard (primary outcome)
+---------------------------------
+
 Outcome/reference standard: Definitive child maltreatment (CM) and maternal intimate partner violence (mIPV) 2-years pre-birth up to 5-years post birth
 A composite variable of the definite CM and mIPV domains, containing indicators such as neglect (pre-post birth), child protection recordings or out-of-home placements by social care services (see eTables 4, 8-9).51 CM and mIPV often co-occur as forms of family violence. We selected this reference standard to encapsulate consistent core ACEs (CM/mIPV), clinically meaningful outcomes, and to represent a cumulation of underlying adversity.4 9 We also aimed to use a reference standard that separates adverse experiences from the adverse stress response of the child.54  Indicators included in the reference standard were excluded from the development/validation. eTable 4 lists all included and excluded indicators by domains. 
 Definitive or probable CM (reference standard; birth up to 5-years post-birth)
