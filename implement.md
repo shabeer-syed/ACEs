@@ -61,18 +61,11 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
  | `Indicator 1` | Main ACE indicator combining multiple codes or measures as used in  validation paper | 
  | `Indicator 2` | Broader ACE indicator combining multiple codes or measures |
  | `Domain` | ACE domain grouping all indicators together (applicable for the overall code list) | 
-
-
-
-Rule-specific tabs
-*  `Severity`: Where applicable, this variable indicates the severity classification of the code description. e.g. For alcohol misuse, "mild", "moderate", "severe".
-*  `Scale`: 1= Indicates that the code and severity classifications are dependent on extra clinical information (e.g. frequency of alcohol consumption). By default, this is set to "Mild" for alcohol. See rule-based algorithms.
-*  `Reference`: 1=code is part of family violence reference standard, 2=code can be used as a broader measure of family violence 
-*  `Individual`: 1=code applies to child only, 2=code applies to mother only, 3=code applies to mother or child (i.e. either),4= code only applicable to female children
-*  `Coding systems`: 
-    -  GP/primary care: Read, OXMIS, Prodcode (prescriptions or items), CPRD REFERRAL FHSASPEC (field specific), CPRD REFERRAL NHSSPEC (field specific)
-
-    -  HES-APC/secondary care/ONS: ICD-10, OPCS-4, ICD-9 (applies to ONS < year 2000), HES-APC DISDEST OR ADMISORC (field specific)
+ | `Severity` | Where applicable, this variable indicates the severity classification of the code description. *e.g. For alcohol misuse, "mild", "moderate", "severe".* |
+ | `Scale` | 1= Indicates that the code and severity classifications are dependent on extra clinical information (e.g. frequency of alcohol consumption). By default, this is set to "Mild" for alcohol. See rule-based algorithms. |
+ | `Reference` | 1=code is part of family violence reference standard, 2=code can be used as a broader measure of family violence |
+ | `Individual` | 1=code applies to child only, 2=code applies to mother only, 3=code applies to mother or child (i.e. either),4= code only applicable to female children |
+ | `Coding systems` | GP/primary care: Read, OXMIS, Prodcode (prescriptions or items), CPRD REFERRAL FHSASPEC (field specific), CPRD REFERRAL NHSSPEC (field specific). HES-APC/secondary care/ONS: ICD-10, OPCS-4, ICD-9 (applies to ONS < year 2000), HES-APC DISDEST OR ADMISORC (field specific) |
 
 
 ## Example
