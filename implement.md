@@ -100,8 +100,8 @@ e.g. Example "one liner" in R or Python with dplyr:
 
  | ACE domain | Indicator(s) | Rule-based algorithms | 
  | --- | --- | --- | 
- | **Code** | Original code as entered into respective system (removed punctuations, adds prefixes: *"d_"* to prodcodes and *"e_"* to OPSC-4). Prefixes prevents de-duplication as different systems may use the same code for different descriptions. | 
- | **Coding term** | Original code description |
+ | **MSM** | Alcohol misuse Severe  | Include if continuous data meets the cut-off assigned to each code (see code list): e.g. AUDIT: ≥20; AUDIT-PC: ≥10; SADQ ≥31; ≥35 alcohol units per week (analogous to higher-risk drinking/harmful drinking/alcohol dependence; see NICE guidelines); >200 mg alcohol per 100 ml blood is classed as potential high-risk offender when driving in England/Wales (see UK gov) (applies to hospital admission codes in this study). | 
+ | **mMHPs** | Depression | Include if continuous data meets the cut-off assigned to each code (see code list): e.g. DASS-21 (sub-scales): ≥14; EDPS: ≥13; HADS (sub-scale): ≥11; HDRS (sub-scale): ≥ 14; PHQ-9: ≥10; SDS (Zungs's): ≥50 | 
  | **Indicator code** | Indicator code name | 
  | **Indicator specific** | Most specific indicator |
  | **Indicator 1** | Main ACE indicator combining multiple codes or measures as used in  validation paper | 
