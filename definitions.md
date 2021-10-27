@@ -21,7 +21,7 @@ Coping responses may vary as a function of the level of need to escape distress 
 
 The model, therefore, considers families as resilient and constantly striving to cope using different strategies and resources at hand (e.g. protective factors). We consider ACEs recorded at the family level (middle segment) as amenable to service level intervention and relevant to electronic health records (see above for all criteria).
 
-## Definitions of the final ACE domains and the reference standard (primary outcome)
+## Definitions of the final ACE domains and the reference standard used for validation
 ---------------------------------
 
 **Outcome/reference standard: Definitive child maltreatment (CM) and maternal intimate partner violence (mIPV) 2-years pre-birth up to 5-years post birth**
