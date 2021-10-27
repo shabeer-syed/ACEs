@@ -96,10 +96,6 @@ e.g. Example "one liner" in R or Python with dplyr:
 
 * ## [Download introductory tutorial here](https://github.com/shabeer-syed/ACEs/raw/main/ACEs%20implementation%20tutorial.pdf)
 
-[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
-
-
-
 ## Rule-based algorithms
 
  | ACE domain | Indicator(s) | Rule-based algorithms | 
@@ -116,6 +112,9 @@ e.g. Example "one liner" in R or Python with dplyr:
  | **Reference** | `1`=code is part of family violence reference standard, `2`=code can be used as a broader measure of family violence |
  | **Individual** | `1`=code applies to child only, `2`=code applies to mother only, 3=code applies to mother or child (i.e. either), `4`=code only applicable to female children |
  | **Coding systems** | `GP/primary care:` Read, OXMIS, Prodcode (prescriptions or items), CPRD REFERRAL FHSASPEC (field specific), CPRD REFERRAL NHSSPEC (field specific). `HES-APC/secondary care/ONS:` ICD-10, OPCS-4, ICD-9 (applies to ONS < year 2000), HES-APC DISDEST OR ADMISORC (field specific) |
+
+
+[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
 
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
 
