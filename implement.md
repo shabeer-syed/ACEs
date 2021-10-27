@@ -78,7 +78,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 # Suggested implementation of indicators
 --------------------------------------------
 
-Whilst most indicators are ready for use in your dataset (e.g. via merging a code list), some indicators requires rule-based algorithms as listed below. 
+Whilst most indicators are ready for use in your dataset (e.g. via merging a code list), some indicators requires rule-based algorithms as listed below. You can also download an [introductory tutorial here](https://github.com/shabeer-syed/ACEs/raw/main/ACEs%20implementation%20tutorial.pdf)
 
 ![alt text](https://github.com/shabeer-syed/ACEs/raw/main/ACEs%20implementation%20tutorial%20(3)-25-min.png)
 
@@ -94,7 +94,6 @@ e.g. Example "one liner" in R or Python with dplyr:
 **//3.2 More advanced [control flow methods](https://adv-r.hadley.nz/control-flow.html) are required to apply multiple rule-based algorithims (age critera, accident exclusions etc) and to achieve faster implementation.**
 Control flow (data dependent "if then assumptions") are widley covered by the data science community ([1](https://adv-r.hadley.nz/control-flow.html) [2](https://advanced-r-solutions.rbind.io/control-flow.html)).
 
-* #### [Download introductory tutorial here](https://github.com/shabeer-syed/ACEs/raw/main/ACEs%20implementation%20tutorial.pdf)
 
 ## Rule-based algorithms
 
