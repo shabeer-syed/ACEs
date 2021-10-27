@@ -74,7 +74,6 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 912 | [D]Anorexia	Anorexia | Anorexia | Eating disorders | Maternal mental health problem | diagnostic |  |  | 2 | Read | 
 
-[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
 
 # Suggested implementation of indicators
 --------------------------------------------
@@ -112,6 +111,8 @@ e.g. Example "one liner" in R or Python with dplyr:
  |**HRP-CM, Eye trauma, NOS; Subarachnoid haemorrhage other; Subdural haematoma/retinal haemorrhage; Fractures, Intra-abdominal injuries, spinal injuries,  intracranial** | Include as HRP-CM when excluded co-occurring accident-related injuries recorded within +/-15 days of the event, and when excluded birth-related injuries recorded <2 days post birth. [NICE Clinical guideline [CG89]: 1.1.11; 1.1.10](https://www.nice.org.uk/guidance/CG89/chapter/1-Guidance#physical-features) |
  |**HRP-CM, Fractures, Intra-abdominal injuries, spinal injuries,  intracranial** | Include as HRP-CM when excluded co-occurring accident-related injuries recorded within +/-15 days of the event, and when excluded birth-related injuries recorded <2 days post birth, and when excluded children with fragile bone disease (Osteoporosis), unless definitive CM is recorded within +/-30 days . [NICE Clinical guideline [CG89]: 1.1.9; 1.1.12;  1.1.13](https://www.nice.org.uk/guidance/CG89/chapter/1-Guidance#physical-features)) |
 
+
+[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
 
 
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
