@@ -23,11 +23,7 @@ title: ACEs graphical stories
 ## Receiver operating characteristic curve (ROC) of ACEs ability to discriminate any CM or mIPV from -2-years pre-birth to 5-years post-birth in a validation cohort
 
 ![alt text](https://github.com/shabeer-syed/ACEs/raw/main/ROC%20curve.png "ROC curve")
-Any ACE, AUC (95% CI): 0.85 (0.84-0.86)
-Sensitivity (%): 72
-Specificity (%): 84
-PPV (%): 9
-NPV (%): 99
+Any ACE, AUC (95% CI): 0.85 (0.84-0.86), Sensitivity (%): 72, Specificity (%): 84, PPV (%): 9, NPV (%): 99
 			
 
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
