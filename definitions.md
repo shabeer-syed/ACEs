@@ -21,8 +21,10 @@ Coping responses may vary as a function of the level of need to escape distress 
 
 The model, therefore, considers families as resilient and constantly striving to cope using different strategies and resources at hand (e.g. protective factors). We consider ACEs recorded at the family level (middle segment) as amenable to service level intervention and relevant to electronic health records (see above for all criteria).
 
-## Definitions of the final ACE domains and the reference standard used for validation
+## Definitions of the final ACE domains 
 ---------------------------------
+
+### reference standard used for validation
 
 **Outcome/reference standard: Definitive child maltreatment (CM) and maternal intimate partner violence (mIPV) 2-years pre-birth up to 5-years post birth**
 
@@ -36,6 +38,8 @@ Any recorded act of commission or omission by a parent or caregiver resulting in
 
 Any incident of threatening behaviour, violence or abuse (psychological, physical, sexual, financial or emotional) between adults who are, or have been, intimate partners or family members.51 We restricted mIPV indicators to mothers aged ≥16 and their corresponding children to prevent misclassification of CM in younger mothers.
 
+### ACE domain definitions
+---------------------------------
 **1. Suspected CM**
 
 This domain excludes any indicator of CM/mIPV described above. Suspected CM included any maltreatment-related indicator with codes or measures describing presentations likely to refer to CM but without mentioning the underlying cause (e.g. harm caused by non-specified person), safeguarding procedures or child social service interventions.48 For instance, the “suspected CM, NOS” indicator contains codes mentioning “Victim of sexual abuse”, “Multi-professional risk assessment done”, “Assault in the home”.
