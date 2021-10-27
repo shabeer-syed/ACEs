@@ -97,9 +97,9 @@ e.g. Example "one liner" in R or Python with dplyr:
 
 ## Rule-based algorithms
 
- | ACE domain, Indicator(s) |  Rule-based algorithms | 
- | --- | --- | 
- | **MSM, Alcohol misuse Severe** | Include if continuous data meets the cut-off assigned to each code (see code list): e.g. AUDIT: ≥20; AUDIT-PC: ≥10; SADQ ≥31; ≥35 alcohol units per week (analogous to higher-risk drinking/harmful drinking/alcohol dependence; see NICE guidelines); >200 mg alcohol per 100 ml blood is classed as potential high-risk offender when driving in England/Wales (see UK gov) (applies to hospital admission codes in this study). | 
+ | ACE domain, Indicator(s) |  Rule-based algorithms | Scrip/code |
+ | --- | --- | --- | 
+ | **MSM, Alcohol misuse Severe** | Include if continuous data meets the cut-off assigned to each code (see code list): e.g. AUDIT: ≥20; AUDIT-PC: ≥10; SADQ ≥31; ≥35 alcohol units per week (analogous to higher-risk drinking/harmful drinking/alcohol dependence; see NICE guidelines); >200 mg alcohol per 100 ml blood is classed as potential high-risk offender when driving in England/Wales (see UK gov) (applies to hospital admission codes in this study). | `e.g. mmhps_alcohol <- merged_data %>% filter(Domain=="mMHPs" & Indicator 1=="Alcohol misuse" & scale=="1" & data1 > cut_off)`| 
  | **mMHPs, Depression** | Include if continuous data meets the cut-off assigned to each code (see code list): e.g. DASS-21 (sub-scales): ≥14; EDPS: ≥13; HADS (sub-scale): ≥11; HDRS (sub-scale): ≥ 14; PHQ-9: ≥10; SDS (Zungs's): ≥50 | 
  | **mMHPs, Depression** | Include if continuous data meets the cut-off assigned to each code (see code list): e.g. DASS-21 (sub-scales): ≥14; EDPS: ≥13; HADS (sub-scale): ≥11; HDRS (sub-scale): ≥ 14; PHQ-9: ≥10; SDS (Zungs's): ≥50 | 
  | **mMHPs, Anxiety** | Include if continuous data meets the cut-off assigned to each code (see code list): e.g DASS-21: ≥10; HADS (sub-scale): ≥11; HDRS (sub-scale): ≥18; SAS (Zungs's):  ≥45 score; GAD-7: ≥8 | 
