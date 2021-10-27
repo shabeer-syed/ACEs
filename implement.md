@@ -34,23 +34,23 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 
 ### By ACE domain:
 
-* ### [Child maltreatment (1290)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/CM_ACEs.txt)
+* #### [Child maltreatment (1290)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/CM_ACEs.txt)
 
-* ### [Maternal intimate partner violence (450 + 503 for assault algorithm)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mIPV_ACEs.txt)
+* #### [Maternal intimate partner violence (450 + 503 for assault algorithm)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mIPV_ACEs.txt)
 
-* ### [High-risk presentation of CM (802)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/HRP_CM_ACEs.txt)
+* #### [High-risk presentation of CM (802)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/HRP_CM_ACEs.txt)
 
-* ### [Adverse family environment (701)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/AFE_ACEs.txt)
-* ### [Maternal mental health problems (3966)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mMHPs_ACEs.txt)
-* ### [Maternal substance misuse (1090)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/MSM_ACEs.txt)
+* #### [Adverse family environment (701)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/AFE_ACEs.txt)
+* #### [Maternal mental health problems (3966)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mMHPs_ACEs.txt)
+* #### [Maternal substance misuse (1090)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/MSM_ACEs.txt)
 
-### [Covariates: non-ACEs used to add information to risk prediction models (8808)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Health%20comorbidities.txt)
+#### [Covariates: non-ACEs used to add information to risk prediction models (8808)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Health%20comorbidities.txt)
 
 ### Code lists for rule-based exclusions
-* ### [Accidents (2017)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Accidents.txt)
-* ### [Osteoporosis - Bone disease (406)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Osteoporosis%20Bone%20disease.txt)
-* ### [Birth injuries or traumatic complications (238)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Birth%20injury%20or%20complication.txt)
-* ### [Mother-to-child-transmissions (15)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Mother-to-child%20transmission.txt)
+* #### [Accidents (2017)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Accidents.txt)
+* #### [Osteoporosis - Bone disease (406)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Osteoporosis%20Bone%20disease.txt)
+* #### [Birth injuries or traumatic complications (238)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Birth%20injury%20or%20complication.txt)
+* #### [Mother-to-child-transmissions (15)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Mother-to-child%20transmission.txt)
 
 ## Code list data dictionary
 
