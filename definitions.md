@@ -24,7 +24,7 @@ The model, therefore, considers families as resilient and constantly striving to
 ## Definitions of the final ACE domains 
 ---------------------------------
 
-### reference standard used for validation
+### Reference standard used for validation
 
 **Outcome/reference standard: Definitive child maltreatment (CM) and maternal intimate partner violence (mIPV) 2-years pre-birth up to 5-years post birth**
 
@@ -38,7 +38,7 @@ Any recorded act of commission or omission by a parent or caregiver resulting in
 
 Any incident of threatening behaviour, violence or abuse (psychological, physical, sexual, financial or emotional) between adults who are, or have been, intimate partners or family members.51 We restricted mIPV indicators to mothers aged ≥16 and their corresponding children to prevent misclassification of CM in younger mothers.
 
-### ACE domain definitions
+### ACE domains
 ---------------------------------
 **1. Suspected CM**
 
