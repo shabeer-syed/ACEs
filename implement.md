@@ -31,7 +31,6 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 * #### [All ACEs GP/CPRD only: medcodes, prodcodes, measures only (6641)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/ALL_ACEs_medcode_product_only.txt)
 * #### [All ACEs Hospital only: ICD, OPCS and HES-APC specific fields (2161)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/ALL_ACEs_ICD_OPCS_only.txt)
 
-
 ### By ACE domain:
 
 * #### [Child maltreatment (1290)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/CM_ACEs.txt)
