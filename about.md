@@ -59,7 +59,7 @@ Given the substantial under-recording of CM and mIPV (e.g. see [1](https://www.c
 
 ACEs can be recorded in both mothers' and children's records. ACEs are considered based on each specific child's time from birth. Children are therefore considered unexposed if no relevant recording occur in the study period, regardless of previous exposure in children within the same family. This approach mirrors changes in stress levels as the family moves through different life stages.
 
-* [Find out more about the Domain definitions and the conceptual framework.](https://acesinehrs.com/definitions)
+* [See the "definitions and conceptual framework" page for more information](https://acesinehrs.com/definitions)
 
 # Indicator rankings
 --------------------------------------------
