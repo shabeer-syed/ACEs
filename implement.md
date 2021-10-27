@@ -76,7 +76,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
 
-## Suggested implementation of indicators
+# Suggested implementation of indicators
 --------------------------------------------
 
 Whilst most indicators are ready for use in your dataset (e.g. via merging a code list), some indicators requires rule-based algorithms as listed below. 
