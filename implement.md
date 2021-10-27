@@ -13,7 +13,7 @@ For hospital and death registration records, we define indicators by combining c
 
 Unless specified, indicators refers to information recorded in both child and maternal records.
 
-Multiple different rule-based algorithms must be applied to specific indicators (mainly HRP-CM) to prevent misclassification including age-restrictions, exclusions of accidental injuries, genetic predispositions (bone diseases), traumatic birth injuries or maternal-child transmissions during birth (see below).
+<span style="color:red">Multiple different rule-based algorithms must be applied to specific indicators (mainly HRP-CM) to prevent misclassification including age-restrictions, exclusions of accidental injuries, genetic predispositions (bone diseases), traumatic birth injuries or maternal-child transmissions during birth (see below).</span>
 
 ## Download code lists
 --------------------------------------------
