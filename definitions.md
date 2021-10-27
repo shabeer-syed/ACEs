@@ -63,13 +63,12 @@ Any consumption of alcohol/drugs meeting threshold for harmful or addictive leve
 
 **5. Adverse family environments (AFE)**
 
-Any experiences in the child's family
-environment (not included above) meeting the above inclusion criteria. Incorporates Royal College of General Practitioners recommended indicators for children/families who are a cause for concern. 39 52 
+Any experiences in the child's family environment (not included above) meeting the above inclusion criteria. Incorporates Royal College of General Practitioners recommended indicators for children/families who are a cause for concern.39 52 
 
 **6. Maternal mental health problems (mMHPs)**
 
-Contains indicators of mutually exclusive symptom clusters aligning with disorder classifications laid out by DSM-5/ICD-10 excluding substance misuse. Some codes for self-harm (e.g. overdose) may be represented across both mMHPs and MSM domains. 
-mMHPs indicators are ascertained using read codes, prescriptions, ICD-10 codes or by meeting the higher cut-off score on a validated self-report instrument or validated algorithms with prescriptions.56
+Contains indicators of mutually exclusive symptom clusters aligning with disorder classifications laid out by DSM-5/ICD-10 excluding substance misuse. Some codes for self-harm (e.g. overdose) may be represented across both mMHPs and MSM domains. mMHPs indicators are ascertained using read codes, prescriptions, ICD-10 codes or by meeting the higher cut-off score on a validated self-report instrument or validated algorithms with prescriptions.56
+Validated codes for mMHPs, MSM and covariates are also available via the [CALIBER platform](https://portal.caliberresearch.org/), with the mapping process described by [Kuan et al.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext)
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
 
