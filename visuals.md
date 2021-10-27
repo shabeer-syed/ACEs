@@ -19,6 +19,12 @@ title: ACEs graphical stories
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7643312"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
+## Receiver operating characteristic curve (ROC) of ACEs ability to discriminate any CM or mIPV from -2-years pre-birth to 5-years post-birth in a validation cohort
+
+![alt text](https://github.com/shabeer-syed/ACEs/raw/main/ROC%20curve.png, "ROC curve")
+
+
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
