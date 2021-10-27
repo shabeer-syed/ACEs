@@ -93,7 +93,7 @@ e.g. Example "one liner" in R or Python with dplyr:
 
 * ## [Download introductory tutorial here](https://github.com/shabeer-syed/ACEs/raw/main/ACEs%20implementation%20tutorial.pdf)
 
-## Rule-based algorithms
+### Rule-based algorithms
 
 ![alt text](https://cdn-coiao.nitrocdn.com/CYHudqJZsSxQpAPzLkHFOkuzFKDpEHGF/assets/static/optimized/rev-46bfc56/wp-content/uploads/2021/03/r-case_when-multiple-cases-syntax.png)
 
