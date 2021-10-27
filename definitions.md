@@ -5,9 +5,10 @@ title: Definitions and frameworks
 # Conceptual model of ACEs and family violence as function of cumulative adversity
 ---------------------------------
 
-Many people recognise that ACEs can cause harm and lead to longer-term health problems. However, few models provide a testable framework that can help explain or predict how important different ACEs are in preventing harm in childhood. Many models rely on linking ACEs with poor health outcomes in adulthood many years after the event. This gap makes it hard to disentangle how important ACEs were in relation to other events in life.
+Many people recognise that ACEs can cause harm and lead to longer-term health problems. However, few models provide a testable framework that can help explain or predict how important different ACEs are in preventing harm in childhood. Many models rely on linking ACEs with poor health outcomes in adulthood many years after the event. This gap makes it difficult to disentangle how much of an impact ACEs in childhood hadve on conditions in adulthood, compared to other life events. For validation, this can be problematic as it relies on ACEs causing longer-term harm.
 
-We combined previous theories of ACEs to create a predictable conceptual framework that can help validate which ACEs might be more important than others when it comes to the risk of preventable harms such as family violence (i.e. child maltreatment or maternal intimate partner violence). This page briefly summarises the model that underpinned the development and validation of the ACEs, followed by definitions of the ACE domains.
+We combined previous theories of ACEs to create a predictable conceptual framework that can help validate which ACEs might be more important than others when it comes to the risk of preventable harms such as family violence (i.e. child maltreatment or maternal intimate partner violence).  By using a clinically important outcome to validate the importance of the selected ACE, we separate adverse experiences from the adverse stress response of the child, overcoming some previous limitations using other outcomes (e.g. adult health problems). 
+This page briefly summarises the model that underpinned the development and validation of the ACEs, followed by definitions of the ACE domains.
 
 ![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/formulation%20lower%20res%201.png)
 
