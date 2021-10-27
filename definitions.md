@@ -5,6 +5,10 @@ title: Definitions and frameworks
 # Conceptual model of ACEs and family violence as function of cumulative adversity
 ---------------------------------
 
+Many people recognise that ACEs can cause harm and lead to longer-term health problems. However, few models provide a testable framework that can help explain or predict how important different ACEs are in preventing harm in childhood. Many models rely on linking ACEs with poor health outcomes in adulthood many years after the event. This gap makes it hard to disentangle how important ACEs were in relation to other events in life.
+
+We combined previous theories of ACEs to create a predictable conceptual framework that can help validate which ACEs might be more important than others when it comes to the risk of preventable harms such as family violence (i.e. child maltreatment or maternal intimate partner violence). This page briefly summarises the model that underpinned the development and validation of the ACEs, followed by definitions of the ACE domains.
+
 ![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/formulation%20lower%20res%201.png)
 
 The above figure is an illustrative example of an integration of the socio-ecological system theory ([1](https://psycnet.apa.org/record/1992-98662-005),[2](https://pubmed.ncbi.nlm.nih.gov/7386966/)), and the biopsychosocial cumulative stress model ([3](https://pubmed.ncbi.nlm.nih.gov/22201156/),[4](https://psycnet.apa.org/record/1989-26231-001)) that informed the selection of relevant ACEs in this study.
