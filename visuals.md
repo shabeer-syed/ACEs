@@ -22,7 +22,7 @@ title: ACEs graphical stories
 
 ## Receiver operating characteristic curve (ROC) of ACEs ability to discriminate any CM or mIPV from -2-years pre-birth to 5-years post-birth in a validation cohort
 
-![alt text](https://github.com/shabeer-syed/ACEs/raw/main/ROC%20curve.png, "ROC curve")
+![alt text](https://github.com/shabeer-syed/ACEs/raw/main/ROC%20curve.png "ROC curve")
 
 
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
