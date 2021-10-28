@@ -52,7 +52,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 * #### [Mother-to-child-transmissions (15)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Mother-to-child%20transmission.txt)
 
 ### Need more code lists?
-[![](https://portal.caliberresearch.org/assets/img/logos/caliber-mini.png)]
+[![](https://portal.caliberresearch.org/assets/img/logos/caliber-mini.png)](https://portal.caliberresearch.org/)
 
 ## Code list data dictionary
 
