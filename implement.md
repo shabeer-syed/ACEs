@@ -54,8 +54,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 ### Need more code lists?
 *Visit the HDR UK CALIBER Phenotype Library:*
 
-
-[![](https://portal.caliberresearch.org/assets/img/logos/caliber-mini.png)](https://portal.caliberresearch.org/)
+[![](https://www.ucl.ac.uk/health-informatics/sites/health_informatics/files/styles/small_image/public/CALIBER_logo.png?itok=_0ddKAt6)](https://portal.caliberresearch.org/)
 
 ## Code list data dictionary
 
