@@ -13,7 +13,7 @@ This page briefly summarises the model that underpinned the development and vali
 
 ![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/formulation%20lower%20res%201.png)
 
-The above figure is an illustrative example of an integration of the socio-ecological system theory ([1](https://psycnet.apa.org/record/1992-98662-005),[2](https://pubmed.ncbi.nlm.nih.gov/7386966/)), and the biopsychosocial cumulative stress model ([3](https://pubmed.ncbi.nlm.nih.gov/22201156/),[4](https://psycnet.apa.org/record/1989-26231-001)) that informed the selection of relevant ACEs in this study.
+[*Download the figure in high resolution*](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/formulation.png). The above figure is an illustrative example of an integration of the socio-ecological system theory ([1](https://psycnet.apa.org/record/1992-98662-005),[2](https://pubmed.ncbi.nlm.nih.gov/7386966/)), and the biopsychosocial cumulative stress model ([3](https://pubmed.ncbi.nlm.nih.gov/22201156/),[4](https://psycnet.apa.org/record/1989-26231-001)) that informed the selection of relevant ACEs in this study.
 
 It does not represent an exhaustive list of factors or mechanisms of ACEs or outcomes.
 
