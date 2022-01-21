@@ -15,6 +15,6 @@ We have developed indicators for identifying ACEs in routinely collected non-ide
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/logo%20affil.png)](https://www.ucl.ac.uk/children-policy-research/research)
 
-<span style="color:red">This site is under development and accompanies the manuscript *"Adverse Childhood Experiences (ACEs) in English electronic health records of linked mothers and children: validation study using a multistage risk-prediction model, (2021). Shabeer Syed, Arturo Gonzalez-Izquierd, Janice Allister, Gene Feder, Leah Li, Ruth Gilbert."* submitted for journal peer-review. The content should not be used until the final article has been published. The information is not intended for clinical use.</span>
+<span style="color:red">This site is under development and accompanies the manuscript [*"Adverse Childhood Experiences (ACEs) in English electronic health records of linked mothers and children: validation study using a multistage risk-prediction model, (2021). Shabeer Syed, Arturo Gonzalez-Izquierd, Janice Allister, Gene Feder, Leah Li, Ruth Gilbert."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569) submitted for journal peer-review. The content should not be used until the final article has been published. The information is not intended for clinical use.</span>
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
