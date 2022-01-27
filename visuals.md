@@ -14,7 +14,7 @@ title: ACEs graphical stories
 
 ## Overlap of ACEs - where and who?
 
-![alt text](https://github.com/shabeer-syed/ACEs/raw/main/venn.png "workflow")
+![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/venn%201.png "workflow")
 
 ![alt text](https://github.com/shabeer-syed/ACEs/raw/main/venn2.png "workflow")
 
