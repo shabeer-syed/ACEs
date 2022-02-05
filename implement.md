@@ -3,10 +3,10 @@ title: Implemetation and code lists
 ---
 
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
+![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/implement%20aces%20small.png)
 
 ## Code lists and measures of ACEs
 --------------------------------------------
-<img style="float: right;" src="https://raw.githubusercontent.com/shabeer-syed/ACEs/main/implement%20aces%20small.png">
 
 For GP records, we define indicators by combining information recorded in Read codes, prescriptions, referral fields and validated self-report measures (continuous variables needing re-coding) routinely administered by GPs or nurses (e.g. alcohol use).
 
