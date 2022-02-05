@@ -5,7 +5,7 @@ title: Definitions and frameworks
 
 # Conceptual model of ACEs and family violence as function of cumulative adversity
 ---------------------------------
-### Challenges in defining ACEs
+### Defining ACEs
 Many people recognise that ACEs can cause harm and lead to long-term health problems, yet there is little consensus over the definition of ACEs. This gap means few models provide a testable framework that can help define and develop new indicators of ACEs in electronic health records (EHRs). Most previous studies determine the relevance of ACEs based on poor health outcomes in adulthood many years after the event (i.e. assuming "ACEs cause longer-term health harm"). The longitudinal mechanisms underlying these associations are unclear sometimes produce a modest impact on health outcomes compared to other life events. 
 The World Health Organisation has also found evidence that traumatic stress symptoms after events like ACEs naturally resolve on average 6-years after the event.[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5632781/),[2](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2595039). These limitations make it challenging to use poorer health outcomes as a reference standard for validating the importance or relevance of different ACEs.
 
