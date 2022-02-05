@@ -86,8 +86,6 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 
 Whilst most indicators are ready for use in your dataset (e.g. via merging a code list), some indicators requires rule-based algorithms as listed below. You can also download an [**introductory tutorial here.**](https://github.com/shabeer-syed/ACEs/raw/main/ACEs%20implementation%20tutorial.pdf)
 
-![alt text](https://github.com/shabeer-syed/ACEs/raw/main/ACEs%20implementation%20tutorial%20(3)-25-min.png)
-
 **//1-2. Merge each specific code list or the complete ACEs code list with your data file containing the target population (e.g. ensure correct ages for children/mothers):**
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/merge%20codelist.png)
 
