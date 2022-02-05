@@ -101,7 +101,7 @@ Control flow (data dependent "if then assumptions") are widley covered by the da
 
 ## Rule-based algorithms
 
-![alt text](https://cdn-coiao.nitrocdn.com/CYHudqJZsSxQpAPzLkHFOkuzFKDpEHGF/assets/static/optimized/rev-46bfc56/wp-content/uploads/2021/03/r-case_when-multiple-cases-syntax.png)
+![alt text](https://cdn-coiao.nitrocdn.com/CYHudqJZsSxQpAPzLkHFOkuzFKDpEHGF/assets/static/optimized/rev-4d1b478/wp-content/uploads/2021/03/r-case_when-multiple-cases-syntax.png)
 
  | ACE domain, Indicator(s) |  Rule-based algorithms | Scrip/code* |
  | --- | --- | --- | 
