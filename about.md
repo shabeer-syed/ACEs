@@ -9,7 +9,6 @@ Adverse childhood experiences (ACEs) are potentially traumatic, neglectful or [v
 
 ACEs are preventable. However, many ACEs are very difficult to identify in childhood. Most studies rely on self-reports of adults many years after the event happened, when its more difficult to prevent the negative effects of ACEs.
 
-
 ## How can routinely collected non-identifiable patient data help?
 -----------------------------------------------------------------
 
