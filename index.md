@@ -1,10 +1,9 @@
-
-<script async src="https://cse.google.com/cse.js?cx=f8d1fa47283bd6632"></script>
-<div class="gcse-search"></div>
-
 ---
 title: Adverse Childhood Experiences in Electronic Health Records (EHRs)
 ---
+
+<script async src="https://cse.google.com/cse.js?cx=f8d1fa47283bd6632"></script>
+<div class="gcse-search"></div>
 
  [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/Introduction%20aces%20net.png)](https://shabeer-syed.github.io/ACEs/about) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/implement%20indicators%20home.png)](https://shabeer-syed.github.io/ACEs/implement)
  [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
