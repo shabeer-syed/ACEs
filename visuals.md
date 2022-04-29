@@ -16,8 +16,6 @@ title: ACEs graphical stories
 
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/venn%202.png "workflow")
 
-![alt text](https://github.com/shabeer-syed/ACEs/raw/main/venn2.png "workflow")
-
 
 ## Probability of any CM/mIPV (reference standard) between 2-years before birth up to 5-years post-birth by ACE domain
 
