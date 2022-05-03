@@ -27,10 +27,10 @@ In the UK, mothers and children's data can be linked across services. The abilit
 
 <iframe width="600" height="380" src="https://mediacentral.ucl.ac.uk//Player?autostart=n&fullscreen=y&width=0&height=0&videoId=CFGDc8DB&quality=hi&captions=y&chapterId=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## What are ACE indicators?
+## What are indicators and domains of ACEs?
 --------------------------------------------
 
-We have developed indicators for identifying ACEs and at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth. This page provides more information on definitions and brief methods used to develop the indicators. [Find the pre-print paper here.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569) 
+We have developed indicators* for identifying domains* of ACEs and at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth. This page provides more information on definitions and brief methods used to develop the indicators. [Find the pre-print paper here.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569) 
 
 Each ACE indicator represents a variable of grouped codes or measures for a potential recorded ACE in mothers or children. Indicators are further grouped into six or seven overall ACE domains.
 
