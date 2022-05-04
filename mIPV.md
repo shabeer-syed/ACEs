@@ -12,7 +12,7 @@ Includes suspected indicators with coding terms mentioning historic mIPV or malt
 --------------------------------
 ## Indicator list
  
-<div class="flourish-embed flourish-table" data-src="visualisation/9799589"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-table" data-src="visualisation/9802196"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 --------------------------------
 ## Implementation
