@@ -18,6 +18,8 @@ Any experiences in the child's family environment (not included above) meeting t
 --------------------------------
 ## Publications
 
+[*"Adverse Childhood Experiences (ACEs) in English electronic health records of linked mothers and children: validation study using a multistage risk-prediction model, (2021). Shabeer Syed, Arturo Gonzalez-Izquierd, Janice Allister, Gene Feder, Leah Li, Ruth Gilbert."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569)
+
 --------------------------------
 ## Code list
 
