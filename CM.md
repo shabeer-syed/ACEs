@@ -21,6 +21,8 @@ Suspected CM included any maltreatment-related indicator with codes or measures 
 --------------------------------
 ## Clinical Code List
 
+<div class="flourish-embed flourish-table" data-src="visualisation/9799589"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
