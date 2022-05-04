@@ -25,3 +25,5 @@ Validated codes for mMHPs, MSM and covariates are also available via the [CALIBE
 #### [Child maltreatment (1290)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/CM_ACEs.txt)
 
 ### [Go back](https://shabeer-syed.github.io/ACEs/domains)
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
