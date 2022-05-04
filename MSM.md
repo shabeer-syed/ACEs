@@ -10,7 +10,7 @@ Any consumption of alcohol/drugs meeting threshold for harmful or addictive leve
 --------------------------------
 ## Indicator list
  
-<div class="flourish-embed flourish-table" data-src="visualisation/9799589"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-table" data-src="visualisation/9802228"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 --------------------------------
 ## Implementation
