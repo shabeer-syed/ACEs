@@ -11,7 +11,7 @@ Validated codes for mMHPs, MSM and covariates are also available via the [CALIBE
 --------------------------------
 ## Indicator list
  
-<div class="flourish-embed flourish-table" data-src="visualisation/9799589"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-table" data-src="visualisation/9802273"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 --------------------------------
 ## Implementation
