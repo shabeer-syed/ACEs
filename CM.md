@@ -12,15 +12,15 @@ Includes indicators such as neglect (pre-post birth), child protection recording
 Suspected CM included any maltreatment-related indicator with cosssdes or measures describing presentations likely to refer to CM but without mentioning the underlying cause (e.g. harm caused by non-specified person), safeguarding procedures or child social service interventions.48 For instance, the “suspected CM, NOS” indicator contains codes mentioning “Victim of sexual abuse”, “Multi-professional risk assessment done”, “Assault in the home”
 
 --------------------------------
+## Indicator list
+ 
+<div class="flourish-embed flourish-table" data-src="visualisation/9799589"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+--------------------------------
 ## Implementation
 
 --------------------------------
 ## Publications
-
---------------------------------
-## Indicator list
- 
-<div class="flourish-embed flourish-table" data-src="visualisation/9799589"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 --------------------------------
 ## Code list
