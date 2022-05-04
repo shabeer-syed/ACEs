@@ -21,12 +21,14 @@ Suspected CM included any maltreatment-related indicator with cosssdes or measur
 --------------------------------
 ## Indicator list
  
+ 
+<div class="flourish-embed flourish-table" data-src="visualisation/9799589"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+s
 --------------------------------
 ## Code list
 
 #### [Child maltreatment (1290)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/CM_ACEs.txt)
 
-<div class="flourish-embed flourish-table" data-src="visualisation/9799589"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### [Go back](https://shabeer-syed.github.io/ACEs/domains)
 
