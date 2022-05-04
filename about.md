@@ -70,7 +70,7 @@ Click on the header to see a table overview of median rankings of selected and e
 
 If your require any further information about the development of the ACE indicators, please read the publication here (insert link) or feel free to contact us:
 
-* Shabeer Syed, Researcher in Epidemiology (s.syed.16@ucl.ac.uk), 1,2 
+* Shabeer Syed, Senior Research Associate in Epidemiology (s.syed.16@ucl.ac.uk), 1,2 
 * Dr Arturo Gonzalez-Izquierdo, Senior Research Associate, 1, 3
 * Dr Linda Wijlaars, Senior Research Associate, 1, 3
 * Dr Janice Allister, General Practitioner, 5
