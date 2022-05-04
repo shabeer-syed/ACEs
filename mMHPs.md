@@ -9,15 +9,15 @@ Contains indicators of mutually exclusive symptom clusters aligning with disorde
 Validated codes for mMHPs, MSM and covariates are also available via the [CALIBER platform](https://portal.caliberresearch.org/), with the mapping process described by [Kuan et al.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext)
 
 --------------------------------
+## Indicator list
+ 
+<div class="flourish-embed flourish-table" data-src="visualisation/9799589"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+--------------------------------
 ## Implementation
 
 --------------------------------
 ## Publications
-
---------------------------------
-## Indicator list
- 
-<div class="flourish-embed flourish-table" data-src="visualisation/9799589"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 --------------------------------
 ## Code list
