@@ -62,13 +62,6 @@ ACEs can be recorded in both mothers' and children's records. ACEs are considere
 
 * [See the "definitions and conceptual framework" page for more information](https://acesinehrs.com/definitions)
 
-# Indicator rankings
---------------------------------------------
-
-*The figure shows included and excluded indicators of ACEs and their median ranking from different variable selection models predicting family violence (highest value ranked 1st, lowest ranked 178th place)* 
-
-<div class="flourish-embed flourish-scatter" data-src="visualisation/7015151"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 ###  [See all indicators & selection results](https://shabeer-syed.github.io/ACEs/Indicators) 
 Click on the header to see a table overview of median rankings of selected and excluded ACE indicators from the selection process.
 
