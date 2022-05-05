@@ -15,8 +15,8 @@ title: Implemetation and code lists
 ## Indicators and algorithms
 --------------------------------------------
 We developed two measures of ACEs for electronic health records (EHRs):
-* domains (ie, grouped indicators) and;
-* indicators (ie, grouped codes or measures) 
+* Domains (ie, grouped indicators) and;
+* Indicators (ie, grouped codes or measures) 
 
 ![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/domains%20and%20indicators%201.png)
 
