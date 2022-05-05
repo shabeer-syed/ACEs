@@ -33,7 +33,7 @@ Coping responses may vary as a function of the level of need to escape distress 
 
 The model, therefore, considers families as resilient and constantly striving to cope using different strategies and resources at hand (e.g. protective factors). The model also helps separate the *adverse experience* from the *adverse stress* response of the child, overcoming previous study limitations of [reverse causality] when looking at long-term outcomes. We consider ACEs recorded at the family level (middle segment) amenable to service level intervention and relevant to electronic health records (see above for all criteria). 
 
-### More  family violence as a function of cumulative adversity
+### Increased risk of family violence as a function of cumulative adversity
 The reference standard (outcome) was any occurrence of child maltreatment (CM) and maternal intimate partner violence (mIPV) up to 5-years post-birth.
 
 Based on the above model, we assessed the relevance of candidate ACE indicators based on their association with a reference standard of family violence (any CM or mIPV) in a multistage prediction model. Consistent with our theoretical model, we predicted that indicators would reflect a continuum of clinical relevance, ranging from high need for intervention (i.e. high risk of family violence) to lower relevance.
