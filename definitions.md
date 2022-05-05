@@ -36,7 +36,7 @@ The model, therefore, considers families as resilient and constantly striving to
 ### Increased adversity --> Increased risk of family violence
 The reference standard (outcome) was any occurrence of child maltreatment (CM) and maternal intimate partner violence (mIPV) up to 5-years post-birth.
 
-Based on the above model, we assessed the relevance of candidate ACE indicators based on their association with a reference standard of family violence (any CM or mIPV) in a multistage prediction model. Consistent with our theoretical model, we predicted that indicators would reflect a continuum of clinical relevance, ranging from high need for intervention (i.e. high risk of family violence) to lower relevance.
+Based on the  model above, we assessed the relevance of candidate ACE indicators based on their association with a reference standard of family violence (any CM or mIPV) in a multistage prediction model. Consistent with our theoretical model, we predicted that indicators would reflect a continuum of clinical relevance, ranging from high need for intervention (i.e. high risk of family violence) to lower relevance.
 
 ## Definitions of the final ACE domains 
 ---------------------------------
