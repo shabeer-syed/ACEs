@@ -15,9 +15,9 @@ ACEs are preventable. However, many ACEs are very difficult to identify in child
 Everyone recognises the significant challenges of identifying and monitoring ACEs across individual services and nationally.
 We know NHS trusts, GPs, clinical teams as well as researchers are at the forefront of this challenge.
 
-Electronic health records (EHRs) are routinely collected data from hospitals, GPs and other health systems. Data is often recorded as events happen and as part of routine care. The data is available shorlty after a health care presentation and pose less burden to patients. All data is made non-identifiable and stored securely (watch the video below to find out more). 
+Electronic health records (EHRs) are routinely collected data from hospitals, GPs and other health systems. Data is often recorded as events happen and as part of routine care. The data is available shortly after a health care presentation and pose less burden to patients. All data is made non-identifiable and stored securely (watch the video below to find out more). 
 
-In the UK, mothers and children's data can be linked across services. The ability to link mothers and children records allows for measuring ACEs before pregnancy, throughout childhood and intergenerationally.
+In the UK, mothers' and children's data can be linked across services. The ability to link mothers' and children's records allows for measuring ACEs before pregnancy, throughout childhood and intergenerationally.
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/overall%20logo%20flow.png "workflow")
 
 
@@ -66,7 +66,7 @@ Click on the header to see a table overview of median rankings of selected and e
 ## Contact information
 --------------------------------------------
 
-If your require any further information about the development of the ACE indicators, please read the publication here (insert link) or feel free to contact us:
+If you require any further information about the development of the ACE indicators, please read the publication here (insert link) or feel free to contact us:
 
 * Shabeer Syed, Senior Research Associate in Epidemiology (s.syed.16@ucl.ac.uk), 1,2 
 * Dr Arturo Gonzalez-Izquierdo, Senior Research Associate, 1, 3
