@@ -4,7 +4,7 @@ title: Implemetation and code lists
 
 ### [Go back](https://shabeer-syed.github.io/ACEs/) | [Final indicator list](https://shabeer-syed.github.io/ACEs/indicatorsfinal)
 
-[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/implement%20aces%20small.png)]
+[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/implement%20centered.png)]
 
 ## Code lists and measures of ACEs
 --------------------------------------------
