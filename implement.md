@@ -2,9 +2,14 @@
 title: Implemetation and code lists
 ---
 
+## How does it work?
+--------------------------------------------
+
+![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/implement%20centered1.png)
+
+
 ### [Go back](https://shabeer-syed.github.io/ACEs/) | [Final indicator list](https://shabeer-syed.github.io/ACEs/indicatorsfinal)
 
-![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/implement%20centered.png)
 
 ## Code lists and measures of ACEs
 --------------------------------------------
