@@ -4,6 +4,8 @@ title: Definitions and frameworks
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
 
 ---------------------------------
+This page briefly summarises the theoretical framework and definitions that underpinned the development of the ACE indicators. 
+
 ### Background
 Adverse childhood experiences (ACEs) are potentially traumatic, neglectful or [violent](https://www.who.int/violenceprevention/approach/definition/en/) experiences in childhood. Examples of ACEs range from child maltreatment, and witnessing violence in the home, to growing up with a parent with a mental health problem [(1)](https://www.cdc.gov/violenceprevention/aces/fastfact.html). Studies estimate that approximately 1 in 2 adults in England reports experiencing at least one ACE in childhood [(2)](https://bmcmedicine.biomedcentral.com/articles/10.1186/1741-7015-12-72). ACEs are linked to considerable health burden in adulthood, and can pose a substantial pressure on families, health and social care systems [(3)](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(17)30118-4/fulltext).
 
@@ -14,10 +16,6 @@ Since the late 1990s, the initial "ACE domains" have undergone numerous expansio
 
 ### A an integrated conceptual framework to define and develop ACEs
 To overcome previous limitations in developing ACE indicators, we combined previously established theories to develop a "testable" biopsychosocial framework that can help generate predictions of which ACE indicators might be more relevant than others, and why. We have diagrammatically summarised the developed integrative conceputal model in the figure below. In this model, we integrate the socio-ecological system theory by [Bronfenbrenner (1977)](https://psycnet.apa.org/record/1978-06857-001) and [Belsky (1980)](https://psycnet.apa.org/record/1980-12117-001), attachment theory (Bowlby, 1969–82; Ainsworth et al., 1978), the [cumulative stress or allostatic load model](https://pubmed.ncbi.nlm.nih.gov/22201156/) and cognitive behaviorual theories of emotions(https://psycnet.apa.org/record/1989-26231-001)) to inform the selection of relevant indictaors of ACEs.
-
-This page briefly summarises  and reference standard that underpinned the development and validation of the ACE indicators. 
-
-
 
 ![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/formulation%20lower%20res%201.png)
 
