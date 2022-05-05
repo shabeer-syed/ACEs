@@ -17,11 +17,12 @@ Since the late 1990s, the initial "ACE domains" have undergone numerous expansio
 ### A an integrated conceptual framework to defining and develop ACEs
 To overcome previous limitations in developing ACE indicators, we combined previously established theories to develop a "testable" biopsychosocial framework that can help generate predictions of which ACE indicators might be more relevant than others, and why. We have diagrammatically summarised the developed integrative conceputal model in the figure below. In this model, we use the socio-ecological system theory by [Bronfenbrenner (1977)](https://psycnet.apa.org/record/1978-06857-001) and [Belsky (1980)](https://psycnet.apa.org/record/1980-12117-001) as base, with predictions of relevant ACE indictaors drawn from attachment theory (Bowlby, 1969–82; Ainsworth et al., 1978), the [cumulative stress model](https://pubmed.ncbi.nlm.nih.gov/22201156/)(includes the ["allostatic load" model](https://www.nejm.org/doi/10.1056/NEJM199801153380307) and the ["ecobiodevelopmental" framework](https://www.publications.aap.org/pediatrics/article-split/129/1/e232/31628/The-Lifelong-Effects-of-Early-Childhood-Adversity) and cognitive behaviorual theories of emotions(https://psycnet.apa.org/record/1989-26231-001)). 
 
+The figure does not represent an exhaustive list of mechanisms behind ACEs.
+
 ![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/formulation%20lower%20res%201.png)
 
 [*Download the figure in high resolution*](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/formulation.png). 
 
-It does not represent an exhaustive list of factors or mechanisms of ACEs or outcomes.
 
 In summary, the figure shows family violence (CM/mIPV) as an outcome from a cumulation of underlying adversity in the context of co-occurring intergenerational risk factors, ([5](https://pubmed.ncbi.nlm.nih.gov/33689982/)) and limited resources across two levels (society/family).
 
