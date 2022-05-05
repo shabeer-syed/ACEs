@@ -7,18 +7,17 @@ title: ACEs introduction and overview
 <img style="float: right;" src="https://raw.githubusercontent.com/shabeer-syed/ACEs/main/smaller%20overview%20aces.png">
 Adverse childhood experiences (ACEs) are potentially traumatic, neglectful or [violent](https://www.who.int/violenceprevention/approach/definition/en/) experiences in childhood. Examples of ACEs range from child maltreatment, and witnessing violence in the home, to growing up with a parent with a mental health problem [(1)](https://www.cdc.gov/violenceprevention/aces/fastfact.html). Studies estimate that approximately 1 in 2 adults in England reports experiencing at least one ACE in childhood [(2)](https://bmcmedicine.biomedcentral.com/articles/10.1186/1741-7015-12-72). ACEs are linked to considerable health burden in adulthood, and can pose a substantial pressure on families, health and social care systems [(3)](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(17)30118-4/fulltext).
 
-ACEs are preventable. However, many ACEs are very difficult to identify in childhood. Most studies rely on self-reports of adults many years after the event happened, when its more difficult to prevent the negative effects of ACEs.
+ACEs are preventable. However, many ACEs are very difficult to identify in childhood. Most studies rely on self-reports of adults many years after the event happened when it's more challenging to prevent the negative effects of ACEs.
 
 ## How can routinely collected non-identifiable patient data help?
 -----------------------------------------------------------------
 
-Everyone recognises the  significant challenges of identifying and monitoring ACEs across individual services and nationally.
+Everyone recognises the significant challenges of identifying and monitoring ACEs across individual services and nationally.
 We know NHS trusts, GPs, clinical teams as well as researchers are at the forefront of this challenge.
 
-Electronic health records (EHRs) are routinely collected data from hospitals, GPs and other health systems. Data is often recorded as events happens and part of routine care. The data is available shorlty  after a health care presentation and pose little burden to patients. All data is made non-identifiable and stored securely (watch the video below to find out more). 
+Electronic health records (EHRs) are routinely collected data from hospitals, GPs and other health systems. Data is often recorded as events happen and as part of routine care. The data is available shorlty after a health care presentation and pose less burden to patients. All data is made non-identifiable and stored securely (watch the video below to find out more). 
 
-In the UK, mothers and children's data can be linked across services. The ability to link mother’s and children’s records provides an opportunity to measure ACEs before pregnancy, throughout childhood and intergenerationally.
-
+In the UK, mothers and children's data can be linked across services. The ability to link mothers and children records allows for measuring ACEs before pregnancy, throughout childhood and intergenerationally.
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/overall%20logo%20flow.png "workflow")
 
 
@@ -47,10 +46,9 @@ We defined ACE indicators as any experience within the family environment record
 
 > * A single significant event or through repeated exposure;
 
-> * Caused by external factors and not the child themselves such as self-harm, and;
+> * Caused by external factors and not the child themselves, such as self-harm, and;
 
 > * Amenable to health or social care intervention at a family level (i.e. excluding wider factors such as socioeconomic status, community violence, school bullying etc).
-
 
 We made several adaptations to previously studied ACEs to allow for feasible ascertainment in electronic health records (EHRs). We defined indicators as variables of grouped codes and measures. We aimed to develop ACE indicators that reflected clinically meaningful risk groups of adversity to identify families that may be eligible for targeted maternal-child care interventions in England (e.g. targeted care pathway of [the Healthy Child Programme by Public Health England](https://www.gov.uk/government/publications/healthy-child-programme-0-to-19-health-visitor-and-school-nurse-commissioning)). See also WHO for [intervention studies](https://www.who.int/teams/social-determinants-of-health/violence-prevention/global-status-report-on-violence-against-children-2020).
 
@@ -58,7 +56,7 @@ We manually grouped indicators into broader ACE domains consistent with the [ori
 
 Given the substantial under-recording of CM and mIPV (e.g. see [1](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/barriers-and-facilitators-of-disclosures-of-domestic-violence-by-mental-health-service-users-qualitative-study/7A690CCBC0322D045442549A5FA3C4CF), [2](https://bjgp.org/content/67/659/e437.long)) we also added the domain “high-risk presentations of CM” (HRP-CM). HRP-CM encompassed indicators from the [National Institute for Health and Care Excellence (NICE)](https://www.nice.org.uk/guidance/cg89/chapter/1-Guidance) and [Royal College of General Practitioners (RGCP)](https://www.rcgp.org.uk/clinical-and-research/resources/toolkits/child-safeguarding-toolkit.aspx) that should raise clinical suspicion for CM.
 
-ACEs can be recorded in both mothers' and children's records. ACEs are considered based on each specific child's time from birth. Children are therefore considered unexposed if no relevant recording occur in the study period, regardless of previous exposure in children within the same family. This approach mirrors changes in stress levels as the family moves through different life stages.
+ACEs can be recorded in both mothers' and children's records. ACEs are considered based on each specific child's time from birth. Children are therefore considered unexposed if no relevant recording occurs in the study period, regardless of previous exposure in children within the same family. This approach mirrors changes in stress levels as the family moves through different life stages.
 
 * [See the "definitions and conceptual framework" page for more information](https://acesinehrs.com/definitions)
 
