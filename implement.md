@@ -18,6 +18,8 @@ We developed two measures of ACEs for electronic health records (EHRs):
 * indicators (ie, grouped codes or measures) and;
 * domains (ie, grouped indicators)
 
+![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/domains%20and%20indicators%201.png)
+
 Most indicators are derived using algorithms that identify and extract information from EHRs using clinically coded healthcare information (for example ICD-10 and SNOMED-CT). Algorithms are freely available on this webpage.
 
 For GP records, we define indicators by combining information recorded in Read codes, prescriptions, referral fields and validated self-report measures (continuous variables needing re-coding) routinely administered by GPs or nurses (e.g. alcohol use).
