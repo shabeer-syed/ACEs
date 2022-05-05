@@ -24,7 +24,7 @@ The figure does not represent an exhaustive list of potential mechanisms behind 
 [*Download the figure in high resolution*](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/formulation.png). 
 
 
-In summary, the figure shows family violence (CM/mIPV) as an outcome from a cumulation of underlying adversity in the context of co-occurring intergenerational risk factors, ([5](https://pubmed.ncbi.nlm.nih.gov/33689982/)) and limited resources across two levels (society/family).
+In summary, the figure shows child maltreatment and parental intimate partner violence (herien termed "family violence") as result from a cumulation of underlying adversity in the context of co-occurring intergenerational risk factors, ([5](https://pubmed.ncbi.nlm.nih.gov/33689982/)) and limited protective factors across two levels (society/family).
 
 People cope with stress and perception of threat using different preventative strategies (e.g. avoidance, escape, fight) in an attempt to minimise negative consequences (e.g. see [theories on emotional processing](https://psycnet.apa.org/record/1986-15090-001), [selective attention and overestimation of threat](https://pubmed.ncbi.nlm.nih.gov/10402694/)).
 
