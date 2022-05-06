@@ -5,7 +5,7 @@ title: ACEs introduction and overview
 
 ## Introduction
 <img style="float: right;" src="https://raw.githubusercontent.com/shabeer-syed/ACEs/main/smaller%20overview%20aces.png">
-Adverse childhood experiences (ACEs) are potentially traumatic, neglectful or [violent](https://www.who.int/violenceprevention/approach/definition/en/) experiences in childhood. Examples of ACEs range from child maltreatment, and witnessing violence in the home, to growing up with a parent with a mental health problem [(1)](https://www.cdc.gov/violenceprevention/aces/fastfact.html). Studies estimate that approximately 1 in 2 adults in England reports experiencing at least one ACE in childhood [(2)](https://bmcmedicine.biomedcentral.com/articles/10.1186/1741-7015-12-72). ACEs are linked to considerable health burden in adulthood, and can pose a substantial pressure on families, health and social care systems [(3)](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(17)30118-4/fulltext).
+Adverse childhood experiences (ACEs) are potentially traumatic, neglectful or [violent](https://www.who.int/violenceprevention/approach/definition/en/) experiences in childhood. Examples of ACEs range from child maltreatment and witnessing violence in the home to growing up with a parent with a mental health problem [(1)](https://www.cdc.gov/violenceprevention/aces/fastfact.html). Studies estimate that approximately 1 in 2 adults in England reports experiencing at least one ACE in childhood [(2)](https://bmcmedicine.biomedcentral.com/articles/10.1186/1741-7015-12-72). ACEs are linked to considerable health burden in adulthood, and can pose a substantial pressure on families, health and social care systems [(3)](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(17)30118-4/fulltext).
 
 ACEs are preventable. However, many ACEs are very difficult to identify in childhood. Most studies rely on self-reports of adults many years after the event happened when it's more challenging to prevent the harmful effects of ACEs.
 
@@ -13,9 +13,9 @@ ACEs are preventable. However, many ACEs are very difficult to identify in child
 -----------------------------------------------------------------
 
 Everyone recognises the significant challenges of identifying and monitoring ACEs across individual services and nationally.
-We know NHS trusts, GPs, clinical teams as well as researchers are at the forefront of this challenge.
+We know NHS trusts, GPs, clinical teams and researchers are at the forefront of this challenge.
 
-Electronic health records (EHRs) are routinely collected data from hospitals, GPs and other health systems. Data is often recorded as events happen and as part of routine care. The data is available shortly after a health care presentation and pose less burden to patients. All data is made non-identifiable and stored securely (watch the video below to find out more). 
+Electronic health records (EHRs) are routinely collected data from hospitals, GPs and other health systems. Data is often recorded as events happen and as part of routine care. The information is available shortly after a health care presentation and pose less burden to patients. All data is made non-identifiable and stored securely (watch the video below to find out more). 
 
 In the UK, mothers' and children's data can be linked across services. The ability to link mothers' and children's records allows for measuring ACEs before pregnancy, throughout childhood and intergenerationally.
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/overall%20logo%20flow.png "workflow")
