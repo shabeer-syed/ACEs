@@ -1,7 +1,8 @@
 ---
 title: ACEs introduction and overview
 ---
-### [Go back](https://shabeer-syed.github.io/ACEs/)
+### [Go back](https://shabeer-syed.github.io/ACEs/) | [View domains & indicators](https://shabeer-syed.github.io/ACEs/domains)
+
 
 -----------------------------------------------------------------
 # Introduction
@@ -63,6 +64,33 @@ ACEs can be recorded in both mothers' and children's records. ACEs are considere
 
 ###  [See all indicators & selection results](https://shabeer-syed.github.io/ACEs/Indicators) 
 Click on the header to see a table overview of median rankings of selected and excluded ACE indicators from the selection process.
+
+## [SAMHSA’s Concept of Trauma and Guidance for aTrauma-Informed Approach](https://store.samhsa.gov/sites/default/files/d7/priv/sma14-4884.pdf)
+THE FOUR “R’S: KEY ASSUMPTIONS IN A TRAUMA-INFORMED APPROACH
+
+* Realization about trauma and understand how trauma can affect families, groups, organizations, and communities as well as individuals.
+
+* Recognize the signs of trauma by people in the organization or system
+
+* Respond by applying the principles of a trauma-informed approach to all areas of functioning, including changing the language, from greetings at the door to the executives and the governance board, staff training, a budget
+that supports this ongoing training, and leadership
+that realizes the role of trauma in the lives of their
+staff and the people they serve. The organization
+has practitioners trained in evidence-based trauma
+practices. Policies of the organization, such as mission
+statements, staff handbooks and manuals promote
+a culture based on beliefs about resilience, recovery,
+and healing from trauma. 
+
+* Resist re-traumatization trigger painful memories and re-traumatize clients
+with trauma histories. For example, they recognize
+that using restraints on a person who has been
+sexually abused or placing a child who has been
+neglected and abandoned in a seclusion room may
+be re-traumatizing and interfere with healing and
+recovery. 
+
+https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(19)32540-1.pdf
 
 ## Contact information
 --------------------------------------------
