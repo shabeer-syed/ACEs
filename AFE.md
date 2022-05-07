@@ -13,6 +13,11 @@ Any experiences in the child's family environment (not included above) meeting t
 <div class="flourish-embed flourish-table" data-src="visualisation/9802253"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 --------------------------------
+## Code list
+
+#### [Adverse family environment (701)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/AFE_ACEs.txt)
+
+--------------------------------
 ## Implementation
 
 --------------------------------
@@ -20,10 +25,6 @@ Any experiences in the child's family environment (not included above) meeting t
 
 [*"Adverse Childhood Experiences (ACEs) in English electronic health records of linked mothers and children: validation study using a multistage risk-prediction model, (2021). Shabeer Syed, Arturo Gonzalez-Izquierd, Janice Allister, Gene Feder, Leah Li, Ruth Gilbert."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569)
 
---------------------------------
-## Code list
-
-#### [Adverse family environment (701)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/AFE_ACEs.txt)
 
 ### [Go back](https://shabeer-syed.github.io/ACEs/domains)
 
