@@ -15,6 +15,14 @@ Any consumption of alcohol/drugs meeting threshold for harmful or addictive leve
 --------------------------------
 ## Implementation
 
+## Rule-based algorithms
+
+![alt text](https://cdn-coiao.nitrocdn.com/CYHudqJZsSxQpAPzLkHFOkuzFKDpEHGF/assets/static/optimized/rev-4d1b478/wp-content/uploads/2021/03/r-case_when-multiple-cases-syntax.png)
+
+ | ACE domain, Indicator(s) |  Rule-based algorithms | Scrip/code* |
+ | --- | --- | --- | 
+ | **MSM,** Alcohol misuse Severe | Include if continuous data meets the cut-off assigned to each code (see code list): e.g. AUDIT: ≥20; AUDIT-PC: ≥10; SADQ ≥31; ≥35 alcohol units per week (analogous to higher-risk drinking/harmful drinking/alcohol dependence; [see NICE guidelines](https://www.nice.org.uk/guidance/ph24/chapter/7-Glossary)); >200 mg alcohol per 100 ml blood is classed as potential high-risk offender when driving in England/Wales (see UK gov) (applies to hospital admission codes in this study). | `msm_alcohol <- merged_data %>% filter(Domain=="MSM" & Indicator_1=="Alcohol misuse" & scale=="1" & data1 > cut_off)`|
+
 --------------------------------
 ## Publications
 
