@@ -14,6 +14,11 @@ Validated codes for mMHPs, MSM and covariates are also available via the [CALIBE
 <div class="flourish-embed flourish-table" data-src="visualisation/9802273"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 --------------------------------
+## Code list
+
+#### [Maternal mental health problems (3966)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mMHPs_ACEs.txt)
+
+--------------------------------
 ## Implementation
 
  | ACE domain, Indicator(s) |  Rule-based algorithms | Scrip/code* |
@@ -29,10 +34,6 @@ Validated codes for mMHPs, MSM and covariates are also available via the [CALIBE
 
 [John A, McGregor J, Fone D, Dunstan F, Cornish R, Lyons RA, Lloyd KR. Case-finding for common mental disorders of anxiety and depression in primary care: an external validation of routinely collected data. BMC medical informatics and decision making. 2016 Dec;16(1):1-0.](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-016-0274-7)
 
---------------------------------
-## Code list
-
-#### [Maternal mental health problems (3966)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mMHPs_ACEs.txt)
 
 ### [Go back](https://shabeer-syed.github.io/ACEs/domains)
 
