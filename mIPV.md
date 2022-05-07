@@ -15,6 +15,11 @@ Includes suspected indicators with coding terms mentioning historic mIPV or malt
 <div class="flourish-embed flourish-table" data-src="visualisation/9802196"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 --------------------------------
+## Code list
+
+#### [Maternal intimate partner violence (450 + 503 for assault algorithm)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mIPV_ACEs.txt)
+
+--------------------------------
 ## Implementation
 
 --------------------------------
@@ -22,10 +27,6 @@ Includes suspected indicators with coding terms mentioning historic mIPV or malt
 
 [*"Adverse Childhood Experiences (ACEs) in English electronic health records of linked mothers and children: validation study using a multistage risk-prediction model, (2021). Shabeer Syed, Arturo Gonzalez-Izquierd, Janice Allister, Gene Feder, Leah Li, Ruth Gilbert."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569) 
 
---------------------------------
-## Code list
-
-#### [Maternal intimate partner violence (450 + 503 for assault algorithm)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mIPV_ACEs.txt)
 
 ### [Go back](https://shabeer-syed.github.io/ACEs/domains)
 
