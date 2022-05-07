@@ -15,9 +15,8 @@ Any consumption of alcohol/drugs meeting threshold for harmful or addictive leve
 --------------------------------
 ## Implementation
 
-## Rule-based algorithms
 
-![alt text](https://cdn-coiao.nitrocdn.com/CYHudqJZsSxQpAPzLkHFOkuzFKDpEHGF/assets/static/optimized/rev-4d1b478/wp-content/uploads/2021/03/r-case_when-multiple-cases-syntax.png)
+![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/case%20when.jpg)
 
  | ACE domain, Indicator(s) |  Rule-based algorithms | Scrip/code* |
  | --- | --- | --- | 
