@@ -17,6 +17,11 @@ Suspected CM included any maltreatment-related indicator with codes or measures 
 <div class="flourish-embed flourish-table" data-src="visualisation/9799589"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 --------------------------------
+## Code list
+
+#### [Child maltreatment (1290)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/CM_ACEs.txt)
+
+--------------------------------
 ## Implementation
 
 --------------------------------
@@ -30,10 +35,7 @@ Suspected CM included any maltreatment-related indicator with codes or measures 
 
 [Royal College of General Practitioners. Child safeguarding toolkit.](https://elearning.rcgp.org.uk/mod/book/view.php?id=12531)
 
---------------------------------
-## Code list
 
-#### [Child maltreatment (1290)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/CM_ACEs.txt)
 
 ### [Go back](https://shabeer-syed.github.io/ACEs/domains)
 
