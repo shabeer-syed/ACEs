@@ -13,17 +13,22 @@ This domain includes indicators consistent with NICE Clinical guidelines [CG89] 
 <div class="flourish-embed flourish-table" data-src="visualisation/9821663"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 --------------------------------
+## Code list
+
+#### [High-risk presentation of CM (802)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/HRP_CM_ACEs.txt)
+
+--------------------------------
 ## Implementation
 
+ | ACE domain, Indicator(s) |  Rule-based algorithms | Scrip/code* |
+ | --- | --- | --- | 
+ | **HRP-CM,** Child harm by undetermined intent; Lacerations, scars and abrasions; Thermal injuries; Unknown and unspecified causes of morbidity in child;Other and unspecified abdominal pain; Unspecified event in child, Obs for other suspected diseases and conditions in child | Include as HRP-CM when excluded co-occurring accident-related injuries recorded within +/-15 days of the event. Time frame selected based on the median time difference between data sources for some accidental injuries.  [NICE Clinical guideline [CG89]: 1.1.1-1.1.8; 1.1.15; 1.2.4, 1.2.5;  1.2.13](https://www.nice.org.uk/guidance/CG89/chapter/1-Guidance#physical-features) | 
+ |**HRP-CM,** Eye trauma, NOS; Subarachnoid haemorrhage other; Subdural haematoma/retinal haemorrhage; Fractures, Intra-abdominal injuries, spinal injuries,  intracranial | Include as HRP-CM when excluded co-occurring accident-related injuries recorded within +/-15 days of the event, and when excluded birth-related injuries recorded <2 days post birth. [NICE Clinical guideline [CG89]: 1.1.11; 1.1.10](https://www.nice.org.uk/guidance/CG89/chapter/1-Guidance#physical-features) |
+ |**HRP-CM,** Fractures, Intra-abdominal injuries, spinal injuries,  intracranial | Include as HRP-CM when excluded co-occurring accident-related injuries recorded within +/-15 days of the event, and when excluded birth-related injuries recorded <2 days post birth, and when excluded children with fragile bone disease (Osteoporosis), unless definitive CM is recorded within +/-30 days . [NICE Clinical guideline [CG89]: 1.1.9; 1.1.12;  1.1.13](https://www.nice.org.uk/guidance/CG89/chapter/1-Guidance#physical-features)) |
 --------------------------------
 ## Publications
 
 [*"Adverse Childhood Experiences (ACEs) in English electronic health records of linked mothers and children: validation study using a multistage risk-prediction model, (2021). Shabeer Syed, Arturo Gonzalez-Izquierd, Janice Allister, Gene Feder, Leah Li, Ruth Gilbert."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569)
-
---------------------------------
-## Code list
-
-#### [High-risk presentation of CM (802)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/HRP_CM_ACEs.txt)
 
 ### [Go back](https://shabeer-syed.github.io/ACEs/domains)
 
