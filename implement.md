@@ -1,7 +1,7 @@
 ---
 title: Implemetation and code lists
 ---
-### [Go back](https://shabeer-syed.github.io/ACEs/) | [View domains & indicators]((https://shabeer-syed.github.io/ACEs/domains)
+### [Go back](https://shabeer-syed.github.io/ACEs/) | [View domains & indicators](https://shabeer-syed.github.io/ACEs/domains)
 
 ## How does it work?
 --------------------------------------------
