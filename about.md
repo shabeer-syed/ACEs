@@ -65,7 +65,7 @@ ACEs can be recorded in both mothers' and children's records. ACEs are considere
 ###  [See all indicators & selection results](https://shabeer-syed.github.io/ACEs/Indicators) 
 Click on the header to see a table overview of median rankings of selected and excluded ACE indicators from the selection process.
 
-## [SAMHSA’s Concept of Trauma and Guidance for aTrauma-Informed Approach](https://store.samhsa.gov/sites/default/files/d7/priv/sma14-4884.pdf)
+## [SAMHSA’s Concept of Trauma and Guidance for a Trauma-Informed Approach](https://store.samhsa.gov/sites/default/files/d7/priv/sma14-4884.pdf)
 THE FOUR “R’S: KEY ASSUMPTIONS IN A TRAUMA-INFORMED APPROACH
 
 * Realization about trauma and understand how trauma can affect families, groups, organizations, and communities as well as individuals.
@@ -90,7 +90,7 @@ neglected and abandoned in a seclusion room may
 be re-traumatizing and interfere with healing and
 recovery. 
 
-https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(19)32540-1.pdf
+[https://store.samhsa.gov/sites/default/files/d7/priv/sma14-4884.pdf](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(19)32540-1.pdf)
 
 ## Contact information
 --------------------------------------------
