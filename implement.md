@@ -112,9 +112,6 @@ e.g. Example "one liner" in R or Python with dplyr:
 
 Apply multiple rule-based algorithims (age critera, accident exclusions etc) using control flow (data dependent "if then assumptions") are widley covered by the data science community ([1](https://adv-r.hadley.nz/control-flow.html) [2](https://advanced-r-solutions.rbind.io/control-flow.html)).
 
-
-## Rule-based algorithms
-
 ![alt text](![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/case%20when.jpg)
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20domains.png)](https://shabeer-syed.github.io/ACEs/domains) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
