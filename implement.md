@@ -3,7 +3,7 @@ title: Implemetation and code lists
 ---
 ### [Go back](https://shabeer-syed.github.io/ACEs/) | [View domains & indicators](https://shabeer-syed.github.io/ACEs/domains)
 
-## How does it work?
+# How does it work?
 --------------------------------------------
 
 ![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/implement%20centered1.png)
@@ -97,17 +97,19 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 
 Whilst most indicators are ready for use in your dataset (e.g. via merging a code list), some indicators requires rule-based algorithms as listed below. You can also download an [**introductory tutorial here.**](https://github.com/shabeer-syed/ACEs/raw/main/ACEs%20implementation%20tutorial.pdf)
 
-**//1-2. Merge each specific code list or the complete ACEs code list with your data file containing the target population (e.g. ensure correct ages for children/mothers):**
+### 1-2. Merge code lists with the data file containing the target population
+(e.g. ensure correct ages for children/mothers)
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/merge%20codelist.png)
 
-**//3.1 Convert continuous measures to binary indicators by applying/"filtering" using the additional "cut-off" variable provided (i.e. data > cut_off)**
+### 3.1 Convert continuous measures to binary indicators using the additional "cut-off" variable provided (i.e. data > cut_off)**
 
 e.g. Example "one liner" in R or Python with dplyr:
 
  `e.g. mmhps_alcohol <- merged_data %>% filter(Domain=="mMHPs" & Indicator 1=="Alcohol misuse" & scale=="1" & data1 > cut_off)`
 
-**//3.2 More advanced [control flow methods](https://adv-r.hadley.nz/control-flow.html) are required to apply multiple rule-based algorithims (age critera, accident exclusions etc) and to achieve faster implementation.**
-Control flow (data dependent "if then assumptions") are widley covered by the data science community ([1](https://adv-r.hadley.nz/control-flow.html) [2](https://advanced-r-solutions.rbind.io/control-flow.html)).
+### 3.2 Apply more advanced [control flow methods](https://adv-r.hadley.nz/control-flow.html)
+
+Apply multiple rule-based algorithims (age critera, accident exclusions etc) using control flow (data dependent "if then assumptions") are widley covered by the data science community ([1](https://adv-r.hadley.nz/control-flow.html) [2](https://advanced-r-solutions.rbind.io/control-flow.html)).
 
 
 ## Rule-based algorithms
