@@ -29,6 +29,8 @@ Any consumption of alcohol/drugs meeting threshold for harmful or addictive leve
 
 [*"Adverse Childhood Experiences (ACEs) in English electronic health records of linked mothers and children: validation study using a multistage risk-prediction model, (2021). Shabeer Syed, Arturo Gonzalez-Izquierd, Janice Allister, Gene Feder, Leah Li, Ruth Gilbert."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569)
 
+[Syed S, Ashwick R, Schlosser M, Gonzalez-Izquierdo A, Li L, Gilbert R. Predictive value of indicators for identifying child maltreatment and intimate partner violence in coded electronic health records: a systematic review and meta-analysis. Archives of disease in childhood. 2021 Jan 1;106(1):44-53.](https://adc.bmj.com/content/106/1/44.full)
+
 [Department of Health. Alcohol guidelines review: report from the guidelines development group to the UK chief medical officers. London: Department of Health. January, 2016](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/545739/GDG_report-Jan2016.pdf)"
 
 --------------------------------
