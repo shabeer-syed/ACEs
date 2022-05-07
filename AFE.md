@@ -20,10 +20,15 @@ Any experiences in the child's family environment (not included above) meeting t
 --------------------------------
 ## Implementation
 
+
 --------------------------------
 ## Publications
 
 [*"Adverse Childhood Experiences (ACEs) in English electronic health records of linked mothers and children: validation study using a multistage risk-prediction model, (2021). Shabeer Syed, Arturo Gonzalez-Izquierd, Janice Allister, Gene Feder, Leah Li, Ruth Gilbert."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569)
+
+[Syed S, Ashwick R, Schlosser M, Gonzalez-Izquierdo A, Li L, Gilbert R. Predictive value of indicators for identifying child maltreatment and intimate partner violence in coded electronic health records: a systematic review and meta-analysis. Archives of disease in childhood. 2021 Jan 1;106(1):44-53.](https://adc.bmj.com/content/106/1/44.full)
+
+[Gonzalez‐Izquierdo A, Ward A, Smith P, Walford C, Begent J, Ioannou Y, Gilbert R. Notifications for child safeguarding from an acute hospital in response to presentations to healthcare by parents. Child: care, health and development. 2015 Mar;41(2):186-93.](https://onlinelibrary.wiley.com/doi/full/10.1111/cch.12134)
 
 
 ### [Go back](https://shabeer-syed.github.io/ACEs/domains)
