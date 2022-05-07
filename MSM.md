@@ -31,7 +31,7 @@ Any consumption of alcohol/drugs meeting threshold for harmful or addictive leve
 
 [Department of Health. Alcohol guidelines review: report from the guidelines development group to the UK chief medical officers. London: Department of Health. January, 2016](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/545739/GDG_report-Jan2016.pdf)"
 
-
+--------------------------------
 ### [Go back](https://shabeer-syed.github.io/ACEs/domains)
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
