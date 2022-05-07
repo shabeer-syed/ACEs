@@ -13,10 +13,12 @@ Any consumption of alcohol/drugs meeting threshold for harmful or addictive leve
 <div class="flourish-embed flourish-table" data-src="visualisation/9802228"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 --------------------------------
+## Code list
+
+#### [Maternal substance misuse (1090)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/MSM_ACEs.txt)
+
+--------------------------------
 ## Implementation
-
-
-![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/case%20when.jpg)
 
  | ACE domain, Indicator(s) |  Rule-based algorithms | Scrip/code* |
  | --- | --- | --- | 
@@ -29,10 +31,6 @@ Any consumption of alcohol/drugs meeting threshold for harmful or addictive leve
 
 [Department of Health. Alcohol guidelines review: report from the guidelines development group to the UK chief medical officers. London: Department of Health. January, 2016](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/545739/GDG_report-Jan2016.pdf)"
 
---------------------------------
-## Code list
-
-#### [Maternal substance misuse (1090)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/MSM_ACEs.txt)
 
 ### [Go back](https://shabeer-syed.github.io/ACEs/domains)
 
