@@ -23,6 +23,9 @@ Suspected CM included any maltreatment-related indicator with codes or measures 
 
 --------------------------------
 ## Implementation
+ | ACE domain, Indicator(s) |  Rule-based algorithms | Scrip/code* |
+ | --- | --- | --- | 
+ | **CM,** FGM | Apply codes mentioning circumcision to female children only (e.g. "54314 - routine or ritual circumcision"). Code list includes markers for rule inclusion. | `cm_fgm <- merged_data %>% filter(Domain=="CM" & individual=="4" & gender=="female"` | 
 
 --------------------------------
 ## Publications
