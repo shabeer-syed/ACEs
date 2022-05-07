@@ -2,6 +2,7 @@
 title: Domain - Child maltreatment
 ---
 ### [Go back](https://shabeer-syed.github.io/ACEs/domains) | [View all ACE indicators](https://shabeer-syed.github.io/ACEs/indicatorsfinal) 
+
 --------------------------------
 ## Definition
 
@@ -32,6 +33,8 @@ Suspected CM included any maltreatment-related indicator with codes or measures 
 ## Publications
 
 [*"Adverse Childhood Experiences (ACEs) in English electronic health records of linked mothers and children: validation study using a multistage risk-prediction model, (2021). Shabeer Syed, Arturo Gonzalez-Izquierd, Janice Allister, Gene Feder, Leah Li, Ruth Gilbert."*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569) 
+
+[Syed S, Ashwick R, Schlosser M, Gonzalez-Izquierdo A, Li L, Gilbert R. Predictive value of indicators for identifying child maltreatment and intimate partner violence in coded electronic health records: a systematic review and meta-analysis. Archives of disease in childhood. 2021 Jan 1;106(1):44-53.](https://adc.bmj.com/content/106/1/44.full)
 
 [Gilbert R, Fluke J, O'Donnell M, Gonzalez-Izquierdo A, Brownell M, Gulliver P, Janson S, Sidebotham P. Child maltreatment: variation in trends and policies in six developed countries. The Lancet. 2012 Feb 25;379(9817):758-72.](https://www.sciencedirect.com/science/article/pii/S0140673611610878) Code list can be found [here](https://ars.els-cdn.com/content/image/1-s2.0-S0140673611610878-mmc1.pdf).
 
