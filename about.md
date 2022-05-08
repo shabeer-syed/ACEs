@@ -28,8 +28,9 @@ In the UK, mothers' and children's data can be linked across services. The abili
 
 <iframe width="600" height="380" src="https://mediacentral.ucl.ac.uk//Player?autostart=n&fullscreen=y&width=0&height=0&videoId=CFGDc8DB&quality=hi&captions=y&chapterId=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Domains and indicators of ACEs?
+## Aims: Domains and indicators of ACEs?
 --------------------------------------------
+We aimed to develop and validate ACEs measurement tools for EHRs.
 
 We have developed indicators* for identifying domains* of ACEs and at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth. This page provides more information on definitions and brief methods used to develop the indicators. [Find the pre-print paper here.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569) 
 
@@ -45,7 +46,13 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 ###  [See all indicators & selection results](https://shabeer-syed.github.io/ACEs/Indicators) 
 Click on the header to see a table overview of median rankings of selected and excluded ACE indicators from the selection process.
 
-## [SAMHSA’s Concept of Trauma and Guidance for a Trauma-Informed Approach](https://store.samhsa.gov/sites/default/files/d7/priv/sma14-4884.pdf)
+## How can ACEs indicators and domains help (so what)? - the four R's
+The main objectvie of the ACEs research is to help improve the health of vulnerable families and individuals by promoting a trauma-informed approach to care. The research outputs aims to inform public health and policy regarding surveliance and ACEs prevention. 
+We **do not** recommend using ACE indicators for screening purposes to guide clinical decion making on an individual  level. It is important that further reasearch is conducted to evaluate if the benefits of indvidual identification or screening outweigh the harms, so screening does not become an end in and of itself.
+
+employ the four "R's" a trauma informed approach that underpinn implications of our research outlines potential implications of ACEs research. SAMHSA's have written a comprehensive guide on h.
+
+
 THE FOUR “R’S: KEY ASSUMPTIONS IN A TRAUMA-INFORMED APPROACH
 
 * Realization about trauma and understand how trauma can affect families, groups, organizations, and communities as well as individuals.
