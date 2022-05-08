@@ -46,31 +46,29 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 ###  [See all indicators & selection results](https://shabeer-syed.github.io/ACEs/Indicators) 
 Click on the header to see a table overview of median rankings of selected and excluded ACE indicators from the selection process.
 
-## How can ACEs indicators and domains help (so what)? - the four R's
-The main objectvie of the ACE domains and indicators is to help improve the health of vulnerable families and individuals by promoting a trauma-informed approach to care. The ACE indicators aims support data-driven integration of trauma-informed care across health platforms, and to inform public health policy and service commissioning.
- 
-We **do not** recommend using ACE indicators for screening purposes to guide clinical decion making on an individual  level. It is important that further reasearch is conducted to evaluate if the benefits of indvidual identification or screening outweigh the harms, so screening does not become an end in and of itself.
+## How can ACEs indicators and domains help (so what)?
+The main objective of the ACE domains and indicators is to help improve the health of vulnerable families and individuals by promoting a trauma-informed approach to care. The ACE indicators aim to inform public health policy and service commissioning by data-driven integration of trauma-informed care across health platforms.
 
-employ the four "R's" a trauma informed approach that underpinn implications of our research outlines potential implications of ACEs research. SAMHSA's have written a comprehensive guide on h.
+We **do not** recommend using ACE indicators for screening purposes to guide clinical decision making on an individual  level. Further research must be conducted to evaluate if the benefits of individual identification or screening outweigh the harms, so screening does not become an end in and of itself.
 
+## ACEs and the four R's
+Potential implications of the ACEs research can be conceptuised via the four "R's". The four R's reprent key assumptions of trauma informed approaclhes summarised by SAMHSA’s.
 
-THE FOUR “R’S: KEY ASSUMPTIONS IN A TRAUMA-INFORMED APPROACH
+* **Realisation** about trauma and understand how trauma can affect families, groups, organizations, and communities as well as individuals.
 
-* Realization about trauma and understand how trauma can affect families, groups, organizations, and communities as well as individuals.
+* **Recognise** the signs of trauma by people in the organization or system
 
-* Recognize the signs of trauma by people in the organization or system
+* **Respond** by applying trauma-informed approaches to all areas of care, including:
+Changing the language of how we approach populations exposed to trauma, from greetings at the door to the language of executives and at the governance board;
 
-* Respond by applying the principles of a trauma-informed approach to all areas of functioning, including changing the language, from greetings at the door to the executives and the governance board, staff training, a budget
-that supports this ongoing training, and leadership
-that realizes the role of trauma in the lives of their
-staff and the people they serve. The organization
-has practitioners trained in evidence-based trauma
-practices. Policies of the organization, such as mission
-statements, staff handbooks and manuals promote
-a culture based on beliefs about resilience, recovery,
-and healing from trauma. 
+Staff training and a budget that supports this ongoing training
 
-* Resist re-traumatization trigger painful memories and re-traumatize clients
+Leadership that realises the role of trauma in the people they serve and their staff
+
+The organization has practitioners trained in evidence-based trauma practices. Policies of the organization, such as mission statements, staff handbooks and manuals promote
+a culture based on beliefs about resilience, recovery, and healing from trauma. 
+
+* **Resist re-traumatization** trigger painful memories and re-traumatize clients
 with trauma histories. For example, they recognize
 that using restraints on a person who has been
 sexually abused or placing a child who has been
