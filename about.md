@@ -41,7 +41,7 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/7087179"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20domains.png)](https://shabeer-syed.github.io/ACEs/domains) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/definitions%20NEW.png))](https://shabeer-syed.github.io/ACEs/definitions)
+[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20domains.png)](https://shabeer-syed.github.io/ACEs/domains) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/definitions%20NEW.png)](https://shabeer-syed.github.io/ACEs/definitions)
 
 ## How can ACEs indicators and domains help (so what)?
 The main objective of the ACE domains and indicators is to help improve the health of vulnerable families and individuals by promoting a trauma-informed approach to care. The ACE indicators aim to inform public health policy and service commissioning by data-driven integration of trauma-informed care across health platforms.
