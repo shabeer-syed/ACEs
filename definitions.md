@@ -33,54 +33,34 @@ Coping responses may vary as a function of the level of need to escape distress 
 
 The model, therefore, considers families as resilient and constantly striving to cope using different strategies and resources at hand (e.g. protective factors). The model also helps separate the *adverse experience* from the *adverse stress* response of the child, overcoming previous study limitations of [reverse causality] when looking at long-term outcomes. We consider ACEs recorded at the family level (middle segment) amenable to service level intervention and relevant to electronic health records (see above for all criteria). 
 
-### Increased adversity --> Increased risk of family violence
-The reference standard (outcome) was any occurrence of child maltreatment (CM) and maternal intimate partner violence (mIPV) up to 5-years post-birth.
 
-Based on the  model above, we assessed the relevance of candidate ACE indicators based on their association with a reference standard of family violence (any CM or mIPV) in a multistage prediction model. Consistent with our theoretical model, we predicted that indicators would reflect a continuum of clinical relevance, ranging from high need for intervention (i.e. high risk of family violence) to lower relevance.
+## Definitions and inclusions
+-------------------------------------------------------
 
-## Definitions of the final ACE domains 
----------------------------------
+ Based on the above model, we defined ACE indicators as any experience within the family environment recorded in the child or the maternal record considered to be:
 
-### Reference standard used for validation
+> * Frightening, violent, traumatic or neglectful [(see WHO violence definition)](https://www.who.int/violence_injury_prevention/violence/world_report/en/summary_en.pdf),  with potential for immediate or longer-term harm to a child's biopsychosocial development (intentionally or unintentionally) [(see UK government definition)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/942454/Working_together_to_safeguard_children_inter_agency_guidance.pdf), as caused by;
 
-**Outcome/reference standard: Definitive child maltreatment (CM) and maternal intimate partner violence (mIPV) 2-years pre-birth up to 5-years post birth**
+> * A single significant event or through repeated exposure;
 
-A composite variable of the definite CM and mIPV domains, containing indicators such as neglect (pre-post birth), child protection recordings or out-of-home placements by social care services (see [code list browser](https://acesinehrs.com/codelist)). CM and mIPV often co-occur as forms of family violence. We selected this reference standard to encapsulate consistent core ACEs (CM/mIPV), clinically meaningful outcomes, and to represent a cumulation of underlying adversity.[4](https://psycnet.apa.org/record/1989-26231-001),[9](https://www.science.org/doi/abs/10.1126/science.2704995) We also aimed to use a reference standard that separates adverse experiences from the adverse stress response of the child.54  Indicators included in the reference standard were excluded from the development/validation. We list all included and excluded indicators by domains [here](https://acesinehrs.com/Indicators).
+> * Caused by external factors and not the child themselves, such as self-harm, and;
 
-**Definitive or probable CM (reference standard; birth up to 5-years post-birth)**
+> * Amenable to health or social care intervention at a family level (i.e. excluding wider factors such as socioeconomic status, community violence, school bullying etc).
 
-Any recorded act of commission or omission by a parent or caregiver resulting in harm, the potential for harm or threat of child harm, including neglect, psychological, physical, sexual and emotional abuse. Harm does not need to be intended.[45](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(08)61706-7/fulltext) In the UK, [statutory guidelines of CM](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/942454/Working_together_to_safeguard_children_inter_agency_guidance.pdf) include child exposure to IPV, and maternal evidence for omission or commission during pregnancy such as NAS and FAS.
+We made several adaptations to previously studied ACEs to allow for feasible ascertainment in electronic health records (EHRs). We defined indicators as variables of grouped codes and measures. We aimed to develop ACE indicators that reflected clinically meaningful risk groups of adversity to identify families that may be eligible for targeted maternal-child care interventions in England (e.g. targeted care pathway of [the Healthy Child Programme by Public Health England](https://www.gov.uk/government/publications/healthy-child-programme-0-to-19-health-visitor-and-school-nurse-commissioning)). See also WHO for [intervention studies](https://www.who.int/teams/social-determinants-of-health/violence-prevention/global-status-report-on-violence-against-children-2020).
 
-**Definitive or probable mIPV (reference standard; 2-years pre-birth up to 5-years post-birth)**
+We manually grouped indicators into broader ACE domains consistent with the [original study](https://www.ajpmonline.org/article/S0749-3797(98)00017-8/fulltext) by [Kaiser Permanente and CDC](https://www.cdc.gov/violenceprevention/aces/index.html).  Due to the lack of recordings, we collapsed all types of child abuse and neglect into child maltreatment (CM). We collapsed "imprisonment of household members" and "household challenges" into Adverse family environments. We created a separate indicator, "Social service involvement" (SSI), for social care related codes that did not contain descriptions of CM or mIPV. SSI was merged with CM in the final selection process owing to few recordings and high intercorrelations.
 
-Any incident of threatening behaviour, violence or abuse (psychological, physical, sexual, financial or emotional) between adults who are, or have been, intimate partners or family members.51 We restricted mIPV indicators to mothers aged ≥16 and their corresponding children to prevent misclassification of CM in younger mothers.
+Given the substantial under-recording of CM and mIPV (e.g. see [1](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/barriers-and-facilitators-of-disclosures-of-domestic-violence-by-mental-health-service-users-qualitative-study/7A690CCBC0322D045442549A5FA3C4CF), [2](https://bjgp.org/content/67/659/e437.long)) we also added the domain “high-risk presentations of CM” (HRP-CM). HRP-CM encompassed indicators from the [National Institute for Health and Care Excellence (NICE)](https://www.nice.org.uk/guidance/cg89/chapter/1-Guidance) and [Royal College of General Practitioners (RGCP)](https://www.rcgp.org.uk/clinical-and-research/resources/toolkits/child-safeguarding-toolkit.aspx) that should raise clinical suspicion for CM.
 
-### ACE domains
----------------------------------
-**1. Suspected CM**
+ACEs can be recorded in both mothers' and children's records. ACEs are considered based on each specific child's time from birth. Children are therefore considered unexposed if no relevant recording occurs in the study period, regardless of previous exposure in children within the same family. This approach mirrors changes in stress levels as the family moves through different life stages.
 
-This domain excludes any indicator of CM/mIPV described above. Suspected CM included any maltreatment-related indicator with codes or measures describing presentations likely to refer to CM but without mentioning the underlying cause (e.g. harm caused by a non-specified person), safeguarding procedures or child social service interventions.48 For instance, the “suspected CM, NOS” indicator contains codes mentioning “Victim of sexual abuse”, “Multi-professional risk assessment done”, “Assault in the home”.
+### A multistage risk prediction model to determine relevance of indicators (Increased adversity --> Increased risk of family violence)
 
-**2. Suspected maternal intimate partner violence (mIPV; excluding reference standard)**
+We assessed the relevance of identified candidate ACE indicators based on their consistent risk association with a reference standard in a multistage prediction model. The reference standard (outcome) was any occurrence of child maltreatment (CM) and maternal intimate partner violence (mIPV) up to 5-years post-birth.
 
-As in suspected CM, excludes any “definitive” indicator of mIPV but may include indicators with coding terms mentioning historic mIPV or maltreatment by an unspecified person. For instance, the “suspected mIPV, NOS” indicator contains codes mentioning “[X]Maltreatment, by acquaintance or friend”,” Risk of non-accidental injury”, “Assault in the home”. 
+Consistent with our theoretical model, we predicted that indicators would reflect a continuum of clinical relevance, ranging from high need for intervention (i.e. high risk of family violence) to lower relevance.
 
-**3. High-risk presentations of CM (HRP-CM)**
-
-Indicators consistent with NICE Clinical guidelines [CG89] recommended high-risk child presentations that should raise clinical suspicions for CM. To be interpreted as warning signs of maltreatment in the face of uncertainty and the absence of evidence for CM. All indicators are recorded in the child, except for non-attendance of child appointments which uses both maternal and child records.
-
-**4. Maternal substance misuse (MSM)**
-
-Any consumption of alcohol/drugs meeting threshold for harmful or addictive levels such as codes mentioning "dependence", "specialist/enhanced treatment", class A through C drugs (e.g. A: heroin, cocaine, ecstasy, LSD), self-report measures (≥35 alcohol units per week higher risk drinking)55 and validated measures with higher cut-off scores (≥20 AUDIT score, SADQ ≥31 scores etc). Indicators for alcohol consumption are also provided by CALIBER.
-
-**5. Adverse family environments (AFE)**
-
-Any experiences in the child's family environment (not included above) meeting the above inclusion criteria. Incorporates Royal College of General Practitioners recommended indicators for children/families who are a cause for concern.39 52 
-
-**6. Maternal mental health problems (mMHPs)**
-
-Contains indicators of mutually exclusive symptom clusters aligning with disorder classifications laid out by DSM-5/ICD-10 excluding substance misuse. Some codes for self-harm (e.g. overdose) may be represented across both mMHPs and MSM domains. mMHPs indicators are ascertained using read codes, prescriptions, ICD-10 codes or by meeting the higher cut-off score on a validated self-report instrument or validated algorithms with prescriptions.56
-Validated codes for mMHPs, MSM and covariates are also available via the [CALIBER platform](https://portal.caliberresearch.org/), with the mapping process described by [Kuan et al.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext)
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20indicators.png)](https://shabeer-syed.github.io/ACEs/Indicators) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
 
