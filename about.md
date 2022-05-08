@@ -20,6 +20,9 @@ We know NHS trusts, GPs, clinical teams and researchers are at the forefront of 
 Electronic health records (EHRs) are routinely collected data from hospitals, GPs and other health systems. Data is often recorded as events happen and as part of routine care. The information is available shortly after a health care presentation and pose less burden to patients. All data is made non-identifiable and stored securely (watch the video below to find out more). 
 
 In the UK, mothers' and children's data can be linked across services. The ability to link mothers' and children's records allows for measuring ACEs before pregnancy, throughout childhood and intergenerationally.
+
+We have developed *indicators* for identifying *domains* of ACEs and at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth. This page provides more information on definitions and brief methods used to develop the indicators. [Find the pre-print paper here.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569) 
+
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/overall%20logo%20flow.png "workflow")
 
 
@@ -30,9 +33,6 @@ In the UK, mothers' and children's data can be linked across services. The abili
 
 ## Aims: Domains and indicators of ACEs?
 --------------------------------------------
-We aimed to develop and validate ACEs measurement tools for EHRs.
-
-We have developed indicators* for identifying domains* of ACEs and at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth. This page provides more information on definitions and brief methods used to develop the indicators. [Find the pre-print paper here.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569) 
 
 Each ACE indicator represents a variable of grouped codes or measures for a potential recorded ACE in mothers or children. Indicators are further grouped into six or seven overall ACE domains.
 
@@ -47,7 +47,8 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 Click on the header to see a table overview of median rankings of selected and excluded ACE indicators from the selection process.
 
 ## How can ACEs indicators and domains help (so what)? - the four R's
-The main objectvie of the ACEs research is to help improve the health of vulnerable families and individuals by promoting a trauma-informed approach to care. The research outputs aims to inform public health and policy regarding surveliance and ACEs prevention. 
+The main objectvie of the ACE domains and indicators is to help improve the health of vulnerable families and individuals by promoting a trauma-informed approach to care. The ACE indicators aims support data-driven integration of trauma-informed care across health platforms, and to inform public health policy and service commissioning.
+ 
 We **do not** recommend using ACE indicators for screening purposes to guide clinical decion making on an individual  level. It is important that further reasearch is conducted to evaluate if the benefits of indvidual identification or screening outweigh the harms, so screening does not become an end in and of itself.
 
 employ the four "R's" a trauma informed approach that underpinn implications of our research outlines potential implications of ACEs research. SAMHSA's have written a comprehensive guide on h.
