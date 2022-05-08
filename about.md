@@ -52,25 +52,22 @@ The main objective of the ACE domains and indicators is to help improve the heal
 We **do not** recommend using ACE indicators for screening purposes to guide clinical decision making on an individual  level. Further research must be conducted to evaluate if the benefits of individual identification or screening outweigh the harms, so screening does not become an end in and of itself.
 
 ## ACEs and the four R's
-Potential implications of the ACEs research can be conceptuised via the four "R's". The four R's reprent key assumptions of trauma informed approaclhes summarised by SAMHSA’s.
+Potential implications of the ACEs research can be conceptualised via the four "R's". The four R's represent key assumptions of trauma-informed approaches summarised by SAMHSA’s.
 
-* **Realisation** about trauma and understand how trauma can affect families, groups, organizations, and communities as well as individuals.
+* **Realisation** about trauma and understanding how trauma can affect families, groups, organizations, and communities as well as individuals.
 
 * **Recognise** the signs of trauma by people in the organization or system
 
 * **Respond** by applying trauma-informed approaches to all areas of care, including:
-    * Changing the language of how we approach populations exposed to trauma, from greetings at the door to the language of executives and at the governance board;
+    * Changing the language of how we approach populations exposed to trauma, from greetings at the door to the language of executives and the governance board;
 
     * Staff training and a budget that supports this ongoing training
 
     * Leadership that realises the role of trauma in the people they serve and their staff
 
-    * The organization has practitioners trained in evidence-based trauma practices. Policies of the organization, such as mission statements, staff handbooks and manuals promote a culture based on beliefs about resilience, recovery, and healing from trauma. 
+    * The organization has practitioners trained in evidence-based trauma practices. The organisation's policies, such as mission statements, staff handbooks and manuals, promote a culture based on beliefs about resilience, recovery, and healing from trauma. 
 
-* **Resist re-traumatization** and avoid trigger painful memories and re-traumatize clients
-with trauma histories. For example, they recognise that using restraints on a person who has been sexually abused or placing a child who has been neglected and abandoned in a seclusion room may be re-traumatizing and interfere with healing and recovery. 
-
-[https://store.samhsa.gov/sites/default/files/d7/priv/sma14-4884.pdf](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(19)32540-1.pdf)
+* **Resist re-traumatization**, avoid triggering painful memories, and re-traumatize clients with trauma histories. For example, they recognise that using restraints on a person who has been sexually abused or placing a child who has been neglected and abandoned in a seclusion room may be re-traumatizing and interfere with healing and recovery.
 
 ## Contact information
 --------------------------------------------
