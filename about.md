@@ -59,22 +59,16 @@ Potential implications of the ACEs research can be conceptuised via the four "R'
 * **Recognise** the signs of trauma by people in the organization or system
 
 * **Respond** by applying trauma-informed approaches to all areas of care, including:
-Changing the language of how we approach populations exposed to trauma, from greetings at the door to the language of executives and at the governance board;
+    * Changing the language of how we approach populations exposed to trauma, from greetings at the door to the language of executives and at the governance board;
 
-Staff training and a budget that supports this ongoing training
+    * Staff training and a budget that supports this ongoing training
 
-Leadership that realises the role of trauma in the people they serve and their staff
+    * Leadership that realises the role of trauma in the people they serve and their staff
 
-The organization has practitioners trained in evidence-based trauma practices. Policies of the organization, such as mission statements, staff handbooks and manuals promote
-a culture based on beliefs about resilience, recovery, and healing from trauma. 
+    * The organization has practitioners trained in evidence-based trauma practices. Policies of the organization, such as mission statements, staff handbooks and manuals promote a culture based on beliefs about resilience, recovery, and healing from trauma. 
 
-* **Resist re-traumatization** trigger painful memories and re-traumatize clients
-with trauma histories. For example, they recognize
-that using restraints on a person who has been
-sexually abused or placing a child who has been
-neglected and abandoned in a seclusion room may
-be re-traumatizing and interfere with healing and
-recovery. 
+* **Resist re-traumatization** and avoid trigger painful memories and re-traumatize clients
+with trauma histories. For example, they recognise that using restraints on a person who has been sexually abused or placing a child who has been neglected and abandoned in a seclusion room may be re-traumatizing and interfere with healing and recovery. 
 
 [https://store.samhsa.gov/sites/default/files/d7/priv/sma14-4884.pdf](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(19)32540-1.pdf)
 
