@@ -6,8 +6,7 @@ title: Domain - Maternal mental health problems (mMHPs)
 --------------------------------
 ## Definition
 
-This domain contains indicators of mutually exclusive symptom clusters aligning with disorder classifications laid out by DSM-5/ICD-10 excluding substance misuse. Some codes for self-harm (e.g. overdose) may be represented across both mMHPs and MSM domains. mMHPs indicators are ascertained using read codes, prescriptions, ICD-10 codes or by meeting the higher cut-off score on a validated self-report instrument or validated algorithms with prescriptions.56
-Validated codes for mMHPs, MSM and covariates are also available via the [CALIBER platform](https://portal.caliberresearch.org/), with the mapping process described by [Kuan et al.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext)
+This domain contains indicators of mutually exclusive symptom clusters aligning with disorder classifications laid out by DSM-5/ICD-10 excluding substance misuse. Some codes for self-harm (e.g. overdose) may be represented across both maternal mental health problems (mMHPs) and maternal substance misuse (MSM) domains. mMHPs indicators are ascertained using read codes, prescriptions, ICD-10 codes or by meeting the higher cut-off score on a validated self-report instrument or validated algorithms with prescriptions.[1](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-016-0274-7). Validated codes for mMHPs and MSM are also available via the [HDR UK CALIBER phenotype library](https://phenotypes.healthdatagateway.org/), with the mapping process described by [Kuan et al.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext)
 
 --------------------------------
 ## Indicator list
