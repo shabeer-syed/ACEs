@@ -16,9 +16,9 @@ title: Implemetation and code lists
 --------------------------------------------
 We developed two measures of ACEs for electronic health records (EHRs):
 * Domains (ie, grouped indicators) and;
-* Indicators (ie, grouped codes or measures) 
+* Indicators (ie, grouped codes or measures)
 
-![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/domains%20and%20indicators%201.png)
+[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/domains%20and%20indicators%201.png)](https://shabeer-syed.github.io/ACEs/domains)
 
 Most indicators are derived using algorithms that identify and extract information from EHRs using clinically coded healthcare information (for example ICD-10 and SNOMED-CT). Algorithms are freely available on this webpage.
 
