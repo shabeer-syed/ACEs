@@ -51,20 +51,19 @@ We **do not** recommend or promote using ACE indicators to guide individual clin
 ## What is trauma informed care? -the four R's
 Potential implications of the ACEs research can be conceptualised via the four "R's". The four R's represent key assumptions of trauma-informed approaches summarised by SAMHSA’s.
 
-* **Realisation** about trauma and understanding how trauma can affect families, groups, organizations, and communities as well as individuals.
+* **Realisation** about trauma and understanding how trauma can affect families, groups, organizational, communities, and individuals
 
-* **Recognise** the signs of trauma by people in the organization or system
+* **Recognising** the signs of trauma by people in the organisation or the system
 
-* **Respond** by applying trauma-informed approaches to all areas of care, including:
-    * Changing the language of how we approach populations exposed to trauma, from greetings at the door to the language of executives and the governance board;
-
-    * Staff training and a budget that supports this ongoing training
+* **Responding** by applying trauma-informed approaches to all areas of care, including:
+    * Changing the language of how we speak about populations exposed to trauma, from greetings at the door to the language of executives and the governance board;
 
     * Leadership that realises the role of trauma in the people they serve and their staff
 
-    * The organization has practitioners trained in evidence-based trauma practices. The organisation's policies, such as mission statements, staff handbooks and manuals, promote a culture based on beliefs about resilience, recovery, and healing from trauma. 
+    * The organisation has practitioners trained in evidence-based trauma practices. The organisation's policies, such as mission statements, staff handbooks and manuals, promote a culture based on beliefs about resilience, recovery, and healing from trauma. 
 
-* **Resist re-traumatization**, avoid triggering painful memories, and re-traumatize clients with trauma histories. For example, they recognise that using restraints on a person who has been sexually abused or placing a child who has been neglected and abandoned in a seclusion room may be re-traumatizing and interfere with healing and recovery.
+    * Staff training and a budget that supports this ongoing training
+* **Resist re-traumatisation** including avoiding triggering painful memories, and re-traumatise clients with trauma histories. For example, they recognise that using restraints on a person who has been sexually abused, or placing a child who has been neglected and abandoned in a seclusion room may be re-traumatising and interfere with healing and recovery.
 
 ## Contact information
 --------------------------------------------
