@@ -44,11 +44,11 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20domains.png)](https://shabeer-syed.github.io/ACEs/domains) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/definitions%20NEW.png)](https://shabeer-syed.github.io/ACEs/definitions)
 
 ## How can ACEs indicators and domains help (so what)?
-The main objective of the ACE domains and indicators is to help improve the health of vulnerable families and individuals by promoting a trauma-informed approach to care. The ACE indicators aim to inform public health policy and service commissioning by data-driven integration of trauma-informed care across health platforms.
+The main objective of the ACE domains and indicators is to help improve the health of vulnerable families and individuals by promoting a data-driven approach to integration of trauma-informed care across platforms.
 
-We **do not** recommend using ACE indicators for screening purposes to guide clinical decision making on an individual  level. Further research must be conducted to evaluate if the benefits of individual identification or screening outweigh the harms, so screening does not become an end in and of itself.
+We **do not** recommend or promote using ACE indicators to guide individual clinical decision making (eg, screening). Further research is needed to evaluate the benefits and harms of individual identification and screening using ACE indicators.
 
-## ACEs and the four R's
+## What is trauma informed care? -the four R's
 Potential implications of the ACEs research can be conceptualised via the four "R's". The four R's represent key assumptions of trauma-informed approaches summarised by SAMHSA’s.
 
 * **Realisation** about trauma and understanding how trauma can affect families, groups, organizations, and communities as well as individuals.
