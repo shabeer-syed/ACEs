@@ -38,7 +38,7 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 
 ## Aims: how can indicators of ACEs help?
 -----------------------------------------------------------------
-The main objective of the ACE domains and indicators is to help improve the health of vulnerable families by promoting trauma-informed and data-driven approaches of EHRs to advance research endeavours, public health efforts and policy.
+The main objective of the ACE domains and indicators is to help improve the health of vulnerable families by promoting [trauma-informed](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884) and data-driven approaches of EHRs to advance research endeavours, public health efforts and policy.
 
 We follow WHO's [the Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) and view all ACEs through a *"life-course"* and a *"trauma-informed"* lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives. Therefore, indicators were developed to represent possible *adverse experiences* to inform policy and public health at a population level. Further research is needed to evaluate how ACE indicators can be used in practice.
 
@@ -50,23 +50,6 @@ It is essential to note that ACE indicators:
 
 The limitations of ACEs has been summarised [elsewhere]( https://www.cambridge.org/core/journals/social-policy-and-society/article/introduction-adverse-childhood-experiences-aces-implications-and-challenges/A1E57E800C74406E84F93AB9F8CB125D). 
 
-## What is trauma informed care? -the four R's
-The potential implications of the ACEs research at a larger organisational or population level can broadly be conceptualised via the four "R's". The four R's represent key assumptions of trauma-informed approaches summarised by [SAMHSA](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884).
-
-* **Realisation** about trauma and understanding how trauma can affect families, groups, organisational, communities, and individuals
-
-* **Recognising** the signs of trauma by people in the organisation or the system
-
-* **Responding** by applying trauma-informed approaches to all areas of care, including:
-    * Changing the language of how we speak about populations exposed to trauma, from greetings at the door to the language of executives and the governance board, to organisation's policies, such as mission statements, staff handbooks and manuals, promoting a culture based on beliefs about resilience, recovery, and healing from trauma. 
-
-    * Leadership that realises the role of trauma in the people they serve and their staff
-
-    * Organisations with practitioners trained in evidence-based trauma practices 
-
-    * Staff training and a budget that supports this ongoing training
-
-* **Resisting re-traumatisation** by avoiding triggering painful memories, and re-traumatise clients with trauma histories. For example, they recognise that using restraints on a person who has been sexually abused, or placing a child who has been neglected and abandoned in a seclusion room may be re-traumatising and interfere with healing and recovery.
 
 ## Contact information
 --------------------------------------------
