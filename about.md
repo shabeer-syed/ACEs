@@ -43,7 +43,7 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20domains.png)](https://shabeer-syed.github.io/ACEs/domains) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/definitions%20NEW.png)](https://shabeer-syed.github.io/ACEs/definitions)
 
-## How can indicators of ACEs help?
+## Aims: how can indicators of ACEs help?
 The main objective of the ACE domains and indicators is to help improve the health of vulnerable families by promoting trauma-informed and data-driven approaches of EHRs to advance research endeavours, public health efforts and policy.
 
 We follow WHO's [the Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) and view all ACEs through a *"life-course"* and a *"trauma-informed"* lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives. Therefore, indicators were developed to represent possible *adverse experiences* to inform policy and public health at a population level. Further research is needed to evaluate how ACE indicators can be used in pratice.
@@ -51,13 +51,13 @@ We follow WHO's [the Minsk Declaration](https://www.euro.who.int/en/publications
 ## What ACE indicators are not: 
 It is essential to note that ACE indicators: 
 * Cannot make inferences about individual level risk. This means that indicators cannot be used to guide individual-level clinical decision-making including screening, diagnosing or labelling children or families to be at-risk of harm. Most children with ACEs **do not** develop poorer health outcomes and show incredible resilience to adversity.
-* Do not make causal claims about posible mechanisims behind different ACEs
+* Do not make causal claims about posible mechanisims underpinning different ACEs
 * Do not account for protective factors or different contexts
 
-The limitations of ACEs has been summarised by Prof Rosalind Edwards and colleagues [elsewhere]( https://www.cambridge.org/core/journals/social-policy-and-society/article/introduction-adverse-childhood-experiences-aces-implications-and-challenges/A1E57E800C74406E84F93AB9F8CB125D). 
+The limitations of ACEs has been summarised [elsewhere]( https://www.cambridge.org/core/journals/social-policy-and-society/article/introduction-adverse-childhood-experiences-aces-implications-and-challenges/A1E57E800C74406E84F93AB9F8CB125D). 
 
 ## What is trauma informed care? -the four R's
-The potential implications of the ACEs research at an organisational or population level can broadly be conceptualised via the four "R's". The four R's represent key assumptions of trauma-informed approaches summarised by [SAMHSA](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884).
+The potential implications of the ACEs research at a larger organisational or population level can broadly be conceptualised via the four "R's". The four R's represent key assumptions of trauma-informed approaches summarised by [SAMHSA](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884).
 
 * **Realisation** about trauma and understanding how trauma can affect families, groups, organisational, communities, and individuals
 
@@ -68,12 +68,11 @@ The potential implications of the ACEs research at an organisational or populati
 
     * Leadership that realises the role of trauma in the people they serve and their staff
 
-    * Organisations with practitioners trained in evidence-based trauma practices. 
+    * Organisations with practitioners trained in evidence-based trauma practices 
 
     * Staff training and a budget that supports this ongoing training
 
 * **Resisting re-traumatisation** by avoiding triggering painful memories, and re-traumatise clients with trauma histories. For example, they recognise that using restraints on a person who has been sexually abused, or placing a child who has been neglected and abandoned in a seclusion room may be re-traumatising and interfere with healing and recovery.
-
 
 ## Contact information
 --------------------------------------------
