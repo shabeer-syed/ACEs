@@ -44,7 +44,7 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20domains.png)](https://shabeer-syed.github.io/ACEs/domains) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/definitions%20NEW.png)](https://shabeer-syed.github.io/ACEs/definitions)
 
 ## How can ACEs indicators and domains help (so what)?
-The main objective of the ACE domains and indicators is to help improve the health of vulnerable families and individuals by promoting a data-driven approach to integration of trauma-informed care across platforms.
+The main objective of the ACE domains and indicators is to help improve the health of vulnerable families and individuals by promoting data-driven integration of trauma-informed care across platforms.
 
 We **do not** recommend or promote using ACE indicators to guide individual clinical decision making (eg, screening). Further research is needed to evaluate the benefits and harms of individual identification and screening using ACE indicators.
 
@@ -56,14 +56,15 @@ Potential implications of the ACEs research can be conceptualised via the four "
 * **Recognising** the signs of trauma by people in the organisation or the system
 
 * **Responding** by applying trauma-informed approaches to all areas of care, including:
-    * Changing the language of how we speak about populations exposed to trauma, from greetings at the door to the language of executives and the governance board;
+    * Changing the language of how we speak about populations exposed to trauma, from greetings at the door to the language of executives and the governance board, to organisation's policies, such as mission statements, staff handbooks and manuals, promoting a culture based on beliefs about resilience, recovery, and healing from trauma. 
 
     * Leadership that realises the role of trauma in the people they serve and their staff
 
-    * The organisation has practitioners trained in evidence-based trauma practices. The organisation's policies, such as mission statements, staff handbooks and manuals, promote a culture based on beliefs about resilience, recovery, and healing from trauma. 
+    * Organisations with practitioners trained in evidence-based trauma practices. 
 
     * Staff training and a budget that supports this ongoing training
-* **Resist re-traumatisation** including avoiding triggering painful memories, and re-traumatise clients with trauma histories. For example, they recognise that using restraints on a person who has been sexually abused, or placing a child who has been neglected and abandoned in a seclusion room may be re-traumatising and interfere with healing and recovery.
+
+* **Resisting re-traumatisation** by avoiding triggering painful memories, and re-traumatise clients with trauma histories. For example, they recognise that using restraints on a person who has been sexually abused, or placing a child who has been neglected and abandoned in a seclusion room may be re-traumatising and interfere with healing and recovery.
 
 ## Contact information
 --------------------------------------------
@@ -79,13 +80,9 @@ If you require any further information about the development of the ACE indicato
 * Prof Ruth Gilbert, Professor of Clinical Epidemiology (r.gilbert@ucl.ac.uk), 1,3
 
 *1. UCL Great Ormond Street Institute of Child Health, Population, Policy and Practice, Faculty of Population Health Sciences London WC1N 1EH*
-
 *2. Oxford Institute of Clinical Psychology Training and Research, University of Oxford, Oxford, UK*
-
 *3. Institute of Health Informatics and Health Data Research UK, University College London*
-
 *4. Bristol Medical School, Bristol Population Health Science Institute Centre for Academic Primary Care, University of Bristol*
-
 *5. General Practitioner, NHS*
 
 ## More information about ACEs 
