@@ -52,15 +52,14 @@ We follow WHO's [the Minsk Declaration](https://www.euro.who.int/en/publications
 It is essential to note that ACE indicators: 
 * Cannot make inferences about individual level risk. This means that indicators cannot be used to guide individual-level clinical decision-making including screening, diagnosing or labelling children or families to be at-risk of harm. Most children with ACEs **do not** develop poorer health outcomes and show incredible resilience to adversity.
 * Do not make causal claims about posible mechanisims behind different ACEs
-* Do not account for protective factors and different contexts
+* Do not account for protective factors or different contexts
 
 The limitations of ACEs has been summarised by Prof Rosalind Edwards and colleagues [elsewhere]( https://www.cambridge.org/core/journals/social-policy-and-society/article/introduction-adverse-childhood-experiences-aces-implications-and-challenges/A1E57E800C74406E84F93AB9F8CB125D). 
-
 
 ## What is trauma informed care? -the four R's
 The potential implications of the ACEs research at an organisational or population level can broadly be conceptualised via the four "R's". The four R's represent key assumptions of trauma-informed approaches summarised by [SAMHSA](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884).
 
-* **Realisation** about trauma and understanding how trauma can affect families, groups, organizational, communities, and individuals
+* **Realisation** about trauma and understanding how trauma can affect families, groups, organisational, communities, and individuals
 
 * **Recognising** the signs of trauma by people in the organisation or the system
 
