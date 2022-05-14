@@ -23,18 +23,11 @@ In the UK, mothers' and children's data can be linked across services. The abili
 
 <iframe width="600" height="380" src="https://mediacentral.ucl.ac.uk//Player?autostart=n&fullscreen=y&width=0&height=0&videoId=CFGDc8DB&quality=hi&captions=y&chapterId=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Aims: how can indicators of ACEs help?
------------------------------------------------------------------
-We have developed *indicators* for identifying *domains* of ACEs among families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth [Find the pre-print paper here.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569)
-
-The main objective of the ACE domains and indicators is to help improve the health of vulnerable families by promoting trauma-informed and data-driven approaches of EHRs to advance research endeavours, public health efforts and policy.
-
-We follow WHO's [the Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) and view all ACEs through a *"life-course"* and a *"trauma-informed"* lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives. Therefore, indicators were developed to represent possible *adverse experiences* to inform policy and public health at a population level. Further research is needed to evaluate how ACE indicators can be used in practice.
-
-![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/overall%20logo%20flow.png "workflow")
 
 ## Domains and indicators of ACEs?
 --------------------------------------------
+We have developed *indicators* for identifying *domains* of ACEs among families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth [Find the pre-print paper here.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569)
+
 Each ACE indicator represents a variable of grouped codes or measures for a potential recorded ACE in mothers or children. Indicators are further grouped into six or seven overall ACE domains.
 
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/ehrs%20of%20aces%20indicator.png "workflow")
@@ -42,6 +35,12 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/7087179"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20domains.png)](https://shabeer-syed.github.io/ACEs/domains) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/definitions%20NEW.png)](https://shabeer-syed.github.io/ACEs/definitions)
+
+## Aims: how can indicators of ACEs help?
+-----------------------------------------------------------------
+The main objective of the ACE domains and indicators is to help improve the health of vulnerable families by promoting trauma-informed and data-driven approaches of EHRs to advance research endeavours, public health efforts and policy.
+
+We follow WHO's [the Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) and view all ACEs through a *"life-course"* and a *"trauma-informed"* lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives. Therefore, indicators were developed to represent possible *adverse experiences* to inform policy and public health at a population level. Further research is needed to evaluate how ACE indicators can be used in practice.
 
 ## What ACE indicators are not: 
 It is essential to note that ACE indicators: 
