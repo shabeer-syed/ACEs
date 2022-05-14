@@ -44,16 +44,17 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20domains.png)](https://shabeer-syed.github.io/ACEs/domains) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/definitions%20NEW.png)](https://shabeer-syed.github.io/ACEs/definitions)
 
 ## How can indicators of ACEs help?
-The main objective of the ACE domains and indicators is to help improve the health of vulnerable families and individuals by promoting data-driven integration of trauma-informed care across platforms.
+The main objective of the ACE domains and indicators is to help improve the health of vulnerable families by promoting trauma-informed and data-driven approaches of EHRs to advance research endeavours, public health efforts and policy.
 
 We follow WHO's [the Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) and view all ACEs through a *"life-course"* and a *"trauma-informed"* lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives. Therefore, indicators were developed to represent possible *adverse experiences* to inform policy and public health at a population level. Further research is needed to evaluate how ACE indicators can be used in pratice.
 
 ## What ACE indicators are not: 
 It is essential to note that ACE indicators: 
 * Cannot make inferences about individual level risk. This means that indicators cannot be used to guide individual-level clinical decision-making including screening, diagnosing or labelling children or families to be at-risk of harm. Most children with ACEs **do not** develop poorer health outcomes and show incredible resilience to adversity.
-* Do not make causal claims or intended to account for all posible mechanisims
+* Do not make causal claims about posible mechanisims behind different ACEs
+* Do not account for protective factors and different contexts
 
-The limitations of ACEs concept has been summarised by Prof Rosalind Edwards and colleagues [elsewhere]( https://www.cambridge.org/core/journals/social-policy-and-society/article/introduction-adverse-childhood-experiences-aces-implications-and-challenges/A1E57E800C74406E84F93AB9F8CB125D). 
+The limitations of ACEs has been summarised by Prof Rosalind Edwards and colleagues [elsewhere]( https://www.cambridge.org/core/journals/social-policy-and-society/article/introduction-adverse-childhood-experiences-aces-implications-and-challenges/A1E57E800C74406E84F93AB9F8CB125D). 
 
 
 ## What is trauma informed care? -the four R's
