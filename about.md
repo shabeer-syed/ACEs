@@ -21,7 +21,14 @@ Electronic health records (EHRs) are routinely collected data from hospitals, GP
 
 In the UK, mothers' and children's data can be linked across services. The ability to link mothers' and children's records allows for measuring ACEs before pregnancy, throughout childhood and intergenerationally.
 
-We have developed *indicators* for identifying *domains* of ACEs among families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth. This page provides more information on definitions and brief methods used to develop the indicators. [Find the pre-print paper here.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569) 
+## Aims: how can indicators of ACEs help?
+-----------------------------------------------------------------
+We have developed *indicators* for identifying *domains* of ACEs among families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth [Find the pre-print paper here.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569)
+
+The main objective of the ACE domains and indicators is to help improve the health of vulnerable families by promoting trauma-informed and data-driven approaches of EHRs to advance research endeavours, public health efforts and policy.
+
+We follow WHO's [the Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) and view all ACEs through a *"life-course"* and a *"trauma-informed"* lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives. Therefore, indicators were developed to represent possible *adverse experiences* to inform policy and public health at a population level. Further research is needed to evaluate how ACE indicators can be used in pratice.
+
 
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/overall%20logo%20flow.png "workflow")
 
@@ -43,10 +50,7 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20domains.png)](https://shabeer-syed.github.io/ACEs/domains) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/definitions%20NEW.png)](https://shabeer-syed.github.io/ACEs/definitions)
 
-## Aims: how can indicators of ACEs help?
-The main objective of the ACE domains and indicators is to help improve the health of vulnerable families by promoting trauma-informed and data-driven approaches of EHRs to advance research endeavours, public health efforts and policy.
 
-We follow WHO's [the Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) and view all ACEs through a *"life-course"* and a *"trauma-informed"* lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives. Therefore, indicators were developed to represent possible *adverse experiences* to inform policy and public health at a population level. Further research is needed to evaluate how ACE indicators can be used in pratice.
 
 ## What ACE indicators are not: 
 It is essential to note that ACE indicators: 
