@@ -14,7 +14,7 @@ The concept of adversity is not new. However, the term "ACEs" was first introduc
 ### Challenges in defining ACEs
 Since the late 1990s, the initial "ACE domains" have undergone numerous expansions across studies. Whilst this variation helped innovate and adapt indicators of ACEs to different goals, it also means there is currently little consistency over which experiences should be included as an "ACE", or what mutual critera defines as an "ACE". Previous studies have mainly determined the validity and relevance of ACEs based on their risk association with self-reported health outcomes in adulthood. However, these studies sometimes reveal that ACEs are poor predictors of negative health outcomes relative to other life factors.Poor health outcomes in adult  The World Health Organization also show that traumatic stress symptoms after events like ACEs naturally resolve on average 6-years after the event.[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5632781/),[2](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2595039). The absence of consistent definitions, reference standards and theoretical frameworks, creates multiple challenges to developing new indicators of ACEs for electronic health records (EHRs).
 
-### A an integrated conceptual framework to defining and develop ACEs
+### Establishing a definition and integrated conceptual framework of ACEs
 To promote a clearer understanding in developing ACE indicators, we developed a set of criteria to define ACE indicators and we developed a "testable" biopsychosocial conceptual model that can help generate predictions of which ACE indicators might be more relevant than others. We have summarised the developed definition and integrative conceputal modelbelow.
 
 ## Definitions and inclusions
