@@ -6,7 +6,9 @@ title: Definitions and frameworks
 ---------------------------------
 This page briefly summarises the theoretical framework and definitions that underpinned the development of the ACE indicators. 
 
-### Background
+## Background
+-------------------------------------------------------
+
 Adverse childhood experiences (ACEs) are potentially traumatic, neglectful or [violent](https://www.who.int/violenceprevention/approach/definition/en/) experiences in childhood. Examples of ACEs range from child maltreatment, and witnessing violence in the home, to growing up with a parent with a mental health problem [(1)](https://www.cdc.gov/violenceprevention/aces/fastfact.html). Studies estimate that approximately 1 in 2 adults in England reports experiencing at least one ACE in childhood [(2)](https://bmcmedicine.biomedcentral.com/articles/10.1186/1741-7015-12-72). ACEs are linked to considerable health burden in adulthood, and can pose a substantial pressure on families, health and social care systems [(3)](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(17)30118-4/fulltext).
 
 The concept of adversity is not new. However, the term "ACEs" was first introduced by a groundbreaking [study published in 1998](https://pubmed.ncbi.nlm.nih.gov/9635069/) conducted by the Centers for Disease Control and the Kaiser Permanente health care organization in USA, California. The concept of ACEs helped bring together and measure a diverse set of preventable adverse childhood experiences that can lead to considerable long-term health problems. The initial ACEs predominately referred to seven domains of adversity in the home environment, including child maltreatment *(1. psychological abuse, 2. physical abuse, 3. sexual abuse)* and household dysfunction *(4. substance abuse in the household, 5. mental illness in the household, 6. mother treated violently, 7. criminal behaviour in the household).* Sometimes the original domains are referred to as the "ten ACEs" when  including *"physical neglect", "emotional neglect", and "parental separation"*.
@@ -14,7 +16,7 @@ The concept of adversity is not new. However, the term "ACEs" was first introduc
 ### Challenges in defining ACEs
 Since the late 1990s, the initial "ACE domains" have undergone numerous expansions across studies. Whilst this variation helped innovate and adapt indicators of ACEs to different goals, it also means there is currently little consistency over which experiences should be included as an "ACE", or what mutual critera defines as an "ACE". Previous studies have mainly determined the validity and relevance of ACEs based on their risk association with self-reported health outcomes in adulthood. However, these studies sometimes reveal that ACEs are poor predictors of negative health outcomes relative to other life factors.Poor health outcomes in adult  The World Health Organization also show that traumatic stress symptoms after events like ACEs naturally resolve on average 6-years after the event.[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5632781/),[2](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2595039). The absence of consistent definitions, reference standards and theoretical frameworks, creates multiple challenges to developing new indicators of ACEs for electronic health records (EHRs).
 
-### Establishing a definition and integrated conceptual framework of ACEs
+### Establishing a consistent definition and an integrated conceptual model of ACEs
 To promote a clearer understanding in developing ACE indicators, we developed a set of criteria to define ACE indicators and we developed a "testable" biopsychosocial conceptual model that can help generate predictions of which ACE indicators might be more relevant than others. We have summarised the developed definition and integrative conceputal modelbelow.
 
 ## Definitions and inclusions
@@ -38,7 +40,9 @@ Given the substantial under-recording of CM and mIPV (e.g. see [1](https://www.c
 
 ACEs can be recorded in both mothers' and children's records. ACEs are considered based on each specific child's time from birth. Children are therefore considered unexposed if no relevant recording occurs in the study period, regardless of previous exposure in children within the same family. This approach mirrors changes in stress levels as the family moves through different life stages.
 
-### A an integrated conceptual framework to defining and develop ACEs
+## A an integrated conceptual model to defining and develop ACEs
+-------------------------------------------------------
+
 In this model, we use the socio-ecological system theory by [Bronfenbrenner (1977)](https://psycnet.apa.org/record/1978-06857-001) and [Belsky (1980)](https://psycnet.apa.org/record/1980-12117-001) as a base, with predictions of relevant ACE indictaors drawn from the attachment theory (Bowlby, 1969–82; Ainsworth et al., 1978), the [cumulative stress model](https://pubmed.ncbi.nlm.nih.gov/22201156/) (includes the ["allostatic load" model](https://www.nejm.org/doi/10.1056/NEJM199801153380307) and the ["ecobiodevelopmental" framework)](https://www.publications.aap.org/pediatrics/article-split/129/1/e232/31628/The-Lifelong-Effects-of-Early-Childhood-Adversity), and [cognitive behaviorual theories of emotions](https://psycnet.apa.org/record/1989-26231-001).
 
 The figure does not represent an exhaustive list of potential mechanisms behind ACEs.
