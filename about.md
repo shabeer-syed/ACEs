@@ -21,7 +21,7 @@ Electronic health records (EHRs) are routinely collected data from hospitals, GP
 
 In the UK, mothers' and children's data can be linked across services. The ability to link mothers' and children's records allows for measuring ACEs before pregnancy, throughout childhood and intergenerationally.
 
-We have developed *indicators* for identifying *domains* of ACEs and at-risk families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth. This page provides more information on definitions and brief methods used to develop the indicators. [Find the pre-print paper here.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569) 
+We have developed *indicators* for identifying *domains* of ACEs among families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth. This page provides more information on definitions and brief methods used to develop the indicators. [Find the pre-print paper here.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569) 
 
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/overall%20logo%20flow.png "workflow")
 
@@ -46,7 +46,15 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 ## How can indicators of ACEs help?
 The main objective of the ACE domains and indicators is to help improve the health of vulnerable families and individuals by promoting data-driven integration of trauma-informed care across platforms.
 
-We follow WHO's [the Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) and view all ACEs through a *"life-course"* and a *"trauma-informed"* lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout people's lives. Therefore, indicators were developed to represent possible *adverse experiences* to inform policy and intervention at a population or organisational level. However, it is essential to note that most children with ACEs **do not** develop poorer health outcomes and show incredible resilience to adversity. Indicators should not guide individual-level clinical decision-making (eg, screening). Further research is needed to evaluate the benefits and harms of individual screening using ACE indicators.
+We follow WHO's [the Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) and view all ACEs through a *"life-course"* and a *"trauma-informed"* lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives. Therefore, indicators were developed to represent possible *adverse experiences* to inform policy and public health at a population level. Further research is needed to evaluate how ACE indicators can be used in pratice.
+
+## What ACE indicators are not: 
+It is essential to note that ACE indicators: 
+* Cannot make inferences about individual level risk. This means that indicators cannot be used to guide individual-level clinical decision-making including screening, diagnosing or labelling children or families to be at-risk of harm. Most children with ACEs **do not** develop poorer health outcomes and show incredible resilience to adversity.
+* Do not make causal claims or intended to account for all posible mechanisims
+
+The limitations of ACEs concept has been summarised by Prof Rosalind Edwards and colleagues [elsewhere]( https://www.cambridge.org/core/journals/social-policy-and-society/article/introduction-adverse-childhood-experiences-aces-implications-and-challenges/A1E57E800C74406E84F93AB9F8CB125D). 
+
 
 ## What is trauma informed care? -the four R's
 The potential implications of the ACEs research at an organisational or population level can broadly be conceptualised via the four "R's". The four R's represent key assumptions of trauma-informed approaches summarised by [SAMHSA](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884).
@@ -65,6 +73,7 @@ The potential implications of the ACEs research at an organisational or populati
     * Staff training and a budget that supports this ongoing training
 
 * **Resisting re-traumatisation** by avoiding triggering painful memories, and re-traumatise clients with trauma histories. For example, they recognise that using restraints on a person who has been sexually abused, or placing a child who has been neglected and abandoned in a seclusion room may be re-traumatising and interfere with healing and recovery.
+
 
 ## Contact information
 --------------------------------------------
