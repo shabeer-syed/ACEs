@@ -10,8 +10,6 @@ title: Implemetation and code lists
 
 
 
-
-
 ## Indicators and algorithms
 --------------------------------------------
 We developed two measures of ACEs for electronic health records (EHRs):
