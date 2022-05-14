@@ -46,10 +46,11 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 ## How can ACEs indicators and domains help (so what)?
 The main objective of the ACE domains and indicators is to help improve the health of vulnerable families and individuals by promoting data-driven integration of trauma-informed care across platforms.
 
-We **do not** recommend or promote using ACE indicators to guide individual clinical decision making (eg, screening). Further research is needed to evaluate the benefits and harms of individual identification and screening using ACE indicators.
+
+We follow [the Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) by the WHO and view all ACEs through a “life-course” and a “trauma-informed approach”. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout people's lives. It is important to note that most children with ACEs **do not** have poorer health outcomes and show incredible resilience. Indicators should not guide individual-level clinical decision-making (eg, screening). Indicators were developed to inform intervention at a population or organisational level. Further research is needed to evaluate the benefits and harms of individual screening using ACE indicators.
 
 ## What is trauma informed care? -the four R's
-Potential implications of the ACEs research can be conceptualised via the four "R's". The four R's represent key assumptions of trauma-informed approaches summarised by SAMHSA’s.
+The potential implications of the ACEs research at an organisational or population level can broadly be conceptualised via the four "R's". The four R's represent key assumptions of trauma-informed approaches summarised by [SAMHSA](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884).
 
 * **Realisation** about trauma and understanding how trauma can affect families, groups, organizational, communities, and individuals
 
