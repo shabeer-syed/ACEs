@@ -36,18 +36,21 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20domains.png)](https://shabeer-syed.github.io/ACEs/domains) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/definitions%20NEW.png)](https://shabeer-syed.github.io/ACEs/definitions)
 
-## Aims: how can indicators of ACEs help?
+## Aims
 -----------------------------------------------------------------
-The main objective of the ACE domains and indicators is to help improve the health of vulnerable families by enhancing the methodological standard and utility of measuring ACEs in linked EHRs of mothers and children. ACE indicators have the potential to support [trauma-informed](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884) data-driven approaches across research, public health and policy.
+The main objective of the ACE domains and indicators is to help improve the health of vulnerable families by enhancing the methodological standard and utility of measuring ACEs in linked EHRs of mothers and children. ACE indicators have the potential to support [trauma-informed](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884) data-driven approaches in research, public health, policy and larger care organisations.
 
-We follow WHO's [the Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) and view all ACEs through a *"life-course"* and a *"trauma-informed"* lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives. Therefore, indicators were developed to represent possible *adverse experiences* to inform policy and public health at a population level. Further research is needed to evaluate how ACE indicators can be used in practice.
+We follow WHO's [the Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) and view all ACEs through a *"life-course"* and a *"trauma-informed"* lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives.
 
-## What ACE indicators are not: 
+
+# What ACE indicators are not: 
 It is essential to note that ACE indicators: 
-* Do not represent an exhaustive list of all possible adversities
-* Cannot make inferences about an individual and their risk. This means that indicators cannot be used to guide individual-level clinical decision-making including screening, diagnosing or labelling children or families to be at-risk of harm. Most children with ACEs **do not** develop poorer health outcomes and show incredible resilience to adversity.
+* Only identify experiences recorded in semi-structured and coded non-identfiable data, and and many children might have concerns recorded only in free-text data that
+is not captured in coded data.
+*Do not represent an exhaustive list of all possible adversities experienced by children
+* Cannot make inferences about an individual. This means that indicators cannot be used to guide individual-level clinical decision-making including screening, diagnosing or labelling children or families to be at-risk of harm. Most children with ACEs **do not** develop poorer health outcomes and show incredible resilience to adversity.
 * Do not make causal claims about posible mechanisims underpinning different ACEs
-* Do not account for protective factors or different contexts
+* Do not account for different protective factors and contexts
 
 The limitations of ACEs has been summarised [elsewhere]( https://www.cambridge.org/core/journals/social-policy-and-society/article/introduction-adverse-childhood-experiences-aces-implications-and-challenges/A1E57E800C74406E84F93AB9F8CB125D). 
 
