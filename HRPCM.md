@@ -6,7 +6,7 @@ title: Domain - High-risk presentations of child maltreatment (HRP-CM)
 --------------------------------
 ## Definition
 
-This domain includes indicators consistent with NICE Clinical guidelines [CG89] on high-risk child presentations that should raise clinical suspicions for CM. To be interpreted as warning signs of maltreatment in the face of uncertainty and the absence of evidence for CM. All indicators are recorded in the child, except for non-attendance of child appointments which uses both maternal and child records.
+This domain includes indicators consistent with NICE Clinical guidelines [CG89](https://www.nice.org.uk/guidance/cg89/chapter/Recommendations) and [NG76](https://www.nice.org.uk/guidance/ng76/chapter/Recommendations#recognising-child-abuse-and-neglect) on alerting features (risk presentations) that should raise clinical suspicions for CM. To be interpreted as warning signs of maltreatment in the face of uncertainty and the absence of evidence for CM. All indicators are recorded in the child, except for non-attendance of child appointments which uses both maternal and child records.
 
 --------------------------------
 ## Indicator list
