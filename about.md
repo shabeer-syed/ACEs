@@ -40,19 +40,18 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 -----------------------------------------------------------------
 The main objective of the ACE domains and indicators is to help improve the health of vulnerable families by enhancing the methodological standard and utility of measuring ACEs in linked EHRs of mothers and children. ACE indicators have the potential to support [trauma-informed](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884) data-driven approaches in research, public health, policy and larger care organisations.
 
-We follow WHO's [the Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) and view all ACEs through a *"life-course"* and a *"trauma-informed"* lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives.
-
+We follow the [Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) by WHO and view all ACEs through a *"life-course"* and a *"trauma-informed"* lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives.
 
 # What ACE indicators are not: 
 It is essential to note that ACE indicators: 
-* Only identify experiences recorded in semi-structured and coded non-identfiable data, and and many children might have concerns recorded only in free-text data that
+* Only identify experiences recorded in semi-structured coded non-identifiable data. Many children might have concerns recorded only in free-text data that
 is not captured in coded data.
 *Do not represent an exhaustive list of all possible adversities experienced by children
-* Cannot make inferences about an individual. This means that indicators cannot be used to guide individual-level clinical decision-making including screening, diagnosing or labelling children or families to be at-risk of harm. Most children with ACEs **do not** develop poorer health outcomes and show incredible resilience to adversity.
-* Do not make causal claims about posible mechanisims underpinning different ACEs
+* Cannot make inferences about an individual. This means that indicators cannot be used to guide individual-level clinical decision-making, including screening, diagnosing or labelling children or families to be at risk of harm. Most children with ACEs **do not** develop poorer health outcomes and show incredible resilience to adversity.
+* Do not make causal claims about possible mechanisms underpinning different ACEs
 * Do not account for different protective factors and contexts
 
-The limitations of ACEs has been summarised [elsewhere]( https://www.cambridge.org/core/journals/social-policy-and-society/article/introduction-adverse-childhood-experiences-aces-implications-and-challenges/A1E57E800C74406E84F93AB9F8CB125D). 
+The limitations of the ACE "concept" have been summarised [elsewhere]( https://www.cambridge.org/core/journals/social-policy-and-society/article/introduction-adverse-childhood-experiences-aces-implications-and-challenges/A1E57E800C74406E84F93AB9F8CB125D).
 
 
 ## Contact information
@@ -73,6 +72,13 @@ If you require any further information about the development of the ACE indicato
 *3. Institute of Health Informatics and Health Data Research UK, University College London*
 *4. Bristol Medical School, Bristol Population Health Science Institute Centre for Academic Primary Care, University of Bristol*
 *5. General Practitioner, NHS*
+
+## Feedback
+--------------------------------------------
+We are continuously working to make this platform and the ACE indicators easier to access and implement. This website is open source and hosted via Github with changes [openly recorded](https://github.com/shabeer-syed/ACEs/tree/gh-pages).
+
+We welcome any feedback to help improve the accessibility of the website and implementation of the developed ACE indicators.
+Please get in touch: s.syed.16@ucl.ac.uk
 
 ## More information about ACEs 
 --------------------------------------------
