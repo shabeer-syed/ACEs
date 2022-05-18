@@ -20,7 +20,7 @@ We have developed and validated indicators for identifying ACEs in routinely col
 
 This library stores ACE indicators and algorithms accompanying the paper published in Lancet Digital Health [*"Identifying adverse childhood experiences with electronic health records of linked mothers and children in England: a multistage development and validation study, (2022). Shabeer Syed, Arturo Gonzalez-Izquierd, Janice Allister, Gene Feder, Leah Li, Ruth Gilbert."*](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00061-9/fulltext).
 
-Users should cite the www.ACEsinEHRs.com library and the above accompanying Lancet Digital Health publication in all research outputs, presentations and reports.
+Users should cite the www.ACEsinEHRs.com library and the accompanying Lancet Digital Health publication in all research outputs, presentations and reports.
 
 <span style="color:red"> The information is not intended for clinical use. No data is stored in this library.</span>
 
