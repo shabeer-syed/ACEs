@@ -1,0 +1,970 @@
+Code,Coding_term,Indicator_code,Indicator_specific,Indicator_1,Indicator_2,Domain,code_original,Severity,cut_off,scale,Reference_std,individual,system
+25033,Child/parent violence,mIPV3,Parental domestic violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,13W4000,"","","",2,2,read
+Y87,"Sequelae of intentional self-harm, assault and events of undetermined intent",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y87,"","",Aslt_algo_index,"",2,ICD-10
+Y007,Assault by blunt object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y007,Farm,"",Aslt_algo_index,"",2,ICD-10
+Y047,Assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y047,Farm,"",Aslt_algo_index,"",2,ICD-10
+X867,Assault by corrosive substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X867,Farm,"",Aslt_algo_index,"",2,ICD-10
+X857,"Assault by drugs, medicaments and biological substances",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X857,Farm,"",Aslt_algo_index,"",2,ICD-10
+X887,Assault by gases and vapours,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X887,Farm,"",Aslt_algo_index,"",2,ICD-10
+X917,"Assault by hanging, strangulation and suffocation",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X917,Farm,"",Aslt_algo_index,"",2,ICD-10
+X897,Assault by other specified chemicals and noxious substances,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X897,Farm,"",Aslt_algo_index,"",2,ICD-10
+Y087,Assault by other specified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y087,Farm,"",Aslt_algo_index,"",2,ICD-10
+X877,Assault by pesticides,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X877,Farm,"",Aslt_algo_index,"",2,ICD-10
+Y017,Assault by pushing from high place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y017,Farm,"",Aslt_algo_index,"",2,ICD-10
+Y027,Assault by pushing or placing victim before moving object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y027,Farm,"",Aslt_algo_index,"",2,ICD-10
+X997,Assault by sharp object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X997,Farm,"",Aslt_algo_index,"",2,ICD-10
+X987,"Assault by steam, hot vapours and hot objects",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X987,Farm,"",Aslt_algo_index,"",2,ICD-10
+X907,Assault by unspecified chemical or noxious substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X907,Farm,"",Aslt_algo_index,"",2,ICD-10
+Y097,Assault by unspecified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y097,Farm,"",Aslt_algo_index,"",2,ICD-10
+Y057,Sexual assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y057,Farm,"",Aslt_algo_index,"",2,ICD-10
+Y000,Assault by blunt object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y000,Home,"",Aslt_algo_index,"",2,ICD-10
+Y040,Assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y040,Home,"",Aslt_algo_index,"",2,ICD-10
+X860,Assault by corrosive substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X860,Home,"",Aslt_algo_index,"",2,ICD-10
+X920,Assault by drowning and submersion,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X920,Home,"",Aslt_algo_index,"",2,ICD-10
+X850,"Assault by drugs, medicaments and biological substances",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X850,Home,"",Aslt_algo_index,"",2,ICD-10
+X960,Assault by explosive material,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X960,Home,"",Aslt_algo_index,"",2,ICD-10
+X880,Assault by gases and vapours,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X880,Home,"",Aslt_algo_index,"",2,ICD-10
+X930,Assault by handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X930,Home,"",Aslt_algo_index,"",2,ICD-10
+X910,"Assault by hanging, strangulation and suffocation",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X910,Home,"",Aslt_algo_index,"",2,ICD-10
+X950,Assault by other and unspecified firearm discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X950,Home,"",Aslt_algo_index,"",2,ICD-10
+X890,Assault by other specified chemicals and noxious substances,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X890,Home,"",Aslt_algo_index,"",2,ICD-10
+Y080,Assault by other specified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y080,Home,"",Aslt_algo_index,"",2,ICD-10
+X870,Assault by pesticides,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X870,Home,"",Aslt_algo_index,"",2,ICD-10
+Y010,Assault by pushing from high place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y010,Home,"",Aslt_algo_index,"",2,ICD-10
+Y020,Assault by pushing or placing victim before moving object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y020,Home,"",Aslt_algo_index,"",2,ICD-10
+X940,"Assault by rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X940,Home,"",Aslt_algo_index,"",2,ICD-10
+X990,Assault by sharp object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X990,Home,"",Aslt_algo_index,"",2,ICD-10
+X970,"Assault by smoke, fire and flames",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X970,Home,"",Aslt_algo_index,"",2,ICD-10
+X980,"Assault by steam, hot vapours and hot objects",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X980,Home,"",Aslt_algo_index,"",2,ICD-10
+X900,Assault by unspecified chemical or noxious substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X900,Home,"",Aslt_algo_index,"",2,ICD-10
+Y090,Assault by unspecified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y090,Home,"",Aslt_algo_index,"",2,ICD-10
+Y050,Sexual assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y050,Home,"",Aslt_algo_index,"",2,ICD-10
+Y006,Assault by blunt object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y006,Industrial and construction area,"",Aslt_algo_index,"",2,ICD-10
+Y046,Assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y046,Industrial and construction area,"",Aslt_algo_index,"",2,ICD-10
+X866,Assault by corrosive substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X866,Industrial and construction area,"",Aslt_algo_index,"",2,ICD-10
+X856,"Assault by drugs, medicaments and biological substances",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X856,Industrial and construction area,"",Aslt_algo_index,"",2,ICD-10
+X886,Assault by gases and vapours,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X886,Industrial and construction area,"",Aslt_algo_index,"",2,ICD-10
+X916,"Assault by hanging, strangulation and suffocation",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X916,Industrial and construction area,"",Aslt_algo_index,"",2,ICD-10
+X896,Assault by other specified chemicals and noxious substances,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X896,Industrial and construction area,"",Aslt_algo_index,"",2,ICD-10
+Y086,Assault by other specified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y086,Industrial and construction area,"",Aslt_algo_index,"",2,ICD-10
+X876,Assault by pesticides,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X876,Industrial and construction area,"",Aslt_algo_index,"",2,ICD-10
+Y016,Assault by pushing from high place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y016,Industrial and construction area,"",Aslt_algo_index,"",2,ICD-10
+Y026,Assault by pushing or placing victim before moving object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y026,Industrial and construction area,"",Aslt_algo_index,"",2,ICD-10
+X996,Assault by sharp object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X996,Industrial and construction area,"",Aslt_algo_index,"",2,ICD-10
+X986,"Assault by steam, hot vapours and hot objects",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X986,Industrial and construction area,"",Aslt_algo_index,"",2,ICD-10
+X906,Assault by unspecified chemical or noxious substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X906,Industrial and construction area,"",Aslt_algo_index,"",2,ICD-10
+Y096,Assault by unspecified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y096,Industrial and construction area,"",Aslt_algo_index,"",2,ICD-10
+Y056,Sexual assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y056,Industrial and construction area,"",Aslt_algo_index,"",2,ICD-10
+Y008,Assault by blunt object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y008,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+Y048,Assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y048,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+X868,Assault by corrosive substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X868,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+X928,Assault by drowning and submersion,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X928,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+X858,"Assault by drugs, medicaments and biological substances",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X858,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+X968,Assault by explosive material,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X968,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+X888,Assault by gases and vapours,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X888,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+X938,Assault by handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X938,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+X918,"Assault by hanging, strangulation and suffocation",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X918,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+X958,Assault by other and unspecified firearm discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X958,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+X898,Assault by other specified chemicals and noxious substances,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X898,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+Y088,Assault by other specified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y088,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+X878,Assault by pesticides,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X878,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+Y018,Assault by pushing from high place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y018,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+Y028,Assault by pushing or placing victim before moving object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y028,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+X948,"Assault by rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X948,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+X998,Assault by sharp object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X998,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+X978,"Assault by smoke, fire and flames",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X978,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+X988,"Assault by steam, hot vapours and hot objects",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X988,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+X908,Assault by unspecified chemical or noxious substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X908,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+Y098,Assault by unspecified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y098,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+Y058,Sexual assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y058,Other specified places,"",Aslt_algo_index,"",2,ICD-10
+Y001,Assault by blunt object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y001,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+Y041,Assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y041,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+X861,Assault by corrosive substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X861,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+X921,Assault by drowning and submersion,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X921,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+X851,"Assault by drugs, medicaments and biological substances",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X851,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+X961,Assault by explosive material,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X961,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+X881,Assault by gases and vapours,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X881,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+X931,Assault by handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X931,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+X911,"Assault by hanging, strangulation and suffocation",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X911,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+X951,Assault by other and unspecified firearm discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X951,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+X891,Assault by other specified chemicals and noxious substances,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X891,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+Y081,Assault by other specified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y081,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+X871,Assault by pesticides,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X871,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+Y011,Assault by pushing from high place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y011,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+Y021,Assault by pushing or placing victim before moving object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y021,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+X941,"Assault by rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X941,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+X991,Assault by sharp object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X991,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+X971,"Assault by smoke, fire and flames",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X971,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+X981,"Assault by steam, hot vapours and hot objects",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X981,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+X901,Assault by unspecified chemical or noxious substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X901,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+Y091,Assault by unspecified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y091,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+Y051,Sexual assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y051,Residential institution,"",Aslt_algo_index,"",2,ICD-10
+Y002,Assault by blunt object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y002,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+Y042,Assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y042,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+X862,Assault by corrosive substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X862,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+X922,Assault by drowning and submersion,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X922,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+X852,"Assault by drugs, medicaments and biological substances",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X852,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+X962,Assault by explosive material,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X962,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+X882,Assault by gases and vapours,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X882,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+X912,"Assault by hanging, strangulation and suffocation",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X912,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+X892,Assault by other specified chemicals and noxious substances,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X892,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+Y082,Assault by other specified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y082,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+X872,Assault by pesticides,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X872,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+Y012,Assault by pushing from high place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y012,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+Y022,Assault by pushing or placing victim before moving object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y022,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+X992,Assault by sharp object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X992,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+X982,"Assault by steam, hot vapours and hot objects",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X982,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+X902,Assault by unspecified chemical or noxious substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X902,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+Y092,Assault by unspecified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y092,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+Y052,Sexual assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y052,"School, other institution and public administrative area","",Aslt_algo_index,"",2,ICD-10
+Y003,Assault by blunt object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y003,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+Y043,Assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y043,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+X863,Assault by corrosive substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X863,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+X923,Assault by drowning and submersion,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X923,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+X853,"Assault by drugs, medicaments and biological substances",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X853,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+X883,Assault by gases and vapours,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X883,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+X913,"Assault by hanging, strangulation and suffocation",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X913,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+X893,Assault by other specified chemicals and noxious substances,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X893,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+Y083,Assault by other specified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y083,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+X873,Assault by pesticides,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X873,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+Y013,Assault by pushing from high place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y013,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+Y023,Assault by pushing or placing victim before moving object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y023,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+X993,Assault by sharp object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X993,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+X983,"Assault by steam, hot vapours and hot objects",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X983,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+X903,Assault by unspecified chemical or noxious substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X903,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+Y093,Assault by unspecified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y093,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+Y053,Sexual assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y053,Sports and athletics area,"",Aslt_algo_index,"",2,ICD-10
+Y004,Assault by blunt object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y004,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+Y044,Assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y044,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+X864,Assault by corrosive substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X864,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+X854,"Assault by drugs, medicaments and biological substances",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X854,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+X884,Assault by gases and vapours,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X884,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+X914,"Assault by hanging, strangulation and suffocation",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X914,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+X954,Assault by other and unspecified firearm discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X954,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+X894,Assault by other specified chemicals and noxious substances,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X894,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+Y084,Assault by other specified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y084,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+X874,Assault by pesticides,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X874,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+Y014,Assault by pushing from high place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y014,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+Y024,Assault by pushing or placing victim before moving object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y024,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+X994,Assault by sharp object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X994,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+X984,"Assault by steam, hot vapours and hot objects",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X984,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+X904,Assault by unspecified chemical or noxious substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X904,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+Y094,Assault by unspecified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y094,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+Y054,Sexual assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y054,Street and highway,"",Aslt_algo_index,"",2,ICD-10
+Y005,Assault by blunt object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y005,Trade and service area,"",Aslt_algo_index,"",2,ICD-10
+Y045,Assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y045,Trade and service area,"",Aslt_algo_index,"",2,ICD-10
+X865,Assault by corrosive substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X865,Trade and service area,"",Aslt_algo_index,"",2,ICD-10
+X855,"Assault by drugs, medicaments and biological substances",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X855,Trade and service area,"",Aslt_algo_index,"",2,ICD-10
+X885,Assault by gases and vapours,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X885,Trade and service area,"",Aslt_algo_index,"",2,ICD-10
+X915,"Assault by hanging, strangulation and suffocation",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X915,Trade and service area,"",Aslt_algo_index,"",2,ICD-10
+X895,Assault by other specified chemicals and noxious substances,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X895,Trade and service area,"",Aslt_algo_index,"",2,ICD-10
+Y085,Assault by other specified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y085,Trade and service area,"",Aslt_algo_index,"",2,ICD-10
+X875,Assault by pesticides,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X875,Trade and service area,"",Aslt_algo_index,"",2,ICD-10
+Y015,Assault by pushing from high place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y015,Trade and service area,"",Aslt_algo_index,"",2,ICD-10
+Y025,Assault by pushing or placing victim before moving object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y025,Trade and service area,"",Aslt_algo_index,"",2,ICD-10
+X995,Assault by sharp object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X995,Trade and service area,"",Aslt_algo_index,"",2,ICD-10
+X985,"Assault by steam, hot vapours and hot objects",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X985,Trade and service area,"",Aslt_algo_index,"",2,ICD-10
+X905,Assault by unspecified chemical or noxious substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X905,Trade and service area,"",Aslt_algo_index,"",2,ICD-10
+Y095,Assault by unspecified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y095,Trade and service area,"",Aslt_algo_index,"",2,ICD-10
+Y055,Sexual assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y055,Trade and service area,"",Aslt_algo_index,"",2,ICD-10
+Y009,Assault by blunt object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y009,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+Y049,Assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y049,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+X869,Assault by corrosive substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X869,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+X929,Assault by drowning and submersion,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X929,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+X859,"Assault by drugs, medicaments and biological substances",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X859,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+X969,Assault by explosive material,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X969,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+X889,Assault by gases and vapours,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X889,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+X939,Assault by handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X939,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+X919,"Assault by hanging, strangulation and suffocation",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X919,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+X959,Assault by other and unspecified firearm discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X959,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+X899,Assault by other specified chemicals and noxious substances,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X899,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+Y089,Assault by other specified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y089,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+X879,Assault by pesticides,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X879,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+Y019,Assault by pushing from high place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y019,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+Y029,Assault by pushing or placing victim before moving object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y029,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+X949,"Assault by rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X949,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+X999,Assault by sharp object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X999,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+X979,"Assault by smoke, fire and flames",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X979,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+X989,"Assault by steam, hot vapours and hot objects",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X989,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+X909,Assault by unspecified chemical or noxious substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X909,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+Y099,Assault by unspecified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y099,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+Y059,Sexual assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y059,Unspecified place,"",Aslt_algo_index,"",2,ICD-10
+Y00,Assault by blunt object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y00,"","",Aslt_algo_index,"",2,ICD-10
+Y04,Assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y04,"","",Aslt_algo_index,"",2,ICD-10
+X86,Assault by corrosive substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X86,"","",Aslt_algo_index,"",2,ICD-10
+Y03,Assault by crashing of motor vehicle,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y03,"","",Aslt_algo_index,"",2,ICD-10
+Y030,Assault by crashing of motor vehicle,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y030,"","",Aslt_algo_index,"",2,ICD-10
+Y031,Assault by crashing of motor vehicle,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y031,"","",Aslt_algo_index,"",2,ICD-10
+Y032,Assault by crashing of motor vehicle,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y032,"","",Aslt_algo_index,"",2,ICD-10
+Y033,Assault by crashing of motor vehicle,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y033,"","",Aslt_algo_index,"",2,ICD-10
+Y034,Assault by crashing of motor vehicle,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y034,"","",Aslt_algo_index,"",2,ICD-10
+Y035,Assault by crashing of motor vehicle,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y035,"","",Aslt_algo_index,"",2,ICD-10
+Y036,Assault by crashing of motor vehicle,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y036,"","",Aslt_algo_index,"",2,ICD-10
+Y037,Assault by crashing of motor vehicle,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y037,"","",Aslt_algo_index,"",2,ICD-10
+Y038,Assault by crashing of motor vehicle,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y038,"","",Aslt_algo_index,"",2,ICD-10
+Y039,Assault by crashing of motor vehicle,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y039,"","",Aslt_algo_index,"",2,ICD-10
+X92,Assault by drowning and submersion,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X92,"","",Aslt_algo_index,"",2,ICD-10
+X924,Assault by drowning and submersion,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X924,"","",Aslt_algo_index,"",2,ICD-10
+X925,Assault by drowning and submersion,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X925,"","",Aslt_algo_index,"",2,ICD-10
+X926,Assault by drowning and submersion,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X926,"","",Aslt_algo_index,"",2,ICD-10
+X927,Assault by drowning and submersion,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X927,"","",Aslt_algo_index,"",2,ICD-10
+X85,"Assault by drugs, medicaments and biological substances",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X85,"","",Aslt_algo_index,"",2,ICD-10
+X96,Assault by explosive material,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X96,"","",Aslt_algo_index,"",2,ICD-10
+X963,Assault by explosive material,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X963,"","",Aslt_algo_index,"",2,ICD-10
+X964,Assault by explosive material,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X964,"","",Aslt_algo_index,"",2,ICD-10
+X965,Assault by explosive material,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X965,"","",Aslt_algo_index,"",2,ICD-10
+X966,Assault by explosive material,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X966,"","",Aslt_algo_index,"",2,ICD-10
+X967,Assault by explosive material,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X967,"","",Aslt_algo_index,"",2,ICD-10
+X88,Assault by gases and vapours,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X88,"","",Aslt_algo_index,"",2,ICD-10
+X93,Assault by handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X93,"","",Aslt_algo_index,"",2,ICD-10
+X932,Assault by handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X932,"","",Aslt_algo_index,"",2,ICD-10
+X933,Assault by handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X933,"","",Aslt_algo_index,"",2,ICD-10
+X934,Assault by handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X934,"","",Aslt_algo_index,"",2,ICD-10
+X935,Assault by handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X935,"","",Aslt_algo_index,"",2,ICD-10
+X936,Assault by handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X936,"","",Aslt_algo_index,"",2,ICD-10
+X937,Assault by handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X937,"","",Aslt_algo_index,"",2,ICD-10
+X91,"Assault by hanging, strangulation and suffocation",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X91,"","",Aslt_algo_index,"",2,ICD-10
+X95,Assault by other and unspecified firearm discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X95,"","",Aslt_algo_index,"",2,ICD-10
+X952,Assault by other and unspecified firearm discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X952,"","",Aslt_algo_index,"",2,ICD-10
+X953,Assault by other and unspecified firearm discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X953,"","",Aslt_algo_index,"",2,ICD-10
+X955,Assault by other and unspecified firearm discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X955,"","",Aslt_algo_index,"",2,ICD-10
+X956,Assault by other and unspecified firearm discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X956,"","",Aslt_algo_index,"",2,ICD-10
+X957,Assault by other and unspecified firearm discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X957,"","",Aslt_algo_index,"",2,ICD-10
+X89,Assault by other specified chemicals and noxious substances,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X89,"","",Aslt_algo_index,"",2,ICD-10
+Y08,Assault by other specified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y08,"","",Aslt_algo_index,"",2,ICD-10
+X87,Assault by pesticides,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X87,"","",Aslt_algo_index,"",2,ICD-10
+Y01,Assault by pushing from high place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y01,"","",Aslt_algo_index,"",2,ICD-10
+Y02,Assault by pushing or placing victim before moving object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y02,"","",Aslt_algo_index,"",2,ICD-10
+X94,"Assault by rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X94,"","",Aslt_algo_index,"",2,ICD-10
+X942,"Assault by rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X942,"","",Aslt_algo_index,"",2,ICD-10
+X943,"Assault by rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X943,"","",Aslt_algo_index,"",2,ICD-10
+X944,"Assault by rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X944,"","",Aslt_algo_index,"",2,ICD-10
+X945,"Assault by rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X945,"","",Aslt_algo_index,"",2,ICD-10
+X946,"Assault by rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X946,"","",Aslt_algo_index,"",2,ICD-10
+X947,"Assault by rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X947,"","",Aslt_algo_index,"",2,ICD-10
+X99,Assault by sharp object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X99,"","",Aslt_algo_index,"",2,ICD-10
+X97,"Assault by smoke, fire and flames",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X97,"","",Aslt_algo_index,"",2,ICD-10
+X972,"Assault by smoke, fire and flames",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X972,"","",Aslt_algo_index,"",2,ICD-10
+X973,"Assault by smoke, fire and flames",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X973,"","",Aslt_algo_index,"",2,ICD-10
+X974,"Assault by smoke, fire and flames",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X974,"","",Aslt_algo_index,"",2,ICD-10
+X975,"Assault by smoke, fire and flames",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X975,"","",Aslt_algo_index,"",2,ICD-10
+X976,"Assault by smoke, fire and flames",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X976,"","",Aslt_algo_index,"",2,ICD-10
+X977,"Assault by smoke, fire and flames",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X977,"","",Aslt_algo_index,"",2,ICD-10
+X98,"Assault by steam, hot vapours and hot objects",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X98,"","",Aslt_algo_index,"",2,ICD-10
+X90,Assault by unspecified chemical or noxious substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,X90,"","",Aslt_algo_index,"",2,ICD-10
+Y09,Assault by unspecified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y09,"","",Aslt_algo_index,"",2,ICD-10
+W34,Discharge from other and unspecified firearms,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W34,"","",Aslt_algo_index,"",2,ICD-10
+W345,Discharge from other and unspecified firearms,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W345,"","",Aslt_algo_index,"",2,ICD-10
+W347,Discharge from other and unspecified firearms,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W347,"","",Aslt_algo_index,"",2,ICD-10
+W348,Discharge from other and unspecified firearms,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W348,"","",Aslt_algo_index,"",2,ICD-10
+W349,Discharge from other and unspecified firearms,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W349,"","",Aslt_algo_index,"",2,ICD-10
+W32,Handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W32,"","",Aslt_algo_index,"",2,ICD-10
+W320,Handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W320,"","",Aslt_algo_index,"",2,ICD-10
+W322,Handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W322,"","",Aslt_algo_index,"",2,ICD-10
+W324,Handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W324,"","",Aslt_algo_index,"",2,ICD-10
+W327,Handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W327,"","",Aslt_algo_index,"",2,ICD-10
+R456,Physical violence,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,R456,"","",Aslt_algo_index,"",2,ICD-10
+W33,"Rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W33,"","",Aslt_algo_index,"",2,ICD-10
+W330,"Rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W330,"","",Aslt_algo_index,"",2,ICD-10
+W332,"Rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W332,"","",Aslt_algo_index,"",2,ICD-10
+W333,"Rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W333,"","",Aslt_algo_index,"",2,ICD-10
+W334,"Rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W334,"","",Aslt_algo_index,"",2,ICD-10
+W335,"Rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W335,"","",Aslt_algo_index,"",2,ICD-10
+W336,"Rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W336,"","",Aslt_algo_index,"",2,ICD-10
+W337,"Rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W337,"","",Aslt_algo_index,"",2,ICD-10
+W338,"Rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W338,"","",Aslt_algo_index,"",2,ICD-10
+W339,"Rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,W339,"","",Aslt_algo_index,"",2,ICD-10
+Y871,Sequelae of assault,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Y871,"","",Aslt_algo_index,"",2,ICD-10
+Z654,Victim of crime and terrorism,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Z654,"","",Aslt_algo_index,"",2,ICD-10
+Y060,By spouse or partner,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,Y060,"","","",1,2,ICD-10
+Y070,By spouse or partner,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,Y070,"","","",1,2,ICD-10
+T749,"Maltreatment syndrome, unspecified",mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,T749,"","","",1,2,ICD-10
+T74,Maltreatment syndromes,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,T74,"","","",1,2,ICD-10
+T740,Neglect or abandonment,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,T740,"","","",1,2,ICD-10
+T748,Other maltreatment syndromes,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,T748,"","","",1,2,ICD-10
+T741,Physical abuse,mIPV1,"Physical abuse, IPV","mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,T741,"","","",1,2,ICD-10
+T743,Psychological abuse,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,T743,"","","",1,2,ICD-10
+Z33,"Pregnant state, incidental",mIPV2,"Pregnant state, incidental",Mother assaulted + child protection recording or pregnant incident,mIPV,mIPV,Z33,45days,"",Aslt_algo_1,"",2,ICD-10
+Y072,By acquaintance or friend,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,Y072,"","","",2,2,ICD-10
+Y078,By other specified persons,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,Y078,"","","",2,2,ICD-10
+Y079,By unspecified person,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,Y079,"","","",2,2,ICD-10
+Y050,Sexual assault by bodily force,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,Y050,Home,"","","",2,ICD-10
+Y059,Sexual assault by bodily force,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,Y059,Unspecified place,"","","",2,ICD-10
+Z045,Examination and observation following other inflicted injury,mIPV4,"Physical abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,Z045,"","","","",2,ICD-10
+T742,Sexual abuse,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,T742,"","","","",2,ICD-10
+X997,Assault by sharp object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X997,Farm,"","","",2,ICD-10
+Y000,Assault by blunt object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y000,Home,"","","",2,ICD-10
+Y040,Assault by bodily force,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y040,Home,"","","",2,ICD-10
+X920,Assault by drowning and submersion,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X920,Home,"","","",2,ICD-10
+X960,Assault by explosive material,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X960,Home,"","","",2,ICD-10
+X930,Assault by handgun discharge,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X930,Home,"","","",2,ICD-10
+X910,"Assault by hanging, strangulation and suffocation",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X910,Home,"","","",2,ICD-10
+X950,Assault by other and unspecified firearm discharge,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X950,Home,"","","",2,ICD-10
+Y080,Assault by other specified means,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y080,Home,"","","",2,ICD-10
+Y010,Assault by pushing from high place,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y010,Home,"","","",2,ICD-10
+Y020,Assault by pushing or placing victim before moving object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y020,Home,"","","",2,ICD-10
+X940,"Assault by rifle, shotgun and larger firearm discharge",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X940,Home,"","","",2,ICD-10
+X990,Assault by sharp object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X990,Home,"","","",2,ICD-10
+X970,"Assault by smoke, fire and flames",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X970,Home,"","","",2,ICD-10
+Y090,Assault by unspecified means,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y090,Home,"","","",2,ICD-10
+X996,Assault by sharp object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X996,Industrial and construction area,"","","",2,ICD-10
+Y088,Assault by other specified means,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y088,Other specified places,"","","",2,ICD-10
+X998,Assault by sharp object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X998,Other specified places,"","","",2,ICD-10
+Y098,Assault by unspecified means,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y098,Other specified places,"","","",2,ICD-10
+X991,Assault by sharp object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X991,Residential institution,"","","",2,ICD-10
+X992,Assault by sharp object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X992,"School, other institution and public administrative area","","","",2,ICD-10
+X993,Assault by sharp object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X993,Sports and athletics area,"","","",2,ICD-10
+Y084,Assault by other specified means,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y084,Street and highway,"","","",2,ICD-10
+X994,Assault by sharp object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X994,Street and highway,"","","",2,ICD-10
+Y094,Assault by unspecified means,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y094,Street and highway,"","","",2,ICD-10
+X995,Assault by sharp object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X995,Trade and service area,"","","",2,ICD-10
+Y009,Assault by blunt object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y009,Unspecified place,"","","",2,ICD-10
+Y049,Assault by bodily force,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y049,Unspecified place,"","","",2,ICD-10
+X929,Assault by drowning and submersion,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X929,Unspecified place,"","","",2,ICD-10
+X969,Assault by explosive material,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X969,Unspecified place,"","","",2,ICD-10
+X939,Assault by handgun discharge,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X939,Unspecified place,"","","",2,ICD-10
+X919,"Assault by hanging, strangulation and suffocation",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X919,Unspecified place,"","","",2,ICD-10
+X959,Assault by other and unspecified firearm discharge,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X959,Unspecified place,"","","",2,ICD-10
+Y089,Assault by other specified means,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y089,Unspecified place,"","","",2,ICD-10
+Y019,Assault by pushing from high place,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y019,Unspecified place,"","","",2,ICD-10
+Y029,Assault by pushing or placing victim before moving object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y029,Unspecified place,"","","",2,ICD-10
+X949,"Assault by rifle, shotgun and larger firearm discharge",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X949,Unspecified place,"","","",2,ICD-10
+X999,Assault by sharp object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X999,Unspecified place,"","","",2,ICD-10
+X979,"Assault by smoke, fire and flames",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X979,Unspecified place,"","","",2,ICD-10
+Y099,Assault by unspecified means,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y099,Unspecified place,"","","",2,ICD-10
+X99,Assault by sharp object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,X99,"","","","",2,ICD-10
+Y871,Sequelae of assault,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Y871,"","","","",2,ICD-10
+Z654,Victim of crime and terrorism,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Z654,"","","","",2,ICD-10
+Z762,Health supervision and care of other healthy infant and child,mIPV6,Seen by/referral to health visitor,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,Z762,"30pre/60post,days","",Aslt_algo_2,"",2,ICD-10
+S301,Contusion of abdominal wall,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,S301,"30pre/60post,days","",Aslt_algo_2,"",2,ICD-10
+S500,Contusion of elbow,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,S500,"30pre/60post,days","",Aslt_algo_2,"",2,ICD-10
+S300,Contusion of lower back and pelvis,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,S300,"30pre/60post,days","",Aslt_algo_2,"",2,ICD-10
+S501,Contusion of other and unspecified parts of forearm,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,S501,"30pre/60post,days","",Aslt_algo_2,"",2,ICD-10
+S801,Contusion of other and unspecified parts of lower leg,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,S801,"30pre/60post,days","",Aslt_algo_2,"",2,ICD-10
+S701,Contusion of thigh,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,S701,"30pre/60post,days","",Aslt_algo_2,"",2,ICD-10
+Z631,Problems in relationship with parents and in-laws,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,Z631,"30pre/60post,days","",Aslt_algo_2,"",2,ICD-10
+Z630,Problems in relationship with spouse or partner,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,Z630,"30pre/60post,days","",Aslt_algo_2,2,2,ICD-10
+261,[X]Assault,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3...00,"","",Aslt_algo_index,"",2,read
+14693,Homicide and injury purposely inflicted by other persons,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL...00,"","",Aslt_algo_index,"",2,read
+3860,Assault by bite of human being,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLxy000,"","",Aslt_algo_index,"",2,read
+48551,Suspected assault - allegation made,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,1JE..00,"","",Aslt_algo_index,"",2,read
+3750,Sexual assault,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL01.11,"","",Aslt_algo_index,"",2,read
+6227,[X]Stabbing,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3E..11,"","",Aslt_algo_index,"",2,read
+24254,Homicide or assault by unarmed fight or brawl,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL00.00,"","",Aslt_algo_index,"",2,read
+7380,[X]Attacked,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3...15,"","",Aslt_algo_index,"",2,read
+11813,Stabbed in fight,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL64.00,"","",Aslt_algo_index,"",2,read
+24187,Assault by unspecified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLxz.00,"","",Aslt_algo_index,"",2,read
+5466,[X] Assault by fight,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3K..11,"","",Aslt_algo_index,"",2,read
+8185,[X]Hit struck kicked twistd bitten/scratchd by anoth person,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U120.00,"","",Aslt_algo_index,"",2,read
+9941,Assault by other means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLx..00,"","",Aslt_algo_index,"",2,read
+16091,Homicide or assault by rape,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL01.00,"","",Aslt_algo_index,"",2,read
+27638,[X]Assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3K..00,"","",Aslt_algo_index,"",2,read
+44600,Assault by cutting and stabbing instruments,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL6..00,Residential institution,"",Aslt_algo_index,"",2,read
+36338,[X]Sexual assault by bodily force,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3L..00,"","",Aslt_algo_index,"",2,read
+26175,[V]Victim of torture,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,ZV4J800,"","",Aslt_algo_index,"",2,read
+27551,Assault by means NOS,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLxzz00,"","",Aslt_algo_index,"",2,read
+25072,Assault by cutting or stabbing NOS,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL6z.00,"","",Aslt_algo_index,"",2,read
+25935,[X]Assault by sharp object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3E..00,"","",Aslt_algo_index,"",2,read
+28127,[X]Assault by unspecified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3z..00,Unspecified place,"",Aslt_algo_index,"",2,read
+20530,Assault by other means NOS,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLxyz00,"","",Aslt_algo_index,"",2,read
+17300,[V]Victim of crime and terrorism,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,ZV4J600,"","",Aslt_algo_index,"",2,read
+20956,"[X]Assault by bodily force, occurrence at home",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3K0.00,Home,"",Aslt_algo_index,"",2,read
+23816,Homicidal stab of any part of body,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL62.00,"","",Aslt_algo_index,"",2,read
+24605,Cut in fight,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL63.00,"","",Aslt_algo_index,"",2,read
+24652,Assault by striking by blunt object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLx2000,"","",Aslt_algo_index,"",2,read
+20671,"[X]Assault by bodily force, occurrence on street / highway",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3K4.00,"","",Aslt_algo_index,"",2,read
+33750,"[X]Assault by bodily force, occurrence at unspecified place",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3Kz.00,Unspecified place,"",Aslt_algo_index,"",2,read
+25766,Assault by other specified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLxy.00,"","",Aslt_algo_index,"",2,read
+25267,Assault by strangulation,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL32.00,"","",Aslt_algo_index,"",2,read
+44292,[X]Assault by unspecified means occurrn at unspecif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3zz.00,Unspecified place,"",Aslt_algo_index,"",2,read
+31691,[X]Murder,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3...13,"","",Aslt_algo_index,"",2,read
+21188,Assault by arson,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLx0000,"","",Aslt_algo_index,"",2,read
+27847,Assault by shotgun,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL51.00,"","",Aslt_algo_index,"",2,read
+25608,[X]Assault by blunt object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3F..00,"","",Aslt_algo_index,"",2,read
+43137,"Homicide and assault by fight, brawl and rape",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL0..00,"","",Aslt_algo_index,"",2,read
+31817,[X]Personality change after torture,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Eu62015,"","",Aslt_algo_index,"",2,read
+43197,[X]Hit strck kick twst bit/scr prs sch oth inst/pub adm area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U120200,"","",Aslt_algo_index,"",2,read
+51354,[X]Assault by handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U38..00,"","",Aslt_algo_index,"",2,read
+16918,Murder attempt NOS,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLxz300,"","",Aslt_algo_index,"",2,read
+48286,Assault by striking by blunt or thrown object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLx2.00,"","",Aslt_algo_index,"",2,read
+48811,[X]Sexual assault by bodily force occurrn unspecified place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3Lz.00,Unspecified place,"",Aslt_algo_index,"",2,read
+28916,[X]Intentionally shot with handgun,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U38..11,"","",Aslt_algo_index,"",2,read
+24575,"[X]Sexual assault by bodily force, occurrence at home",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3L0.00,Home,"",Aslt_algo_index,"",2,read
+24644,[X]Strangled,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U36..11,"","",Aslt_algo_index,"",2,read
+60516,"[X]Assault by sharp object, occurrence at unspecified place",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3Ez.00,Unspecified place,"",Aslt_algo_index,"",2,read
+49354,[X]Assault by other specified means,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3y..00,"","",Aslt_algo_index,"",2,read
+34710,Deliberate shooting NOS,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL5x.00,"","",Aslt_algo_index,"",2,read
+36705,"[X]Assault - gun, handgun",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U38..12,"","",Aslt_algo_index,"",2,read
+27974,[X]Assault by bodily force occurrn at other specified place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3Ky.00,"","",Aslt_algo_index,"",2,read
+28298,[X]Assault by bodily force occurrn sch oth ins/pub adm area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3K2.00,"","",Aslt_algo_index,"",2,read
+28420,[X]Homicide,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3...12,"","",Aslt_algo_index,"",2,read
+38049,Murder successful NOS,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLxz400,"","",Aslt_algo_index,"",2,read
+38755,"Homicide or assault by fight, brawl or rape NOS",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL0z.00,"","",Aslt_algo_index,"",2,read
+31939,[X]Intentionally shot with shotgun,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U39..11,"","",Aslt_algo_index,"",2,read
+24565,[X]Struck by thrown projected or falling object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U110.00,"","",Aslt_algo_index,"",2,read
+41570,"[X]Assault by sharp object, occurrence at home",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3E0.00,Home,"",Aslt_algo_index,"",2,read
+106967,Victim of human trafficking,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,14XF.00,"","",Aslt_algo_index,"",2,read
+68993,"[X]Assault by blunt object, occurrence at unspecified place",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3Fz.00,Unspecified place,"",Aslt_algo_index,"",2,read
+44610,[X]Striking against or struck by other objects,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U112.00,"","",Aslt_algo_index,"",2,read
+28336,Assault by striking by blunt or thrown object NOS,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLx2z00,"","",Aslt_algo_index,"",2,read
+20444,Assault by striking by thrown object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLx2100,"","",Aslt_algo_index,"",2,read
+24224,Homicidal cut of any part of body,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL60.00,"","",Aslt_algo_index,"",2,read
+45796,[X]Sequel intentn self-harm assault+event of undeterm intent,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U72..00,"","",Aslt_algo_index,"",2,read
+57006,Assault by hanging and strangulation,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL3..00,"","",Aslt_algo_index,"",2,read
+50503,Assault by poisoning,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL2..00,"","",Aslt_algo_index,"",2,read
+53084,Late effects of homicide or assault,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLy..00,"","",Aslt_algo_index,"",2,read
+60864,"[X]Assault by rifle, shotgun and larger firearm discharge",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U39..00,"","",Aslt_algo_index,"",2,read
+61580,[X]Sequelae of assault,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U721.00,"","",Aslt_algo_index,"",2,read
+56326,[X]Assault by bodily force occurrn in residential institut'n,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3K1.00,Residential institution,"",Aslt_algo_index,"",2,read
+52440,Assault by firearms and explosives,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL5..00,"","",Aslt_algo_index,"",2,read
+42913,"[X]Assault by sharp object, occurrence on street / highway",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3E4.00,"","",Aslt_algo_index,"",2,read
+26883,"[X]Assault - gun, larger gun",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U39..12,"","",Aslt_algo_index,"",2,read
+56218,[X]Assault by bodily force occurrence at trade/service area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3K5.00,"","",Aslt_algo_index,"",2,read
+48800,"[X]Assault by drugs, medicaments and biological substances",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U30..00,"","",Aslt_algo_index,"",2,read
+41298,[X]Personlty chang aft expos life-threat sit/victim/terrorsm,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,Eu62014,"","",Aslt_algo_index,"",2,read
+55572,[X]Smothered / suffocated,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U36..12,"","",Aslt_algo_index,"",2,read
+54319,[X]Sexual assault by bodily force occurrn oth specif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3Ly.00,Other specified places,"",Aslt_algo_index,"",2,read
+24322,[X]Sexual assault by bodily force occurrn on street/highway,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3L4.00,"","",Aslt_algo_index,"",2,read
+62824,[X]Hit strck kick twist bit/scr anoth pers oth unspecif plce,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U120z00,Unspecified place,"",Aslt_algo_index,"",2,read
+61068,[X]Rifle shotgun and larger firearm discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U11D.00,"","",Aslt_algo_index,"",2,read
+69598,[X]Strikng against/struck by othrr object occ unspecif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U112z00,Unspecified place,"",Aslt_algo_index,"",2,read
+40736,[X]Assault by unspecified chemical or noxious substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U35..00,"","",Aslt_algo_index,"",2,read
+66023,[X]Handgun discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U11C.00,"","",Aslt_algo_index,"",2,read
+29547,Assault by acid,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL10.00,"","",Aslt_algo_index,"",2,read
+58008,[X]Assault by gases and vapours,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U33..00,"","",Aslt_algo_index,"",2,read
+32033,[X]Assault by other and unspecified firearm discharge,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3A..00,"","",Aslt_algo_index,"",2,read
+59376,[X]Assault by sharp object occurrn at other specified place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3Ey.00,Other specified places,"",Aslt_algo_index,"",2,read
+34017,"[X]Assault by blunt object, occurrence on street / highway",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3F4.00,"","",Aslt_algo_index,"",2,read
+65211,Assault by bomb in car,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL5y000,"","",Aslt_algo_index,"",2,read
+66700,Assault by petrol bomb,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL56.00,"","",Aslt_algo_index,"",2,read
+48069,Assault by poisoning by drugs or medicines,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL20.00,"","",Aslt_algo_index,"",2,read
+52873,[X]Assault by other specif means occurrn unspecified place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3yz.00,Unspecified place,"",Aslt_algo_index,"",2,read
+46506,[X]Assault by other specified chemicals+noxious substances,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U34..00,"","",Aslt_algo_index,"",2,read
+65989,Assault by fire,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLx0.00,"","",Aslt_algo_index,"",2,read
+48607,Assault by other firearms,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL54.00,"","",Aslt_algo_index,"",2,read
+43870,[X]Assault by unspecified means occurrn on street / highway,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3z4.00,"","",Aslt_algo_index,"",2,read
+25308,[X]Discharge from other and unspecified firearms,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U11E.00,"","",Aslt_algo_index,"",2,read
+56940,[X]Hit strck kick twist bit/scr anoth pers oth specif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U120y00,"","",Aslt_algo_index,"",2,read
+57086,Assault by handgun,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL50.00,"","",Aslt_algo_index,"",2,read
+59053,Assault by homicidal burns NOS,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLx0z00,"","",Aslt_algo_index,"",2,read
+48805,[X]Hit struck kick twist bit/scratch anoth pers resid instit,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U120100,Residential institution,"",Aslt_algo_index,"",2,read
+94336,[X]Struck by thrwn projectd/fallng obj occ unspecif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U110z00,Unspecified place,"",Aslt_algo_index,"",2,read
+71311,"[X]Assault by hanging, strangulation and suffocation",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U36..00,"","",Aslt_algo_index,"",2,read
+53135,[X]Assault by othr specif means occurrn on street / highway,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3y4.00,"","",Aslt_algo_index,"",2,read
+35791,"[X]Crushed, pushed or stepped on by crowd or human stampede",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U122.00,"","",Aslt_algo_index,"",2,read
+54388,Assault by antipersonnel bomb,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL55.00,"","",Aslt_algo_index,"",2,read
+53458,Homicidal puncture of any part of body,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL61.00,"","",Aslt_algo_index,"",2,read
+59088,[X]Hit struck kick twist bitten/scratch anoth pers occ home,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U120000,Home,"",Aslt_algo_index,"",2,read
+60884,[X]Assault by crashing of motor vehicle,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3J..00,"","",Aslt_algo_index,"",2,read
+31028,[X]Hit strck kick twist bit/scrtch anoth pers sprt/athl area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U120300,"","",Aslt_algo_index,"",2,read
+50438,[X]Assault by blunt object occ at sch oth ins/pub adm area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3F2.00,"","",Aslt_algo_index,"",2,read
+41303,Assault by letter bomb,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL57.00,"","",Aslt_algo_index,"",2,read
+71264,[X]Assault by sharp object occ at sch oth ins/pub adm area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3E2.00,"","",Aslt_algo_index,"",2,read
+72511,"Assault by corrosive or caustic substance, except poisoning",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL1..00,"","",Aslt_algo_index,"",2,read
+64149,Assault by pushing from high place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLx1.00,"","",Aslt_algo_index,"",2,read
+42123,Assault by suffocation,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL33.00,"","",Aslt_algo_index,"",2,read
+25065,[X]Assault by blunt object occurrn at other specified place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3Fy.00,"","",Aslt_algo_index,"",2,read
+22711,[X]Assault by oth specif means occ sch oth ins/pub adm area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3y2.00,"","",Aslt_algo_index,"",2,read
+33894,[X]Assault by unspecified means occ sch oth ins/pub adm area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3z2.00,"","",Aslt_algo_index,"",2,read
+58748,Assault by bomb NOS,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL5yy00,"","",Aslt_algo_index,"",2,read
+50166,Assault by hot liquid,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLx3.00,"","",Aslt_algo_index,"",2,read
+64152,"[X]Assault by bodily force, occurrence at sport/athlet area",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3K3.00,"","",Aslt_algo_index,"",2,read
+49299,[X]Assault by sharp object occurrence at trade/service area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3E5.00,"","",Aslt_algo_index,"",2,read
+64198,[X]Assault by unspecified means occurrn other specif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3zy.00,"","",Aslt_algo_index,"",2,read
+65289,Assault by caustic substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL11.00,"","",Aslt_algo_index,"",2,read
+66514,Homicide,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL9..00,"","",Aslt_algo_index,"",2,read
+38665,[X]Disch from oth/unspecif firearm occ at unspecified place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U11E900,Unspecified place,"",Aslt_algo_index,"",2,read
+60606,[X]Rifle shotgun+largr firearm disch occ at unspecif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U11Dz00,Unspecified place,"",Aslt_algo_index,"",2,read
+51749,[X]Assault by pushing / placing victim before moving object,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3H..00,"","",Aslt_algo_index,"",2,read
+60464,[X]Contact with knife sword/dagger occurrn on street/highwy,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U116400,"","",Aslt_algo_index,"",2,read
+66737,Assault by handgun NOS,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL50z00,"","",Aslt_algo_index,"",2,read
+92315,[X]Assault by oth specif means occurrn resident institution,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3y1.00,Residential institution,"",Aslt_algo_index,"",2,read
+73101,[X]Sexual assault by bodily force occurrn resident instit'n,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3L1.00,Residential institution,"",Aslt_algo_index,"",2,read
+96649,[X]Assault oth+unsp firearm discharge occ unspecified place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3Az.00,Unspecified place,"",Aslt_algo_index,"",2,read
+54928,"[X]Assault by smoke, fire and flames",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3C..00,"","",Aslt_algo_index,"",2,read
+62109,[X]Oth fall sme levl coll/push anoth per occ oth spec place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U103y00,"","",Aslt_algo_index,"",2,read
+49606,[X]Sexual assault by bodil forc occ sch oth ins/pub adm area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3L2.00,"","",Aslt_algo_index,"",2,read
+50153,Assault by drowning,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL4..00,"","",Aslt_algo_index,"",2,read
+60248,[X]Assault by hanging strangulatn+suffocatn occurrn at home,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U360.00,Home,"",Aslt_algo_index,"",2,read
+93052,[X]Hanging strangulat+suffocat undet intent occurrn at home,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U410.00,Home,"",Aslt_algo_index,"",2,read
+65968,[X]Assault by corrosive substance,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U31..00,"","",Aslt_algo_index,"",2,read
+72958,[X]Assault by other specif means occurrn other specif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3yy.00,"","",Aslt_algo_index,"",2,read
+71032,[X]Assault by pesticide,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U32..00,"","",Aslt_algo_index,"",2,read
+35173,"[X]Assault by steam, hot vapours and hot objects",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3D..00,"","",Aslt_algo_index,"",2,read
+103153,[X]Hit strck kick twist bittn/scrtch anoth pers street/h'way,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U120400,"","",Aslt_algo_index,"",2,read
+109535,[X]Hit struck kick twist bitten/scratch anoth pers occ farm,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U120700,"","",Aslt_algo_index,"",2,read
+103885,[X]Sexual assault by bodily force occurrn indust/constr area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3L6.00,"","",Aslt_algo_index,"",2,read
+47062,Assault by bomb in house,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL5y100,"","",Aslt_algo_index,"",2,read
+55285,Assault by hanging,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL31.00,"","",Aslt_algo_index,"",2,read
+55279,Assault by military firearms,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL53.00,"","",Aslt_algo_index,"",2,read
+63383,Assault by pistol,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL50000,"","",Aslt_algo_index,"",2,read
+71472,Assault by poisoning by other gases or vapours,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL22.00,"","",Aslt_algo_index,"",2,read
+95160,Assault by poisoning NOS,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL2z.00,"","",Aslt_algo_index,"",2,read
+99124,"[X]Assault by handgun discharge, occurrence at home",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U380.00,Home,"",Aslt_algo_index,"",2,read
+96493,[X]Assault by rifl shotgun+larger firearm disch occ at home,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U390.00,Home,"",Aslt_algo_index,"",2,read
+73148,[X]Drowning + submersion while in bath-tub occurrn at home,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U130000,Home,"",Aslt_algo_index,"",2,read
+59512,[X]Struck by thrown projectd/falling object occurrn at home,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U110000,Home,"",Aslt_algo_index,"",2,read
+61476,[X]Assault by gases and vapour occurrn at unspecified place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U33z.00,Unspecified place,"",Aslt_algo_index,"",2,read
+63862,[X]Assault unspecif chemicl/noxous subst occ unspecif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U35z.00,Unspecified place,"",Aslt_algo_index,"",2,read
+67376,[X]Assault by explosive material,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3B..00,"","",Aslt_algo_index,"",2,read
+104195,[X]Assault by explosive material occurrn other specif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3By.00,"","",Aslt_algo_index,"",2,read
+66473,[X]Assault by push fr high plce occ sch oth ins/pub adm area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3G2.00,"","",Aslt_algo_index,"",2,read
+71426,[X]Assault by sharp object occurrn at sports/athletics area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3E3.00,"","",Aslt_algo_index,"",2,read
+105193,[X]Assault drug medicam+biolog subs occ sch/ins/pub adm area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U302.00,"","",Aslt_algo_index,"",2,read
+58820,[X]Asslt by push/plac victm befr mov obj occ oth specif plce,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3Hy.00,"","",Aslt_algo_index,"",2,read
+72819,[X]Strikng against/strck by othr objct occ on street/highway,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U112400,"","",Aslt_algo_index,"",2,read
+53154,[X]Struck by thrwn projectd/fallng obj occ oth specif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U110y00,"","",Aslt_algo_index,"",2,read
+56797,Assassination attempt NOS,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLxz100,"","",Aslt_algo_index,"",2,read
+91601,Assassination successful NOS,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TLxz200,"","",Aslt_algo_index,"",2,read
+50493,Assault by corrosive substance NOS,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL1z.00,"","",Aslt_algo_index,"",2,read
+68823,Assault by explosive NOS,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL5z.00,"","",Aslt_algo_index,"",2,read
+105543,"[X]Assault by gases and vapours, occurrence at home",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U330.00,Home,"",Aslt_algo_index,"",2,read
+66326,[X]Assault by oth+unspecif firearm discharge occurrn home,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3A0.00,Home,"",Aslt_algo_index,"",2,read
+101537,[X]Assault by push/plac victm befor movng obj occurrn home,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3H0.00,Home,"",Aslt_algo_index,"",2,read
+109859,[X]Assault by steam hot vapours+hot objects occurrn at home,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3D0.00,Home,"",Aslt_algo_index,"",2,read
+59906,[X]Drowning+submersn follow fall into bath-tub occ at home,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U131000,Home,"",Aslt_algo_index,"",2,read
+99723,[X]Drowning+submersn while in swimming-pool occurrn at home,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U132000,Home,"",Aslt_algo_index,"",2,read
+53386,"[X]Handgun discharge, occurrence at home",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U11C000,Home,"",Aslt_algo_index,"",2,read
+54260,[X]Assault by blunt object occurrn in resident institution,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3F1.00,Residential institution,"",Aslt_algo_index,"",2,read
+100389,[X]Assault by pesticides occurrn in residential institution,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U321.00,Residential institution,"",Aslt_algo_index,"",2,read
+103138,[X]Assault by sharp object occurrn in resident institution,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3E1.00,Residential institution,"",Aslt_algo_index,"",2,read
+62522,[X]Assault by unspecified means occurrn resident institut'n,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3z1.00,Residential institution,"",Aslt_algo_index,"",2,read
+99091,[X]Crush push/step on by crowd/humn stampede occ resid inst,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U122100,Residential institution,"",Aslt_algo_index,"",2,read
+112244,[X]Disch from other/unspecif firearms occ in resid instit'n,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U11E100,Residential institution,"",Aslt_algo_index,"",2,read
+96663,[X]Strikng against/struck by other object occ in resid inst,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U112100,Residential institution,"",Aslt_algo_index,"",2,read
+93173,[X]Assault by handgun discharge occurrenc at unspecif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U38z.00,Unspecified place,"",Aslt_algo_index,"",2,read
+99109,"[X]Assault by pesticides, occurrence at unspecified place",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U32z.00,Unspecified place,"",Aslt_algo_index,"",2,read
+98708,"[X]Handgun discharge, occurrence at unspecified place",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U11Cz00,Unspecified place,"",Aslt_algo_index,"",2,read
+92504,[X]Assault by blunt object occurrence at trade/service area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3F5.00,"","",Aslt_algo_index,"",2,read
+56280,[X]Assault by blunt object occurrn at sports/athletics area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3F3.00,"","",Aslt_algo_index,"",2,read
+73938,"[X]Assault by bodily force, occurrence on farm",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3K7.00,"","",Aslt_algo_index,"",2,read
+50655,[X]Assault by crash of motor vehicle occ on street/highway,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3J4.00,"","",Aslt_algo_index,"",2,read
+111332,[X]Assault by drowning and submersion,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U37..00,"","",Aslt_algo_index,"",2,read
+63579,[X]Assault by explosive material occurrn indust/constr area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3B6.00,"","",Aslt_algo_index,"",2,read
+97684,[X]Assault by gas+vapour occ school oth inst/pub admin area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U332.00,"","",Aslt_algo_index,"",2,read
+107626,[X]Assault by gas+vapour occurrn at industr/construct area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U336.00,"","",Aslt_algo_index,"",2,read
+103806,[X]Assault by handgun discharge occurrenc on street/highway,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U384.00,"","",Aslt_algo_index,"",2,read
+66800,[X]Assault by handgun discharge occurrenc oth specif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U38y.00,"","",Aslt_algo_index,"",2,read
+112213,[X]Assault by handgun discharge occurrn trade/service area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U385.00,"","",Aslt_algo_index,"",2,read
+61495,[X]Assault by hanging strangl+suffoc occurrn street/highway,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U364.00,"","",Aslt_algo_index,"",2,read
+101823,[X]Assault by hanging strangul+suffoc occ trade/servce area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U365.00,"","",Aslt_algo_index,"",2,read
+99448,[X]Assault by oth specif means occurrn sports/athletic area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3y3.00,"","",Aslt_algo_index,"",2,read
+65677,"[X]Assault by pesticides, occurrence on farm",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U327.00,"","",Aslt_algo_index,"",2,read
+97983,[X]Assault by push from high place occurrn oth specif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3Gy.00,"","",Aslt_algo_index,"",2,read
+101536,[X]Assault by pushing from high place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3G..00,"","",Aslt_algo_index,"",2,read
+108068,"[X]Assault by unspecified means, occurrence on farm",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3z7.00,"","",Aslt_algo_index,"",2,read
+68244,[X]Assault hanging strangul+suffoc occ sch/ins/pub adm area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U362.00,"","",Aslt_algo_index,"",2,read
+112384,[X]Assault oth+uns firarm discharge occ sch/ins/pub adm area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3A2.00,"","",Aslt_algo_index,"",2,read
+58965,[X]Assault oth+unsp firearm discharge occ on street/highway,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3A4.00,"","",Aslt_algo_index,"",2,read
+102071,[X]Assault oth+unsp firearm discharge occ oth specif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3Ay.00,"","",Aslt_algo_index,"",2,read
+71727,[X]Assault unspecif chemical/noxous subst occ street/highway,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U354.00,"","",Aslt_algo_index,"",2,read
+61672,[X]Crush push/step by crowd/human stampede oth specif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U122y00,"","",Aslt_algo_index,"",2,read
+105618,[X]Disch from oth/unspecif firearm occ at trade/servce area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U11E500,"","",Aslt_algo_index,"",2,read
+103191,"[X]Handgun discharge, occurrence on street and highway",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U11C400,"","",Aslt_algo_index,"",2,read
+112348,[X]Hit strck kick twist bit/scr anoth pers indust/cnstr area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U120600,"","",Aslt_algo_index,"",2,read
+112618,[X]Oth fall lvl col/push anoth per occ sch/inst/pub adm area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U103200,"","",Aslt_algo_index,"",2,read
+109428,[X]Oth fall sme levl coll/push anth pers occ trad/serv area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U103500,"","",Aslt_algo_index,"",2,read
+99882,[X]Rifle shotgun+largr firarm disch occ at sport/athlet area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U11D300,"","",Aslt_algo_index,"",2,read
+102153,[X]Rifle shotgun+largr firarm disch occ at trade/servce area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U11D500,"","",Aslt_algo_index,"",2,read
+111912,[X]Sexual assault by bodily force occurrn sport/athlet area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3L3.00,"","",Aslt_algo_index,"",2,read
+98971,[X]Sexual assault by bodily force occurrn trade/servce area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3L5.00,"","",Aslt_algo_index,"",2,read
+63418,[X]Strik agnst/bump into by anoth pers occ on street/highway,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U121400,"","",Aslt_algo_index,"",2,read
+66071,[X]Struck by thrown projectd/falling object occurrn on farm,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U110700,"","",Aslt_algo_index,"",2,read
+60558,Assault by revolver,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,TL50100,"","",Aslt_algo_index,"",2,read
+11572,History of domestic violence,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,14X3.00,"","","",1,2,read
+12684,Victim of domestic violence,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,14X8.00,"","","",1,2,read
+108157,Police domestic incident report received,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,9NDJ.00,"","","",1,2,read
+19017,Significant event reported,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,9g0..00,"","","",1,3,read
+93502,History of domestic abuse,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,14XD.00,"","","",1,2,read
+103571,Subject of multi-agency risk assessment conference,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,13Hm.00,"","","",1,2,read
+8605,History of physical abuse,mIPV1,"Physical abuse, IPV","mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,14X0.00,"","","",1,2,read
+3483,Violent spouse,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,13HD.00,"","","",1,2,read
+12537,Victim of physical abuse,mIPV1,"Physical abuse, IPV","mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,14X5.00,"","","",1,2,read
+21259,Violence between parents,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,13HP600,"","","",1,3,read
+97175,Family member subject of child protection plan,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,13Iy.00,"","","",1,2,read
+107316,Victim of domestic abuse,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,14XG.00,"","","",1,2,read
+3321,Battered wife,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,SN56300,"","","",1,2,read
+30634,Alleged perpetrator of domestic violence,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,14XC.00,"","","",1,2,read
+107307,Domestic abuse victim in household,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,13Wd.00,"","","",1,2,read
+26418,Advice about domestic violence,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,67Ia.00,"","","",1,2,read
+31601,Maltreatment syndromes,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,SN57.00,"","","",1,2,read
+48546,Victim of emotional abuse,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,14X7.00,"","","",1,2,read
+97277,Family member no longer subject of child protection plan,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,13Iz.00,"","","",1,2,read
+30298,Domestic abuse counselling,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,Z415.00,"","","",1,2,read
+15810,Adult maltreatment syndrome NOS,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,SN56z00,"","","",1,2,read
+22873,Battered wife - history,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,13HA.00,"","","",1,2,read
+82472,Advice about domestic abuse,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,67Ia.11,"","","",1,2,read
+5575,Adult maltreatment syndrome,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,SN56.00,"","","",1,2,read
+46016,Homicide or assault NOS,mIPV1,"Assault NOS, IPV","mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,TLz..00,"","","",1,2,read
+107470,Routine enquiry about domestic abuse,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,9r0..00,"","","",1,2,read
+110392,Notifctn received of alleged domestic violence in household,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,9GA..00,"","","",1,2,read
+36393,Abuse counselling,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,Z41..00,"","","",1,2,read
+111048,Mother victim of domestic violence,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,12K7.00,"","","",1,3,read
+37981,Verbal abuse counselling,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,Z413.00,"","","",1,2,read
+98455,Subject of multi-agency public protection arrangements,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,13Hl.00,"","","",1,2,read
+35230,Physical abuse counselling,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,Z412.00,"","","",1,2,read
+27889,"Battered woman, unspecified",mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,SN56100,"","","",1,2,read
+102895,Domestic abuse not discussed,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,8IC..00,"","","",1,2,read
+48844,"[X]Assault by unspecified means, occurrence at home",mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,U3z0.00,Home,"","",1,2,read
+37113,"[X]Neglect and abandonment, by spouse or partner",mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,U3M0.00,"","","",1,2,read
+28484,"[X]Other maltreatment syndromes, by spouse or partner",mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,U3N0.00,"","","",1,2,read
+39640,"Battered person unspecified, syndrome",mIPV1,"Physical abuse, IPV","mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,SN56000,"","","",1,2,read
+52916,"[X]Assault by blunt object, occurrence at home",mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,U3F0.00,Home,"","",1,2,read
+110073,Routine enquiry about domestic abuse not made,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,8IC1.00,"","","",1,2,read
+33823,"[X]Assault by other specified means, occurrence at home",mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,U3y0.00,Home,"","",1,2,read
+50149,Crime against spouse,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,13W7000,"","","",1,2,read
+107819,Routine enquiry about domestic abuse declined,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,8IC0.00,"","","",1,2,read
+102501,Referral to domestic violence advocate,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,8Hl7.00,"","","",1,2,read
+39837,[X]Other maltreatment syndromes,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,U3N..00,"","","",1,2,read
+59088,[X]Hit struck kick twist bitten/scratch anoth pers occ home,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,U120000,Home,"","",1,2,read
+111174,HOdomesticphysicalabuse,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,14XD100,"","","",1,2,read
+111275,HOdomesticsexualabuse,mIPV1,"Sexual abuse, IPV","mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,14XD200,"","","",1,2,read
+111500,Victim of psychological abuse,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,14XJ.00,"","","",1,2,read
+110365,Referral to multi-agency risk assessment conference,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,8T0b.00,"","","",1,2,read
+70764,"[X]Other maltreatment syndromes, by acquaintance or friend",mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,U3N2.00,"","","",1,2,read
+111446,HOdomesticemotionalabuse,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,14XD000,"","","",1,2,read
+104936,"[X]Maltreatment, by spouse or partner",mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,U3P0.00,"","","",1,2,read
+60248,[X]Assault by hanging strangulatn+suffocatn occurrn at home,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,U360.00,Home,"","",1,2,read
+93052,[X]Hanging strangulat+suffocat undet intent occurrn at home,mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,U410.00,Home,"","",1,2,read
+60116,[X]Assault by unspecif chemical/noxious substance occ home,mIPV1,"Assault NOS, IPV","mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,U350.00,Home,"","",1,2,read
+57258,"[X]Other maltreatment syndromes, by other specified persons",mIPV1,Parental intimate partner violence NOS,"mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,U3Ny.00,"","","",1,2,read
+109859,[X]Assault by steam hot vapours+hot objects occurrn at home,mIPV1,"Assault NOS, IPV","mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,U3D0.00,Home,"","",1,2,read
+104695,[X]Maltreatment,mIPV1,"Physical abuse, IPV","mIPV, NOS (incl. physical/sexual abuse)",mIPV,mIPV,U3P..00,"","","",1,2,read
+16611,"[V]Pregnant state, incidental",mIPV2,"Pregnant state, incidental",Mother assaulted + child protection recording or pregnant incident,mIPV,mIPV,ZV22300,45days,"",Aslt_algo_1,"",2,read
+11246,At risk violence in the home,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,13VF.00,"","","",2,2,read
+464,Domestic problems,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,13HT115,"","","",2,3,read
+8170,History of abuse,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,14X..00,"","","",2,2,read
+11965,Family member on protection register,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,13IN.00,"","","",2,2,read
+106303,Adult safeguarding concern,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,9Ngj.00,"","","",2,1,read
+32863,Significant event reviewed,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,9g1..00,"","","",2,2,read
+38935,Multi-professional risk assessment done,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,9Oh3.00,"","","",2,2,read
+99861,Under multi-agency care,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,9NNY.00,"","","",2,2,read
+30737,Family member removed from protection register,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,13IP.00,"","","",2,2,read
+51033,Significant event resolved,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,9g2..00,"","","",2,2,read
+93646,Family member on child protection register,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,13Ig.00,"","","",2,2,read
+102759,Referral to safeguarding adults team,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,8Hkc.00,"","","",2,2,read
+53123,Significant,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,9c40.00,"","","",2,2,read
+105018,Child no longer safeguarding concern,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,9NgB.00,"","","",2,2,read
+111519,Multi-agency case management review,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,98G0.00,"","","",2,2,read
+105329,History of being victim of domestic violence,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,14XE.00,"","","",2,2,read
+110916,At risk of domestic violence,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,13ZZ000,"","","",2,2,read
+42454,Battered husband - history,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,13HC.00,"","","",2,2,read
+23508,Battered husband,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,SN56400,"","","",2,2,read
+110925,Family member no longer on child protection register,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,13IP000,"","","",2,2,read
+106776,Adult no longer safeguarding concern,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,9Ngk.00,"","","",2,3,read
+109976,Safeguarding adults protection plan completed,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,8CMh.00,"","","",2,2,read
+60980,Multi-professional risk assessment default,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,9Oh4.00,"","","",2,2,read
+111174,History of domestic physical abuse,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,14XD100,"","","",2,2,read
+111290,At risk of psychological abuse,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,13ZZ100,"","","",2,2,read
+109194,DASH (Dom Abuse Stalking Harassment HBV) 2009 Risk Checklist,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,38Qm.00,"","","",2,2,read
+111446,History of domestic emotional abuse,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,14XD000,"","","",2,2,read
+110111,Generic Risk Indicators (Nat Risk Frwk Assess Child Yng Ppl),mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,38Qt.00,"","","",2,2,read
+106540,[X]Other specified drowning and submersion occurrn at home,mIPV3,Parental intimate partner violence NOS,Suspected mIPV NOS,Suspected mIPV (susp. mIPV),mIPV,U13y000,Home,"","",2,2,read
+49606,[X]Sexual assault by bodil forc occ sch oth ins/pub adm area,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3L2.00,"","","","",2,read
+103885,[X]Sexual assault by bodily force occurrn indust/constr area,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3L6.00,"","","","",2,read
+98971,[X]Sexual assault by bodily force occurrn trade/servce area,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3L5.00,"","","","",2,read
+7387,History of sexual abuse,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,14X1.00,"","","","",2,read
+3879,Sexual abuse,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,SN57100,"","","","",2,read
+3750,Sexual assault,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,TL01.11,"","","","",2,read
+7816,[X]Rape,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3L..11,"","","","",2,read
+22840,Victim of sexual abuse,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,14X6.00,"","","","",2,read
+12264,[V]Observation following alleged rape,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,ZV71511,"","","","",2,read
+36338,[X]Sexual assault by bodily force,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3L..00,"","","","",2,read
+35408,At risk of sexual abuse,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,13ZW.00,"","","","",2,read
+20956,"[X]Assault by bodily force, occurrence at home",mIPV4,"Physical abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3K0.00,Home,"","","",2,read
+24008,[V]Problem relatd/alleg sex abuse cld by person prim sup grp,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,ZV4G400,"","","","",2,read
+28782,Sexual abuse counselling,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,Z411.00,"","","","",2,read
+24072,[V]Probs rel alleg sex abuse child by pers out prim sup grp,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,ZV4F900,"","","","",2,read
+24895,[X]Attempted rape,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3L..12,"","","","",2,read
+43137,"Homicide and assault by fight, brawl and rape",mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,TL0..00,"","","","",2,read
+47066,[V]Family history of sexual abuse to sibling,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,ZV19E00,"","","","",2,read
+48811,[X]Sexual assault by bodily force occurrn unspecified place,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3Lz.00,Unspecified place,"","","",2,read
+49570,"Manslaughter, nonaccidental, NOS",mIPV4,"Physical abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,TLxz000,"","","","",2,read
+24575,"[X]Sexual assault by bodily force, occurrence at home",mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3L0.00,Home,"","","",2,read
+61907,Exam. for alleged rape,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,69A6.00,"","","","",2,read
+53152,[V]Observation following alleged rape or seduction,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,ZV71500,"","","","",2,read
+41570,"[X]Assault by sharp object, occurrence at home",mIPV4,"Physical abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3E0.00,Home,"","","",2,read
+109692,At risk of sexual exploitation,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,13VX.00,"","","","",2,read
+16226,Risk of non-accidental injury,mIPV4,"Physical abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,63CB.00,"","","","",2,read
+54319,[X]Sexual assault by bodily force occurrn oth specif place,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3Ly.00,Other specified places,"","","",2,read
+24322,[X]Sexual assault by bodily force occurrn on street/highway,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3L4.00,"","","","",2,read
+109213,Victim of sexual harassment,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,14X6000,"","","","",2,read
+43307,"Battered man, unspecified",mIPV4,"Physical abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,SN56200,"","","","",2,read
+60515,Child prostitute,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,0AK3.00,"","","","",2,read
+73101,[X]Sexual assault by bodily force occurrn resident instit'n,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3L1.00,Residential institution,"","","",2,read
+99124,"[X]Assault by handgun discharge, occurrence at home",mIPV4,"Physical abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U380.00,Home,"","","",2,read
+96493,[X]Assault by rifl shotgun+larger firearm disch occ at home,mIPV4,"Physical abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U390.00,Home,"","","",2,read
+59512,[X]Struck by thrown projectd/falling object occurrn at home,mIPV4,"Physical abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U110000,Home,"","","",2,read
+66326,[X]Assault by oth+unspecif firearm discharge occurrn home,mIPV4,"Physical abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3A0.00,Home,"","","",2,read
+101537,[X]Assault by push/plac victm befor movng obj occurrn home,mIPV4,"Physical abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3H0.00,Home,"","","",2,read
+53386,"[X]Handgun discharge, occurrence at home",mIPV4,"Physical abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U11C000,Home,"","","",2,read
+110598,"[X]Maltreatment, by acquaintance or friend",mIPV4,"Physical abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3P2.00,"","","","",2,read
+109315,"[X]Other maltreatment syndromes, by unspecified person",mIPV4,"Physical abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3Nz.00,"","","","",2,read
+111912,[X]Sexual assault by bodily force occurrn sport/athlet area,mIPV4,"Sexual abuse, IPV","Suspected mIPV, physical or sexual abuse",Suspected mIPV (susp. mIPV),mIPV,U3L3.00,"","","","",2,read
+48551,Suspected assault - allegation made,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,1JE..00,"","","","",2,read
+24187,Assault by unspecified means,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TLxz.00,"","","","",2,read
+25766,Assault by other specified means,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TLxy.00,"","","","",2,read
+21188,Assault by arson,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TLx0000,"","","","",2,read
+50503,Assault by poisoning,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL2..00,"","","","",2,read
+48800,"[X]Assault by drugs, medicaments and biological substances",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U30..00,"","","","",2,read
+40736,[X]Assault by unspecified chemical or noxious substance,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U35..00,"","","","",2,read
+29547,Assault by acid,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL10.00,"","","","",2,read
+58008,[X]Assault by gases and vapours,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U33..00,"","","","",2,read
+48069,Assault by poisoning by drugs or medicines,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL20.00,"","","","",2,read
+46506,[X]Assault by other specified chemicals+noxious substances,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U34..00,"","","","",2,read
+59053,Assault by homicidal burns NOS,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TLx0z00,"","","","",2,read
+72511,"Assault by corrosive or caustic substance, except poisoning",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL1..00,"","","","",2,read
+50166,Assault by hot liquid,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TLx3.00,"","","","",2,read
+49299,[X]Assault by sharp object occurrence at trade/service area,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U3E5.00,"","","","",2,read
+65289,Assault by caustic substance,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL11.00,"","","","",2,read
+65968,[X]Assault by corrosive substance,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U31..00,"","","","",2,read
+71032,[X]Assault by pesticide,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U32..00,"","","","",2,read
+35173,"[X]Assault by steam, hot vapours and hot objects",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U3D..00,"","","","",2,read
+71472,Assault by poisoning by other gases or vapours,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL22.00,"","","","",2,read
+95160,Assault by poisoning NOS,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL2z.00,"","","","",2,read
+61476,[X]Assault by gases and vapour occurrn at unspecified place,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U33z.00,Unspecified place,"","","",2,read
+63862,[X]Assault unspecif chemicl/noxous subst occ unspecif place,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U35z.00,Unspecified place,"","","",2,read
+105193,[X]Assault drug medicam+biolog subs occ sch/ins/pub adm area,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U302.00,"","","","",2,read
+50493,Assault by corrosive substance NOS,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL1z.00,"","","","",2,read
+100389,[X]Assault by pesticides occurrn in residential institution,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U321.00,Residential institution,"","","",2,read
+99109,"[X]Assault by pesticides, occurrence at unspecified place",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U32z.00,Unspecified place,"","","",2,read
+97684,[X]Assault by gas+vapour occ school oth inst/pub admin area,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U332.00,"","","","",2,read
+107626,[X]Assault by gas+vapour occurrn at industr/construct area,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U336.00,"","","","",2,read
+65677,"[X]Assault by pesticides, occurrence on farm",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U327.00,"","","","",2,read
+71727,[X]Assault unspecif chemical/noxous subst occ street/highway,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U354.00,"","","","",2,read
+14693,Homicide and injury purposely inflicted by other persons,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL...00,"","","","",2,read
+6227,[X]Stabbing,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U3E..11,"","","","",2,read
+24254,Homicide or assault by unarmed fight or brawl,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL00.00,"","","","",2,read
+11813,Stabbed in fight,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL64.00,"","","","",2,read
+9941,Assault by other means,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TLx..00,"","","","",2,read
+16091,Homicide or assault by rape,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL01.00,"","","","",2,read
+44600,Assault by cutting and stabbing instruments,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL6..00,Residential institution,"","","",2,read
+26175,[V]Victim of torture,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,ZV4J800,"","","","",2,read
+25072,Assault by cutting or stabbing NOS,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL6z.00,"","","","",2,read
+25935,[X]Assault by sharp object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U3E..00,"","","","",2,read
+17300,[V]Victim of crime and terrorism,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,ZV4J600,"","","","",2,read
+23816,Homicidal stab of any part of body,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL62.00,"","","","",2,read
+24605,Cut in fight,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL63.00,"","","","",2,read
+20671,"[X]Assault by bodily force, occurrence on street / highway",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U3K4.00,"","","","",2,read
+31691,[X]Murder,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U3...13,"","","","",2,read
+31817,[X]Personality change after torture,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Eu62015,"","","","",2,read
+16918,Murder attempt NOS,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TLxz300,"","","","",2,read
+60516,"[X]Assault by sharp object, occurrence at unspecified place",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U3Ez.00,Unspecified place,"","","",2,read
+28420,[X]Homicide,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U3...12,"","","","",2,read
+38049,Murder successful NOS,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TLxz400,"","","","",2,read
+38755,"Homicide or assault by fight, brawl or rape NOS",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL0z.00,"","","","",2,read
+24565,[X]Struck by thrown projected or falling object,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U110.00,"","","","",2,read
+106967,Victim of human trafficking,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,14XF.00,"","","","",2,read
+68993,"[X]Assault by blunt object, occurrence at unspecified place",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U3Fz.00,Unspecified place,"","","",2,read
+24224,Homicidal cut of any part of body,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL60.00,"","","","",2,read
+53084,Late effects of homicide or assault,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TLy..00,"","","","",2,read
+42913,"[X]Assault by sharp object, occurrence on street / highway",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U3E4.00,"","","","",2,read
+41298,[X]Personlty chang aft expos life-threat sit/victim/terrorsm,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,Eu62014,"","","","",2,read
+59376,[X]Assault by sharp object occurrn at other specified place,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U3Ey.00,Other specified places,"","","",2,read
+53458,Homicidal puncture of any part of body,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL61.00,"","","","",2,read
+71264,[X]Assault by sharp object occ at sch oth ins/pub adm area,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U3E2.00,"","","","",2,read
+66514,Homicide,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TL9..00,"","","","",2,read
+60464,[X]Contact with knife sword/dagger occurrn on street/highwy,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U116400,"","","","",2,read
+96649,[X]Assault oth+unsp firearm discharge occ unspecified place,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U3Az.00,Unspecified place,"","","",2,read
+73148,[X]Drowning + submersion while in bath-tub occurrn at home,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U130000,Home,"","","",2,read
+71426,[X]Assault by sharp object occurrn at sports/athletics area,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U3E3.00,"","","","",2,read
+56797,Assassination attempt NOS,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TLxz100,"","","","",2,read
+91601,Assassination successful NOS,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,TLxz200,"","","","",2,read
+105543,"[X]Assault by gases and vapours, occurrence at home",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U330.00,Home,"","","",2,read
+59906,[X]Drowning+submersn follow fall into bath-tub occ at home,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U131000,Home,"","","",2,read
+99723,[X]Drowning+submersn while in swimming-pool occurrn at home,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U132000,Home,"","","",2,read
+54260,[X]Assault by blunt object occurrn in resident institution,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U3F1.00,Residential institution,"","","",2,read
+103138,[X]Assault by sharp object occurrn in resident institution,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U3E1.00,Residential institution,"","","",2,read
+112244,[X]Disch from other/unspecif firearms occ in resid instit'n,mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U11E100,Residential institution,"","","",2,read
+98708,"[X]Handgun discharge, occurrence at unspecified place",mIPV5,"Assault NOS, IPV",Mother assaulted NOS (hospital admission only),Suspected mIPV (susp. mIPV),mIPV,U11Cz00,Unspecified place,"","","",2,read
+10120,Seen in own home,mIPV6,Seen by/referral to health visitor,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9N1C.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+40108,OOH report,mIPV6,Seen by/referral to health visitor,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9b0w.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+16590,Home visit request by patient,mIPV6,Seen by/referral to health visitor,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9NF1.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+29403,Acute home visit,mIPV6,Seen by/referral to health visitor,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9NF8.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+1372,Spontaneous bruising,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,16B3.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+18170,Home visit request by relative,mIPV6,Health visitor increasing concern,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9NF3.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+1349,Marital problems,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13H4.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+5130,Leg bruise,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE4..11,"30pre/60post,days","",Aslt_algo_2,"",2,read
+6104,Relationship problems,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13HP.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+6070,Bruising symptom,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,16B..00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+36887,Health visitor follow up,mIPV6,Seen by/referral to health visitor,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9NFL.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+21454,Health visitor visits,mIPV6,Seen by/referral to health visitor,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13G2.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+8845,Arm bruise,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE3..11,"30pre/60post,days","",Aslt_algo_2,"",2,read
+9146,Health visitor,mIPV6,Seen by/referral to health visitor,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,03FJ.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+723,Marital stress,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13H4.12,"30pre/60post,days","",Aslt_algo_2,"",2,read
+6351,Home visit - no reply,mIPV6,Health visitor increasing concern,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9NFC.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+6191,O/E - bruising,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,2I15.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+36993,Health visitor note,mIPV6,Seen by/referral to health visitor,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9b0H.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+8509,Report from Health Visitor,mIPV6,Health visitor increasing concern,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9EV1.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+4883,"Contusion of face, scalp and neck NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE0z.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+34169,Health visitor initial visit,mIPV6,Seen by/referral to health visitor,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9NFK.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+3551,Marital discord,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13H4211,"30pre/60post,days","",Aslt_algo_2,"",2,read
+7565,"Contusion, thigh",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE40100,"30pre/60post,days","",Aslt_algo_2,"",2,read
+9740,Bruise of head,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE0..12,"30pre/60post,days","",Aslt_algo_2,"",2,read
+333,Marital conflict,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13H4200,"30pre/60post,days","",Aslt_algo_2,2,2,read
+8197,"Bruise, trunk",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE2..11,"30pre/60post,days","",Aslt_algo_2,"",2,read
+9730,Paternity dispute,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13IG.00,"30pre/60post,days","",Aslt_algo_2,2,2,read
+12142,Bruise of face,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE0..11,"30pre/60post,days","",Aslt_algo_2,"",2,read
+4565,Marital counselling,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,6741.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+9551,[V]Marital problems,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,ZV61100,"30pre/60post,days","",Aslt_algo_2,"",2,read
+3111,Girlfriend relationship problem,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13HP100,"30pre/60post,days","",Aslt_algo_2,"",2,read
+2830,Parental marital problems,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13HP300,"30pre/60post,days","",Aslt_algo_2,2,2,read
+19971,Parent/child conflict,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13W4.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+4177,Parent relationship problem,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13HP400,"30pre/60post,days","",Aslt_algo_2,2,2,read
+3555,"Contusion, ear",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE05.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+12770,Cerebral laceration and contusion,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,S61..00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+25699,Relationship counselling,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,6747.00,"30pre/60post,days","",Aslt_algo_2,2,2,read
+21433,Husband committed adultery,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13HV313,"30pre/60post,days","",Aslt_algo_2,2,2,read
+28985,Referral to marriage guidance counsellor,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,ZL73300,"30pre/60post,days","",Aslt_algo_2,"",2,read
+25555,Seen by forensic psychiatrist,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,ZL9D200,"30pre/60post,days","",Aslt_algo_2,"",2,read
+25272,[V]Other parent-child problems,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,ZV61300,"30pre/60post,days","",Aslt_algo_2,2,2,read
+29544,Marital trouble,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13H4.11,"30pre/60post,days","",Aslt_algo_2,"",2,read
+20428,[V]Parent - child conflict,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,ZV61213,"30pre/60post,days","",Aslt_algo_2,2,2,read
+20536,Affair ended,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13HV100,"30pre/60post,days","",Aslt_algo_2,2,2,read
+15313,Maladjustment to married life,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13H4300,"30pre/60post,days","",Aslt_algo_2,2,2,read
+34771,Extra-marital problems,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13HV.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+39651,Spouse committed adultery,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13HV300,"30pre/60post,days","",Aslt_algo_2,"",2,read
+97320,Seen by forensic psychiatrist,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9NlG.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+36318,"Contusion, scapular area",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE30100,"30pre/60post,days","",Aslt_algo_2,"",2,read
+29543,Marital reconciliation,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13H5.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+21537,Forensic examination,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,4K7..00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+37479,"Contusion, interscapular region",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE23000,"30pre/60post,days","",Aslt_algo_2,"",2,read
+32625,Under care of forensic psychiatrist,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,ZL1B200,"30pre/60post,days","",Aslt_algo_2,"",2,read
+36594,"Contusion, hip and thigh NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE40z00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+42400,Wife committed adultery,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13HV312,"30pre/60post,days","",Aslt_algo_2,"",2,read
+72941,Forensic psychiatry,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9bA3.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+48325,Cerebellar laceration and contusion,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,S61..11,"30pre/60post,days","",Aslt_algo_2,"",2,read
+42692,Cerebral laceration and contusion NOS,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,S61z.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+16802,[V]Problems with aged parents,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,ZV61411,"30pre/60post,days","",Aslt_algo_2,"",2,read
+42383,Stepparent relationship problem,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13HP500,"30pre/60post,days","",Aslt_algo_2,"",2,read
+27434,Lover taken,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13HV011,"30pre/60post,days","",Aslt_algo_2,"",2,read
+30950,Row with wife,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13H4213,"30pre/60post,days","",Aslt_algo_2,"",2,read
+107688,Seen by forensic psychologist,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9N2W100,"30pre/60post,days","",Aslt_algo_2,"",2,read
+25554,Discharge by forensic psychiatrist,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,ZLD2c00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+94758,Discharge from forensic psychiatry service,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,ZLE9200,"30pre/60post,days","",Aslt_algo_2,"",2,read
+111183,Health visitor antenatal visit declined,mIPV6,Health visitor increasing concern,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,8IHD.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+56178,Mistress taken,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,13HV012,"30pre/60post,days","",Aslt_algo_2,"",2,read
+94555,Discharge by marriage guidance counsellor,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,ZLD1300,"30pre/60post,days","",Aslt_algo_2,"",2,read
+66821,[V]Problems in relationship with parents and in-laws,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,ZV61A00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+57037,Forensic examination NOS,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,4K7Z.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+105701,Cortex laceration and contusion,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,S61..12,"30pre/60post,days","",Aslt_algo_2,"",2,read
+112180,DNA health visitor 3 to 4 month contact with family,mIPV6,Health visitor increasing concern,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9NFb100,"30pre/60post,days","",Aslt_algo_2,"",2,read
+99586,Wardrobe mistress,mIPV6,Parental conflict/relationship problems,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,0A86.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+34422,First annual visit by health visitor,mIPV6,Seen by/referral to health visitor,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9NFF.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+64232,Health visitor report,mIPV6,Seen by/referral to health visitor,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9b0I.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+33533,Referred by health visitor,mIPV6,Seen by/referral to health visitor,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9N66.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+9236,Seen by health visitor,mIPV6,Seen by/referral to health visitor,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9N23.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+107946,Under care of health visiting service - Universal,mIPV6,Seen by/referral to health visitor,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9Ngl000,"30pre/60post,days","",Aslt_algo_2,"",2,read
+47065,Under care of health visitor,mIPV6,Seen by/referral to health visitor,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,9NNN.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+52397,[X]Contusion of other and unspecified parts of foot,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,Syu9000,"30pre/60post,days","",Aslt_algo_2,"",2,read
+52772,[X]Contusion of other and unspecified parts of lower leg,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,Syu8000,"30pre/60post,days","",Aslt_algo_2,"",2,read
+59606,[X]Contusion of other parts of wrist and hand,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,Syu6000,"30pre/60post,days","",Aslt_algo_2,"",2,read
+21263,Bruise of ear,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE05.11,"30pre/60post,days","",Aslt_algo_2,"",2,read
+34284,Bruise of mandibular joint area,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE06.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+46591,Bruise of periocular tissue,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE11.12,"30pre/60post,days","",Aslt_algo_2,"",2,read
+27711,Bruises easily,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,16B2.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+1084,Contusion (bruise) with intact skin,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE...00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+29889,"Contusion hand, dorsum",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE32300,"30pre/60post,days","",Aslt_algo_2,"",2,read
+30204,"Contusion hand, palm",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE32200,"30pre/60post,days","",Aslt_algo_2,"",2,read
+17087,Contusion of coccyx,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE23300,"30pre/60post,days","",Aslt_algo_2,"",2,read
+6996,"Contusion of face, scalp and neck, excluding eye(s)",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE0..00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+97729,Contusion of infraorbital nerve,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SJ18.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+22308,Contusion of lower back,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE23200,"30pre/60post,days","",Aslt_algo_2,"",2,read
+30733,Contusion of lower back,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE23112,"30pre/60post,days","",Aslt_algo_2,"",2,read
+8896,Contusion of toe(s) with damage to nail,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SD7y200,"30pre/60post,days","",Aslt_algo_2,"",2,read
+25560,"Contusion with skin intact, NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SEz..00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+12068,Contusion wrist or hand,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE32.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+57061,"Contusion wrist, dorsum",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE32500,"30pre/60post,days","",Aslt_algo_2,"",2,read
+45488,"Contusion wrist, volar",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE32400,"30pre/60post,days","",Aslt_algo_2,"",2,read
+14906,"Contusion, abdominal wall",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE22.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+37495,"Contusion, abdominal wall NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE22z00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+5139,"Contusion, ankle",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE42100,"30pre/60post,days","",Aslt_algo_2,"",2,read
+29090,"Contusion, ankle and foot NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE42z00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+44597,"Contusion, ankle and foot, excluding toe(s)",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE42.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+61258,"Contusion, axillary area",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE30200,"30pre/60post,days","",Aslt_algo_2,"",2,read
+5586,"Contusion, back",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE23.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+12796,"Contusion, back NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE23z00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+12503,"Contusion, breast",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE20.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+6998,"Contusion, buttock",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE23100,"30pre/60post,days","",Aslt_algo_2,"",2,read
+17978,"Contusion, cheek",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE01.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+4954,"Contusion, chest wall",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE21.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+53075,"Contusion, clavicular area",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE30400,"30pre/60post,days","",Aslt_algo_2,"",2,read
+43606,"Contusion, elbow and forearm NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE31z00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+11254,"Contusion, elbow area",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE31100,"30pre/60post,days","",Aslt_algo_2,"",2,read
+7402,"Contusion, elbow or forearm",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE31.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+4838,"Contusion, eye NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE1z.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+17870,"Contusion, eyeball",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE13.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+15188,"Contusion, eyelids and periocular tissues",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE11.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+27745,"Contusion, finger",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE33.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+28280,"Contusion, finger NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE33z00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+38656,"Contusion, finger, multiple",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE33300,"30pre/60post,days","",Aslt_algo_2,"",2,read
+9209,"Contusion, finger, unspecified",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE33000,"30pre/60post,days","",Aslt_algo_2,"",2,read
+5320,"Contusion, fingernail (includes subungual haematoma)",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE33200,"30pre/60post,days","",Aslt_algo_2,"",2,read
+30087,"Contusion, flank",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE22100,"30pre/60post,days","",Aslt_algo_2,"",2,read
+3090,"Contusion, foot",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE42000,"30pre/60post,days","",Aslt_algo_2,"",2,read
+10616,"Contusion, forearm area",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE31000,"30pre/60post,days","",Aslt_algo_2,"",2,read
+15860,"Contusion, forehead",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE00.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+30347,"Contusion, genital organs NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE24z00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+27517,"Contusion, groin",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE22200,"30pre/60post,days","",Aslt_algo_2,"",2,read
+9926,"Contusion, gum",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE04.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+12253,"Contusion, hand, excluding finger",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE32000,"30pre/60post,days","",Aslt_algo_2,"",2,read
+18589,"Contusion, hip",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE40000,"30pre/60post,days","",Aslt_algo_2,"",2,read
+44522,"Contusion, hip and thigh",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE40.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+5952,"Contusion, knee",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE41100,"30pre/60post,days","",Aslt_algo_2,"",2,read
+42121,"Contusion, knee and lower leg",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE41.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+29895,"Contusion, knee and lower leg NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE41z00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+8434,"Contusion, lip",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE03.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+9670,"Contusion, lower leg",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE41000,"30pre/60post,days","",Aslt_algo_2,"",2,read
+7671,"Contusion, lower limb and other unspecified sites",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE4..00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+28142,"Contusion, lower limb NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE45.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+41764,"Contusion, lower limb, multiple sites",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE44.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+36485,"Contusion, multiple sites NEC",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE4y.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+39407,"Contusion, multiple sites of trunk",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE2y.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+5953,"Contusion, nose",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE02.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+34453,"Contusion, perineum",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE24000,"30pre/60post,days","",Aslt_algo_2,"",2,read
+23771,"Contusion, scalp",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE09.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+62899,"Contusion, shoulder and upper arm NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE30z00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+62803,"Contusion, shoulder and upper arm, multiple sites",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE30y00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+37355,"Contusion, shoulder area",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE30000,"30pre/60post,days","",Aslt_algo_2,"",2,read
+12069,"Contusion, shoulder or upper arm",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE30.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+28015,"Contusion, site NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE4z.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+36395,"Contusion, throat",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE07.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+8670,"Contusion, thumb",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE33100,"30pre/60post,days","",Aslt_algo_2,"",2,read
+7928,"Contusion, toe",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE43.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+17491,"Contusion, trunk",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE2..00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+25669,"Contusion, upper arm",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE30300,"30pre/60post,days","",Aslt_algo_2,"",2,read
+9459,"Contusion, upper limb",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE3..00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+44456,"Contusion, upper limb NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE3z.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+44298,"Contusion, upper limb, multiple sites",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE3y.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+17214,"Contusion, wrist",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE32100,"30pre/60post,days","",Aslt_algo_2,"",2,read
+33792,"Contusion, wrist and hand NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE32z00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+19962,"Contusion,trunk NOS",mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE2z.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+11909,Discussed with health visitor,mIPV6,Health visitor increasing concern,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,6718.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+10764,Heel bruise,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE42011,"30pre/60post,days","",Aslt_algo_2,"",2,read
+18430,Late effect of contusion,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SC13.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+46267,Liver haematoma and contusion without open wound into cavity,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,S740100,"30pre/60post,days","",Aslt_algo_2,"",2,read
+63868,Lung contusion without mention of open wound into thorax,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,S712100,"30pre/60post,days","",Aslt_algo_2,"",2,read
+20117,Other contusion neck,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE08.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+6990,Refer to health visitor,mIPV6,Health visitor increasing concern,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,8H73.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+19392,Refer to health visitor,mIPV6,Health visitor increasing concern,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,ZL74.11,"30pre/60post,days","",Aslt_algo_2,"",2,read
+18871,Referral to health visitor,mIPV6,Health visitor increasing concern,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,ZL74.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+18272,Shared care: health visitor/GP,mIPV6,Health visitor increasing concern,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,66S6.00,"30pre/60post,days","",Aslt_algo_2,"",2,read
+12729,Shoulder bruise,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE30011,"30pre/60post,days","",Aslt_algo_2,"",2,read
+7144,Toenail bruise,mIPV6,Bruising & contusions,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,SE43.11,"30pre/60post,days","",Aslt_algo_2,"",2,read
+28843,Under care of health visitor,mIPV6,Health visitor increasing concern,Mother assaulted + high-risk presentations (algorithm),Suspected mIPV (susp. mIPV),mIPV,ZL23400,"30pre/60post,days","",Aslt_algo_2,"",2,read
+113988,"[X]Assault by sharp object, occurrence on farm",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3E7.00,,,Aslt_algo_index,"",2,read
+114360,"[X]Assault by pesticides, occurrence at home",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U320.00,,,Aslt_algo_index,"",2,read
+113794,"[X]Assault by smoke, fire and flames, occurrence at home",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3C0.00,,,Aslt_algo_index,"",2,read
+114917,[X]Assault by drug medicam+biol subst occ sport/athlet area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U303.00,,,Aslt_algo_index,"",2,read
+114576,[X]Assault by drug medicam+biolog substn occ unspecif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U30z.00,,,Aslt_algo_index,"",2,read
+114470,[X]Assault by crash of motor vehicle occ indust/constr area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3J6.00,,,Aslt_algo_index,"",2,read
+115932,[X]Assault by unspecified means occurrn sport/athletic area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3z3.00,,,Aslt_algo_index,"",2,read
+115568,"[X]Assault by gases + vapours, occurrence on street/highway",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U334.00,,,Aslt_algo_index,"",2,read
+113323,[X]Assault rifl s'gun+larg firearm disch occ unspecif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U39z.00,,,Aslt_algo_index,"",2,read
+113051,"[X]Assault by other specified means, occurrence on farm",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3y7.00,,,Aslt_algo_index,"",2,read
+115597,[X]Assault by hanging strangult+suffocat occ unspecif place,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U36z.00,,,Aslt_algo_index,"",2,read
+112692,"[X]Assault by drowning and submersion, occurrence at home",ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U370.00,,,Aslt_algo_index,"",2,read
+113188,[X]Assault by handgun discharge occurrn resident institutn,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U381.00,,,Aslt_algo_index,"",2,read
+113313,[X]Assault rifl s'gun+larg firearm disch occ street/highway,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U394.00,,,Aslt_algo_index,"",2,read
+113318,[X]Assault by unspecified means occurrn trade/service area,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3z5.00,,,Aslt_algo_index,"",2,read
+115617,[X]Assault by steam hot vapor+hot obj occ resident instit'n,ASSLT_ALGO,Assault NOS (algo),Assault NOS (algo),Assault NOS (algo),mIPV_ASSLT_ALGO,U3D1.00,,,Aslt_algo_index,"",2,read
