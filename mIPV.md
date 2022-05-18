@@ -18,7 +18,7 @@ Includes suspected indicators with coding terms mentioning historic mIPV or malt
 --------------------------------
 ## Code list
 
-#### [Maternal intimate partner violence (450 + 503 for assault algorithm)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mIPV_ACEs.txt)
+#### [Maternal intimate partner violence (450 + 519 for assault algorithm)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/mIPV_codelist.txt)
 
 --------------------------------
 ## Implementation
