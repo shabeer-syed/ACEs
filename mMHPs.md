@@ -16,7 +16,7 @@ This domain contains indicators of mutually exclusive symptom clusters aligning 
 --------------------------------
 ## Code list
 
-#### [Maternal mental health problems (3966)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mMHPs_ACEs.txt)
+#### [Maternal mental health problems (3960)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/mMHPs_codelist.txt)
 
 --------------------------------
 ## Implementation
