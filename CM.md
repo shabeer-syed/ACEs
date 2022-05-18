@@ -20,7 +20,7 @@ Suspected CM included any maltreatment-related indicator with codes or measures 
 --------------------------------
 ## Code list
 
-#### [Child maltreatment (1290)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/CM_ACEs.txt)
+#### [Child maltreatment (1308)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/CM_codelist.txt)
 
 --------------------------------
 ## Implementation
