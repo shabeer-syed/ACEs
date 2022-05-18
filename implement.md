@@ -39,19 +39,19 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 
 ### All ACE indicators:
 
-* [All ACEs (8796)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/ALL_ACEs.txt)
-* [All ACEs + crossmapped SNOMED CT and ICD-11 (9563)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/All_ACEs_with_crossmaped_snomedCT_icd11_non_validated.txt)
-* [All ACEs GP/CPRD only: medcodes, prodcodes, measures only (6641)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/ALL_ACEs_medcode_product_only.txt)
-* [All ACEs Hospital only: ICD, OPCS and HES-APC specific fields (2161)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/ALL_ACEs_ICD_OPCS_only.txt)
+* [All ACEs (8830)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/ALL_ACEs_codelist.txt)
+* [All ACEs + crossmapped SNOMED CT and ICD-11 (10650)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/ACEs_crossmaped_snomedCT_icd11.txt)
+* [All ACEs GP/CPRD only: medcodes, prodcodes, measures only (6639)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/ACEs_readcode_gemscript_CPRD_gold_only.txt)
+* [All ACEs Hospital only: ICD, OPCS and HES-APC specific fields (2191)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/ACEs_icd_hosp.txt)
 
 ### By ACE domain:
 
-* [Child maltreatment (1290)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/CM_ACEs.txt)
-* [Maternal intimate partner violence (450 + 503 for assault algorithm)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mIPV_ACEs.txt)
-* [High-risk presentation of CM (802)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/HRP_CM_ACEs.txt)
-* [Adverse family environment (701)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/AFE_ACEs.txt)
-* [Maternal mental health problems (3966)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/mMHPs_ACEs.txt)
-* [Maternal substance misuse (1090)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/MSM_ACEs.txt)
+* [Child maltreatment (1308)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/CM_codelist.txt)
+* [Maternal intimate partner violence (450 + 519 for assault algorithm)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/mIPV_codelist.txt)
+* [High-risk presentation of CM (801)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/HRP_CM_codelist.txt)
+* [Adverse family environment (972)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/AFE_codelist.txt)
+* [Maternal mental health problems (3960)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/mMHPs_codelist.txt)
+* [Maternal substance misuse (1090)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/MSM_codelist.txt)
 
 #### [Covariates: non-ACEs used to add information to risk prediction models (8808)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Health%20comorbidities.txt)
 
@@ -70,7 +70,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 
  | Provided variable | Description | 
  | --- | --- | 
- | **Code** | Original code as entered into respective system (removed punctuations, adds prefixes: *`d_`* to prodcodes and *`p_`* to OPSC-4). Prefixes prevents de-duplication as different systems may use the same code for different descriptions. |
+ | **Code** | CPRD GOLD medcode and prodcodes (as used in the database), ICD-9/10 (removed punctuations for ICD), and OPSC-4 codes. Prefixes *`d_`* added to prodcodes and *`p_`* to OPSC-4 codes. Prefixes prevents de-duplication as different systems may use the same code for different descriptions. |
  | **Code original** | Original code as entered into respective system (removed punctuations for ICD) |
  | **Coding term** | Original code description |
  | **Indicator code** | Indicator code name | 
