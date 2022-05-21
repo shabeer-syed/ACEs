@@ -42,7 +42,7 @@ The main objective of the ACE domains and indicators is to help improve the heal
 
 We follow the [Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) developed by WHO and view all ACEs through a *"life-course"* and a *"trauma-informed"* lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives.
 
-# What ACE indicators are not: 
+# Limitations of ACE indicators 
 It is essential to note that ACE indicators:
 
 * Only identify experiences recorded in the mother's or child's record (e.g. maternal substance misuse) solely due to methodological challenges in accurately linking children to their fathers (a long-standing issue of anonymised secondary and primary care data). Once reliably linkage of fathers becomes available, the domains "parental mental health problems" and "parental substance misuse" will be updated to include potential fathers.
