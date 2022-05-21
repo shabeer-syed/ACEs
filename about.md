@@ -26,7 +26,7 @@ In the UK, mothers' and children's data can be linked across services. The abili
 
 ## Domains and indicators of ACEs?
 --------------------------------------------
-We have developed *indicators* for identifying *domains* of ACEs among families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth [Find the pre-print paper here.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937569)
+We have developed *indicators* for identifying *domains* of ACEs among families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth [Find the publication here.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00061-9/fulltext)
 
 Each ACE indicator represents a variable of grouped codes or measures for a potential recorded ACE in mothers or children. Indicators are further grouped into six or seven overall ACE domains.
 
@@ -104,7 +104,7 @@ JAMA research collections:
 * [Child maltreatment](https://jamanetwork.com/collections/5555/child-abuse)
 * [Intimate partner violence](https://jamanetwork.com/collections/5711/intimate-partner-violence)
 
-### UK Policy implications related to ACEs:
+### Policy implications related to ACEs:
 
 Public Health England/Wales:
 
@@ -117,9 +117,15 @@ Public Health England/Wales:
 * [Public Health Wales study on routine screening of ACEs at GP practices](https://www.wales.nhs.uk/sitesplus/documents/888/Asking%20about%20ACEs%20in%20General%20Practice.pdf)
 
 
-HM Government:
+UK, HM Government or Home office:
 
 * [Working together to safeguard children: statutory framework](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)
+
+* [Domestic Abuse Act 2021](https://www.gov.uk/government/publications/domestic-abuse-bill-2020-factsheets)
+
+World Health Organization:
+
+* [INSPIRE: Seven strategies for Ending Violence Against Children](https://www.who.int/publications/i/item/inspire-seven-strategies-for-ending-violence-against-children)
 
 # Acknowledgements
 --------------------------------------------
