@@ -8,6 +8,8 @@ title: Domain - Maternal substance misuse (MSM)
 
 Any consumption of alcohol/drugs meeting threshold for harmful or addictive levels such as codes mentioning "dependence", "specialist/enhanced treatment", class A through C drugs (e.g. A: heroin, cocaine, ecstasy, LSD), self-report measures (≥35 alcohol units per week higher risk drinking)55 and validated measures with higher cut-off scores (≥20 AUDIT score, SADQ ≥31 scores etc). Indicators for alcohol consumption are also available via the [HDR UK CALIBER phenotype library](https://phenotypes.healthdatagateway.org/).
 
+Indicators are currently restricted to the mother's or child's record (e.g. maternal substance misuse)  due to methodological challenges in accurately linking children to their fathers (a long-standing issue of anonymised secondary and primary care data). However, once reliably linkage of fathers becomes available, the domains "parental mental health problems" and "parental substance misuse" will be updated to include potential fathers.
+
 --------------------------------
 ## Indicator list
  
