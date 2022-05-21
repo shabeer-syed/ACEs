@@ -18,7 +18,7 @@ We developed two measures of ACEs for electronic health records (EHRs):
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/domains%20and%20indicators%201.png)](https://shabeer-syed.github.io/ACEs/domains)
 
-Most indicators are derived using algorithms that identify and extract information from EHRs using clinically coded healthcare information (for example ICD-10 and SNOMED-CT). Algorithms are freely available on this webpage.
+Most indicators are derived using algorithms that identify and extract information from EHRs using clinically coded healthcare information (for example ICD-10, Read codes, SNOMED-CT). Algorithms are freely available on this webpage.
 
 For GP records, we define indicators by combining information recorded in Read codes, prescriptions, referral fields and validated self-report measures (continuous variables needing re-coding) routinely administered by GPs or nurses (e.g. alcohol use).
 
@@ -66,11 +66,11 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/CALIBER_logo_small.png)](https://portal.caliberresearch.org/)
 
-## Code list data dictionary
+## Code list dictionary
 
  | Provided variable | Description | 
  | --- | --- | 
- | **Code** | CPRD GOLD medcode and prodcodes (as used in the database), ICD-9/10 (removed punctuations for ICD), and OPSC-4 codes. Prefixes *`d_`* added to prodcodes and *`p_`* to OPSC-4 codes. Prefixes prevents de-duplication as different systems may use the same code for different descriptions. |
+ | **Code** | Data ready code. Contains CPRD GOLD medcodes and prodcodes (as used in the data provided by CPRD with added prefixes to prodcode), ICD-9/10 (removed punctuations for ICD), and OPSC-4 codes. Prefixes *`d_`* added to prodcodes and *`p_`* to OPSC-4 codes. Prefixes prevents de-duplication as different systems may use the same code for different descriptions. |
  | **Code original** | Original code as entered into respective system (removed punctuations for ICD) |
  | **Coding term** | Original code description |
  | **Indicator code** | Indicator code name | 
