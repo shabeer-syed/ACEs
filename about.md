@@ -44,8 +44,7 @@ We follow the [Minsk Declaration](https://www.euro.who.int/en/publications/polic
 
 # Limitations of ACE indicators 
 It is essential to note that ACE indicators:
-
-* Only identify experiences recorded in the mother's or child's record (e.g. maternal substance misuse) solely due to methodological challenges in accurately linking children to their fathers (a long-standing issue of anonymised secondary and primary care data). Once reliably linkage of fathers becomes available, the domains "parental mental health problems" and "parental substance misuse" will be updated to include potential fathers.
+* Only identify experiences recorded in the mother's or child's record (e.g. maternal substance misuse) due to methodological challenges in accurately linking children to their fathers (a long-standing issue of anonymised secondary and primary care data). Once reliably linkage of fathers becomes available, the domains "parental mental health problems" and "parental substance misuse" will be updated to include potential fathers.
 * Only identify experiences recorded in semi-structured coded non-identifiable data. Many children might have concerns recorded only in free-text data that
 is not captured in coded data.
 * Do not represent an exhaustive list of all possible adversities experienced by children
