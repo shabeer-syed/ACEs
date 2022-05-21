@@ -46,18 +46,16 @@ We follow the [Minsk Declaration](https://www.euro.who.int/en/publications/polic
 It is essential to note that ACE indicators: 
 * Only identify experiences recorded in semi-structured coded non-identifiable data. Many children might have concerns recorded only in free-text data that
 is not captured in coded data.
-*Do not represent an exhaustive list of all possible adversities experienced by children
-* Cannot make inferences about an individual. This means that indicators cannot be used to guide individual-level clinical decision-making, including screening, diagnosing or labelling children or families to be at risk of harm. Most children with ACEs **do not** develop poorer health outcomes and show incredible resilience to adversity.
-* Do not make causal claims about possible mechanisms underpinning different ACEs
+* Do not represent an exhaustive list of all possible adversities experienced by children
+* Cannot make inferences about an individual. This means that indicators cannot be used to guide individual-level clinical decision-making, including screening, diagnosing or labelling children or families to be at risk of harm.
+* Do not assume children with ACEs will develop poorer health outcomes. Most children with ACEs **do not** develop poorer health outcomes and show resilience.
 * Do not account for different protective factors and contexts
 
-The limitations of the ACE "concept" have been summarised [elsewhere]( https://www.cambridge.org/core/journals/social-policy-and-society/article/introduction-adverse-childhood-experiences-aces-implications-and-challenges/A1E57E800C74406E84F93AB9F8CB125D).
-
+The limitations of the "ACE" concept have been summarised [elsewhere]( https://www.cambridge.org/core/journals/social-policy-and-society/article/introduction-adverse-childhood-experiences-aces-implications-and-challenges/A1E57E800C74406E84F93AB9F8CB125D).
 
 ## Contact information
 --------------------------------------------
-
-If you require any further information about the development of the ACE indicators, please read the publication here (insert link) or feel free to contact us:
+This project was developed by the authors listed below.
 
 * Shabeer Syed, Senior Research Associate (s.syed.16@ucl.ac.uk), 1,2 
 * Dr Arturo Gonzalez-Izquierdo, Senior Research Associate, 1, 3
@@ -73,12 +71,11 @@ If you require any further information about the development of the ACE indicato
 *4. Bristol Medical School, Bristol Population Health Science Institute Centre for Academic Primary Care, University of Bristol*
 *5. General Practitioner, NHS*
 
-## Feedback
+## Feedback & Contributions
 --------------------------------------------
 We are continuously working to make this platform and the ACE indicators easier to access and implement. This website is open source and hosted via Github with changes [openly recorded](https://github.com/shabeer-syed/ACEs/tree/gh-pages).
 
-We welcome any feedback to help improve the accessibility of the website and implementation of the developed ACE indicators.
-Please get in touch: s.syed.16@ucl.ac.uk
+If you would like to contribute or provide feedback, please contact: s.syed.16@ucl.ac.uk
 
 ## More information about ACEs 
 --------------------------------------------
