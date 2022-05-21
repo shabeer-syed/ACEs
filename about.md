@@ -52,7 +52,7 @@ is not captured in coded data.
 * Do not assume children with ACEs will develop poorer health outcomes. Most children with ACEs **do not** develop poorer health outcomes and show resilience.
 * Do not account for different protective factors and contexts
 
-The limitations of the "ACE" concept have been summarised [elsewhere]( https://www.cambridge.org/core/journals/social-policy-and-society/article/introduction-adverse-childhood-experiences-aces-implications-and-challenges/A1E57E800C74406E84F93AB9F8CB125D).
+The limitations of the "ACE" concept have been summarised [elsewhere](https://www.cambridge.org/core/journals/social-policy-and-society/article/introduction-adverse-childhood-experiences-aces-implications-and-challenges/A1E57E800C74406E84F93AB9F8CB125D).
 
 ## Contact information
 --------------------------------------------
@@ -110,18 +110,14 @@ JAMA research collections:
 Public Health England/Wales:
 
 * [Vulnerability in childhood: a public health informed approach](https://www.gov.uk/government/publications/vulnerability-in-childhood-a-public-health-informed-approach)
-
 * [Promoting children and young people’s emotional health and wellbeing](https://www.gov.uk/government/publications/promoting-children-and-young-peoples-emotional-health-and-wellbeing)
-
 * [Public Health Wales](https://phw.nhs.wales/topics/adverse-childhood-experiences/)
-
 * [Public Health Wales study on routine screening of ACEs at GP practices](https://www.wales.nhs.uk/sitesplus/documents/888/Asking%20about%20ACEs%20in%20General%20Practice.pdf)
 
 
 UK, HM Government or Home office:
 
 * [Working together to safeguard children: statutory framework](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)
-
 * [Domestic Abuse Act 2021](https://www.gov.uk/government/publications/domestic-abuse-bill-2020-factsheets)
 
 World Health Organization:
