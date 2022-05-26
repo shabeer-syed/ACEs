@@ -6,7 +6,7 @@ title: Domain - Maternal intimate partner violence (mIPV)
 --------------------------------
 ## Definition
 
-Any incident of threatening behaviour, violence or abuse (psychological, physical, sexual, financial or emotional) between adults who are, or have been, intimate partners or family members.51 We restricted mIPV indicators to mothers aged ≥16 and their corresponding children to prevent misclassification of CM in younger mothers.
+Any incident of threatening behaviour, violence or abuse (psychological, physical, sexual, financial or emotional) between adults who are, or have been, intimate partners or family members.[1](https://www.sciencedirect.com/science/article/abs/pii/S0140673602111330) We restricted mIPV indicators to mothers aged ≥16 and their corresponding children to prevent misclassification of CM in younger mothers.
 
 Includes suspected indicators with coding terms mentioning historic mIPV or maltreatment by an unspecified person. For instance, the “suspected mIPV, NOS” indicator contains codes mentioning “[X]Maltreatment, by acquaintance or friend”,” Risk of non-accidental injury”, “Assault in the home”.
 
