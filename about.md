@@ -40,7 +40,7 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 -----------------------------------------------------------------
 The main objective of the ACE domains and indicators is to help improve the health of vulnerable families by enhancing the methodological standard and utility of measuring ACEs in linked EHRs of mothers and children. ACE indicators have the potential to support [trauma-informed](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884) data-driven approaches in research, public health, policy and larger care organisations.
 
-We follow the [Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) developed by WHO and view all ACEs through a *"life-course"* and a *"trauma-informed"* lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives.
+We follow the [Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) developed by WHO and view all ACEs through a *"life-course"* and a *"trauma-informed"*  lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives.
 
 # Limitations of ACE indicators 
 It is essential to note that ACE indicators:
