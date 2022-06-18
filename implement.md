@@ -28,7 +28,7 @@ Unless specified, indicators refers to information recorded in both child and ma
 
 <span style="color:red">Rule-based algorithms must be applied to specific indicators (mainly HRP-CM) to prevent misclassification including age-restrictions, exclusions of accidental injuries, genetic predispositions (bone diseases), traumatic birth injuries or maternal-child transmissions during birth (see below).</span>
 
-## Download code lists
+# Download code lists
 --------------------------------------------
 
 Right click on link to save as a ".txt" file (i.e. using option "save link as")
