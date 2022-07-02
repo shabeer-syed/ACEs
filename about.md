@@ -3,7 +3,6 @@ title: ACEs introduction and overview
 ---
 ### [Go back](https://shabeer-syed.github.io/ACEs/) | [View domains & indicators](https://shabeer-syed.github.io/ACEs/domains)
 
-
 -----------------------------------------------------------------
 # Introduction
 <img style="float: right;" src="https://raw.githubusercontent.com/shabeer-syed/ACEs/main/smaller%20overview%20aces.png">
