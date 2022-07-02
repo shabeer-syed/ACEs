@@ -42,8 +42,10 @@ ACEs can be recorded in both mothers' and children's records. ACEs are considere
 
 ## A an integrated conceptual model to defining and develop ACEs
 -------------------------------------------------------
+<img style="float: right;" src="https://raw.githubusercontent.com/shabeer-syed/ACEs/main/socioeco.jpg">
 
-In this model, we use the socio-ecological system theory by [Bronfenbrenner (1977)](https://psycnet.apa.org/record/1978-06857-001) and [Belsky (1980)](https://psycnet.apa.org/record/1980-12117-001) as a base, with predictions of relevant ACE indictaors drawn from the attachment theory (Bowlby, 1969–82; Ainsworth et al., 1978), the [cumulative stress model](https://pubmed.ncbi.nlm.nih.gov/22201156/) (includes the ["allostatic load" model](https://www.nejm.org/doi/10.1056/NEJM199801153380307) and the ["ecobiodevelopmental" framework)](https://www.publications.aap.org/pediatrics/article-split/129/1/e232/31628/The-Lifelong-Effects-of-Early-Childhood-Adversity), and [cognitive behaviorual theories of emotions](https://psycnet.apa.org/record/1989-26231-001).
+To make theoretically informed predictions of relevant ACEs we use the socio-ecological system theory by [Bronfenbrenner (1977)](https://psycnet.apa.org/record/1978-06857-001) and [Belsky (1980)](https://psycnet.apa.org/record/1980-12117-001) as a platform to map different potential ACEs and theries that make specific predictions dependent on the "system level". 
+We drawn from the attachment theory (Bowlby, 1969–82; Ainsworth et al., 1978), the [cumulative stress model](https://pubmed.ncbi.nlm.nih.gov/22201156/) (includes the ["allostatic load" model](https://www.nejm.org/doi/10.1056/NEJM199801153380307) and the ["ecobiodevelopmental" framework)](https://www.publications.aap.org/pediatrics/article-split/129/1/e232/31628/The-Lifelong-Effects-of-Early-Childhood-Adversity), and [cognitive behaviorual theories of emotions](https://psycnet.apa.org/record/1989-26231-001).
 
 The figure does not represent an exhaustive list of potential mechanisms behind ACEs.
 
