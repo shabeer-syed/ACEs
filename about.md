@@ -40,7 +40,7 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 -----------------------------------------------------------------
 We are passionate about using routinely recorded electronic health records (EHRs) as an instrument to advance health care, social justice and policy for families and young people affected by adversity.
 
-Whilst EHRs are readily available to organisations and researchers, there are often significant challenges in accessing and using EHRs to inform practice and policy. EHRs are commonly stored in different databases, organisation and coding systems that can result in a complex web of information that requires specialist informatics skills before it can be used. ACE indicators also rely on linked parental and child data (i.e. families) which creates an added layer of complexity.
+Whilst EHRs are readily available to organisations and researchers, there are often significant challenges in accessing and using EHRs to inform practice and policy. EHRs are commonly stored in different databases, organisations and coding systems that can result in a complex and messy web of data, requiring specialist informatics skills before it can be used. ACE indicators also rely on linked parental and child data (i.e. families) which creates an added layer of complexity.
 
 Our mission is to help improve the health of families and young people by enhancing the methodological standard, accessibility and utility of measures for adversity in EHRs.
 
@@ -48,7 +48,7 @@ The ACE indicators provide a validated system to measure intervenable and clinic
 
 All platform activity is publicly logged. All code for data management and analysis is shared under open licenses.
 
-We are continuously developing the ACEsinEHRs platform to improve and expand resources to support researchers, professionals, communities and policymakers. 
+We are continuously developing the ACEsinEHRs platform to improve and expand resources to support researchers, professionals, communities and policymakers.
 
 We follow the [Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) developed by WHO and view all ACEs through a *"life-course"* and a *"trauma-informed"*  lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives.
 
