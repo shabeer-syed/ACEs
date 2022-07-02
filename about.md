@@ -43,11 +43,11 @@ Whilst EHRs are readily available to organisations and researchers, there are of
 
 > **Our mission is to help improve the health of families and young people by enhancing the methodological standard, accessibility and utility of data driven *think-family* measures of adversity in EHRs.**
 
-> **The ACE indicators provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support [trauma-informed](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884) data-driven approaches to inform research, public health, policy and larger care organisations.**
-
-> **All platform activity is publicly logged. All code for data management and analysis is shared under open licenses.**
+> **The ACE indicators provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support [trauma-informed](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884) data-driven approaches in research, public health, policy and larger care organisations.**
 
 > **We are continuously developing the ACEsinEHRs platform to improve and expand resources to support researchers, professionals, communities and policymakers.**
+
+All platform activity is publicly logged. All code for data management and analysis is shared under open licenses.
 
 We follow the [Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) by the WHO and view all ACEs through a *"life-course"* and a *"trauma-informed"*  lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives.
 
