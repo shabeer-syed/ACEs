@@ -41,13 +41,13 @@ We are passionate about using routinely recorded electronic health records (EHRs
 
 Whilst EHRs are readily available to organisations and researchers, there are often significant challenges in accessing and using EHRs to inform practice and policy. EHRs are commonly stored in different databases, organisations and coding systems that can result in a complex and messy web of data, requiring specialist informatics skills before it can be used. This becomes more complex when looking at families, which requires linked parental and child data.
 
-> * Our mission is to help improve the health of families and young people by enhancing the methodological standard, accessibility and utility of data driven *think-family* measures of adversity in EHRs.
+> **Our mission is to help improve the health of families and young people by enhancing the methodological standard, accessibility and utility of data driven *think-family* measures of adversity in EHRs.**
 
-> * The ACE indicators provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support [trauma-informed](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884) data-driven approaches to inform research, public health, policy and larger care organisations.
+> **The ACE indicators provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support [trauma-informed](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884) data-driven approaches to inform research, public health, policy and larger care organisations.**
 
-> * All platform activity is publicly logged. All code for data management and analysis is shared under open licenses.
+> **All platform activity is publicly logged. All code for data management and analysis is shared under open licenses.**
 
-> * We are continuously developing the ACEsinEHRs platform to improve and expand resources to support researchers, professionals, communities and policymakers.
+> **We are continuously developing the ACEsinEHRs platform to improve and expand resources to support researchers, professionals, communities and policymakers.**
 
 We follow the [Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) by the WHO and view all ACEs through a *"life-course"* and a *"trauma-informed"*  lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives.
 
