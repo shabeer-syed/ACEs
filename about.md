@@ -87,9 +87,9 @@ This project was developed by a range of researchers and clinical experts:
 
 ## Feedback & Contributions
 --------------------------------------------
-We are continuously working to make this platform and the ACE indicators easier to access and implement. This website is open source and hosted via Github with changes [openly recorded](https://github.com/shabeer-syed/ACEs/tree/gh-pages).
-
-If you would like to contribute or provide feedback, please contact: s.syed.16@ucl.ac.uk
+We are continuously working to make this platform and the ACE indicators easier to access and implement. All platform activity is publicly logged. All code for data management and analysis is shared under open licenses. This website is open source and hosted via [Github](https://github.com/shabeer-syed/ACEs/tree/gh-pages).
+ 
+If you would like to contribute or provide feedback, please get in touch at s.syed.16@ucl.ac.uk
 
 ## More information about ACEs 
 --------------------------------------------
