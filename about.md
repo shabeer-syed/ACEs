@@ -65,7 +65,7 @@ The limitations of the "ACE" concept have been summarised [elsewhere](https://ww
 
 ## Contact information
 --------------------------------------------
-This project was developed by the authors listed below.
+This project was developed by a range of researchers and clinical experts:
 
 * Shabeer Syed, Senior Research Associate (s.syed.16@ucl.ac.uk), 1,2 
 * Dr Arturo Gonzalez-Izquierdo, Senior Research Associate, 1, 3
