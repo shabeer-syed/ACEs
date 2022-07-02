@@ -35,7 +35,7 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20domains.png)](https://shabeer-syed.github.io/ACEs/domains) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/definitions%20NEW.png)](https://shabeer-syed.github.io/ACEs/definitions)
 
-# Aims
+# About us / aims
 -----------------------------------------------------------------
 We are passionate about using routinely recorded electronic health records (EHRs) as an instrument to advance health care, social justice and policy for families and young people affected by adversity.
 
