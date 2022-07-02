@@ -38,7 +38,7 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 
 ## Aims
 -----------------------------------------------------------------
-The main objective of the ACE domains and indicators is to help improve the health of vulnerable families by enhancing the methodological standard and utility of measuring ACEs in linked EHRs of mothers and children. ACE indicators have the potential to support [trauma-informed](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884) data-driven approaches in research, public health, policy and larger care organisations.
+The main aim of the ACE domains and indicators is to help improve the health of vulnerable families by enhancing the methodological standard and utility of measuring ACEs in linked EHRs of mothers and children. ACE indicators have the potential to support [trauma-informed](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884) data-driven approaches in research, public health, policy and larger care organisations.
 
 We follow the [Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) developed by WHO and view all ACEs through a *"life-course"* and a *"trauma-informed"*  lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives.
 
@@ -63,7 +63,9 @@ This project was developed by the authors listed below.
 * Dr Linda Wijlaars, Senior Research Associate, 1, 3
 * Dr Janice Allister, General Practitioner, 5
 * Dr Leah Li,  Associate Professor in Medical Statistics and Epidemiology, 1
+* Dr Matthew Jay, Senior Research Associate, 1
 * Prof Gene Feder, Professor of Primary Care, 4
+* Dr Richard F Howard, Consultant in Anaesthesia and Pain Medicine, 6,7
 * Prof Ruth Gilbert, Professor of Clinical Epidemiology (r.gilbert@ucl.ac.uk), 1,3
 
 *1. UCL Great Ormond Street Institute of Child Health, Population, Policy and Practice, Faculty of Population Health Sciences London WC1N 1EH*
@@ -71,6 +73,8 @@ This project was developed by the authors listed below.
 *3. Institute of Health Informatics and Health Data Research UK, University College London*
 *4. Bristol Medical School, Bristol Population Health Science Institute Centre for Academic Primary Care, University of Bristol*
 *5. General Practitioner, NHS*
+*6. Paediatric Pain Research Group, University College London Great Ormond Street, Institute of Child Health, London WC1N 1EH*
+*7. Department of Anaesthesia & Pain Medicine, Great Ormond Street Hospital for Children NHS Foundation Trust*
 
 ## Feedback & Contributions
 --------------------------------------------
