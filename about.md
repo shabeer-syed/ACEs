@@ -41,7 +41,7 @@ We are passionate about using routinely recorded electronic health records (EHRs
 
 Whilst EHRs are readily available to organisations and researchers, there are often significant challenges in accessing and using EHRs to inform practice and policy. EHRs are commonly stored in different databases, organisations and coding systems that can result in a complex and messy web of data, requiring specialist informatics skills before it can be used. ACE indicators also rely on linked parental and child data (i.e. families) which creates an added layer of complexity.
 
-> * Our mission is to help improve the health of families and young people by enhancing the methodological standard, accessibility and utility of measures for adversity in EHRs.
+> * Our mission is to help improve the health of families and young people by enhancing the methodological standard, accessibility and utility of measures of adversity in EHRs.
 
 The ACE indicators provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support [trauma-informed](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884) data-driven approaches to inform research, public health, policy and larger care organisations.
 
