@@ -54,7 +54,7 @@ The figure does not represent an exhaustive list of potential mechanisms behind 
 
 In summary, this integrative biopsychosocial conceptual model predicts cumulating adversity in the context of co-occurring intergenerational risk factors ([5](https://pubmed.ncbi.nlm.nih.gov/33689982/)) and limited protective factors lead to potential child maltreatment and parental intimate partner violence (herein termed "family violence"). 
 
-We summarise different key theories and mechanisms related to ACEs below. It does not represent an exhaustive list. 
+We summarise different key theories and mechanisms hypothesised to play role in ACEs below. It does not represent an exhaustive list. 
 
 ### Society & community level
 Social determinants of health encompass socioeconomic conditions that shape health outcomes for individuals, families and communities. Children with ACEs are more likely to grow up in environments where it is harder to raise a family and cope with everyday challenges. Families may live in communities with high unemployment and a lack of local resources for families, with parents having to travel long distances to work, or family members may be more likely to suffer from health problems that make it difficult to work.
@@ -68,14 +68,13 @@ For some families, these social risk factors and coping responses are carried ov
 
 Coping responses may vary as a function of the level of need to escape distress and harm, ranging from immediate escape (e.g. violence, substance misuse, abandonment/neglect) to stronger forms of avoidance (e.g. avoiding going out, which reduces social support systems in the longer-term) ([7](https://link.springer.com/article/10.1023/B:JOBA.0000007455.08539.94))
 
-The model, therefore, considers families as resilient and constantly striving to cope using different strategies and resources at hand (e.g. protective factors). The model also helps separate the *adverse experience* from the *adverse stress* response of the child, overcoming previous study limitations of [reverse causality] when looking at long-term outcomes. We consider ACEs recorded at the family level (middle segment) amenable to service level intervention and relevant to electronic health records (see above for all criteria).
+*Life course approach.* Taken together, the model view ACEs as a complex social phenomenona and considers families as resilient and constantly striving to cope using different strategies and resources at hand (e.g. protective factors). The model also helps separate the *adverse experience* from the *adverse stress* response of the child, overcoming previous study limitations of [reverse causality] when looking at long-term outcomes. We consider ACEs recorded at the family level (middle segment) amenable to service level intervention and relevant to electronic health records (see above for all criteria).
 
 ### A multistage risk prediction model to determine relevance of indicators (Increased adversity --> Increased risk of family violence)
 
-We assessed the relevance of identified candidate ACE indicators based on their consistent risk association with a reference standard in a multistage prediction model. The reference standard (outcome) was any occurrence of child maltreatment (CM) and maternal intimate partner violence (mIPV) up to 5-years post-birth.
+We assessed the relevance of identified candidate ACE indicators based on their consistent risk association with a reference standard of family violence in a multistage prediction model. The reference standard (outcome) was any occurrence of child maltreatment (CM) and maternal intimate partner violence (mIPV) up to 5-years post-birth.
 
-Consistent with our theoretical model, we predicted that indicators would reflect a continuum of clinical relevance, ranging from high need for intervention (i.e. high risk of family violence) to lower relevance.
-
+Consistent with our theoretical model, we predicted that the final ACE indicators would reflect a continuum of clinical relevance, ranging from high need for intervention (i.e. high risk of family violence) to lower relevance, consistent with previous studied ACEs domains.
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20domains.png)](https://shabeer-syed.github.io/ACEs/domains) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
 
