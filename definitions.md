@@ -30,7 +30,7 @@ We defined ACE indicators as any experience within the family environment record
 
 > * Caused by external factors and not the child themselves, such as self-harm, and;
 
-> * Amenable to health or social care intervention at a family level (i.e. excluding wider factors such as socioeconomic status, community violence, school bullying etc).
+> * Amenable to health or social care intervention at a family level (i.e. excluding wider factors such as socioeconomic status, community violence, school bullying etc; see [1](https://jamanetwork.com/journals/jama/fullarticle/2783975), [2](https://www.gov.uk/government/publications/supporting-families-programme-guidance-2022-to-2025/chapter-4-identifying-and-working-with-families), [3](https://www.sciencedirect.com/science/article/abs/pii/S0749379719300315))
 
 We made several adaptations to previously studied ACEs to allow for feasible ascertainment in electronic health records (EHRs). We defined indicators as variables of grouped codes and measures. We aimed to develop ACE indicators that reflected clinically meaningful risk groups of adversity to identify families that may be eligible for targeted maternal-child care interventions in England (e.g. [Supporting Families programme](https://www.gov.uk/government/publications/supporting-families-programme-guidance-2021-to-2022), or previously "targeted care pathway" of [the Healthy Child Programme by Public Health England](https://www.gov.uk/government/publications/healthy-child-programme-0-to-19-health-visitor-and-school-nurse-commissioning). See also WHO for [intervention studies](https://www.who.int/teams/social-determinants-of-health/violence-prevention/global-status-report-on-violence-against-children-2020).
 
