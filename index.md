@@ -24,4 +24,5 @@ Users should cite the www.ACEsinEHRs.com library and the accompanying Lancet Dig
 
 <span style="color:red"> The information is not intended for clinical use. No data is stored in this library.</span>
 <span style="color:white"> Shabeer Syed, Clinical Psychologist & Senior Research Associate </span>
+
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
