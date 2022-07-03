@@ -56,10 +56,10 @@ In summary, this integrative biopsychosocial conceptual model predicts cumulatin
 
 We summarise different key theories and mechanisms related to ACEs below. It does not represent an exhaustive list. 
 
-### Society & community
+### Society & community level
 Social determinants of health encompass socioeconomic conditions that shape health outcomes for individuals, families and communities. Children with ACEs are more likely to grow up in environments where it is harder to raise a family and cope with everyday challenges. Families may live in communities with high unemployment and a lack of local resources for families, with parents having to travel long distances to work, or family members may be more likely to suffer from health problems that make it difficult to work.
 
-### Individual & family levels
+### Individual & family level
 Attachment theory. Social risk factors can negatively influence carers' ability to respond, such as being available and responsive to a child's attachment cues. Children with ACEs may be more likely to develop insecure attachments from reduced caregiving responses of emotional validation (e.g., "my pain matters") and reduced experiences of healthy parental modelling of emotion regulation. This can also mean a child loses friends and the support of adults and so misses out on opportunities to grow social support networks.
 
 Cognitive and behavioural theories. People cope with stress and perceived threats using different preventative strategies (e.g. avoidance, escape, fight) to minimise negative consequences. Children who grew up in environments with increased levels of stress and unpredictability can be more likely to perceive the world as less safe and feel less confident they can manage. To cope, children may develop cognitive biases toward threats, learn to suppress emotions, and avoid situations they fear will cause further distress (e.g. see [theories on emotional processing](https://psycnet.apa.org/record/1986-15090-001), [selective attention and overestimation of threat](https://pubmed.ncbi.nlm.nih.gov/10402694/)). Over time, however, this interaction of biopsychosocial factors prevents new learning of balanced threat appraisals (e.g. "I can cope"), creating a maintenance cycle of stress. 
