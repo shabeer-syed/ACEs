@@ -4,7 +4,7 @@ title: Definitions and frameworks
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
 
 ---------------------------------
-This page briefly summarises the theoretical framework and definitions that underpinned the development of the ACE indicators. 
+This page provide brief summaries of the theoretical frameworks and definitions that underpinned the development of the ACE indicators. 
 
 ## Background
 -------------------------------------------------------
@@ -40,7 +40,7 @@ Given the substantial under-recording of CM and mIPV (e.g. see [1](https://www.c
 
 ACEs can be recorded in both mothers' and children's records. ACEs are considered based on each specific child's time from birth. Children are therefore considered unexposed if no relevant recording occurs in the study period, regardless of previous exposure in children within the same family. This approach mirrors changes in stress levels as the family moves through different life stages.
 
-## A an integrated conceptual model to defining and develop ACEs
+## A biopsychosocial conceptual model to defining and developing ACEs
 -------------------------------------------------------
 To make theoretically informed predictions of relevant ACEs we use the socio-ecological system theory by [Bronfenbrenner (1977)](https://psycnet.apa.org/record/1978-06857-001) and [Belsky (1980)](https://psycnet.apa.org/record/1980-12117-001) as a platform to map different theories that make specific predictions of ACEs across two ecological levels (the individual and the family environment). By focusing on the first two ecological levels, we restricted ACEs to clinically measurable and intervenable indicators at a family level.
 
@@ -70,7 +70,7 @@ Coping responses may vary as a function of the level of need to escape distress 
 
 *Life course approach.* Taken together, the model view ACEs as a complex social phenomenona and considers families as resilient and constantly striving to cope using different strategies and resources at hand (e.g. protective factors). The model also helps separate the *adverse experience* from the *adverse stress* response of the child, overcoming previous study limitations of [reverse causality] when looking at long-term outcomes. We consider ACEs recorded at the family level (middle segment) amenable to service level intervention and relevant to electronic health records (see above for all criteria).
 
-### A multistage risk prediction model to determine relevance of indicators (Increased adversity --> Increased risk of family violence)
+### A multistage risk prediction model to determine relevance of candidate ACEs (increased adversity --> increased risk of family violence)
 
 We assessed the relevance of identified candidate ACE indicators based on their consistent risk association with a reference standard of family violence in a multistage prediction model. The reference standard (outcome) was any occurrence of child maltreatment (CM) and maternal intimate partner violence (mIPV) up to 5-years post-birth.
 
