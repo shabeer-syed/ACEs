@@ -24,7 +24,7 @@ To promote a clearer understanding of developing ACE indicators, we developed a 
 
 We defined ACE indicators as any experience within the family environment recorded in the child or the maternal record considered to be:
 
-> * Frightening, violent, traumatic or neglectful [(see WHO violence definition)](https://www.who.int/violence_injury_prevention/violence/world_report/en/summary_en.pdf),  with potential for immediate or longer-term harm to a child's biopsychosocial development (intentionally or unintentionally) [(see UK government definition)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/942454/Working_together_to_safeguard_children_inter_agency_guidance.pdf), as caused by;
+> * Frightening, violent, traumatic or neglectful [(see WHO violence definition)](https://apps.who.int/iris/bitstream/handle/10665/42495/9241545615_eng.pdf), with potential for immediate or longer-term harm to a child's biopsychosocial development (intentionally or unintentionally) [(see UK government definition)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/942454/Working_together_to_safeguard_children_inter_agency_guidance.pdf), as caused by;
 
 > * A single significant event or through repeated exposure;
 
