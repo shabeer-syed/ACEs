@@ -12,7 +12,7 @@ title: Adverse Childhood Experiences in Electronic Health Records (EHRs)
 ## Welcome
 --------------------------------------------
 
-We have developed and validated indicators for identifying ACEs in routinely collected non-identifiable health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth. This website provides information on definitions, concepts, measures, and  standardised tools to help users apply the developed ACE indicators to create “research ready” datasets. Please use the menu above to find out more. [See the publication here.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00061-9/fulltext) See also the published [systematic review.](https://adc.bmj.com/content/archdischild/106/1/44.full.pdf)
+We have developed and validated indicators for identifying ACEs in routinely collected non-identifiable health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5 years post-birth. This website provides information on definitions, concepts, measures, and  standardised tools to help users apply the developed ACE indicators to create “research-ready” datasets. Please use the menu above to find out more. [See the publication here.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00061-9/fulltext) See also the published [systematic review.](https://adc.bmj.com/content/archdischild/106/1/44.full.pdf)
 
 <div class="flourish-embed flourish-survey" data-src="visualisation/7342295"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
