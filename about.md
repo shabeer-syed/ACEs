@@ -6,9 +6,9 @@ title: ACEs introduction and overview
 -----------------------------------------------------------------
 # Introduction
 <img style="float: right;" src="https://raw.githubusercontent.com/shabeer-syed/ACEs/main/smaller%20overview%20aces.png">
-Adverse childhood experiences (ACEs) are potentially traumatic, neglectful or [violent](https://www.who.int/violenceprevention/approach/definition/en/) experiences in childhood. Examples of ACEs range from child maltreatment and witnessing violence in the home to growing up with a parent with a mental health problem [(1)](https://www.cdc.gov/violenceprevention/aces/fastfact.html). Studies estimate that approximately 1 in 2 adults in England reports experiencing at least one ACE in childhood [(2)](https://bmcmedicine.biomedcentral.com/articles/10.1186/1741-7015-12-72). ACEs are linked to considerable health burden in adulthood, and can pose a substantial pressure on families, health and social care systems [(3)](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(17)30118-4/fulltext).
+Adverse childhood experiences (ACEs) are potentially traumatic, neglectful or [violent](https://www.who.int/violenceprevention/approach/definition/en/) experiences in childhood. Examples of ACEs range from child maltreatment and witnessing violence in the home to growing up with a parent with a mental health problem [(1)](https://www.cdc.gov/violenceprevention/aces/fastfact.html). Studies estimate that approximately 1 in 2 adults in England reports experiencing at least one ACE in childhood [(2)](https://bmcmedicine.biomedcentral.com/articles/10.1186/1741-7015-12-72). ACEs are linked to considerable health burden in adulthood and can substantially pressure families, health and social care systems [(3)](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(17)30118-4/fulltext).
 
-ACEs are preventable. However, many ACEs are very difficult to identify in childhood. Most studies rely on self-reports of adults many years after the event happened when it's more challenging to prevent the harmful effects of ACEs.
+ACEs are preventable. However, many ACEs are very difficult to identify in childhood. Most studies rely on adults' self-reports many years after the event and are prone to memory biases. This “time gap” also means data is collected when it's more challenging to prevent the harmful effects of ACEs.
 
 ## How can routinely collected non-identifiable patient data help?
 -----------------------------------------------------------------
@@ -16,7 +16,7 @@ ACEs are preventable. However, many ACEs are very difficult to identify in child
 Everyone recognises the significant challenges of identifying and monitoring ACEs across individual services and nationally.
 We know NHS trusts, GPs, clinical teams and researchers are at the forefront of this challenge.
 
-Electronic health records (EHRs) are routinely collected data from hospitals, GPs and other health systems. The data is often recorded "prospectively" or as  events happen and as part of routine care. The information is available shortly after a health care presentation and pose less burden to patients. All data is made non-identifiable and stored securely (watch the video below to find out more). EHRs typically provide much larger and diverse observational samples than other forms of data.
+Electronic health records (EHRs) are routinely collected data from hospitals, GPs and other health systems. The data is often recorded "prospectively" or as  events happen and as part of routine care. The information is available shortly after a health care presentation and poses less burden to patients. All data is made non-identifiable and stored securely (watch the video below to find out more). EHRs also provide researchers with larger samples than self-report or interview-based samples (see benefits listed here: ) 
 
 In the UK, mothers' and children's data can be linked across services. The ability to link mothers' and children's records allows for measuring ACEs before pregnancy, throughout childhood and intergenerationally.
 
@@ -25,7 +25,7 @@ In the UK, mothers' and children's data can be linked across services. The abili
 
 ## Domains and indicators of ACEs?
 --------------------------------------------
-We have developed *indicators* for identifying *domains* of ACEs among families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5-years post-birth [Find the publication here.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00061-9/fulltext)
+We have developed *indicators* for identifying *domains* of ACEs among families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5 years post-birth. [Find the publication here.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00061-9/fulltext)
 
 Each ACE indicator represents a variable of grouped codes or measures for a potential recorded ACE in mothers or children. Indicators are further grouped into six or seven overall ACE domains.
 
@@ -39,7 +39,7 @@ Each ACE indicator represents a variable of grouped codes or measures for a pote
 -----------------------------------------------------------------
 We are passionate about using routinely recorded electronic health records (EHRs) as an instrument to advance health care, social justice and policy for families and young people affected by adversity.
 
-Whilst EHRs are readily available to organisations and researchers, there are often significant challenges in accessing and using EHRs to inform practice and policy. EHRs are commonly stored in different databases, organisations and coding systems that can result in a complex and messy web of information, requiring specialist data management skills before it can be used. This becomes more complex when trying to study EHRs of families, which depends on accurate data linkage between parents and children.
+Whilst EHRs are readily available, there are significant challenges in accessing and using EHRs to inform practice and policy. EHRs are commonly stored in different databases, organisations and coding systems that can result in a complex and messy web of information, requiring specialist data management skills before it can be used. This becomes more complex when trying to study EHRs of families, which depends on accurate data linkage between parents and children.
 
 > **Our mission is to help improve the health of families and young people by enhancing the methodological standard, accessibility and utility of data-driven *think-family* approaches to studying adversity using EHRs.**
 
@@ -49,7 +49,7 @@ Whilst EHRs are readily available to organisations and researchers, there are of
 
 All platform activity is publicly logged. All code for data management and analysis is shared under open licenses.
 
-We follow the [Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) by the WHO and view all ACEs through a *"life-course"* and a *"trauma-informed"*  lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives.
+We follow the [Minsk Declaration](https://www.euro.who.int/en/publications/policy-documents/the-minsk-declaration) by the WHO and view all ACEs through a *"life-course"* and a *"trauma-informed"* lens. This approach acknowledges that risk is not static and depends on the interaction of multiple unmeasured promotive, protective, and risk factors throughout generations and people's lives.
 
 # Limitations of ACE indicators 
 It is essential to note that ACE indicators:
