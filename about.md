@@ -91,6 +91,20 @@ We are continuously working to make this platform and the ACE indicators easier 
  
 If you would like to contribute or provide feedback, please get in touch at s.syed.16@ucl.ac.uk
 
+
+# Acknowledgements
+--------------------------------------------
+
+This webpage accompanies a study that uses patients' data collected by the NHS as part of their care [#DataSavesLives](https://twitter.com/hashtag/DataSavesLives?src=hashtag_click). We are extremely grateful to the generosity of the patients and their families, along with the participating GP practices and NHS staff, for their ongoing contribution to mental health and family violence research.
+
+This study was approved by the MHRA (UK) Independent Scientific Advisory Committee (now called RDG) [[ISAC protocol. 19_162R]](https://www.cprd.com/protocol/adverse-childhood-experiences-incidence-prevalence-determinants-and-outcomes-across-primary), under Section 251 (NHS Social Care Act 2006). This study was carried out as part of the CALIBER© resource. [CALIBER, led by the UCL Institute of Health Informatics](https://academic.oup.com/jamia/article/26/12/1545/5536916), is a research resource providing validated electronic health record phenotyping algorithms and tools for national structured data sources.
+
+This study is based on data from the CPRD obtained under licence from the UK Medicines and Healthcare products Regulatory Agency. The interpretation and conclusions contained in this study are those of the author/s alone HES, and ONS are under copyright © (2020), re-used with the permission of The Health & Social Care Information Centre. All rights reserved.
+
+The research was supported in part by the NIHR Great Ormond Street Hospital Biomedical Research Centre.
+
+This research benefits from and contributes to the [NIHR Children and Families Policy Research Unit](https://www.ucl.ac.uk/children-policy-research/), but was not commissioned by the National Institute for Health Research (NIHR) Policy Research Programme. The views expressed are those of the author(s) and not necessarily those of the NHS, the National Institute for Health Research, the Department of Health and Social Care or its arm's length bodies, and other Government Departments.
+
 ## More information about ACEs 
 --------------------------------------------
 
@@ -136,19 +150,6 @@ UK, HM Government or Home office:
 World Health Organization:
 
 * [INSPIRE: Seven strategies for Ending Violence Against Children](https://www.who.int/publications/i/item/inspire-seven-strategies-for-ending-violence-against-children)
-
-# Acknowledgements
---------------------------------------------
-
-This webpage accompanies a study that uses data provided by patients and collected by the NHS as part of their care and support [#DataSavesLives](https://twitter.com/hashtag/DataSavesLives?src=hashtag_click). We are extremely grateful to the generosity of the patients and their families, along with the participating GP practices and NHS staff, for their ongoing contribution to mental health and family violence research.
-
-This study was approved by the MHRA (UK) Independent Scientific Advisory Committee (now called RDG) [[ISAC protocol. 19_162R]](https://www.cprd.com/protocol/adverse-childhood-experiences-incidence-prevalence-determinants-and-outcomes-across-primary), under Section 251 (NHS Social Care Act 2006). This study was carried out as part of the CALIBER© resource. [CALIBER, led by the UCL Institute of Health Informatics](https://academic.oup.com/jamia/article/26/12/1545/5536916), is a research resource providing validated electronic health record phenotyping algorithms and tools for national structured data sources.
-
-This study is based on data from the CPRD obtained under licence from the UK Medicines and Healthcare products Regulatory Agency. The interpretation and conclusions contained in this study are those of the author/s alone HES, and ONS are under copyright © (2020), re-used with the permission of The Health & Social Care Information Centre. All rights reserved.
-
-The research was supported in part by the NIHR Great Ormond Street Hospital Biomedical Research Centre.
-
-This research benefits from and contributes to the [NIHR Children and Families Policy Research Unit](https://www.ucl.ac.uk/children-policy-research/), but was not commissioned by the National Institute for Health Research (NIHR) Policy Research Programme. The views expressed are those of the author(s) and not necessarily those of the NHS, the National Institute for Health Research, the Department of Health and Social Care or its arm's length bodies, and other Government Departments.
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/logo%20affil.png)](https://www.ucl.ac.uk/children-policy-research/research)
 
