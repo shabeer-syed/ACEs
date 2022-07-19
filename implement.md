@@ -1,5 +1,5 @@
 ---
-title: Implemetation and downloads
+title: Implementation and downloads
 ---
 ### [Go back](https://shabeer-syed.github.io/ACEs/) | [View domains & indicators](https://shabeer-syed.github.io/ACEs/domains)
 
