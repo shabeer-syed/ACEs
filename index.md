@@ -25,4 +25,7 @@ Users should cite the www.ACEsinEHRs.com library and the accompanying Lancet Dig
 <span style="color:red"> The information is not intended for clinical use. No data is stored in this library.</span>
 <span style="color:white"> Shabeer Syed, Clinical Psychologist & Senior Research Associate </span>
 
+<div id="sfcjgl25xyr1ktchkpnl4meptmkd4pzrf8y"></div><script type="text/javascript" src="https://counter9.stat.ovh/private/counter.js?c=jgl25xyr1ktchkpnl4meptmkd4pzrf8y&down=async" async></script><br><a href="https://www.freecounterstat.com">website counter</a><noscript><a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=jgl25xyr1ktchkpnl4meptmkd4pzrf8y" border="0" title="website counter" alt="website counter"></a></noscript>
+
+
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
