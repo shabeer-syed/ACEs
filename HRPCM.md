@@ -18,6 +18,8 @@ This domain includes indicators consistent with NICE Clinical guidelines [CG89](
 
 #### [High-risk presentation of CM (801)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/HRP_CM_codelist.txt)
 
+* [ACEsinEHRs control documentation / release information](https://github.com/shabeer-syed/ACEs/raw/main/ACEsinEHRs%20v1.2.pdf)
+
 --------------------------------
 ## Implementation
 
