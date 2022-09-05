@@ -37,6 +37,10 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 
 *Total number of excluded/tested codes: 7671*
 
+### Control documentation
+
+* [ACEsinEHRs library control documentation](https://github.com/shabeer-syed/ACEs/raw/main/ACEsinEHRs%20v1.2.pdf)
+
 ### All ACE indicators:
 
 * [All ACEs (8830)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/ALL_ACEs_codelist.txt)
