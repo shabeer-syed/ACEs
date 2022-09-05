@@ -39,7 +39,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 
 ### Control documentation
 
-* [ACEsinEHRs library control documentation](https://github.com/shabeer-syed/ACEs/raw/main/ACEsinEHRs%20v1.2.pdf)
+* [ACEsinEHRs control documentation / release information](https://github.com/shabeer-syed/ACEs/raw/main/ACEsinEHRs%20v1.2.pdf)
 
 ### All ACE indicators:
 
