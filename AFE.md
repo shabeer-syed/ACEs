@@ -17,6 +17,8 @@ The term "adverse family environment" refers to any clinically intervenable psyc
 
 #### [Adverse family environment (972)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/AFE_codelist.txt)
 
+* [ACEsinEHRs control documentation / release information](https://github.com/shabeer-syed/ACEs/raw/main/ACEsinEHRs%20v1.2.pdf)
+
 --------------------------------
 ## Implementation
 
