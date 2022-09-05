@@ -20,6 +20,8 @@ Includes suspected indicators with coding terms mentioning historic mIPV or malt
 
 #### [Maternal intimate partner violence (450 + 519 for assault algorithm)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/mIPV_codelist.txt)
 
+* [ACEsinEHRs control documentation / release information](https://github.com/shabeer-syed/ACEs/raw/main/ACEsinEHRs%20v1.2.pdf)
+
 --------------------------------
 ## Implementation
 
