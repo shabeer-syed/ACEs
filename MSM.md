@@ -20,6 +20,8 @@ Indicators are currently restricted to the mother's or child's record (e.g. mate
 
 #### [Maternal substance misuse (1090)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/MSM_codelist.txt)
 
+* [ACEsinEHRs control documentation / release information](https://github.com/shabeer-syed/ACEs/raw/main/ACEsinEHRs%20v1.2.pdf)
+
 --------------------------------
 ## Implementation
 
