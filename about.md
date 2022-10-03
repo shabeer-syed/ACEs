@@ -41,11 +41,11 @@ We are passionate about using routinely recorded electronic health records (EHRs
 
 Whilst EHRs are readily available, there are significant challenges in accessing and using EHRs to inform practice and policy. EHRs are commonly stored in different databases, organisations and coding systems that can result in a complex and messy web of information, requiring specialist data management skills before it can be used. This becomes more complex when trying to study EHRs of families, which depends on accurate data linkage between parents and children.
 
-> **Our mission is to help improve the health of families and young people by enhancing the methodological standard, accessibility and utility of data-driven *think-family* approaches to studying adversity using EHRs.**
+> **Our mission is to help improve the health of families and young people by enhancing the methodological standard, accessibility and utility of data-driven [*think-family*](https://www.scie.org.uk/publications/guides/guide30/) approaches using EHRs to study adversity.**
 
 > **The ACE indicators aim to provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support [trauma-informed](https://store.samhsa.gov/product/SAMHSA-s-Concept-of-Trauma-and-Guidance-for-a-Trauma-Informed-Approach/SMA14-4884) data-driven research, public health, policy and health care.**
 
-> **We are continuously developing the ACEsinEHRs platform to improve and expand resources to support researchers, professionals, communities and policymakers.**
+> **We are continuously developing the wwww.ACEsinEHRs.com platform to improve resources for researchers, professionals and policymakers.**
 
 All platform activity is publicly logged. All code for data management and analysis is shared under open licenses.
 
