@@ -66,9 +66,9 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 * [Mother-to-child-transmissions (15)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/Mother-to-child%20transmission.txt)
 
 ### Need more code lists?
-*Visit the HDR UK CALIBER Phenotype Library:*
+*Visit the HDR UK Phenotype Library:*
 
-[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/CALIBER_logo_small.png)](https://portal.caliberresearch.org/)
+[![](https://phenotypes.healthdatagateway.org/static/img/brands/HDRUK/header_logo.png)](https://phenotypes.healthdatagateway.org/)
 
 ## Code list dictionary
 
