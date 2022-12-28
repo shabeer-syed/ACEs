@@ -68,7 +68,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 ### Need more code lists?
 *Visit the HDR UK Phenotype Library:*
 
-[![](https://phenotypes.healthdatagateway.org/static/img/brands/HDRUK/header_logo.png)](https://phenotypes.healthdatagateway.org/)
+[![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/hdruk%20small.png)](https://phenotypes.healthdatagateway.org/)
 
 ## Code list dictionary
 
