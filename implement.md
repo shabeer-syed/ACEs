@@ -94,7 +94,6 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 912 | [D]Anorexia	Anorexia | Anorexia | Eating disorders | Maternal mental health problem | diagnostic |  |  | 2 | Read | 
 
-
 # Suggested implementation of indicators
 --------------------------------------------
 
