@@ -25,4 +25,10 @@ This library stores ACE indicators and algorithms accompanying the paper publish
 <span style="color:red"> The information is not intended for clinical use. No data is stored in this library.</span>
 <span style="color:white"> Shabeer Syed, Clinical Psychologist & Senior Research Associate </span>
 
+## Outputs
+--------------------------------------------
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="128460919"></div>
+
+
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
