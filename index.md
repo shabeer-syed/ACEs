@@ -42,5 +42,6 @@ This library stores ACE indicators and algorithms accompanying the paper publish
 **[Violence, self-harm and drug or alcohol misuse in adolescents admitted to hospitals in England for injury: a retrospective cohort study]**(https://bmjopen.bmj.com/content/5/2/e006079)
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="3443408"></div>
 
+**[10-y Risks of Death and Emergency Re-admission in Adolescents Hospitalised with Violent, Drug- or Alcohol-Related, or Self-Inflicted Injury: A Population-Based Cohort Study]**(https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001931)
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
