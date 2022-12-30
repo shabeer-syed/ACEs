@@ -23,7 +23,7 @@ This library stores ACE indicators and algorithms accompanying the paper publish
 <span style="color:red"> Users must cite the www.ACEsinEHRs.com library and the accompanying [Lancet Digital Health publication](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00061-9/fulltext) in all research outputs, presentations and reports. </span>
 
 <span style="color:red"> The information is not intended for clinical use. No data is stored in this library.</span>
-<span style="color:white"> Shabeer Syed, Clinical Psychologist & Senior Research Associate </span>
+<span style="color:white"> Dr Shabeer Syed, Clinical Psychologist & Senior Research Associate </span>
 
 ## Outputs
 --------------------------------------------
