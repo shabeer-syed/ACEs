@@ -53,4 +53,6 @@ This library stores ACE indicators and algorithms accompanying the paper publish
 
 [10-y Risks of Death and Emergency Re-admission in Adolescents Hospitalised with Violent, Drug- or Alcohol-Related, or Self-Inflicted Injury: A Population-Based Cohort Study](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001931)
 
+[Study protocol: a mixed-methods study to evaluate which health visiting models in England are most promising for mitigating the harms of adverse childhood experiences]
+
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
