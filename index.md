@@ -27,9 +27,11 @@ This library stores ACE indicators and algorithms accompanying the paper publish
 
 ## Outputs
 --------------------------------------------
-[Identifying adverse childhood experiences with electronic health records of linked mothers and children in England: a multistage development and validation study](https://doi.org/10.1016/S2589-7500(22)00061-9)
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="128460919"></div>
+| [Identifying adverse childhood experiences with electronic health records of linked mothers and children in England: a multistage development and validation study](https://doi.org/10.1016/S2589-7500(22)00061-9) |  <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="128460919"></div>  |
+
+
+
 
 [Predictive value of indicators for identifying child maltreatment and intimate partner violence in coded electronic health records: a systematic review and meta-analysis](http://dx.doi.org/10.1136/archdischild-2020-319027)
 
@@ -54,5 +56,6 @@ This library stores ACE indicators and algorithms accompanying the paper publish
 [10-y Risks of Death and Emergency Re-admission in Adolescents Hospitalised with Violent, Drug- or Alcohol-Related, or Self-Inflicted Injury: A Population-Based Cohort Study](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001931)
 
 [Study protocol: a mixed-methods study to evaluate which health visiting models in England are most promising for mitigating the harms of adverse childhood experiences]
+
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
