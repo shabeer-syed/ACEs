@@ -52,7 +52,7 @@ Right click on link to save as a ".txt" file (i.e. using option "save link as")
 
 * [Child maltreatment (1306)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/CM_codelist.txt)
 * [Maternal intimate partner violence (263 + 185 for assault algorithm)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/IPV_codelist.txt)
-	* [Maternal intimate partner violence (263 - excluding codes requring algorithms](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/IPV_no_algo_codelist.txt)
+	* [Maternal intimate partner violence (263 - excluding codes requring algorithms)](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/IPV_no_algo_codelist.txt)
 * [High-risk presentation of CM (801)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/HRP_CM_codelist.txt)
 * [Adverse family environment (972)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/AFE_codelist.txt)
 * [Maternal mental health problems (3960)](https://raw.githubusercontent.com/shabeer-syed/ACEs/code-lists/mMHPs_codelist.txt)
