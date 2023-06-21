@@ -74,7 +74,7 @@ Coping responses may vary as a function of the level of need to escape distress 
 
 We assessed the relevance of identified candidate ACE indicators based on their consistent risk association with a reference standard of family violence in a multistage prediction model. The reference standard (outcome) was any occurrence of child maltreatment (CM) and maternal intimate partner violence (mIPV) up to 5-years post-birth.
 
-Consistent with our theoretical model, we predicted that the final ACE indicators would reflect a continuum of clinical relevance, ranging from a  high risk of family violence (i.e. high need for intervention) to lower relevance, consistent with previous studied ACEs domains.
+Consistent with our theoretical model, we predicted that the final ACE indicators would reflect a continuum of clinical relevance, ranging from a  high risk of family violence (i.e. high need for intervention) to lower relevance, consistent with previously studied ACEs domains.
 
 [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/home%20view%20domains.png)](https://shabeer-syed.github.io/ACEs/domains) | [![](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/code%20lists.png)](https://shabeer-syed.github.io/ACEs/codelist)
 
