@@ -16,9 +16,10 @@ ACEs are preventable. However, many ACEs are very difficult to identify in child
 Everyone recognises the significant challenges of identifying and monitoring ACEs across individual services and nationally.
 We know NHS trusts, GPs, clinical teams and researchers are at the forefront of this challenge.
 
-Electronic health records (EHRs) are routinely collected data from hospitals, GPs and other health systems. The data is often recorded "prospectively" or as  events happen and as part of routine care. The information is available shortly after a health care presentation and poses less burden to patients. All data is made non-identifiable and stored securely (watch the video below to find out more). EHRs also provide researchers with larger samples than self-report or interview-based samples (see benefits listed here: ) 
+Electronic health records (EHRs) are routinely collected data from hospitals, GPs and other health systems. The data is often recorded "prospectively" or as  events happen and as part of routine care. The information is available shortly after a health care presentation and poses less burden to patients than completing a tradiational research survey. All data is made non-identifiable and stored securely (watch the video below to find out more). EHRs also provide researchers with larger samples than self-report or interview-based samples. At a population level, EHRs can be used by healthcare organisations to identify at-risk groups, implement preventive measures, and allocate resources efficiently by analysing trends, patterns, and outcomes across patient populations. Clinically, EHRs can support streamlining workflows, assisting decision-making, and enhancing patient care. 
 
-In the UK, mothers' and children's data can be linked across services. The ability to link mothers' and children's records allows for measuring ACEs before pregnancy, throughout childhood and intergenerationally.
+In the UK, mothers' and children's EHRs can be linked across services. The ability to link mothers' and children's records allows for measuring ACEs before pregnancy, throughout childhood and intergenerationally.
+
 
 <iframe width="600" height="380" src="https://mediacentral.ucl.ac.uk//Player?autostart=n&fullscreen=y&width=0&height=0&videoId=CFGDc8DB&quality=hi&captions=y&chapterId=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
