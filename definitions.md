@@ -4,7 +4,7 @@ title: Definitions and frameworks
 ### [Go back](https://shabeer-syed.github.io/ACEs/)
 
 ---------------------------------
-This page provides summarise the biopsychosial theoretical framework and definitions that underpinned the development of the adverse childhood experience (ACEs) indicators. 
+This page provides summaries of the biopsychosocial theoretical framework and definitions that underpinned the development of the ACE indicators. 
 
 ## Background
 -------------------------------------------------------
