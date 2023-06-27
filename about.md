@@ -26,9 +26,9 @@ In the UK, mothers' and children's EHRs can be linked across services. The abili
 
 ## Domains and indicators of ACEs?
 --------------------------------------------
-We have developed *indicators* for identifying *domains* of ACEs among families using routinely collected health care data of mothers and children presenting to GPs and hospitals, from pregnancy up to 5 years post-birth. [Find the publication here.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00061-9/fulltext)
+We have developed *indicators* for identifying *domains* of ACEs among families using routinely collected health care data of mothers, fathers and children presenting to GPs and hospitals, from pregnancy up to 5 years post-birth. [Find the publication here.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00061-9/fulltext)
 
-Each ACE indicator represents a variable of grouped codes or measures for a potential recorded ACE in mothers or children. Indicators are further grouped into six or seven overall ACE domains.
+Each ACE indicator represents a variable of grouped codes or measures for a potential recorded ACE in mothers, fathers or children. Indicators are further grouped into six or seven overall ACE domains.
 
 ![alt text](https://raw.githubusercontent.com/shabeer-syed/ACEs/main/ehrs%20of%20aces%20indicator.png "workflow")
 
@@ -54,7 +54,7 @@ We follow the [Minsk Declaration](https://www.euro.who.int/en/publications/polic
 
 # Limitations of ACE indicators 
 It is essential to note that ACE indicators:
-* Only identify experiences recorded in the mother's or child's record (e.g. maternal substance misuse) due to methodological challenges in accurately linking children to their fathers (a long-standing issue of anonymised secondary and primary care data). Once reliably linkage of fathers becomes available, the domains *"parental mental health problems"* and *"parental substance misuse"* will be updated to include potential fathers.
+* There are methodological challenges in accurately linking children to their fathers (a long-standing issue of anonymised secondary and primary care data).
 * Only identify experiences recorded in semi-structured coded non-identifiable data. Many children might have concerns recorded only in free-text data that
 is not captured in coded data.
 * Do not represent an exhaustive list of all possible adversities experienced by children
